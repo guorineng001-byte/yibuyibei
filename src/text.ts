@@ -1,0 +1,1 @@
+export function cleanOcrText(text:string){return text.replace(/(?<=[\p{Script=Han}，。、：；！？“”‘’（）【】]) +(?=[\p{Script=Han}，。、：；！？“”‘’（）【】])/gu,'').replace(/[ \t]+\n/g,'\n').replace(/\n{3,}/g,'\n\n').trim();}

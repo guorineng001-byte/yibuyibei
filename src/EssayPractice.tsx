@@ -1,0 +1,30 @@
+import {useCallback,useEffect,useRef,useState,type Dispatch,type SetStateAction} from 'react';
+import {ArrowLeft,BookOpen,Check,ChevronRight,NotebookPen} from 'lucide-react';
+import type {AppState,EssayQuestion} from './types';
+import {updateEssayPractice} from './essayPracticeState';
+import './essayPractice.css';
+import {essayPackUrl} from './contentCatalog';
+
+type Update=Dispatch<SetStateAction<AppState>>;
+type SourceFilter='all'|EssayQuestion['sourceType'];
+type StatusFilter='all'|'unstarted'|'draft'|'practiced';
+const sourceNames={past:'正式真题',sample:'样卷',practice:'题库与特训'};
+
+export function EssayPractice({state,update}:{state:AppState;update:Update}){
+ const [items,setItems]=useState<EssayQuestion[]>([]),[error,setError]=useState(''),[selectedId,setSelectedId]=useState<string|null>(null),[draft,setDraft]=useState(''),[reveal,setReveal]=useState(false),[answerIndex,setAnswerIndex]=useState(0),[sourceFilter,setSourceFilter]=useState<SourceFilter>('all'),[statusFilter,setStatusFilter]=useState<StatusFilter>('all');
+ const answerRef=useRef<HTMLDivElement>(null);
+ useEffect(()=>{let active=true;fetch(essayPackUrl).then(async response=>{if(!response.ok)throw Error('题库读取失败，请重新打开。');return response.json() as Promise<EssayQuestion[]>;}).then(data=>{if(active)setItems(data);}).catch(e=>{if(active)setError((e as Error).message);});return()=>{active=false;};},[]);
+ const selected=items.find(item=>item.id===selectedId);
+ const save=useCallback((id:string,text:string,practiced=false)=>update(state=>updateEssayPractice(state,id,text,practiced)),[update]);
+ useEffect(()=>{if(!selected||reveal)return;const timer=setTimeout(()=>save(selected.id,draft),650);return()=>clearTimeout(timer);},[selected,draft,reveal,save]);
+ useEffect(()=>{if(reveal)answerRef.current?.scrollIntoView({behavior:'smooth',block:'start'});},[reveal]);
+ function open(item:EssayQuestion){if(selected)save(selected.id,draft);setSelectedId(item.id);setDraft(state.essayPractice?.[item.id]?.draft??'');setReveal(false);setAnswerIndex(0);}
+ function close(){if(selected)save(selected.id,draft);setSelectedId(null);setReveal(false);}
+ function showAnswer(){if(!selected)return;save(selected.id,draft,true);setReveal(true);}
+ const visible=items.filter(item=>(sourceFilter==='all'||item.sourceType===sourceFilter)&&(statusFilter==='all'||(state.essayPractice?.[item.id]?.status??'unstarted')===statusFilter));
+ const practiced=items.filter(item=>state.essayPractice?.[item.id]?.status==='practiced').length;
+ if(error)return <div className="essay-error panel">{error}</div>;
+ if(!items.length)return <div className="essay-loading panel">正在打开主观题练习…</div>;
+ if(selected)return <div className="essay-detail"><button className="text-btn essay-back" onClick={close}><ArrowLeft size={16}/>返回题目列表</button><div className="page-heading"><div><div className="eyebrow">SUBJECTIVE QUESTION PRACTICE</div><h1>{selected.title}</h1><p>{selected.source} · PDF 第 {selected.pages.join('、')} 页</p></div><span className="tag">{sourceNames[selected.sourceType]}</span></div><section className="panel essay-question"><div className="essay-section-heading"><BookOpen size={18}/><h2>题目</h2></div>{selected.material&&<><h3>材料</h3><div className="essay-body">{selected.material}</div></>}<h3>设问</h3><div className="essay-body">{selected.tasks}</div></section><section className="panel essay-draft"><div className="essay-section-heading"><NotebookPen size={18}/><h2>我的作答草稿</h2></div><p>可以先口头作答，也可以写下答案框架。草稿自动保存在本机。</p><textarea aria-label="我的作答草稿" rows={8} value={draft} disabled={reveal} onChange={e=>setDraft(e.target.value)} onBlur={()=>save(selected.id,draft)} placeholder="先自己作答，再核对参考答案…"/>{!reveal?<div className="essay-actions"><button className="secondary" onClick={()=>save(selected.id,draft)}>保存草稿</button><button className="primary" onClick={showAnswer}>完成作答，查看参考答案</button></div>:<div className="essay-actions"><button className="secondary" onClick={()=>{save(selected.id,'');setDraft('');setReveal(false);setAnswerIndex(0);}}>再练一次</button></div>}</section>{reveal&&<section className="panel essay-answer" ref={answerRef}><div className="essay-section-heading"><Check size={18}/><h2>参考答案与解析</h2></div>{selected.answers.length>1&&<div className="essay-answer-tabs" role="tablist" aria-label="参考答案版本">{selected.answers.map((answer,i)=><button key={answer.label} role="tab" aria-selected={answerIndex===i} className={answerIndex===i?'active':''} onClick={()=>setAnswerIndex(i)}>{answer.label}</button>)}</div>}<div className="essay-body">{selected.answers[answerIndex].text}</div></section>}</div>;
+ return <div className="essay-page"><div className="page-heading"><div><div className="eyebrow">FROM KNOWING TO ANSWERING</div><h1>真题主观题练习</h1><p>共 {items.length} 道 · 已练习 {practiced} 道。先独立作答，再展开参考答案。</p></div></div><div className="essay-filters"><label>来源<select value={sourceFilter} onChange={e=>setSourceFilter(e.target.value as SourceFilter)}><option value="all">全部来源</option><option value="past">正式真题</option><option value="sample">样卷</option><option value="practice">题库与特训</option></select></label><label>练习状态<select value={statusFilter} onChange={e=>setStatusFilter(e.target.value as StatusFilter)}><option value="all">全部状态</option><option value="unstarted">未练习</option><option value="draft">有草稿</option><option value="practiced">已练习</option></select></label><span>{visible.length} 道题</span></div><div className="essay-list">{visible.map(item=>{const record=state.essayPractice?.[item.id];return <button className="essay-row panel" key={item.id} onClick={()=>open(item)}><span className="essay-order">{String(item.order).padStart(2,'0')}</span><div><div className="essay-row-meta"><span className="tag">{sourceNames[item.sourceType]}</span><span>{item.source}</span></div><h3>{item.title}</h3><small>{record?.status==='practiced'?`已练习${record.lastPracticed?' · '+record.lastPracticed:''}`:record?.status==='draft'?'有草稿':'未练习'}</small></div><ChevronRight size={17}/></button>;})}{!visible.length&&<div className="panel essay-empty">当前筛选下没有题目。</div>}</div></div>;
+}

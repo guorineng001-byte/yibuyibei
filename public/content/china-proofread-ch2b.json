@@ -1,0 +1,2545 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch2b-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch2b-m-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子：人物、文献与思想框架",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 20,
+          "rect": [
+            0.09,
+            0.303,
+            0.83,
+            0.308
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 20272,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子的教育实践：思孟学派",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 20,
+          "rect": [
+            0.09,
+            0.637,
+            0.84,
+            0.057
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 20573,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-nature",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子的“性善论”：含义与四心",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 20,
+          "rect": [
+            0.085,
+            0.707,
+            0.845,
+            0.171
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 20636,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子的教育作用与性善论评价",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 21,
+          "rect": [
+            0.09,
+            0.08,
+            0.845,
+            0.177
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 21072,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-purpose",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子的教育目的：“明人伦”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 21,
+          "rect": [
+            0.09,
+            0.272,
+            0.845,
+            0.179
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 21244,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-ideal",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子的“大丈夫”人格理想",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 21,
+          "rect": [
+            0.09,
+            0.469,
+            0.845,
+            0.119
+          ]
+        },
+        {
+          "page": 21,
+          "rect": [
+            0.15,
+            0.741,
+            0.785,
+            0.039
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 21422,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-cultivation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "培养“大丈夫”的途径",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 21,
+          "rect": [
+            0.285,
+            0.578,
+            0.65,
+            0.333
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 21520,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-self-discovery",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子的教学思想：深造自得",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 22,
+          "rect": [
+            0.15,
+            0.08,
+            0.785,
+            0.201
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 22072,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-methods",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子的教学思想：因材、循序与专心",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 22,
+          "rect": [
+            0.15,
+            0.286,
+            0.785,
+            0.183
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 22257,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子的历史影响与评价",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孟子",
+      "refs": [
+        {
+          "page": 22,
+          "rect": [
+            0.09,
+            0.481,
+            0.845,
+            0.184
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 22432,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子：人物、文献与思想框架",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 22,
+          "rect": [
+            0.09,
+            0.733,
+            0.845,
+            0.163
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 22659,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子的教育实践：“六经”的传授",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.075,
+            0.096,
+            0.855,
+            0.232
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 23086,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-nature",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子的“性恶论”与教育作用",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.075,
+            0.365,
+            0.855,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 23328,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-nature-comparison",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子人性论的评价：孟荀与荀法",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.23,
+            0.485,
+            0.7,
+            0.094
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 23436,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-purpose",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子的培养目标：“大儒”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.075,
+            0.602,
+            0.855,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 23541,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-ideal-comparison",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔孟荀培养目标的继承与变化",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.155,
+            0.697,
+            0.775,
+            0.119
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 23627,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子的教育内容：“六经”而重《礼》",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.075,
+            0.832,
+            0.855,
+            0.082
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 23748,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-process",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子的学习过程：“闻见知行”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 24,
+          "rect": [
+            0.075,
+            0.086,
+            0.855,
+            0.304
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 24077,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-thinking",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子的学习方法：兼陈、虚壹、积累",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 24,
+          "rect": [
+            0.275,
+            0.159,
+            0.655,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 24143,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子论教师：地位、作用与师生关系",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 24,
+          "rect": [
+            0.16,
+            0.411,
+            0.77,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 24369,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher-requirements",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子对教师的四项要求",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 24,
+          "rect": [
+            0.275,
+            0.611,
+            0.655,
+            0.135
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 24549,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-respect-reasons",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子尊师思想的原因与影响",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 24,
+          "rect": [
+            0.275,
+            0.76,
+            0.655,
+            0.096
+          ]
+        },
+        {
+          "page": 24,
+          "rect": [
+            0.16,
+            0.861,
+            0.77,
+            0.024
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 24684,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "荀子的历史影响与评价",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 荀子",
+      "refs": [
+        {
+          "page": 25,
+          "rect": [
+            0.075,
+            0.08,
+            0.855,
+            0.087
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 25072,
+      "reviewNote": "已对照原页校对。原书孔庙从祀表述有误，另列只读校勘说明，并在校对记录中附史料来源。"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-same",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子与荀子教育思想：相同点",
+      "section": "第二节 · 孟子与荀子教育思想的异同",
+      "refs": [
+        {
+          "page": 25,
+          "rect": [
+            0.095,
+            0.259,
+            0.795,
+            0.142
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 25233,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-differences",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孟子与荀子教育思想：不同点",
+      "section": "第二节 · 孟子与荀子教育思想的异同",
+      "refs": [
+        {
+          "page": 25,
+          "rect": [
+            0.095,
+            0.4,
+            0.795,
+            0.472
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 25360,
+      "reviewNote": "已对照扫描原页校对文字与层级；辅助说明设为只需阅读，可自行调整。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch2b-m-overview-0",
+      "knowledgeId": "china-reviewed-ch2b-m-overview",
+      "title": "人物与文献",
+      "text": "孟子字子舆，战国时期邹国人。《孟子》是研究孟子教育思想的主要资料，一般认为是孟子门徒万章等对其言行的记述，也有人认为是孟子本人所著。孟子在政治上主张仁政，在教育上热爱教书授徒，以“得天下英才而教育之”为人生三大乐趣之一。",
+      "keywords": [
+        "子舆",
+        "邹国",
+        "孟子",
+        "仁政"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-overview-1",
+      "knowledgeId": "china-reviewed-ch2b-m-overview",
+      "title": "思想框架",
+      "text": "教育实践：开创思孟学派，继承发展孔子；教育作用：性善论；教育目的：明人伦；人格理想：大丈夫；教学思想：深造自得、因材施教、盈科而进、专心致志；历史影响与评价。",
+      "keywords": [
+        "思孟学派",
+        "性善论",
+        "明人伦",
+        "大丈夫",
+        "教学思想"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-practice-0",
+      "knowledgeId": "china-reviewed-ch2b-m-practice",
+      "title": "思孟学派与孔孟之道",
+      "text": "孟子与孔子的孙子子思对儒学有共同见解，在儒学分化中形成思孟学派，成为儒学派别中最有影响力的学派，被后来的封建统治者看作儒学正统，称为“孔孟之道”。",
+      "keywords": [
+        "子思",
+        "思孟学派",
+        "儒学正统",
+        "孔孟之道"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-nature-0",
+      "knowledgeId": "china-reviewed-ch2b-m-nature",
+      "title": "“性”与“善”",
+      "text": "“性”特指人性，是人类所独有、区别于动物的本质属性。“善”指善端，只是人的某种可能性，教育可以把这种可能性变成现实。",
+      "keywords": [
+        "人性",
+        "善端",
+        "可能变为现实"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-nature-1",
+      "knowledgeId": "china-reviewed-ch2b-m-nature",
+      "title": "四心与仁义礼智",
+      "text": "人性表现为“四心”，教育要“顺性”而因势利导：恻隐之心——仁（最基本）；羞恶之心——义；恭敬之心——礼；是非之心——智。",
+      "keywords": [
+        "恻隐仁",
+        "羞恶义",
+        "恭敬礼",
+        "是非智"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-nature-2",
+      "knowledgeId": "china-reviewed-ch2b-m-nature",
+      "title": "人性本质的平等性",
+      "text": "“人皆可以为尧舜。”孟子的人性论肯定了每个人发展的可能性。",
+      "keywords": [
+        "人皆可以为尧舜",
+        "发展可能性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-role-0",
+      "knowledgeId": "china-reviewed-ch2b-m-role",
+      "title": "对个人：扩充善端",
+      "text": "教育是扩充“善端”的过程。教育要“存心养性”，把人天赋的善端发扬光大；还要“求放心”，“学问之道无他，求其放心而已矣”，即寻找失落、放任的心灵，把丧失的善端找回来并发扬光大。",
+      "keywords": [
+        "扩充善端",
+        "存心养性",
+        "求放心"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-role-1",
+      "knowledgeId": "china-reviewed-ch2b-m-role",
+      "title": "对社会：行仁政、得民心",
+      "text": "教育是“行仁政，得民心”最有效的手段。",
+      "keywords": [
+        "行仁政",
+        "得民心"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-role-2",
+      "knowledgeId": "china-reviewed-ch2b-m-role",
+      "title": "评价：思维习惯与内发论",
+      "text": "①孟子的性善论第一次从理论高度对人自身的本质加以认识和阐述，形成论证政治必先论证教育、论证教育必先论证人性的思维习惯。\n②开创教育内发论，表现出对人的问题的注重和对人的价值的肯定。",
+      "keywords": [
+        "政治教育人性",
+        "内发论",
+        "人的价值"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-purpose-0",
+      "knowledgeId": "china-reviewed-ch2b-m-purpose",
+      "title": "教育目的",
+      "text": "孟子在总结夏、商、西周教育经验的基础上，第一次明确概括出中国古代学校教育的目的是“明人伦”。",
+      "keywords": [
+        "夏商西周",
+        "明人伦"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-purpose-1",
+      "knowledgeId": "china-reviewed-ch2b-m-purpose",
+      "title": "人伦内容",
+      "text": "“父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信。”孟子尤其重视孝和悌这两种关系。原书同时列出“五常”：仁、义、礼、智、信。",
+      "keywords": [
+        "父子亲",
+        "君臣义",
+        "夫妇别",
+        "长幼序",
+        "朋友信",
+        "孝悌"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-purpose-2",
+      "knowledgeId": "china-reviewed-ch2b-m-purpose",
+      "title": "评价",
+      "text": "总结作用：明确概括中国古代学校教育的目的。引领作用：明确此后两千多年中国古代教育的性质，即宗法的社会——伦理的教育。",
+      "keywords": [
+        "总结作用",
+        "引领作用",
+        "宗法伦理"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-ideal-0",
+      "knowledgeId": "china-reviewed-ch2b-m-ideal",
+      "title": "人格理想的含义",
+      "text": "孟子对中国传统文化的重要贡献，还在于提出“大丈夫”的人格理想，丰富中国人的精神境界。“富贵不能淫，贫贱不能移，威武不能屈”是其概括。",
+      "keywords": [
+        "富贵不能淫",
+        "贫贱不能移",
+        "威武不能屈"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-ideal-1",
+      "knowledgeId": "china-reviewed-ch2b-m-ideal",
+      "title": "气节与浩然之气",
+      "text": "大丈夫有高尚的气节：不向权势低头，无原则地顺从即是妾妇。大丈夫有崇高的精神境界——“浩然之气”，具有正义自觉的大精神。",
+      "keywords": [
+        "高尚气节",
+        "浩然之气",
+        "正义自觉"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-ideal-2",
+      "knowledgeId": "china-reviewed-ch2b-m-ideal",
+      "title": "评价",
+      "text": "孟子的人格理想继承孔子的“君子”观，也反映了孟子对人的精神生活的理解和体会，丰富了中国文化和中华民族的精神。",
+      "keywords": [
+        "继承君子观",
+        "精神生活",
+        "民族精神"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-cultivation-0",
+      "knowledgeId": "china-reviewed-ch2b-m-cultivation",
+      "title": "持志养气",
+      "text": "坚持崇高的志向。一个人有了志向与追求，就会有相应的“气”——精神状态。",
+      "keywords": [
+        "崇高志向",
+        "精神状态"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-cultivation-1",
+      "knowledgeId": "china-reviewed-ch2b-m-cultivation",
+      "title": "动心忍性",
+      "text": "志向的锻炼尤其是在逆境中的磨炼。“天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾（增）益其所不能。”",
+      "keywords": [
+        "逆境磨炼",
+        "动心忍性",
+        "增益所不能"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-cultivation-2",
+      "knowledgeId": "china-reviewed-ch2b-m-cultivation",
+      "title": "存心养性",
+      "text": "要形成实实在在的善性善行，就要存养和扩充人的善端。扩充善端需要寡欲，发挥理性的作用。",
+      "keywords": [
+        "存养扩充",
+        "寡欲",
+        "理性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-cultivation-3",
+      "knowledgeId": "china-reviewed-ch2b-m-cultivation",
+      "title": "反求诸己",
+      "text": "“行有不得，皆反求诸己。”凡事必须严于律己，时时反省。",
+      "keywords": [
+        "严于律己",
+        "时时反省"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-cultivation-4",
+      "knowledgeId": "china-reviewed-ch2b-m-cultivation",
+      "title": "原书助记",
+      "text": "顺境用“两养”：持志养气、存心养性；逆境重“一心”：动心忍性；顺逆皆需反求诸己。",
+      "keywords": [
+        "两养一心",
+        "顺逆反省"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-self-discovery-0",
+      "knowledgeId": "china-reviewed-ch2b-m-self-discovery",
+      "title": "基本含义",
+      "text": "知识学习并非从外而来，必须经过自己主动自觉的学习和钻研，有自己的收获和见解，才能形成稳固而深刻的智慧，遇事左右逢源、挥洒自如。",
+      "keywords": [
+        "主动自觉",
+        "学习钻研",
+        "收获见解"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-self-discovery-1",
+      "knowledgeId": "china-reviewed-ch2b-m-self-discovery",
+      "title": "独立思考与独立见解",
+      "text": "深入学习和钻研，必须有自己的收获和见解。“自得之，则居之安；居之安，则资之深；资之深，则取之左右逢其原，故君子欲其自得之也。”",
+      "keywords": [
+        "独立思考",
+        "独立见解",
+        "自得"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-self-discovery-2",
+      "knowledgeId": "china-reviewed-ch2b-m-self-discovery",
+      "title": "不轻信，重思维",
+      "text": "不轻信、不盲从：“尽信《书》，则不如无《书》。”强调理性思维：“不以文害辞，不以辞害志。以意逆志，是为得之。”读书不拘泥于文字表面意思，要通过思考体会深层意蕴。",
+      "keywords": [
+        "不轻信盲从",
+        "尽信书不如无书",
+        "以意逆志"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-methods-0",
+      "knowledgeId": "china-reviewed-ch2b-m-methods",
+      "title": "因材施教：“教亦多术”",
+      "text": "对不同情形的学生采取不同教法，体现因材施教。教学方法不能千篇一律，要因人而异。",
+      "keywords": [
+        "教亦多术",
+        "因人而异"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-methods-1",
+      "knowledgeId": "china-reviewed-ch2b-m-methods",
+      "title": "盈科而进",
+      "text": "意为循序渐进。“科”指坑、洼。正确的学习进程应像源源不断的流水，注满一个洼坎后再注下一个，未注满时决不下流，由此渐次流入大海。学习要循序渐进，绝不能揠苗助长。",
+      "keywords": [
+        "科为坑洼",
+        "循序渐进",
+        "不能揠苗助长"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-methods-2",
+      "knowledgeId": "china-reviewed-ch2b-m-methods",
+      "title": "专心致志",
+      "text": "人们学习上的差异，取决于学习过程中是否专心致志，而不是天资的高低。",
+      "keywords": [
+        "专心致志",
+        "学习过程"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-impact-0",
+      "knowledgeId": "china-reviewed-ch2b-m-impact",
+      "title": "教育方面",
+      "text": "注重人的问题，肯定人的价值。性善论开创教育史上的内发论；教育作用的阐发、大丈夫人格理想和教学过程的表述，都提倡人的主观作用。",
+      "keywords": [
+        "人的价值",
+        "内发论",
+        "主观作用"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-impact-1",
+      "knowledgeId": "china-reviewed-ch2b-m-impact",
+      "title": "社会方面",
+      "text": "仁政学说为中国封建王朝准备了思想武器和治国之道，与孔子思想共同影响此后两千多年的中国封建社会。孟子被奉为仅次于孔子的“亚圣”，《孟子》被官方定为经典和士人进身的必读书目。",
+      "keywords": [
+        "仁政治国",
+        "亚圣",
+        "孟子经典"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-m-impact-2",
+      "knowledgeId": "china-reviewed-ch2b-m-impact",
+      "title": "文化方面",
+      "text": "大丈夫思想影响中华民族文化精神的形成；对后世民族气节、民主精神的激发以及崇高精神境界的形成，具有重要启蒙作用。",
+      "keywords": [
+        "民族文化精神",
+        "民族气节",
+        "精神境界"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-overview-0",
+      "knowledgeId": "china-reviewed-ch2b-x-overview",
+      "title": "人物与文献",
+      "text": "荀子名况，字卿，又称孙卿，战国末期赵国人。《荀子》是研究其教育思想最可靠的材料。",
+      "keywords": [
+        "况",
+        "卿",
+        "孙卿",
+        "荀子"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-overview-1",
+      "knowledgeId": "china-reviewed-ch2b-x-overview",
+      "title": "思想框架",
+      "text": "教育实践：“六经”的传授；教育作用：性恶论；培养目标：大儒；教育内容：“六经”；学习过程与方法：闻见知行；论教师：尊师；历史影响与评价。",
+      "keywords": [
+        "六经",
+        "性恶论",
+        "大儒",
+        "闻见知行",
+        "尊师"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-practice-0",
+      "knowledgeId": "china-reviewed-ch2b-x-practice",
+      "title": "继承、改造与口耳相传",
+      "text": "荀子继承和改造“六经”，荀子及弟子将改造后的“六经”口耳相传，使先秦儒家经典得以保存。",
+      "keywords": [
+        "继承改造",
+        "口耳相传",
+        "保存经典"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-practice-1",
+      "knowledgeId": "china-reviewed-ch2b-x-practice",
+      "title": "改造“六经”的条件",
+      "text": "荀子有集百家之长的条件。“三为祭酒”“最为老师”，使他有可能向各家各派学习，集诸子百家之大成。",
+      "keywords": [
+        "三为祭酒",
+        "最为老师",
+        "百家之长"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-practice-2",
+      "knowledgeId": "china-reviewed-ch2b-x-practice",
+      "title": "口传的原因",
+      "text": "①生产力水平限制：战国末期竹简帛书昂贵，口耳相传是最经济的知识传递方式。\n②阐释经典的需要：经典义理深奥，口耳相传有助深入理解，赋予经典“活”的传承。\n③秦朝焚书使口传六经更加珍贵：典籍濒绝时，口传在特定时期变得更加关键。",
+      "keywords": [
+        "生产力限制",
+        "阐释经典",
+        "焚书后传承"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-practice-3",
+      "knowledgeId": "china-reviewed-ch2b-x-practice",
+      "title": "评价",
+      "text": "保存儒家经典，使其成为后世中国封建社会的经典教科书。",
+      "keywords": [
+        "保存",
+        "经典教科书"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-nature-0",
+      "knowledgeId": "china-reviewed-ch2b-x-nature",
+      "title": "性伪之分",
+      "text": "“性”指人性；“伪”指人为，泛指一切通过人为努力使人发生的变化。人的本性有“恶端”。这里的“伪”不是虚伪。",
+      "keywords": [
+        "性为人性",
+        "伪为人为",
+        "恶端"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-nature-1",
+      "knowledgeId": "china-reviewed-ch2b-x-nature",
+      "title": "性伪之合",
+      "text": "通过教育可以改变人的恶端，促进“性”“伪”的结合。",
+      "keywords": [
+        "教育改变恶端",
+        "性伪结合"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-nature-2",
+      "knowledgeId": "china-reviewed-ch2b-x-nature",
+      "title": "对个人：“化性起伪”",
+      "text": "用仁义礼法来改恶迁善。“涂之人可以为禹。”帮助人们改恶迁善的三个因素：环境、教育和人的主观努力。",
+      "keywords": [
+        "化性起伪",
+        "仁义礼法",
+        "环境教育主观努力"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-nature-3",
+      "knowledgeId": "china-reviewed-ch2b-x-nature",
+      "title": "对社会",
+      "text": "教育对社会的作用在于国富民强。",
+      "keywords": [
+        "国富民强"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-nature-comparison-0",
+      "knowledgeId": "china-reviewed-ch2b-x-nature-comparison",
+      "title": "孟荀人性论的异同",
+      "text": "孟子的性善论与荀子的性恶论，目的都是教人从善，达到理想的道德境界。孟子从内发论出发，荀子从外铄论出发，二人异曲同工地说明了在人性和教育问题认识上的平等观念。",
+      "keywords": [
+        "教人从善",
+        "内发与外铄",
+        "平等观念"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-nature-comparison-1",
+      "knowledgeId": "china-reviewed-ch2b-x-nature-comparison",
+      "title": "荀法人性论的异同",
+      "text": "荀子的性恶论区别于法家的“人性利己说”，更体现唯物主义色彩。荀子认为恶端可以改变，与法家人性绝对“恶”的观点有区别。",
+      "keywords": [
+        "恶端可改变",
+        "人性利己说",
+        "唯物主义色彩"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-purpose-0",
+      "knowledgeId": "china-reviewed-ch2b-x-purpose",
+      "title": "“大儒”的内涵",
+      "text": "不仅知识广博，而且能以已知推未知，自如应对新事物、新问题，自如治理好国家。",
+      "keywords": [
+        "知识广博",
+        "已知推未知",
+        "应变治国"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-purpose-1",
+      "knowledgeId": "china-reviewed-ch2b-x-purpose",
+      "title": "“贤贤”的育才、选才标准",
+      "text": "主张靠人的才德争得社会地位，体现“贤贤”的育才、选才标准。",
+      "keywords": [
+        "贤贤",
+        "才德",
+        "社会地位"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-purpose-2",
+      "knowledgeId": "china-reviewed-ch2b-x-purpose",
+      "title": "精于道而不是精于物",
+      "text": "道即礼义，物即农、工、商等各行业。荀子所说的人才主要是长于人事、人伦的从政人才。",
+      "keywords": [
+        "精于道",
+        "礼义",
+        "从政人才"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-ideal-comparison-0",
+      "knowledgeId": "china-reviewed-ch2b-x-ideal-comparison",
+      "title": "孔子：君子",
+      "text": "既要德才兼备，又要能文能武，塑造“谦谦君子”的性格。",
+      "keywords": [
+        "德才兼备",
+        "能文能武",
+        "谦谦君子"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-ideal-comparison-1",
+      "knowledgeId": "china-reviewed-ch2b-x-ideal-comparison",
+      "title": "孟子：大丈夫",
+      "text": "继承孔子君子观，有“民贵君轻”的民本思想，主张君臣关系对等，为中国人增添“刚健有为”的性格。",
+      "keywords": [
+        "继承君子观",
+        "民贵君轻",
+        "刚健有为"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-ideal-comparison-2",
+      "knowledgeId": "china-reviewed-ch2b-x-ideal-comparison",
+      "title": "荀子：大儒",
+      "text": "继承并改造孔子君子观。与孔子比，不仅强调德才兼备，还强调学以致用；与孟子比，更体现政治家的机智与圆通、严谨与务实。",
+      "keywords": [
+        "改造君子观",
+        "学以致用",
+        "机智务实"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-content-0",
+      "knowledgeId": "china-reviewed-ch2b-x-content",
+      "title": "内容与重点",
+      "text": "荀子以“六经”为教育内容，以《礼》为重点。",
+      "keywords": [
+        "六经",
+        "礼为重点"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-content-1",
+      "knowledgeId": "china-reviewed-ch2b-x-content",
+      "title": "评价",
+      "text": "从经学史看，重在保存和传承儒经；从教育史看，重在形成经典教科书，为统一的民族心理和文化的形成提供依据。",
+      "keywords": [
+        "保存传承",
+        "经典教科书",
+        "民族心理文化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-process-0",
+      "knowledgeId": "china-reviewed-ch2b-x-process",
+      "title": "过程原文",
+      "text": "“不闻不若闻之，闻之不若见之，见之不若知之，知之不若行之，学至于行之而止矣。”",
+      "keywords": [
+        "闻",
+        "见",
+        "知",
+        "行"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-process-1",
+      "knowledgeId": "china-reviewed-ch2b-x-process",
+      "title": "闻见：学习的起点",
+      "text": "闻见是学习的起点、基础和知识的来源。",
+      "keywords": [
+        "起点",
+        "基础",
+        "知识来源"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-process-2",
+      "knowledgeId": "china-reviewed-ch2b-x-process",
+      "title": "知：把握本质与规律",
+      "text": "学习并善于运用思维把握事物的本质与规律，就能自如应对事物的变化。",
+      "keywords": [
+        "思维",
+        "本质规律"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-process-3",
+      "knowledgeId": "china-reviewed-ch2b-x-process",
+      "title": "行：最高阶段",
+      "text": "知识是否切实可靠，唯有通过行动才能验证。行是知识的实践，是学习中的最高阶段。",
+      "keywords": [
+        "行动验证",
+        "知识实践",
+        "最高阶段"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-process-4",
+      "knowledgeId": "china-reviewed-ch2b-x-process",
+      "title": "评价",
+      "text": "继承孔子学、思、行结合的思想，进而形成自己完整系统的学习阶段；体现了唯物主义色彩与立场。",
+      "keywords": [
+        "继承发展",
+        "系统阶段",
+        "唯物主义"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-thinking-0",
+      "knowledgeId": "china-reviewed-ch2b-x-thinking",
+      "title": "兼陈万物而中悬衡",
+      "text": "不偏执于某一事物或某一方面，对事物做广泛比较、分析、综合，择其是而弃其非，以求如实把握事物及其关系，也叫“解蔽救偏，兼陈中衡”。",
+      "keywords": [
+        "广泛比较",
+        "分析综合",
+        "择是弃非",
+        "解蔽救偏"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-thinking-1",
+      "knowledgeId": "china-reviewed-ch2b-x-thinking",
+      "title": "虚壹而静",
+      "text": "继承并改造道家的虚壹说。“虚”指虚心，不先入为主，不以已有知识或见解阻碍对新事物的认识；“壹”指集中精力，专一研究某个问题，不一心二用；“静”指排除杂念，集中精神专注于学习对象。",
+      "keywords": [
+        "虚心",
+        "专一",
+        "排除杂念"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-thinking-2",
+      "knowledgeId": "china-reviewed-ch2b-x-thinking",
+      "title": "积微见著，积善成德",
+      "text": "无论知识还是道德，都要不断积累。",
+      "keywords": [
+        "知识积累",
+        "道德积累"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher-0",
+      "knowledgeId": "china-reviewed-ch2b-x-teacher",
+      "title": "尊师主张",
+      "text": "在先秦儒家诸子中，荀子最为提倡尊师，并表达了与孔孟颇为不同的见解。",
+      "keywords": [
+        "提倡尊师"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher-1",
+      "knowledgeId": "china-reviewed-ch2b-x-teacher",
+      "title": "教师地位与作用",
+      "text": "教师地位：视教师为治国之本。教师作用：教师通过施教起到治理国家的作用。",
+      "keywords": [
+        "治国之本",
+        "施教治国"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher-2",
+      "knowledgeId": "china-reviewed-ch2b-x-teacher",
+      "title": "师生关系",
+      "text": "强调绝对的尊师观，即唯师说：学生无条件服从、“师云亦云”，教师具有绝对的主导地位。",
+      "keywords": [
+        "绝对尊师",
+        "唯师说",
+        "师云亦云"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher-requirements-0",
+      "knowledgeId": "china-reviewed-ch2b-x-teacher-requirements",
+      "title": "尊严而惮",
+      "text": "“尊严而惮，可以为师。”教师要有尊严和威信，令人起敬。",
+      "keywords": [
+        "尊严",
+        "威信"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher-requirements-1",
+      "knowledgeId": "china-reviewed-ch2b-x-teacher-requirements",
+      "title": "耆艾而信",
+      "text": "“耆（qí）艾而信，可以为师。”教师德高望重，有丰富经验、崇高信仰和真诚可信的品质。",
+      "keywords": [
+        "德高望重",
+        "经验",
+        "真诚可信"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher-requirements-2",
+      "knowledgeId": "china-reviewed-ch2b-x-teacher-requirements",
+      "title": "诵说而不陵不犯",
+      "text": "“诵说而不陵不犯，可以为师。”教师讲课应有条理，不凌不乱，不违师法。",
+      "keywords": [
+        "条理",
+        "不凌乱",
+        "不违师法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-teacher-requirements-3",
+      "knowledgeId": "china-reviewed-ch2b-x-teacher-requirements",
+      "title": "知微而论",
+      "text": "“知微而论，可以为师。”教师应见解精深而表达合理，仅仅传习学问是不足的。",
+      "keywords": [
+        "见解精深",
+        "表达合理"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-respect-reasons-0",
+      "knowledgeId": "china-reviewed-ch2b-x-respect-reasons",
+      "title": "与性恶论有关",
+      "text": "荀子认为人只有尊师求学，才能改恶为善。",
+      "keywords": [
+        "性恶论",
+        "尊师求学",
+        "改恶为善"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-respect-reasons-1",
+      "knowledgeId": "china-reviewed-ch2b-x-respect-reasons",
+      "title": "与统一趋势有关",
+      "text": "国家统一客观上要求加强对人思想意识的控制，这种控制通过教育实现，而教师是教育的具体实施者。",
+      "keywords": [
+        "统一趋势",
+        "思想意识",
+        "教师实施"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-respect-reasons-2",
+      "knowledgeId": "china-reviewed-ch2b-x-respect-reasons",
+      "title": "评价",
+      "text": "荀子的尊师思想对后世中国封建社会“师道尊严”的形成有很大影响。",
+      "keywords": [
+        "师道尊严"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-impact-0",
+      "knowledgeId": "china-reviewed-ch2b-x-impact",
+      "title": "教育理论与传承",
+      "text": "教育理论方面：开创教育外铄论。教育传承方面：改造和传承“六经”。",
+      "keywords": [
+        "外铄论",
+        "改造传承六经"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-impact-1",
+      "knowledgeId": "china-reviewed-ch2b-x-impact",
+      "title": "社会影响",
+      "text": "原书强调荀子在封建社会的地位不及孔孟，但其王霸统一的政治思想自汉代以后对中国古代封建社会产生了实际影响。",
+      "keywords": [
+        "地位不及孔孟",
+        "王霸统一",
+        "实际影响"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-x-impact-2",
+      "knowledgeId": "china-reviewed-ch2b-x-impact",
+      "title": "校勘说明：孔庙从祀史",
+      "text": "原书“始终没有资格进入孔庙”的说法不准确，不作为定论背诵。荀子曾在宋代入孔庙从祀，明嘉靖九年（1530）被罢祀。依据：《宋史·礼志八》有关荀况从祀的记载，以及《明世宗实录》卷一百十九有关罢祀的记载。外部核实来源详见《孟子与荀子校对记录》。",
+      "keywords": [
+        "曾入祀",
+        "嘉靖九年罢祀"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-same-0",
+      "knowledgeId": "china-reviewed-ch2b-mx-same",
+      "title": "教育实践与作用",
+      "text": "教育实践：对传播和发展儒学起到重要作用。教育作用：肯定教育对个人和社会的作用，渗透教育与政治相结合的思想。",
+      "keywords": [
+        "传播发展儒学",
+        "个人社会作用",
+        "教育政治结合"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-same-1",
+      "knowledgeId": "china-reviewed-ch2b-mx-same",
+      "title": "教育目的与内容",
+      "text": "教育目的：继承孔子培育德才兼备的君子的目的观。教育内容：学习儒经，强调尊师。",
+      "keywords": [
+        "德才兼备君子",
+        "儒经",
+        "尊师"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-differences-0",
+      "knowledgeId": "china-reviewed-ch2b-mx-differences",
+      "title": "时代背景与教育实践",
+      "text": "孟子：战国中期，继承孔子教育思想，形成思孟学派。荀子：战国末期，改造孔子教育思想，改造并传承“六经”。",
+      "keywords": [
+        "战国中期末期",
+        "思孟学派",
+        "六经传承"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-differences-1",
+      "knowledgeId": "china-reviewed-ch2b-mx-differences",
+      "title": "对教育作用的认识",
+      "text": "孟子：内发论，从性善论出发，通过深造自得扩充善端、发扬善性。荀子：外铄论，从性恶论出发，通过闻见、知、行改变恶端，改恶为善。",
+      "keywords": [
+        "内发外铄",
+        "性善性恶",
+        "扩充善端改恶为善"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-differences-2",
+      "knowledgeId": "china-reviewed-ch2b-mx-differences",
+      "title": "教育目的",
+      "text": "孟子：“明人伦”和“大丈夫”，继承但不改造孔子的君子观。荀子：“大儒”，继承并改造孔子的君子观。",
+      "keywords": [
+        "明人伦大丈夫",
+        "大儒",
+        "继承改造"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-differences-3",
+      "knowledgeId": "china-reviewed-ch2b-mx-differences",
+      "title": "教师观",
+      "text": "孟子强调尊重老师，但主张“尽信《书》，则不如无《书》”，反对不假思索地师云亦云。荀子最为提倡尊师，强调绝对的尊师观，要求师云亦云、绝对服从教师。",
+      "keywords": [
+        "尊重而不盲从",
+        "绝对尊师"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-differences-4",
+      "knowledgeId": "china-reviewed-ch2b-mx-differences",
+      "title": "教育方法",
+      "text": "孟子强调“思”，主张深造自得、专心致志、存养内省等方法，具有唯心主义倾向。荀子强调“学”，把教学过程看成闻见、知、行三个环节，具有唯物主义倾向。",
+      "keywords": [
+        "孟子重思",
+        "荀子重学",
+        "内省与实践"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2b-mx-differences-5",
+      "knowledgeId": "china-reviewed-ch2b-mx-differences",
+      "title": "教育影响",
+      "text": "原书对照表概括：孟子比荀子在封建社会更有影响力。",
+      "keywords": [
+        "孟子影响更大"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p020-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孟子的教育思想 · 第12页",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 20,
+            "rect": [
+              0.10489,
+              0.2981,
+              0.82113,
+              0.59046
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 20273,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p020-k01-0-s0",
+          "knowledgeId": "china-p020-k01-0",
+          "title": "原文小步 1",
+          "text": "（一）教育实践：开创“思孟学派”，继承发展孔子，强调仁政\n（二）教育作用：“性善论”\n（三）教育目的：“明人伦”\n（四）“大丈夫”的人格理想\n孟子\n1.“深造自得”\n2.“因材施教”\n（五）教学思想\n3.“盈科而进”\n（孟子，字子舆，战国时期邹国人）\n4.“专心致志”",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p020-k01-0-s1",
+          "knowledgeId": "china-p020-k01-0",
+          "title": "知识小贴士",
+          "text": "（六）历史影响与评价\n知识小贴士\n《孟子》：研究孟子教育思想的主要资料，该书一般被认为是孟子的门徒万章等人对其言行的记述，\n也有人说是孟子本人所著。在政治上，孟子主张施行“仁政”；在教育上，他非常热爱教书授徒，以“得\n天下英才而教育之”为人生三大乐趣之一。",
+          "keywords": [
+            "知识小贴士"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p020-k01-0-s2",
+          "knowledgeId": "china-p020-k01-0",
+          "title": "教育实践",
+          "text": "教育实践\n孟子与孔子的孙子子思对儒学有共同的见解，在儒学分化的过程中形成“思孟学派”，成\n为儒学派别中最有影响力的学派，被后来的封建统治者看作儒学正统，称为“孔孟之道”。\n二教育作用：\n（1）“性”：特指人性。“性”是人类所独有的、区别于动物的本质属性。",
+          "keywords": [
+            "教育实践",
+            "教育作用"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p020-k01-0-s3",
+          "knowledgeId": "china-p020-k01-0",
+          "title": "“性善论”",
+          "text": "（2）“善”：指善端。“善端”只是人的某种可能性，教育可以将可能性变成现实。\n“人性”表现为“四心”，教育要“顺性”而因势利导。\n1.“性善论”\n“性善论\n隐之心一仁（最基本）。\n羞恶之心——义。\n的含义\n恭敬之心——礼。\n是非之心——智。",
+          "keywords": [
+            "“性善论”",
+            "“性善论",
+            "的含义"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p020-k01-0-s4",
+          "knowledgeId": "china-p020-k01-0",
+          "title": "造：论",
+          "text": "（3）人性本质上的平等性。“人皆可以为尧舜。”孟子从人性论上肯定了每个人发\n展的可能性。\n造：论",
+          "keywords": [
+            "造：论"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p021-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孟子的教育思想 · 第13页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 21,
+            "rect": [
+              0.0836,
+              0.08096,
+              0.82525,
+              0.55419
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 21078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p021-k00-0-s0",
+          "knowledgeId": "china-p021-k00-0",
+          "title": "教育作用",
+          "text": "（1）对个人：教育是扩充“善端”的过程。\n二教育作用：\n①教育要“存心养性”，把人天赋的善端发扬光大。\n2.教育作用\n②孟子提出“求放心”。“学问之道无他，求其放心而已矣。”\n翻译：寻求失落、放任的心灵，把丧失的“善端”找回来，发扬光大。",
+          "keywords": [
+            "教育作用",
+            "教育作用"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p021-k00-0-s1",
+          "knowledgeId": "china-p021-k00-0",
+          "title": "性善论",
+          "text": "（2）对社会：教育是“行仁政，得民心”最有效的手段。\n性善论\n形成思维习惯。孟子的“性善论”第一次从理论高度对人自身的本质加以认识和阐述，\n3.评价\n并形成论证政治必先论证教育、论证教育必先论证人性的思维习惯。",
+          "keywords": [
+            "性善论",
+            "评价"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p021-k00-0-s2",
+          "knowledgeId": "china-p021-k00-0",
+          "title": "简介",
+          "text": "（2）开创内发论。孟子的教育思想表现出对人的问题的注重和对人价值的肯定。\n1.简介\n孟子在总结了夏、商、西周的教育经验的基础上，第一次明确地概括出中国\n古代学校教育的目的是“明人伦”。\n（三）教育目的：\n2. 内容",
+          "keywords": [
+            "简介",
+            "教育目的",
+            "内容"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p021-k00-0-s3",
+          "knowledgeId": "china-p021-k00-0",
+          "title": "“明人伦”",
+          "text": "“父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信。”孟子尤重孝和悌\n“明人伦”\n这两种关系。孟子由此建立了一个道德规范体系\n“五常”，即仁、义、礼、\n食食食\n智、信。\n（1）总结作用。孟子第一次明确地概括出中国古代学校教育的目的是“明人伦”。\n3.评价",
+          "keywords": [
+            "“明人伦”",
+            "食食食",
+            "评价"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p021-k00-0-s4",
+          "knowledgeId": "china-p021-k00-0",
+          "title": "简介",
+          "text": "（2）引领作用。孟子明确了此后两千多年中国古代教育的性质，即宗法\n的社会\n伦理的教育。\n1.简介\n孟子对中国传统文化的重要贡献还在于他提出了“大丈夫”的人格理想，丰富了中国人\n（四）\n的精神境界。\n“大丈夫”的人格理想",
+          "keywords": [
+            "简介",
+            "“大丈夫”的人格理想"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p021-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孟子的教育思想 · 第13页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 21,
+            "rect": [
+              0.09871,
+              0.50449,
+              0.8067,
+              0.38847
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 21464,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p021-k00-1-s0",
+          "knowledgeId": "china-p021-k00-1",
+          "title": "含义",
+          "text": "(1）孟子对“大丈夫”的人格理想做了描绘：“富贵不能淫,贫贱不能移，威武不能屈。\"\n2. 含义\n（2）“大丈夫”有高尚的气节。大丈夫决不向权势低头，决不无原则地顺从。\n(3）“大丈夫”有崇高的精神境界\n一\n“浩然之气”。大丈夫有正义自觉的伟大精神。",
+          "keywords": [
+            "含义"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p021-k00-1-s1",
+          "knowledgeId": "china-p021-k00-1",
+          "title": "途径",
+          "text": "（1）持志养气。坚持崇高的志向。一个人有了志向与追求，他就会有相应的“气”一\n精神状态。\n（2）动心忍性。它指意志的锻炼，尤其是在逆境中的磨炼。“天将降大任于斯人也，\n必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，\n3. 途径",
+          "keywords": [
+            "途径"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p021-k00-1-s2",
+          "knowledgeId": "china-p021-k00-1",
+          "title": "评价",
+          "text": "所以动心忍性，曾（增）益其所不能。”\n（3）存心养性。要形成实实在在的善性善行，要靠存养和扩充人的善端。要扩充“善\n端”，就要寡欲，可以发挥理性的作用。\n一（4）反求诸己。“行有不得，皆反求诸己。”凡事必须严于律己，时时反省。\n4.评价",
+          "keywords": [
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p021-k00-1-s3",
+          "knowledgeId": "china-p021-k00-1",
+          "title": "凯程助记",
+          "text": "孟子的人格理想是对孔子的“君子”观的继承，也反映了孟子对人的精神生活的理解和\n体会。可以说：“懂得了大丈夫”这个词，才可以懂得中国文化和中华民族的精神。”\n凯程助记\n持志养气\n顺境两“养”\n培养“大丈夫”的\n存心养性\n顺逆皆需一反求诸己\n人格理想的途径\n逆境一“心”",
+          "keywords": [
+            "凯程助记"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p021-k00-1-s4",
+          "knowledgeId": "china-p021-k00-1",
+          "title": "原文小步 10",
+          "text": "动心忍性",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p022-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孟子的教育思想 · 第14页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 22,
+            "rect": [
+              0.10214,
+              0.08045,
+              0.82319,
+              0.44678
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 22077,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p022-k00-0-s0",
+          "knowledgeId": "china-p022-k00-0",
+          "title": "原文小步 1",
+          "text": "（1）含义：孟子认为知识的学习并非从外而来，而是必须经过自己主动自觉\n地学习和钻研，有了自己的收获和见解，才能形成稳固而深刻的\n智慧，遇事则能左右逢源，挥洒自如。\n(2）要求：①独立思考与独立见解。“自得之，则居之安；居之安，则资之深；",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p022-k00-0-s1",
+          "knowledgeId": "china-p022-k00-0",
+          "title": "“深造自得",
+          "text": "资之深，则取之左右逢其原，故君子欲其自得之也。”深入的学习\n1.“深造自得\n和钻研，必须有自己的收获和见解。\n2不轻信，不盲从。孟子言：“尽信《书》，则不如无《书》。”\n③强调理性思维。孟子言：“不以文害辞，不以辞害志，以意逆志，",
+          "keywords": [
+            "“深造自得"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p022-k00-0-s2",
+          "knowledgeId": "china-p022-k00-0",
+          "title": "伍教学思想",
+          "text": "是为得之。读书不拘泥于文字的表面意思，要通过思考体会深\n层意蕴。\n伍教学思想\n（1）含义：孟子强调对不同情形的学生采取不同的教法，这就是教亦多术，\n2.“因材施教”\n也反映了因材施教的思想。\n（“教亦多术”）\n（2）要求：教学方法不能千篇一律，要因人而异。",
+          "keywords": [
+            "伍教学思想",
+            "“因材施教”",
+            "（“教亦多术”）"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p022-k00-0-s3",
+          "knowledgeId": "china-p022-k00-0",
+          "title": "“盈科而进",
+          "text": "（1）含义：循序渐进。“科”意指“坑、洼”，关于学习，正确的进程应当像\n源源不断的流水那样，注满一个洼坎之后再注下一个洼坎，未注\n3.“盈科而进\n满时决不下流，由此渐次流入大海。\n（2）要求：孟子强调学习要循序渐进，绝不能苗助长。\n4.“专心致志",
+          "keywords": [
+            "“盈科而进",
+            "“专心致志"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p022-k00-0-s4",
+          "knowledgeId": "china-p022-k00-0",
+          "title": "原文小步 5",
+          "text": "人们学习上的差异取决于其在学习过程中是否专心致志，而不是其天资的高低。\n1.教育方面：孟子的教育思想表现出对人的问题的注重和对人的价值的肯定。他的“性善论”，开\n创了中国教育史上的“内发论”。他对教育作用的阐发，对“大丈夫”人格理想的议论，",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p022-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孟子的教育思想 · 第14页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 22,
+            "rect": [
+              0.17975,
+              0.5183,
+              0.74626,
+              0.14703
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 22476,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p022-k00-1-s0",
+          "knowledgeId": "china-p022-k00-1",
+          "title": "原文小步 6",
+          "text": "对教学过程的表述，无不体现了对人的主观作用的提倡。\n2.社会方面：孟子的“仁政”学说为中国封建王朝准备了思想武器和治国之道。他与孔子的思想共\n同影响了此后两千多年的中国封建社会。因此，孟子被奉为位次孔子的“亚圣”，《孟",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p022-k00-1-s1",
+          "knowledgeId": "china-p022-k00-1",
+          "title": "原文小步 7",
+          "text": "子》被官方定为经典和士人进身的必读书目。\n3.文化方面：孟子的“大丈夫”思想影响了中华民族文化精神的形成。孟子的思想对后世中华民族\n气节、民主精神的激发，崇高精神境界的形成，有极其重要的启蒙作用。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p022-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "荀子的教育思想 · 第14页",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 22,
+            "rect": [
+              0.10489,
+              0.68812,
+              0.81769,
+              0.20893
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 22624,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p022-k01-0-s0",
+          "knowledgeId": "china-p022-k01-0",
+          "title": "炼：论",
+          "text": "炼：论\n（一）教育实践：“六经”的传授\n（二）教育作用：“性恶论”\n（三）培养目标：“大儒”\n荀子\n（四）教育内容：“六经”\n（五）学习过程与方法：“闻见知行”\n（六）论教师：尊师\n（荀子，名况，字卿，又称孙卿，战国末期赵国人）\n（七）历史影响与评价",
+          "keywords": [
+            "炼：论"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p022-k01-0-s1",
+          "knowledgeId": "china-p022-k01-0",
+          "title": "原文小步 2",
+          "text": "荀子所著的《荀子》是研究他的教育思想最可靠的材料。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p023-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "荀子的教育思想 · 第15页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 23,
+            "rect": [
+              0.0836,
+              0.09016,
+              0.82525,
+              0.44372
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 23086,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p023-k00-0-s0",
+          "knowledgeId": "china-p023-k00-0",
+          "title": "内容",
+          "text": "1.内容\n荀子继承和改造“六经”，荀子及其弟子将改造后的“六经”口耳相传，先秦儒家经典才\n得以保存。\n一教育实践：\n（1）改造“六经”的原因：荀子有集百家之长的条件。“三为祭酒”“最为老师”，使他\n有可能向各家各派学习，而集诸子百家之大成。",
+          "keywords": [
+            "内容",
+            "教育实践"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p023-k00-0-s1",
+          "knowledgeId": "china-p023-k00-0",
+          "title": "口传“六经”的原因",
+          "text": "（2）口传“六经”的原因：\n①生产力水平的限制。战国末期的竹简帛书昂贵，“口耳相传”是最经济的知识传递方式。\n“六经”的传授\n2. 原因\n②阐释经典的需要。儒学经典义理深奥，“口耳相传”可助人深入理解，赋予经典“活”\n的传承，使其不是僵死文本。",
+          "keywords": [
+            "口传“六经”的原因",
+            "“六经”的传授",
+            "原因"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p023-k00-0-s2",
+          "knowledgeId": "china-p023-k00-0",
+          "title": "评价",
+          "text": "③秦朝焚书使口传六经更加珍贵。因秦焚书坑儒，典籍濒绝，口传六经在特定时期\n变得更加关键和唯一。\n（1）保存儒家经典。（保存）\n3.评价\n（2）成为后世中国封建社会的经典教科书。（经典）",
+          "keywords": [
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p023-k00-0-s3",
+          "knowledgeId": "china-p023-k00-0",
+          "title": "“性恶论",
+          "text": "（1）“性伪之分”。①“性”指人性；“伪”指人为，泛指一切通过人为的努力而使\n1.“性恶论\n人发生的变化。②人的本性有“恶端”。\n二教育作用：“性恶论”\n（2）“性伪之合”。通过教育可以改变人的恶端，促进“性”“伪”结合。",
+          "keywords": [
+            "“性恶论",
+            "教育作用：“性恶论”"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p023-k00-0-s4",
+          "knowledgeId": "china-p023-k00-0",
+          "title": "教育的作用",
+          "text": "（1）教育对个人的作用：“化性起伪”。也就是用“仁义礼法”来改恶迁善。如荀子说“涂\n2.教育的作用\n之人可以为禹”。有三个因素可以帮助人们改恶迁善：环境、教育和人的主观努力。\n（2）教育对社会的作用：国富民强。",
+          "keywords": [
+            "教育的作用"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p023-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "荀子的教育思想 · 第15页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 23,
+            "rect": [
+              0.08772,
+              0.47328,
+              0.81907,
+              0.4074
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 23436,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p023-k00-1-s0",
+          "knowledgeId": "china-p023-k00-1",
+          "title": "评价",
+          "text": "（1）孟子的“性善论”与荀子的“性恶论”的目的都是教人从善，使人达到理想的道\n德境界。孟子从内发论出发，荀子从外论出发，二人异曲同工地说明了在人性和\n3. 评价\n教育问题认识上的平等观念，即孟萄人性论的异同。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p023-k00-1-s1",
+          "knowledgeId": "china-p023-k00-1",
+          "title": "选；论",
+          "text": "（2）荀子的“性恶论”区别于法家的“人性利己说”。荀子的思想更体现唯物主义色彩。\n选；论\n荀子的“恶端”可改变，与法家的人性绝对“恶”有区别，即荀法人性论的异同。\n1. 内涵\n“大儒”不仅知识广博，而且能以已知推未知，自如地应对新事物、新问题，自如地治理",
+          "keywords": [
+            "选；论",
+            "内涵"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p023-k00-1-s2",
+          "knowledgeId": "china-p023-k00-1",
+          "title": "培养目标：“大儒”",
+          "text": "三培养目标：“大儒”\n好国家。\n（1）体现了“贤贤”的育才、选才标准。主张靠人的才德争得社会地位。\n2.评价\n（2）要求人才精于道而不是精于物。道即礼义，物即农、工、商等各行业。荀子所说的\n人才主要是长于人事、人伦的从政人才。",
+          "keywords": [
+            "培养目标：“大儒”",
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p023-k00-1-s3",
+          "knowledgeId": "china-p023-k00-1",
+          "title": "深化",
+          "text": "孟子和荀子在继承孔子君子观的基础上，分别提出了“大丈夫”和“大儒”的培养目标。\n（1）孔子的君子观。既要德才兼备，又要能文能武，塑造了中国人“谦谦君子”的性格。\n（2）孟子继承君子观，即“大丈夫”。有“民贵君轻”的民本思想，主张君臣关系对等，\n3. 深化",
+          "keywords": [
+            "深化"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p023-k00-1-s4",
+          "knowledgeId": "china-p023-k00-1",
+          "title": "内涵",
+          "text": "为中国人增添“刚健有为”的性格。\n（3）荀子改造君子观，即“大儒”。与孔子比，荀子不仅强调德才兼备，还强调学\n以致用。与孟子比，荀子更体现政治家的机智与圆通、严谨与务实的特点。\n1.内涵\n荀子以“六经”为教育内容，以《礼》为重点。\n（四）教育内容：“六经",
+          "keywords": [
+            "内涵",
+            "教育内容：“六经"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p023-k00-2",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "荀子的教育思想 · 第15页（3）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 23,
+            "rect": [
+              0.3178,
+              0.85436,
+              0.58761,
+              0.06519
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 23784,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p023-k00-2-s0",
+          "knowledgeId": "china-p023-k00-2",
+          "title": "评价",
+          "text": "（1）从经学史上看，重在保存和传承儒经。（保存）\n2.评价\n（2）从教育史上看，重在形成经典教科书，为统一的民族心理和\n文化的形成提供了依据。（经典）",
+          "keywords": [
+            "评价"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p024-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "荀子的教育思想 · 第16页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 24,
+            "rect": [
+              0.10489,
+              0.08607,
+              0.82182,
+              0.4872
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 24082,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p024-k00-0-s0",
+          "knowledgeId": "china-p024-k00-0",
+          "title": "简介",
+          "text": "1. 简介\n“不闻不若闻之，闻之不若见之，见之不若知之，知之不若行之，学至于行之而止矣。”\n五学习过程与方法：“间见知行”\n（1）闻见：这是学习的起点、基础和知识的来源。\n（2）知：学习并善于运用思维去把握事物的本质与规律，就能自如地应对事物的变化。",
+          "keywords": [
+            "简介",
+            "学习过程与方法：“间见知行”"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p024-k00-0-s1",
+          "knowledgeId": "china-p024-k00-0",
+          "title": "内涵",
+          "text": "①“兼陈万物而中悬衡”。不偏执于某一事物或事物的某一方面，对事物做广泛的比较、\n分析、综合，择其所是而弃其所非，以求如实地把握事物及其关系。也叫作“解蔽救偏，\n兼陈中衡”。\n2. 内涵",
+          "keywords": [
+            "内涵"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p024-k00-0-s2",
+          "knowledgeId": "china-p024-k00-0",
+          "title": "原文小步 3",
+          "text": "②“虚壹而静”。此思想继承并改造了道家的“虚壹说”。“虚”指虚心，不要先入为主，\n不以已有的知识或见解阻碍对新事物的认识；“壹”指集中精力，专一研究某个问题，不\n一心二用；“静”指排除各种杂念，集中精神专注于学习对象。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p024-k00-0-s3",
+          "knowledgeId": "china-p024-k00-0",
+          "title": "评价",
+          "text": "③“积微见著，积善成德”。不论是知识还是道德，都要不断地积累。\n（3）行：知识是否切实可靠，唯有通过行动才能得到验证。行是知识的实践，是学习中最高\n的阶段。\n（1）继承与发展。荀子继承孔子“学、思、行结合”，进而形成自己完整系统的学习阶段。\n3.评价",
+          "keywords": [
+            "评价"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p024-k00-0-s4",
+          "knowledgeId": "china-p024-k00-0",
+          "title": "简介",
+          "text": "(2）荀子的学习过程体现了唯物主义的色彩与立场。\n1. 简介\n在先秦儒家诸子中，荀子最为提倡尊师，并表达了与孔孟颇为不同的见解。\n(1) 教师地位\n荀子将教师视为治国之本。\n(2) 教师作用\n教师通过施教起到治理国家的作用。\n(3) 师生关系",
+          "keywords": [
+            "简介",
+            "教师地位",
+            "荀子将教师视为治国之本"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p024-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "荀子的教育思想 · 第16页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 24,
+            "rect": [
+              0.10077,
+              0.54643,
+              0.82456,
+              0.34397
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 24502,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p024-k00-1-s0",
+          "knowledgeId": "china-p024-k00-1",
+          "title": "论教师：尊师",
+          "text": "荀子强调绝对的尊师观（唯师说）。学生的无条件服从+“师云亦云”+\n教师绝对的主导地位。\n六论教师：尊师\n①尊严而惮，可以为师。教师要有尊严和威信，令人起敬。\n②耆（qi）艾而信，可以为师。教师是德高望重者，有丰富的经\n2.内容\n验、崇高的信仰和真诚可信的品质。",
+          "keywords": [
+            "论教师：尊师",
+            "内容"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p024-k00-1-s1",
+          "knowledgeId": "china-p024-k00-1",
+          "title": "教师要求",
+          "text": "(4) 教师要求\n③诵说而不陵不犯，可以为师。教师讲课应有条理，不凌不乱，\n不违师法。\n4知微而论，可以为师。教师应见解精深而表述合理，至于简\n单的传习学问是不足论的。\n①与“性恶论”的思想有关。荀子认为人只有尊师求学，才能改\n恶为善。\n(5) 尊师原因",
+          "keywords": [
+            "教师要求",
+            "尊师原因"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p024-k00-1-s2",
+          "knowledgeId": "china-p024-k00-1",
+          "title": "评价",
+          "text": "②与当时的统一趋势有关。国家的统一客观上要求加强对人思\n想意识的控制，这种控制是通过教育实现的，而教师是教育的\n具体实施者。\n3.评价\n荀子的尊师思想对后世中国封建社会\n“师道尊严”的\n的形成有很大的影响。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p025-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "荀子的教育思想 · 第17页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 25,
+            "rect": [
+              0.08978,
+              0.07942,
+              0.817,
+              0.78643
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 25076,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p025-k00-0-s0",
+          "knowledgeId": "china-p025-k00-0",
+          "title": "历史影响与评价",
+          "text": "1.教育理论方面：荀子开创了教育“外论”。\n（七）历史影响与评价\n2.教育传承方面：改造和传承“六经”。\n3.社会影响方面：在封建社会，地位不及孔孟，始终没有资格进入孔庙。可是，\n荀子王霸统一的政治思想，自汉代以后对中国古代封建社会产生了实际影响。\n凯程深化",
+          "keywords": [
+            "历史影响与评价",
+            "凯程深化"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p025-k00-0-s1",
+          "knowledgeId": "china-p025-k00-0",
+          "title": "选:论",
+          "text": "孟子与荀子教育思想的异同\n选:论\n教育实践\n对传播和发展儒学起到重要作用\n教育作用\n肯定教育对个人和社会的作用，渗透教育与政治相结合的思想\n相同点\n教育目的\n继承了孔子培育德才兼备的君子的目的观\n教育内容\n学习儒经，强调尊师\n孟子：战国中期。\n时代背景\n荀子：战国末期",
+          "keywords": [
+            "选:论"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p025-k00-0-s2",
+          "knowledgeId": "china-p025-k00-0",
+          "title": "原文小步 3",
+          "text": "孟子：继承孔子的教育思想，形成“思孟学派”。\n教育实践\n荀子：改造孔子的教育思想，改造并传承“六经”\n孟子：内发论。从“性善论”出发，通过“深造自得”来扩充“善端”\n发扬善性。\n对教育作用的认识\n荀子：外论。从“性恶论”出发，通过“闻见、知、行”来改变恶端，",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p025-k00-0-s3",
+          "knowledgeId": "china-p025-k00-0",
+          "title": "原文小步 4",
+          "text": "改恶为善\n孟子：“明人伦”和“大丈夫”，继承但不改造孔子的君子观。\n教育目的\n不同点\n荀子：“大儒”，继承并改造了孔子的君子观\n孟子：强调尊重老师，但是“尽信《书》，则不如无《书》”，反对不\n假思索地“师云亦云”。\n教师观",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p025-k00-0-s4",
+          "knowledgeId": "china-p025-k00-0",
+          "title": "原文小步 5",
+          "text": "荀子：最为提倡尊师，“绝对的尊师观”，要求“师云亦云”，绝对服\n从教师\n孟子：强调“思”，主张深造自得、专心致志、存养内省等方法，具\n有唯心主义倾向。\n教育方法\n荀子：强调“学”，把教学过程看成闻见、知、行三个环节，具有唯\n物主义倾向\n教育影响",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p025-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "荀子的教育思想 · 第17页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 25,
+            "rect": [
+              0.33635,
+              0.8385,
+              0.26687,
+              0.02632
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 25765,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p025-k00-1-s0",
+          "knowledgeId": "china-p025-k00-1",
+          "title": "原文小步 6",
+          "text": "孟子比荀子在封建社会更有影响力",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 6,
+    "knowledge": 25,
+    "steps": 78,
+    "readOnlySteps": 6,
+    "replacedDrafts": 13
+  }
+}

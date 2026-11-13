@@ -1,0 +1,4252 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch8-v3",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch8-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "第八章内容框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.31,
+            0.69,
+            0.58,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71621,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-early-reformers-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "（一）简介",
+      "section": "第一节 · 考点一 早期改良派的教育主张 · （一）简介",
+      "refs": [
+        {
+          "page": 72,
+          "rect": [
+            0.16,
+            0.16,
+            0.73,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 72144,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-early-reformers-views",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "（二）主要观点",
+      "section": "第一节 · 考点一 早期改良派的教育主张 · （二）主要观点",
+      "refs": [
+        {
+          "page": 72,
+          "rect": [
+            0.23,
+            0.31,
+            0.66,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 72279,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-zheng-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "3. 建立近代学制",
+      "section": "第一节 · 考点一 早期改良派的教育主张 · （二）主要观点 · 3. 建立近代学制",
+      "refs": [
+        {
+          "page": 72,
+          "rect": [
+            0.4,
+            0.4,
+            0.49,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 72360,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-schools",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "1. 百日维新前的教育改革措施",
+      "section": "第一节 · 考点二 维新派的教育实践 · （一）维新派教育改革措施 · 1. 百日维新前",
+      "refs": [
+        {
+          "page": 72,
+          "rect": [
+            0.19,
+            0.64,
+            0.7,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 72576,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-societies-press",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "1. 百日维新前的教育改革措施",
+      "section": "第一节 · 考点二 维新派的教育实践 · （一）维新派教育改革措施 · 1. 百日维新前",
+      "refs": [
+        {
+          "page": 72,
+          "rect": [
+            0.42,
+            0.76,
+            0.47,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 72684,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-hundred-days",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "2. 百日维新中的教育改革措施",
+      "section": "第一节 · 考点二 维新派的教育实践 · （一）维新派教育改革措施 · 2. 百日维新中",
+      "refs": [
+        {
+          "page": 73,
+          "rect": [
+            0.26,
+            0.06,
+            0.63,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 73054,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "2. 发展",
+      "section": "第一节 · 考点二 维新派的教育实践 · （二）创办京师大学堂 · 2. 发展",
+      "refs": [
+        {
+          "page": 73,
+          "rect": [
+            0.18,
+            0.36,
+            0.71,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 73324,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "京师大学堂：特点与评价",
+      "section": "第一节 · 考点二 维新派的教育实践 · （二）创办京师大学堂",
+      "refs": [
+        {
+          "page": 73,
+          "rect": [
+            0.24,
+            0.57,
+            0.65,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 73513,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-new-policy-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "清末新政时期的教育改革措施",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （一）清末新政时期的教育改革措施",
+      "refs": [
+        {
+          "page": 73,
+          "rect": [
+            0.16,
+            0.76,
+            0.72,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 73684,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-study-japan",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "（1）留日教育",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （一）清末新政时期的教育改革措施 · 4. 清末留学教育 · （1）留日教育",
+      "refs": [
+        {
+          "page": 74,
+          "rect": [
+            0.33,
+            0.07,
+            0.56,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 74063,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-boxer-us-study",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "（2）留美教育——“庚款兴学”",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （一）清末新政时期的教育改革措施 · 4. 清末留学教育 · （2）留美教育",
+      "refs": [
+        {
+          "page": 74,
+          "rect": [
+            0.32,
+            0.23,
+            0.57,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 74207,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-abolish-exams",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "5. 废科举、兴学堂",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （一）清末新政时期的教育改革措施 · 5. 废科举、兴学堂",
+      "refs": [
+        {
+          "page": 74,
+          "rect": [
+            0.31,
+            0.43,
+            0.58,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 74387,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-renyin-guimao",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "1. 两种学制简介",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （二）“壬寅学制”和“癸卯学制”的颁布 · 1. 简介",
+      "refs": [
+        {
+          "page": 74,
+          "rect": [
+            0.2,
+            0.62,
+            0.68,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 74558,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-guimao-structure",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "2. “癸卯学制”的结构",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （二）“壬寅学制”和“癸卯学制”的颁布 · 2. 学制结构",
+      "refs": [
+        {
+          "page": 74,
+          "rect": [
+            0.19,
+            0.72,
+            0.7,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 74648,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-positive",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "3. 清末学制的评价",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （二）“壬寅学制”和“癸卯学制”的颁布 · 3. 清末学制的评价 · （1）积极影响",
+      "refs": [
+        {
+          "page": 75,
+          "rect": [
+            0.22,
+            0.07,
+            0.66,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 75063,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-negative",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "3. 清末学制的评价",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （二）“壬寅学制”和“癸卯学制”的颁布 · 3. 清末学制的评价 · （2）消极影响",
+      "refs": [
+        {
+          "page": 75,
+          "rect": [
+            0.22,
+            0.31,
+            0.66,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 75279,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "清末学制的总评、补充与修订",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · （二）“壬寅学制”和“癸卯学制”的颁布",
+      "refs": [
+        {
+          "page": 75,
+          "rect": [
+            0.21,
+            0.53,
+            0.67,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 75477,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-study-comparison",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "留学教育总结表",
+      "section": "第一节 · 考点三 清末新政时期的教育改革 · 留学教育总结表",
+      "refs": [
+        {
+          "page": 75,
+          "rect": [
+            0.12,
+            0.72,
+            0.76,
+            0.23
+          ]
+        },
+        {
+          "page": 76,
+          "rect": [
+            0.12,
+            0.06,
+            0.76,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 75648,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-revolutionary-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "资产阶级革命派的教育活动",
+      "section": "第一节 · 考点四 资产阶级革命派的教育活动",
+      "refs": [
+        {
+          "page": 76,
+          "rect": [
+            0.16,
+            0.28,
+            0.72,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 76252,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-reform",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "康有为的教育思想",
+      "section": "第二节 · 考点一 康有为的教育思想",
+      "refs": [
+        {
+          "page": 76,
+          "rect": [
+            0.16,
+            0.52,
+            0.72,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 76468,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-vision",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "1. 社会愿景",
+      "section": "第二节 · 考点一 康有为的教育思想 · （三）《大同书》中的教育理想 · 1. 社会愿景",
+      "refs": [
+        {
+          "page": 76,
+          "rect": [
+            0.31,
+            0.67,
+            0.57,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 76603,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "2. 教育体系",
+      "section": "第二节 · 考点一 康有为的教育思想 · （三）《大同书》中的教育理想 · 2. 教育体系",
+      "refs": [
+        {
+          "page": 76,
+          "rect": [
+            0.34,
+            0.74,
+            0.54,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 76666,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "3. 评价",
+      "section": "第二节 · 考点一 康有为的教育思想 · （三）《大同书》中的教育理想 · 3. 评价",
+      "refs": [
+        {
+          "page": 76,
+          "rect": [
+            0.55,
+            0.92,
+            0.33,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 76828,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-role-purpose",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "梁启超的教育思想",
+      "section": "第二节 · 考点二 梁启超的教育思想",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.19,
+            0.13,
+            0.69,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 77117,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-school-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "3. 论学制",
+      "section": "第二节 · 考点二 梁启超的教育思想 · （二）观点 · 3. 论学制",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.31,
+            0.37,
+            0.57,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 77333,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-normal",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "4. 论师范教育",
+      "section": "第二节 · 考点二 梁启超的教育思想 · （二）观点 · 4. 论师范教育",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.31,
+            0.62,
+            0.57,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 77558,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-women",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "5. 论女子教育",
+      "section": "第二节 · 考点二 梁启超的教育思想 · （二）观点 · 5. 论女子教育",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.31,
+            0.77,
+            0.57,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 77693,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-children",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "6. 论儿童教育",
+      "section": "第二节 · 考点二 梁启超的教育思想 · （二）观点 · 6. 论儿童教育",
+      "refs": [
+        {
+          "page": 78,
+          "rect": [
+            0.42,
+            0.05,
+            0.46,
+            0.31
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 78045,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-intro-critique",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "严复的教育思想",
+      "section": "第二节 · 考点三 严复的教育思想",
+      "refs": [
+        {
+          "page": 78,
+          "rect": [
+            0.16,
+            0.4,
+            0.72,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 78360,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-three-educations",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "2. “三育论”",
+      "section": "第二节 · 考点三 严复的教育思想 · （二）观点 · 2. “三育论”",
+      "refs": [
+        {
+          "page": 78,
+          "rect": [
+            0.29,
+            0.64,
+            0.59,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 78576,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-body-use",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "3. “体用一致”的文化教育观",
+      "section": "第二节 · 考点三 严复的教育思想 · （二）观点 · 3. “体用一致”的文化教育观",
+      "refs": [
+        {
+          "page": 78,
+          "rect": [
+            0.28,
+            0.82,
+            0.6,
+            0.16
+          ]
+        },
+        {
+          "page": 79,
+          "rect": [
+            0.42,
+            0.06,
+            0.46,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 78738,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "3. “体用一致”的文化教育观",
+      "section": "第二节 · 考点三 严复的教育思想 · （二）观点 · 3. “体用一致”的文化教育观 · （3）评价",
+      "refs": [
+        {
+          "page": 79,
+          "rect": [
+            0.41,
+            0.08,
+            0.47,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 79072,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-three-level-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "西方三级学制在中国的发展",
+      "section": "第二节 · 凯程深化 · 西方三级学制在中国的发展",
+      "refs": [
+        {
+          "page": 79,
+          "rect": [
+            0.14,
+            0.35,
+            0.73,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 79315,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-yanfu-tables",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-7",
+      "title": "梁启超与严复的教育分期对照",
+      "section": "第二节 · 知识小贴士",
+      "refs": [
+        {
+          "page": 79,
+          "rect": [
+            0.12,
+            0.58,
+            0.76,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 79522,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、人名、校名、引文、表格和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch8-outline-0",
+      "knowledgeId": "china-reviewed-ch8-outline",
+      "title": "教育改革措施",
+      "text": "包括早期改良派的教育主张、维新派的教育实践、清末新政时期的教育改革，以及资产阶级革命派的教育活动。",
+      "keywords": [
+        "早期改良派",
+        "维新派",
+        "清末新政",
+        "革命派"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-outline-1",
+      "knowledgeId": "china-reviewed-ch8-outline",
+      "title": "教育思想",
+      "text": "代表人物为康有为、梁启超和严复。",
+      "keywords": [
+        "康有为",
+        "梁启超",
+        "严复"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-early-reformers-intro-0",
+      "knowledgeId": "china-reviewed-ch8-early-reformers-intro",
+      "title": "人物与时代",
+      "text": "早期改良派是 19 世纪 70 年代后形成的思想群体，代表人物有容闳、王韬、郑观应等。",
+      "keywords": [
+        "19世纪70年代后",
+        "容闳",
+        "王韬",
+        "郑观应"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "代表人物"
+    },
+    {
+      "id": "china-reviewed-ch8-early-reformers-intro-1",
+      "knowledgeId": "china-reviewed-ch8-early-reformers-intro",
+      "title": "改革取向",
+      "text": "他们批判洋务派只停留于技术引进，主张在政治、经济、文化、教育等方面全面改革。",
+      "keywords": [
+        "批判器物层面",
+        "全面改革"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "改革取向"
+    },
+    {
+      "id": "china-reviewed-ch8-early-reformers-views-0",
+      "knowledgeId": "china-reviewed-ch8-early-reformers-views",
+      "title": "全面学习西学",
+      "text": "扩大向西方学习的规模和领域，深化学习层次；郑观应把西学分为自然科学、工艺和社会科学等学科。",
+      "keywords": [
+        "全面学习西学",
+        "自然科学",
+        "工艺",
+        "社会科学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 全面学习西学",
+      "displayTitle": "扩大范围、深化层次"
+    },
+    {
+      "id": "china-reviewed-ch8-early-reformers-views-1",
+      "knowledgeId": "china-reviewed-ch8-early-reformers-views",
+      "title": "改革科举",
+      "text": "主张科举制“挂牌招考西学”。",
+      "keywords": [
+        "改革科举",
+        "挂牌招考西学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 改革科举制度",
+      "displayTitle": "挂牌招考西学"
+    },
+    {
+      "id": "china-reviewed-ch8-early-reformers-views-2",
+      "knowledgeId": "china-reviewed-ch8-early-reformers-views",
+      "title": "建立近代学制",
+      "text": "要求国家普及教育并建立完整学制体系。",
+      "keywords": [
+        "普及教育",
+        "完整学制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 建立近代学制",
+      "displayTitle": "基本主张"
+    },
+    {
+      "id": "china-reviewed-ch8-early-reformers-views-3",
+      "knowledgeId": "china-reviewed-ch8-early-reformers-views",
+      "title": "倡导女子教育",
+      "text": "郑观应《盛世危言·女教》集中讨论女子教育；原书概括早期改良派最早倡导男女平等教育观。",
+      "keywords": [
+        "盛世危言女教",
+        "女子教育",
+        "男女平等"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4. 倡导女子教育",
+      "displayTitle": "《盛世危言·女教》"
+    },
+    {
+      "id": "china-reviewed-ch8-zheng-system-0",
+      "knowledgeId": "china-reviewed-ch8-zheng-system",
+      "title": "教育普及",
+      "text": "主张“无事不学，无人不学”，体现近代教育多样化、职业化、普及化。",
+      "keywords": [
+        "无事不学",
+        "无人不学",
+        "多样职业普及"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）内容",
+      "displayTitle": "促进教育普及化"
+    },
+    {
+      "id": "china-reviewed-ch8-zheng-system-1",
+      "knowledgeId": "china-reviewed-ch8-zheng-system",
+      "title": "改书院为学堂",
+      "text": "郑观应最早提出改书院为学堂，尤其重视建立高等学堂。",
+      "keywords": [
+        "改书院为学堂",
+        "高等学堂"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）内容",
+      "displayTitle": "改书院为学堂"
+    },
+    {
+      "id": "china-reviewed-ch8-zheng-system-2",
+      "knowledgeId": "china-reviewed-ch8-zheng-system",
+      "title": "三级学制",
+      "text": "主张仿照西方设立小学、中学、大学三级学制；其“小学”略相当于中等教育起始程度。",
+      "keywords": [
+        "小学中学大学",
+        "三级学制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）内容",
+      "displayTitle": "建立三级学制"
+    },
+    {
+      "id": "china-reviewed-ch8-zheng-system-3",
+      "knowledgeId": "china-reviewed-ch8-zheng-system",
+      "title": "评价",
+      "text": "力图克服洋务学堂孤立性、分散性和应急性的缺点。",
+      "keywords": [
+        "孤立性",
+        "分散性",
+        "应急性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）评价",
+      "displayTitle": "克服洋务学堂的局限"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-schools-0",
+      "knowledgeId": "china-reviewed-ch8-reform-schools",
+      "title": "万木草堂",
+      "text": "康有为在广州创办原书所称最早的维新学堂，并制定学规《长兴学记》。",
+      "keywords": [
+        "万木草堂",
+        "康有为",
+        "广州",
+        "长兴学记"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "subsection": "① 兴办学堂",
+      "displayTitle": "维新人自办学堂"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-schools-1",
+      "knowledgeId": "china-reviewed-ch8-reform-schools",
+      "title": "湖南时务学堂",
+      "text": "谭嗣同在长沙创办，梁启超任中文总教习，并制定《湖南时务学堂学约》。",
+      "keywords": [
+        "湖南时务学堂",
+        "谭嗣同",
+        "梁启超",
+        "学约"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "subsection": "① 兴办学堂",
+      "displayTitle": "湖南时务学堂"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-schools-2",
+      "knowledgeId": "china-reviewed-ch8-reform-schools",
+      "title": "北洋西学堂与南洋公学",
+      "text": "盛宣怀创办，最早试行西方初、中、高三级学制体系。",
+      "keywords": [
+        "盛宣怀",
+        "北洋西学堂",
+        "南洋公学",
+        "三级学制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "subsection": "① 兴办学堂",
+      "displayTitle": "北洋西学堂与南洋公学"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-schools-3",
+      "knowledgeId": "china-reviewed-ch8-reform-schools",
+      "title": "经正女学",
+      "text": "梁启超等人在上海创办，是原书所称国人自办的第一所女学。",
+      "keywords": [
+        "经正女学",
+        "梁启超",
+        "上海"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "subsection": "① 兴办学堂",
+      "displayTitle": "经正女学"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-societies-press-0",
+      "knowledgeId": "china-reviewed-ch8-reform-societies-press",
+      "title": "强学会",
+      "text": "北京、上海的强学会是维新变法的第一批政治团体。",
+      "keywords": [
+        "强学会",
+        "政治团体"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "subsection": "② 兴办学会",
+      "displayTitle": "强学会"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-societies-press-1",
+      "knowledgeId": "china-reviewed-ch8-reform-societies-press",
+      "title": "《万国公报》",
+      "text": "康有为创办，后更名《中外纪闻》，成为北京强学会机关报。",
+      "keywords": [
+        "万国公报",
+        "中外纪闻",
+        "北京强学会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "subsection": "③ 发行报刊",
+      "displayTitle": "《万国公报》"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-societies-press-2",
+      "knowledgeId": "china-reviewed-ch8-reform-societies-press",
+      "title": "其他报刊",
+      "text": "《强学报》为上海强学会机关报；梁启超创办《时务报》，严复创办《国闻报》。",
+      "keywords": [
+        "强学报",
+        "时务报",
+        "国闻报"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "subsection": "③ 发行报刊",
+      "displayTitle": "其他报刊"
+    },
+    {
+      "id": "china-reviewed-ch8-reform-societies-press-3",
+      "knowledgeId": "china-reviewed-ch8-reform-societies-press",
+      "title": "评价",
+      "text": "维新派以学会为阵地、报刊为宣传工具，与维新学堂互补，扩大教育面和变法运动的社会基础。",
+      "keywords": [
+        "学会阵地",
+        "报刊工具",
+        "扩展社会基础"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）评价",
+      "displayTitle": "扩大教育面与社会基础"
+    },
+    {
+      "id": "china-reviewed-ch8-hundred-days-0",
+      "knowledgeId": "china-reviewed-ch8-hundred-days",
+      "title": "创办京师大学堂",
+      "text": "创办京师大学堂，成为中国近代国立高等教育的开端，也是维新变法失败后唯一保留的成果。",
+      "keywords": [
+        "京师大学堂",
+        "国立高等教育开端",
+        "唯一保留"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "displayTitle": "创办京师大学堂"
+    },
+    {
+      "id": "china-reviewed-ch8-hundred-days-1",
+      "knowledgeId": "china-reviewed-ch8-hundred-days",
+      "title": "改革科举",
+      "text": "废除八股考试，设经济特科，选拔维新人才。",
+      "keywords": [
+        "废八股",
+        "经济特科",
+        "维新人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "displayTitle": "改革科举制度"
+    },
+    {
+      "id": "china-reviewed-ch8-hundred-days-2",
+      "knowledgeId": "china-reviewed-ch8-hundred-days",
+      "title": "普设新式学堂",
+      "text": "讲求西学，改书院为新式学堂，力图形成“人无不学，学无不实”的局面。",
+      "keywords": [
+        "讲求西学",
+        "改书院为学堂",
+        "人无不学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "displayTitle": "实力讲求西学"
+    },
+    {
+      "id": "china-reviewed-ch8-hundred-days-3",
+      "knowledgeId": "china-reviewed-ch8-hundred-days",
+      "title": "其他设想",
+      "text": "设实业学堂，开放言论，翻译西书，派遣留学并开设报馆。",
+      "keywords": [
+        "实业学堂",
+        "开放言论",
+        "翻译西书",
+        "派遣留学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）措施",
+      "displayTitle": "其他设想"
+    },
+    {
+      "id": "china-reviewed-ch8-hundred-days-4",
+      "knowledgeId": "china-reviewed-ch8-hundred-days",
+      "title": "评价",
+      "text": "改革虽仅持续 103 天，却形成“人人谈时务，家家言西学”的局面，激发思想解放潮流。",
+      "keywords": [
+        "103天",
+        "人人谈时务",
+        "思想解放"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）评价",
+      "displayTitle": "思想解放作用"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-development-0",
+      "knowledgeId": "china-reviewed-ch8-capital-university-development",
+      "title": "设想",
+      "text": "郑观应最早提出在京师设立大学堂的思想。",
+      "keywords": [
+        "郑观应",
+        "京师大学堂设想"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 发展",
+      "displayTitle": "设想"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-development-1",
+      "knowledgeId": "china-reviewed-ch8-capital-university-development",
+      "title": "正式建议",
+      "text": "1896 年，刑部侍郎李端棻首次正式建议设立京师大学堂。",
+      "keywords": [
+        "1896",
+        "李端棻",
+        "正式建议"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 发展",
+      "displayTitle": "提出"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-development-2",
+      "knowledgeId": "china-reviewed-ch8-capital-university-development",
+      "title": "成立",
+      "text": "1898 年，梁启超草拟《京师大学堂章程》，京师大学堂成立，孙家鼐任管学大臣。",
+      "keywords": [
+        "1898",
+        "梁启超",
+        "京师大学堂章程",
+        "孙家鼐"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 发展",
+      "displayTitle": "成立"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-development-3",
+      "knowledgeId": "china-reviewed-ch8-capital-university-development",
+      "title": "留存",
+      "text": "百日维新失败后，京师大学堂仍被保留下来。",
+      "keywords": [
+        "维新失败",
+        "保留"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 发展",
+      "displayTitle": "留存"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-development-4",
+      "knowledgeId": "china-reviewed-ch8-capital-university-development",
+      "title": "后续",
+      "text": "1900 年毁于八国联军战火，后复办，民国初年改为北京大学。",
+      "keywords": [
+        "1900",
+        "八国联军",
+        "北京大学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 发展",
+      "displayTitle": "后续"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-features-0",
+      "knowledgeId": "china-reviewed-ch8-capital-university-features",
+      "title": "办学性质",
+      "text": "既是全国最高学府，也是全国最高教育行政机关。",
+      "keywords": [
+        "最高学府",
+        "最高教育行政机关"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 特点",
+      "displayTitle": "办学性质"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-features-1",
+      "knowledgeId": "china-reviewed-ch8-capital-university-features",
+      "title": "宗旨与课程",
+      "text": "办学宗旨为中体西用，课程中西学比重高于中学。",
+      "keywords": [
+        "中体西用",
+        "西学比重高"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 特点",
+      "displayTitle": "办学宗旨与课程"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-features-2",
+      "knowledgeId": "china-reviewed-ch8-capital-university-features",
+      "title": "意义",
+      "text": "标志中国近代国立高等教育的开端。",
+      "keywords": [
+        "国立高等教育开端"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4. 评价",
+      "subsection": "（1）意义",
+      "displayTitle": "国立高等教育的开端"
+    },
+    {
+      "id": "china-reviewed-ch8-capital-university-features-3",
+      "knowledgeId": "china-reviewed-ch8-capital-university-features",
+      "title": "局限",
+      "text": "封建等级色彩浓厚。",
+      "keywords": [
+        "封建等级"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4. 评价",
+      "subsection": "（2）局限",
+      "displayTitle": "封建等级色彩"
+    },
+    {
+      "id": "china-reviewed-ch8-new-policy-overview-0",
+      "knowledgeId": "china-reviewed-ch8-new-policy-overview",
+      "title": "教育宗旨",
+      "text": "忠君、尊孔、尚公、尚武、尚实，是中国近代第一次正式宣布的教育宗旨。",
+      "keywords": [
+        "忠君尊孔",
+        "尚公尚武尚实",
+        "首次正式宗旨"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 制定教育宗旨",
+      "displayTitle": "忠君、尊孔、尚公、尚武、尚实"
+    },
+    {
+      "id": "china-reviewed-ch8-new-policy-overview-1",
+      "knowledgeId": "china-reviewed-ch8-new-policy-overview",
+      "title": "中央体制",
+      "text": "中央设学部。",
+      "keywords": [
+        "中央",
+        "学部"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 建立教育行政体制",
+      "displayTitle": "中央设学部"
+    },
+    {
+      "id": "china-reviewed-ch8-new-policy-overview-2",
+      "knowledgeId": "china-reviewed-ch8-new-policy-overview",
+      "title": "地方体制",
+      "text": "地方设提学使司，形成从中央到地方的新教育行政系统。",
+      "keywords": [
+        "地方",
+        "提学使司",
+        "教育行政系统"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 建立教育行政体制",
+      "displayTitle": "地方设提学使司"
+    },
+    {
+      "id": "china-reviewed-ch8-study-japan-0",
+      "knowledgeId": "china-reviewed-ch8-study-japan",
+      "title": "兴起原因",
+      "text": "政策支持、战争刺激、科举废除和条件便利。",
+      "keywords": [
+        "政策支持",
+        "战争刺激",
+        "科举废除",
+        "条件便利"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "① 原因",
+      "displayTitle": "留日教育兴起的原因"
+    },
+    {
+      "id": "china-reviewed-ch8-study-japan-1",
+      "knowledgeId": "china-reviewed-ch8-study-japan",
+      "title": "主要特点",
+      "text": "生源广泛、学生成分复杂、研习科目增多、爱国热情高涨。",
+      "keywords": [
+        "生源广泛",
+        "成分复杂",
+        "科目增多",
+        "爱国热情"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "② 内容",
+      "displayTitle": "留日教育的特点"
+    },
+    {
+      "id": "china-reviewed-ch8-study-japan-2",
+      "knowledgeId": "china-reviewed-ch8-study-japan",
+      "title": "评价",
+      "text": "形成资产阶级革命派群体，影响中国近代社会变革。",
+      "keywords": [
+        "资产阶级革命派",
+        "社会变革"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 评价",
+      "displayTitle": "推动近代社会变革"
+    },
+    {
+      "id": "china-reviewed-ch8-boxer-us-study-0",
+      "knowledgeId": "china-reviewed-ch8-boxer-us-study",
+      "title": "缘起",
+      "text": "美国把部分“庚子赔款”以“先赔后退”方式退还，用以鼓励留美教育；欧洲国家后来效仿。",
+      "keywords": [
+        "庚子赔款",
+        "先赔后退",
+        "留美教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "① 简介",
+      "displayTitle": "庚款兴学的缘起"
+    },
+    {
+      "id": "china-reviewed-ch8-boxer-us-study-1",
+      "knowledgeId": "china-reviewed-ch8-boxer-us-study",
+      "title": "机构",
+      "text": "美国设游美学生监督处；中国设游美学务处和清华学堂。",
+      "keywords": [
+        "游美学生监督处",
+        "游美学务处",
+        "清华学堂"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "② 措施",
+      "displayTitle": "确立机构"
+    },
+    {
+      "id": "china-reviewed-ch8-boxer-us-study-2",
+      "knowledgeId": "china-reviewed-ch8-boxer-us-study",
+      "title": "选拔",
+      "text": "通过严格考试选拔，成绩优异者可公费留学。",
+      "keywords": [
+        "严格考试",
+        "公费留学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "② 措施",
+      "displayTitle": "严格选拔"
+    },
+    {
+      "id": "china-reviewed-ch8-boxer-us-study-3",
+      "knowledgeId": "china-reviewed-ch8-boxer-us-study",
+      "title": "意义",
+      "text": "使留学潮流转向美国，留学生对中国近现代教育和科技贡献巨大。",
+      "keywords": [
+        "流向美国",
+        "教育科技贡献"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 意义",
+      "displayTitle": "流向变化与学生贡献"
+    },
+    {
+      "id": "china-reviewed-ch8-abolish-exams-0",
+      "knowledgeId": "china-reviewed-ch8-abolish-exams",
+      "title": "科举弊端",
+      "text": "内容烦琐空疏、摧残人才，使学校沦为附庸，并败坏学习风气。",
+      "keywords": [
+        "烦琐空疏",
+        "摧残人才",
+        "学校附庸",
+        "败坏学风"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）科举弊端",
+      "displayTitle": "科举教育的弊端"
+    },
+    {
+      "id": "china-reviewed-ch8-abolish-exams-1",
+      "knowledgeId": "china-reviewed-ch8-abolish-exams",
+      "title": "废除过程",
+      "text": "先改革科举内容，再递减科举中额，最终完全废止。",
+      "keywords": [
+        "改革内容",
+        "递减中额",
+        "完全废止"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）废除过程",
+      "displayTitle": "三步废除"
+    },
+    {
+      "id": "china-reviewed-ch8-abolish-exams-2",
+      "knowledgeId": "china-reviewed-ch8-abolish-exams",
+      "title": "废除意义",
+      "text": "标志旧教育体制结束，推动兴办学校的浪潮，并促使人们重新正视科举制度的历史价值。",
+      "keywords": [
+        "旧体制结束",
+        "兴学浪潮",
+        "正视科举"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）废除意义",
+      "displayTitle": "结束旧制、推动兴学"
+    },
+    {
+      "id": "china-reviewed-ch8-renyin-guimao-0",
+      "knowledgeId": "china-reviewed-ch8-renyin-guimao",
+      "title": "壬寅学制",
+      "text": "《钦定学堂章程》，张百熙主持；三段七级，规划 7 年义务教育，是第一个制定但未实施的学制。",
+      "keywords": [
+        "壬寅学制",
+        "钦定学堂章程",
+        "张百熙",
+        "制定未实施"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 简介",
+      "displayTitle": "“壬寅学制”"
+    },
+    {
+      "id": "china-reviewed-ch8-renyin-guimao-1",
+      "knowledgeId": "china-reviewed-ch8-renyin-guimao",
+      "title": "癸卯学制",
+      "text": "《奏定学堂章程》，张百熙、荣庆、张之洞主持；三段七级，规划 5 年义务教育，是第一个正式实施的全国性法定学制。",
+      "keywords": [
+        "癸卯学制",
+        "奏定学堂章程",
+        "张百熙荣庆张之洞",
+        "正式实施"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 简介",
+      "displayTitle": "“癸卯学制”"
+    },
+    {
+      "id": "china-reviewed-ch8-guimao-structure-0",
+      "knowledgeId": "china-reviewed-ch8-guimao-structure",
+      "title": "初等教育",
+      "text": "蒙养院 4 年、初等小学堂 5 年、高等小学堂 4 年，共三级 13 年。",
+      "keywords": [
+        "蒙养院4年",
+        "初小5年",
+        "高小4年"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "普通教育系统",
+      "subsection": "初等教育",
+      "displayTitle": "初等教育"
+    },
+    {
+      "id": "china-reviewed-ch8-guimao-structure-1",
+      "knowledgeId": "china-reviewed-ch8-guimao-structure",
+      "title": "中等教育",
+      "text": "中学堂一级 5 年。",
+      "keywords": [
+        "中学堂5年"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "普通教育系统",
+      "subsection": "中等教育",
+      "displayTitle": "中等教育"
+    },
+    {
+      "id": "china-reviewed-ch8-guimao-structure-2",
+      "knowledgeId": "china-reviewed-ch8-guimao-structure",
+      "title": "高等教育",
+      "text": "高等学堂或大学预科 3 年、大学堂 3—4 年、通儒院 5 年，共三级 11—12 年。",
+      "keywords": [
+        "高等学堂3年",
+        "大学堂3—4年",
+        "通儒院5年"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "普通教育系统",
+      "subsection": "高等教育",
+      "displayTitle": "高等教育"
+    },
+    {
+      "id": "china-reviewed-ch8-guimao-structure-3",
+      "knowledgeId": "china-reviewed-ch8-guimao-structure",
+      "title": "其他系统",
+      "text": "另设师范教育与实业教育系统，整体直接参考日本。",
+      "keywords": [
+        "师范教育",
+        "实业教育",
+        "参考日本"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "其他教育系统",
+      "displayTitle": "师范教育与实业教育"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-positive-0",
+      "knowledgeId": "china-reviewed-ch8-qing-system-positive",
+      "title": "三级学制",
+      "text": "仿照西方三级学制，分初等、中等、高等，并规划义务教育，体现普及性和平等性。",
+      "keywords": [
+        "三级学制",
+        "义务教育",
+        "普及平等"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）积极影响：半资本主义性",
+      "displayTitle": "三级学制与义务教育"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-positive-1",
+      "knowledgeId": "china-reviewed-ch8-qing-system-positive",
+      "title": "三育模式",
+      "text": "确立德、智、体协调发展的“三育”模式。",
+      "keywords": [
+        "德智体",
+        "三育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）积极影响：半资本主义性",
+      "displayTitle": "德智体三育"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-positive-2",
+      "knowledgeId": "china-reviewed-ch8-qing-system-positive",
+      "title": "实业教育",
+      "text": "设置实业学堂，推动近代资本主义工商业发展。",
+      "keywords": [
+        "实业学堂",
+        "工商业"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）积极影响：半资本主义性",
+      "displayTitle": "设置实业学堂"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-positive-3",
+      "knowledgeId": "china-reviewed-ch8-qing-system-positive",
+      "title": "师范教育",
+      "text": "重视师范教育，加强教师职业训练。",
+      "keywords": [
+        "师范教育",
+        "教师训练"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）积极影响：半资本主义性",
+      "displayTitle": "重视师范教育"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-positive-4",
+      "knowledgeId": "china-reviewed-ch8-qing-system-positive",
+      "title": "课程设置",
+      "text": "西学在课程比重上占主导地位。",
+      "keywords": [
+        "西学主导"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）积极影响：半资本主义性",
+      "displayTitle": "西学占主导"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-positive-5",
+      "knowledgeId": "china-reviewed-ch8-qing-system-positive",
+      "title": "教学管理",
+      "text": "重视课程规划和班级授课制。",
+      "keywords": [
+        "课程规划",
+        "班级授课制"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）积极影响：半资本主义性",
+      "displayTitle": "课程规划与班级授课制"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-positive-6",
+      "knowledgeId": "china-reviewed-ch8-qing-system-positive",
+      "title": "尊重儿童",
+      "text": "尊重儿童个性并禁止体罚。",
+      "keywords": [
+        "儿童个性",
+        "禁止体罚"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）积极影响：半资本主义性",
+      "displayTitle": "尊重儿童、禁止体罚"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-negative-0",
+      "knowledgeId": "china-reviewed-ch8-qing-system-negative",
+      "title": "根本目的",
+      "text": "以培养效忠封建王朝的学生为根本目的。",
+      "keywords": [
+        "效忠封建王朝"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）消极影响：半封建性",
+      "displayTitle": "根本目的"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-negative-1",
+      "knowledgeId": "china-reviewed-ch8-qing-system-negative",
+      "title": "课程偏旧",
+      "text": "“读经讲经”课比重过大，导致学制偏长。",
+      "keywords": [
+        "读经讲经",
+        "学制偏长"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）消极影响：半封建性",
+      "displayTitle": "课程设置"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-negative-2",
+      "knowledgeId": "china-reviewed-ch8-qing-system-negative",
+      "title": "维护等级",
+      "text": "大学堂要求保人作保，限制普通民众进入高等教育，维护教育等级。",
+      "keywords": [
+        "保人作保",
+        "限制高等教育",
+        "维护等级"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）消极影响：半封建性",
+      "displayTitle": "维护等级"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-negative-3",
+      "knowledgeId": "china-reviewed-ch8-qing-system-negative",
+      "title": "排斥女性",
+      "text": "广大妇女被排斥在学校教育之外。",
+      "keywords": [
+        "排斥女性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）消极影响：半封建性",
+      "displayTitle": "排斥女性"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-negative-4",
+      "knowledgeId": "china-reviewed-ch8-qing-system-negative",
+      "title": "管理专制",
+      "text": "许多规定用于维护封建秩序，体现较强专制性。",
+      "keywords": [
+        "管理专制",
+        "封建秩序"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）消极影响：半封建性",
+      "displayTitle": "管理专制"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-negative-5",
+      "knowledgeId": "china-reviewed-ch8-qing-system-negative",
+      "title": "科举瓜葛",
+      "text": "以科举功名奖励学生，未割断同旧教育的联系。",
+      "keywords": [
+        "科举功名奖励",
+        "旧教育联系"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）消极影响：半封建性",
+      "displayTitle": "科举功名奖励"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-summary-0",
+      "knowledgeId": "china-reviewed-ch8-qing-system-summary",
+      "title": "总评",
+      "text": "清末学制具有半资本主义、半封建性质，是传统性和近代性结合的产物，也是系统学习西方教育的成果，在教育近代化中具有标志意义。",
+      "keywords": [
+        "半资本主义半封建",
+        "传统与近代",
+        "标志意义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 清末学制的评价",
+      "subsection": "（3）总评",
+      "displayTitle": "半资本主义、半封建性质"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-summary-1",
+      "knowledgeId": "china-reviewed-ch8-qing-system-summary",
+      "title": "开放女禁",
+      "text": "颁布《女子小学堂章程》《女子师范学堂章程》，女子教育开始在学制上取得合法地位。",
+      "keywords": [
+        "女子小学堂章程",
+        "女子师范学堂章程",
+        "合法地位"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4. 清末学制的补充与修订",
+      "subsection": "（1）开放“女禁”",
+      "displayTitle": "女子教育取得合法地位"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-summary-2",
+      "knowledgeId": "china-reviewed-ch8-qing-system-summary",
+      "title": "初小简易科",
+      "text": "年限可缩至 4 年或 3 年，课程更精简，以扩大教育对象和范围。",
+      "keywords": [
+        "初小简易科",
+        "4年或3年",
+        "扩大范围"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4. 清末学制的补充与修订",
+      "subsection": "（2）设置初等小学简易科",
+      "displayTitle": "缩短年限、扩大范围"
+    },
+    {
+      "id": "china-reviewed-ch8-qing-system-summary-3",
+      "knowledgeId": "china-reviewed-ch8-qing-system-summary",
+      "title": "中学分科",
+      "text": "1909 年调整中学制度，实行文、实分科，课程各有侧重。",
+      "keywords": [
+        "1909",
+        "文实分科"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4. 清末学制的补充与修订",
+      "subsection": "（3）中学实行文、实分科",
+      "displayTitle": "1909年文实分科"
+    },
+    {
+      "id": "china-reviewed-ch8-study-comparison-0",
+      "knowledgeId": "china-reviewed-ch8-study-comparison",
+      "title": "项目",
+      "text": "洋务时期有幼童留美和船政学员留欧；新政时期有留日高潮和“庚款兴学”留美。",
+      "keywords": [
+        "幼童留美",
+        "留欧",
+        "留日",
+        "庚款兴学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-study-comparison-1",
+      "knowledgeId": "china-reviewed-ch8-study-comparison",
+      "title": "经费与规模",
+      "text": "洋务时期以公费为主且规模小；新政时期公费、自费并举且规模大。",
+      "keywords": [
+        "公费",
+        "公费自费",
+        "规模变化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-study-comparison-2",
+      "knowledgeId": "china-reviewed-ch8-study-comparison",
+      "title": "学习专业",
+      "text": "幼童留美学英语、自然科学和儒家经典；留欧学生学造船航海；留日以政法、师范、军事为多；新政留美专业更广。",
+      "keywords": [
+        "英语自然科学",
+        "造船航海",
+        "政法师范军事"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-study-comparison-3",
+      "knowledgeId": "china-reviewed-ch8-study-comparison",
+      "title": "生源",
+      "text": "幼童留美挑选聪慧儿童，留欧选船政学堂优秀青年；留日生源广、成分复杂，留美经严格考试选拔。",
+      "keywords": [
+        "聪慧儿童",
+        "船政青年",
+        "留日生源广",
+        "严格考试"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-study-comparison-4",
+      "knowledgeId": "china-reviewed-ch8-study-comparison",
+      "title": "评价",
+      "text": "洋务留学迈出第一步并服务海军制造；新政留日推动革命活动，留美对近现代教育科技贡献显著。",
+      "keywords": [
+        "留学第一步",
+        "海军制造",
+        "革命活动",
+        "教育科技"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-revolutionary-education-0",
+      "knowledgeId": "china-reviewed-ch8-revolutionary-education",
+      "title": "目标",
+      "text": "清末新政时期，革命派以推翻清政府腐朽统治为目标，在民间开展教育活动。",
+      "keywords": [
+        "推翻清政府",
+        "民间教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "教育目标"
+    },
+    {
+      "id": "china-reviewed-ch8-revolutionary-education-1",
+      "knowledgeId": "china-reviewed-ch8-revolutionary-education",
+      "title": "中国教育会",
+      "text": "1902 年蔡元培等建立，表面从事教育，实际暗中宣传革命。",
+      "keywords": [
+        "1902",
+        "蔡元培",
+        "中国教育会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）机构",
+      "displayTitle": "中国教育会"
+    },
+    {
+      "id": "china-reviewed-ch8-revolutionary-education-2",
+      "knowledgeId": "china-reviewed-ch8-revolutionary-education",
+      "title": "爱国学社",
+      "text": "1902 年，中国教育会为南洋公学罢课学生创办；与“墨水瓶事件”及蔡元培出面有关。",
+      "keywords": [
+        "爱国学社",
+        "南洋公学",
+        "墨水瓶事件"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）机构",
+      "displayTitle": "爱国学社"
+    },
+    {
+      "id": "china-reviewed-ch8-revolutionary-education-3",
+      "knowledgeId": "china-reviewed-ch8-revolutionary-education",
+      "title": "爱国女学",
+      "text": "1902 年中国教育会成立后，在蔡元培等建议下建立的著名革命女校。",
+      "keywords": [
+        "爱国女学",
+        "革命女校"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）机构",
+      "displayTitle": "爱国女学"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-reform-0",
+      "knowledgeId": "china-reviewed-ch8-kang-reform",
+      "title": "人物与活动",
+      "text": "康有为是资产阶级维新派主要代表和变法者，教育活动包括万木草堂和“公车上书”。",
+      "keywords": [
+        "康有为",
+        "万木草堂",
+        "公车上书"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "人物与教育活动"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-reform-1",
+      "knowledgeId": "china-reviewed-ch8-kang-reform",
+      "title": "改革考试",
+      "text": "废八股，改策论。",
+      "keywords": [
+        "废八股",
+        "改策论"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）维新运动中的教育改革主张",
+      "displayTitle": "废八股、改策论"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-reform-2",
+      "knowledgeId": "china-reviewed-ch8-kang-reform",
+      "title": "兴学育人",
+      "text": "办学校，育新人。",
+      "keywords": [
+        "办学校",
+        "育新人"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）维新运动中的教育改革主张",
+      "displayTitle": "办学校、育新人"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-reform-3",
+      "knowledgeId": "china-reviewed-ch8-kang-reform",
+      "title": "引进西学",
+      "text": "派留学，译西书。",
+      "keywords": [
+        "派留学",
+        "译西书"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）维新运动中的教育改革主张",
+      "displayTitle": "派留学、译西书"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-reform-4",
+      "knowledgeId": "china-reviewed-ch8-kang-reform",
+      "title": "平等女教",
+      "text": "倡平等，重女教。",
+      "keywords": [
+        "倡平等",
+        "重女教"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）维新运动中的教育改革主张",
+      "displayTitle": "倡平等、重女教"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-vision-0",
+      "knowledgeId": "china-reviewed-ch8-kang-datong-vision",
+      "title": "社会愿景",
+      "text": "建立“无邦国、无帝王，人人相亲、人人平等、天下为公”的社会。",
+      "keywords": [
+        "无邦国无帝王",
+        "人人平等",
+        "天下为公"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 社会愿景",
+      "displayTitle": "理想社会"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-vision-1",
+      "knowledgeId": "china-reviewed-ch8-kang-datong-vision",
+      "title": "制度主张",
+      "text": "废除私有制和等级制，消灭家庭，实行儿童公养公育。",
+      "keywords": [
+        "废私有等级",
+        "儿童公养公育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 社会愿景",
+      "displayTitle": "制度主张"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-system-0",
+      "knowledgeId": "china-reviewed-ch8-kang-datong-system",
+      "title": "人本院",
+      "text": "出生前，对儿童实施胎教。",
+      "keywords": [
+        "人本院",
+        "胎教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 教育体系",
+      "displayTitle": "人本院"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-system-1",
+      "knowledgeId": "china-reviewed-ch8-kang-datong-system",
+      "title": "育婴院",
+      "text": "0—3 岁；与慈幼院共同承担幼儿教育。",
+      "keywords": [
+        "育婴院",
+        "0—3岁"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 教育体系",
+      "displayTitle": "育婴院"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-system-2",
+      "knowledgeId": "china-reviewed-ch8-kang-datong-system",
+      "title": "慈幼院",
+      "text": "3—6 岁：“养儿体，乐儿魂，开儿知识”。",
+      "keywords": [
+        "慈幼院",
+        "3—6岁",
+        "养体乐魂开知"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 教育体系",
+      "displayTitle": "慈幼院"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-system-3",
+      "knowledgeId": "china-reviewed-ch8-kang-datong-system",
+      "title": "小学院",
+      "text": "6—11 岁，德育为先，坚持“养体为主而开智次之”，专用女傅。",
+      "keywords": [
+        "小学院",
+        "6—11岁",
+        "养体为主",
+        "女傅"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 教育体系",
+      "displayTitle": "小学院"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-system-4",
+      "knowledgeId": "china-reviewed-ch8-kang-datong-system",
+      "title": "中学院",
+      "text": "11—15 岁，德、智、体兼重，尤重德育，教师男女均可。",
+      "keywords": [
+        "中学院",
+        "11—15岁",
+        "德智体"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 教育体系",
+      "displayTitle": "中学院"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-datong-system-5",
+      "knowledgeId": "china-reviewed-ch8-kang-datong-system",
+      "title": "大学院",
+      "text": "15—20 岁，以开智为主，教师不限男女。",
+      "keywords": [
+        "大学院",
+        "15—20岁",
+        "开智"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 教育体系",
+      "displayTitle": "大学院"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-evaluation-0",
+      "knowledgeId": "china-reviewed-ch8-kang-evaluation",
+      "title": "积极面",
+      "text": "构建了新式教育制度。",
+      "keywords": [
+        "新式教育制度"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 评价",
+      "subsection": "（1）积极",
+      "displayTitle": "构建新式教育制度"
+    },
+    {
+      "id": "china-reviewed-ch8-kang-evaluation-1",
+      "knowledgeId": "china-reviewed-ch8-kang-evaluation",
+      "title": "局限",
+      "text": "具有浓厚乌托邦色彩。",
+      "keywords": [
+        "乌托邦色彩"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 评价",
+      "subsection": "（2）局限",
+      "displayTitle": "乌托邦色彩"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-role-purpose-0",
+      "knowledgeId": "china-reviewed-ch8-liang-role-purpose",
+      "title": "人物",
+      "text": "梁启超是中国近代维新派重要代表。",
+      "keywords": [
+        "梁启超",
+        "维新派"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "人物"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-role-purpose-1",
+      "knowledgeId": "china-reviewed-ch8-liang-role-purpose",
+      "title": "教育作用",
+      "text": "“开民智，伸民权”：先开民智，再伸民权，权生于智。",
+      "keywords": [
+        "开民智",
+        "伸民权",
+        "权生于智"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）观点",
+      "subsection": "1. 教育作用",
+      "displayTitle": "开民智、伸民权"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-role-purpose-2",
+      "knowledgeId": "china-reviewed-ch8-liang-role-purpose",
+      "title": "培养新民",
+      "text": "“新民”具有资产阶级道德品质，包括民力、民智、民德三种素养。",
+      "keywords": [
+        "新民",
+        "民力",
+        "民智",
+        "民德"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）观点",
+      "subsection": "2. 教育目的：培养新民",
+      "displayTitle": "民力、民智、民德"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-role-purpose-3",
+      "knowledgeId": "china-reviewed-ch8-liang-role-purpose",
+      "title": "评价",
+      "text": "新国民具有反封建思想和爱国心，旨在推动政治改革。",
+      "keywords": [
+        "反封建",
+        "爱国心",
+        "政治改革"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）观点",
+      "subsection": "2. 教育目的：培养新民",
+      "displayTitle": "新民的评价"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-school-system-0",
+      "knowledgeId": "china-reviewed-ch8-liang-school-system",
+      "title": "理论依据",
+      "text": "依据西方心理学成果制定学制阶段，列出《教育期区分表》。",
+      "keywords": [
+        "西方心理学",
+        "教育期区分表"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）简介",
+      "displayTitle": "《教育期区分表》"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-school-system-1",
+      "knowledgeId": "china-reviewed-ch8-liang-school-system",
+      "title": "幼儿期",
+      "text": "5 岁以下，接受家庭教育或幼稚园教育。",
+      "keywords": [
+        "5岁以下",
+        "幼儿期"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "subsection": "① 划分教育阶段",
+      "displayTitle": "幼儿期"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-school-system-2",
+      "knowledgeId": "china-reviewed-ch8-liang-school-system",
+      "title": "儿童期",
+      "text": "6—13 岁，为小学校期。",
+      "keywords": [
+        "6—13岁",
+        "儿童期",
+        "小学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "subsection": "① 划分教育阶段",
+      "displayTitle": "儿童期"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-school-system-3",
+      "knowledgeId": "china-reviewed-ch8-liang-school-system",
+      "title": "少年期",
+      "text": "14—21 岁，为中学校期。",
+      "keywords": [
+        "14—21岁",
+        "少年期",
+        "中学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "subsection": "① 划分教育阶段",
+      "displayTitle": "少年期"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-school-system-4",
+      "knowledgeId": "china-reviewed-ch8-liang-school-system",
+      "title": "成人期",
+      "text": "22—25 岁，为大学校期。",
+      "keywords": [
+        "22—25岁",
+        "成人期",
+        "大学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "subsection": "① 划分教育阶段",
+      "displayTitle": "成人期"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-school-system-5",
+      "knowledgeId": "china-reviewed-ch8-liang-school-system",
+      "title": "制度主张",
+      "text": "介绍各阶段身心特征和日本学制，结合中国实际提出“大办小学、缓办大学”。",
+      "keywords": [
+        "身心特征",
+        "日本学制",
+        "大办小学",
+        "缓办大学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "subsection": "②—④ 学制主张",
+      "displayTitle": "身心特征、日本学制与中国实际"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-normal-0",
+      "knowledgeId": "china-reviewed-ch8-liang-normal",
+      "title": "文章",
+      "text": "在《时务报》发表《变法通议·论师范》。",
+      "keywords": [
+        "时务报",
+        "论师范"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）简介",
+      "displayTitle": "《变法通议·论师范》"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-normal-1",
+      "knowledgeId": "china-reviewed-ch8-liang-normal",
+      "title": "问题",
+      "text": "传统教师不了解西学，外国教师又可能滥竽充数，两类教师均不合需要。",
+      "keywords": [
+        "传统教师",
+        "外国教师",
+        "两类不可用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）问题",
+      "displayTitle": "两类教师不可用"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-normal-2",
+      "knowledgeId": "china-reviewed-ch8-liang-normal",
+      "title": "措施",
+      "text": "普遍设立中、西学兼习的新式学堂，培养符合时代需要的教师。",
+      "keywords": [
+        "师范学校",
+        "中西学兼习",
+        "新式教师"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）措施",
+      "displayTitle": "设立师范学校"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-normal-3",
+      "knowledgeId": "china-reviewed-ch8-liang-normal",
+      "title": "评价",
+      "text": "原书称梁启超为近代中国首次专文论述师范教育问题、最早提出设立师范学校的人。",
+      "keywords": [
+        "首次专文",
+        "最早提出师范"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（4）评价 C",
+      "displayTitle": "首次专文论述并最早倡设师范"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-women-0",
+      "knowledgeId": "china-reviewed-ch8-liang-women",
+      "title": "文章",
+      "text": "在《时务报》发表《变法通议·论女学》。",
+      "keywords": [
+        "时务报",
+        "论女学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）简介",
+      "displayTitle": "《变法通议·论女学》"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-women-1",
+      "knowledgeId": "china-reviewed-ch8-liang-women",
+      "title": "必要性",
+      "text": "女子教育有助于自养自立、成才成德、教育子女和实施文明胎教。",
+      "keywords": [
+        "自养自立",
+        "成才成德",
+        "教育子女",
+        "文明胎教"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）原因",
+      "displayTitle": "必要性"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-women-2",
+      "knowledgeId": "china-reviewed-ch8-liang-women",
+      "title": "人力资源",
+      "text": "女子是重要的人才资源。",
+      "keywords": [
+        "女子人才资源"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）原因",
+      "displayTitle": "人力资源"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-women-3",
+      "knowledgeId": "china-reviewed-ch8-liang-women",
+      "title": "天赋权利",
+      "text": "女子接受教育是天赋权利。",
+      "keywords": [
+        "教育天赋权利"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）原因",
+      "displayTitle": "天赋权利"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-women-4",
+      "knowledgeId": "china-reviewed-ch8-liang-women",
+      "title": "国势反映",
+      "text": "女子教育发展水平反映国势强弱。",
+      "keywords": [
+        "女子教育",
+        "国势强弱"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）原因",
+      "displayTitle": "反映国势"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-women-5",
+      "knowledgeId": "china-reviewed-ch8-liang-women",
+      "title": "措施",
+      "text": "破除缠足，创办女学，如经正女学。",
+      "keywords": [
+        "破除缠足",
+        "经正女学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）措施",
+      "displayTitle": "破除缠足、创办女学"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-women-6",
+      "knowledgeId": "china-reviewed-ch8-liang-women",
+      "title": "评价",
+      "text": "反映男女平权和解放妇女思想，具有鲜明进步意义。",
+      "keywords": [
+        "男女平权",
+        "解放妇女"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（4）评价 D",
+      "displayTitle": "男女平权与解放妇女"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-children-0",
+      "knowledgeId": "china-reviewed-ch8-liang-children",
+      "title": "基本主张",
+      "text": "《变法通议·论幼学》提出“人生百年，立于幼学”，倡导改革儿童教育。",
+      "keywords": [
+        "论幼学",
+        "人生百年立于幼学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）简介",
+      "displayTitle": "人生百年，立于幼学"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-children-1",
+      "knowledgeId": "china-reviewed-ch8-liang-children",
+      "title": "教学顺序",
+      "text": "西方强调由浅入深、由易到难、循序渐进；原书认为中国传统做法相反。",
+      "keywords": [
+        "由浅入深",
+        "由易到难",
+        "循序渐进"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）理论",
+      "displayTitle": "顺序"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-children-2",
+      "knowledgeId": "china-reviewed-ch8-liang-children",
+      "title": "理解与识记",
+      "text": "西方重理解，原书概括中国传统教育偏重识记。",
+      "keywords": [
+        "重理解",
+        "偏重识记"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）理论",
+      "displayTitle": "理解"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-children-3",
+      "knowledgeId": "china-reviewed-ch8-liang-children",
+      "title": "直观教学",
+      "text": "西方重直观教学、实物教学，原书概括中国传统教育偏重言语文字。",
+      "keywords": [
+        "直观教学",
+        "实物教学",
+        "言语文字"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）理论",
+      "displayTitle": "直观"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-children-4",
+      "knowledgeId": "china-reviewed-ch8-liang-children",
+      "title": "学习兴趣",
+      "text": "西方重视儿童的学习兴趣。",
+      "keywords": [
+        "儿童兴趣"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）理论",
+      "displayTitle": "兴趣"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-children-5",
+      "knowledgeId": "china-reviewed-ch8-liang-children",
+      "title": "教育实践",
+      "text": "主张兴办儿童新式学校，采用西方教学方法，并从编写儿童教学用书入手改革。",
+      "keywords": [
+        "新式学校",
+        "西方方法",
+        "儿童用书"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）实践",
+      "displayTitle": "新式学校、教学方法与教材"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-children-6",
+      "knowledgeId": "china-reviewed-ch8-liang-children",
+      "title": "评价",
+      "text": "原书称梁启超为近代中国最早倡导各科教材教法的教育家。",
+      "keywords": [
+        "教材教法",
+        "最早倡导"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（4）评价 E",
+      "displayTitle": "最早倡导各科教材教法"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-intro-critique-0",
+      "knowledgeId": "china-reviewed-ch8-yanfu-intro-critique",
+      "title": "人物与译著",
+      "text": "严复是近代中国较系统介绍西方资产阶级自然科学和社会科学的启蒙人物，译有《天演论》《原富》等。",
+      "keywords": [
+        "严复",
+        "天演论",
+        "原富"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "人物与译著"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-intro-critique-1",
+      "knowledgeId": "china-reviewed-ch8-yanfu-intro-critique",
+      "title": "批判八股",
+      "text": "《救亡决论》概括八股教育的危害为锢智慧、坏心术、滋游手。",
+      "keywords": [
+        "救亡决论",
+        "锢智慧",
+        "坏心术",
+        "滋游手"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）观点",
+      "subsection": "1. 对传统教育的批判",
+      "displayTitle": "批判八股教育"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-intro-critique-2",
+      "knowledgeId": "china-reviewed-ch8-yanfu-intro-critique",
+      "title": "批判学风",
+      "text": "认为西方学风比中国传统学风更重思考。",
+      "keywords": [
+        "西方学风",
+        "重思考"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）观点",
+      "subsection": "1. 对传统教育的批判",
+      "displayTitle": "批判传统学风"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-intro-critique-3",
+      "knowledgeId": "china-reviewed-ch8-yanfu-intro-critique",
+      "title": "批判方法",
+      "text": "认为西方学习方法更重质疑和验证。",
+      "keywords": [
+        "质疑",
+        "验证"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）观点",
+      "subsection": "1. 对传统教育的批判",
+      "displayTitle": "批判学习方法"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-three-educations-0",
+      "knowledgeId": "china-reviewed-ch8-yanfu-three-educations",
+      "title": "来源与地位",
+      "text": "严复在《原强》中阐述“三育论”，思想源于斯宾塞《教育论》；原书称其为构建三育模式的第一人。",
+      "keywords": [
+        "原强",
+        "斯宾塞教育论",
+        "三育模式"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）简介",
+      "displayTitle": "来源与地位"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-three-educations-1",
+      "knowledgeId": "china-reviewed-ch8-yanfu-three-educations",
+      "title": "鼓民力",
+      "text": "即体育：禁鸦片、破缠足。",
+      "keywords": [
+        "鼓民力",
+        "体育",
+        "禁鸦片",
+        "破缠足"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "displayTitle": "鼓民力"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-three-educations-2",
+      "knowledgeId": "china-reviewed-ch8-yanfu-three-educations",
+      "title": "开民智",
+      "text": "即智育：改科举、废八股、求西学。",
+      "keywords": [
+        "开民智",
+        "智育",
+        "改科举废八股"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "displayTitle": "开民智"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-three-educations-3",
+      "knowledgeId": "china-reviewed-ch8-yanfu-three-educations",
+      "title": "新民德",
+      "text": "即德育：以西方民主、平等、自由思想取代封建伦理道德；“新民德”最难。",
+      "keywords": [
+        "新民德",
+        "德育",
+        "民主平等自由"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "displayTitle": "新民德"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-three-educations-4",
+      "knowledgeId": "china-reviewed-ch8-yanfu-three-educations",
+      "title": "救亡意义",
+      "text": "三育论旨在救亡图存。",
+      "keywords": [
+        "救亡图存"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "displayTitle": "救亡图存"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-three-educations-5",
+      "knowledgeId": "china-reviewed-ch8-yanfu-three-educations",
+      "title": "教育史意义",
+      "text": "确立近代化的教育目标体系。",
+      "keywords": [
+        "近代化教育目标"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "displayTitle": "近代化教育目标体系"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-body-use-0",
+      "knowledgeId": "china-reviewed-ch8-yanfu-body-use",
+      "title": "基本立场",
+      "text": "批判“中体西用”，主张“体用一致”。",
+      "keywords": [
+        "批判中体西用",
+        "体用一致"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）简介",
+      "displayTitle": "批判中体西用、主张体用一致"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-body-use-1",
+      "knowledgeId": "china-reviewed-ch8-yanfu-body-use",
+      "title": "前期",
+      "text": "表现为“全盘西化”倾向，肯定西学的先进性、优越性、整体性和发展性，认为中学与西学各有体用，西学自成体系。",
+      "keywords": [
+        "全盘西化",
+        "西学先进整体",
+        "各有体用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "subsection": "① 前期",
+      "displayTitle": "全盘西化倾向"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-body-use-2",
+      "knowledgeId": "china-reviewed-ch8-yanfu-body-use",
+      "title": "后期",
+      "text": "设想“融会中西、兼备体用”的新文化体系。",
+      "keywords": [
+        "融会中西",
+        "兼备体用"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "subsection": "② 后期",
+      "displayTitle": "融会中西、兼备体用"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-body-use-3",
+      "knowledgeId": "china-reviewed-ch8-yanfu-body-use",
+      "title": "教育设想",
+      "text": "从体用一致出发，设想各教育阶段的教学内容和方法。",
+      "keywords": [
+        "各阶段",
+        "教学内容方法"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容",
+      "displayTitle": "各阶段教学设想"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-evaluation-0",
+      "knowledgeId": "china-reviewed-ch8-yanfu-evaluation",
+      "title": "制度批判",
+      "text": "指出只学西方器物而不改革制度，会反过来阻碍器物层面发展。",
+      "keywords": [
+        "器物层面",
+        "制度改革"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "subsection": "① 制度批判",
+      "displayTitle": "批判中体西用的不合理性"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-evaluation-1",
+      "knowledgeId": "china-reviewed-ch8-yanfu-evaluation",
+      "title": "理论贡献",
+      "text": "建立系统性较强、初具理论形态的文化教育观，从历史演变规律和学理加以阐述。",
+      "keywords": [
+        "系统文化教育观",
+        "历史演变",
+        "学理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "subsection": "② 理论贡献",
+      "displayTitle": "系统的文化教育观"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-evaluation-2",
+      "knowledgeId": "china-reviewed-ch8-yanfu-evaluation",
+      "title": "前期局限",
+      "text": "全面学习西学具有进步意义，但过于忽视中国传统学说。",
+      "keywords": [
+        "全面学西",
+        "忽视传统"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "subsection": "③ 局限",
+      "displayTitle": "前期忽视传统学说"
+    },
+    {
+      "id": "china-reviewed-ch8-yanfu-evaluation-3",
+      "knowledgeId": "china-reviewed-ch8-yanfu-evaluation",
+      "title": "后期局限",
+      "text": "维新变法失败后逐渐转向复古，显示主张不彻底。",
+      "keywords": [
+        "维新失败",
+        "复古",
+        "不彻底"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "subsection": "③ 局限",
+      "displayTitle": "后期逐渐复古"
+    },
+    {
+      "id": "china-reviewed-ch8-three-level-development-0",
+      "knowledgeId": "china-reviewed-ch8-three-level-development",
+      "title": "郑观应",
+      "text": "最早提出仿照西方设小学、中学、大学三级学制。",
+      "keywords": [
+        "郑观应",
+        "小学中学大学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-three-level-development-1",
+      "knowledgeId": "china-reviewed-ch8-three-level-development",
+      "title": "盛宣怀",
+      "text": "在北洋西学堂、南洋公学试行三级学制体系。",
+      "keywords": [
+        "盛宣怀",
+        "北洋南洋"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-three-level-development-2",
+      "knowledgeId": "china-reviewed-ch8-three-level-development",
+      "title": "张之洞",
+      "text": "在清末新政“癸卯学制”中提出初等、中等、高等学堂。",
+      "keywords": [
+        "张之洞",
+        "癸卯学制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-three-level-development-3",
+      "knowledgeId": "china-reviewed-ch8-three-level-development",
+      "title": "梁启超",
+      "text": "介绍日本学制，并较早按人的身心发展规律讨论学制。",
+      "keywords": [
+        "梁启超",
+        "身心发展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-three-level-development-4",
+      "knowledgeId": "china-reviewed-ch8-three-level-development",
+      "title": "严复",
+      "text": "探讨三级学制中教育内容的设置。",
+      "keywords": [
+        "严复",
+        "教育内容"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-yanfu-tables-0",
+      "knowledgeId": "china-reviewed-ch8-liang-yanfu-tables",
+      "title": "梁启超分期",
+      "text": "5 岁以下幼儿期（家庭或幼稚园）；6—13 岁儿童期（小学）；14—21 岁少年期（中学、师范、实业）；22—25 岁成人期（大学）。",
+      "keywords": [
+        "幼儿儿童少年成人",
+        "年龄学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-yanfu-tables-1",
+      "knowledgeId": "china-reviewed-ch8-liang-yanfu-tables",
+      "title": "严复小学",
+      "text": "西学时间十分之一，中学时间十分之九。",
+      "keywords": [
+        "小学",
+        "西一中九"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-yanfu-tables-2",
+      "knowledgeId": "china-reviewed-ch8-liang-yanfu-tables",
+      "title": "严复中学",
+      "text": "西学时间十分之七，中学时间十分之三。",
+      "keywords": [
+        "中学",
+        "西七中三"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch8-liang-yanfu-tables-3",
+      "knowledgeId": "china-reviewed-ch8-liang-yanfu-tables",
+      "title": "严复大学",
+      "text": "只学西学，不学中学。",
+      "keywords": [
+        "大学",
+        "只学西学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p072-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "早期改良派的教育主张 · 第64页",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 72,
+            "rect": [
+              0.10259,
+              0.19625,
+              0.82379,
+              0.36889
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 72182,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p072-k02-0-s0",
+          "knowledgeId": "china-p072-k02-0",
+          "title": "简介",
+          "text": "一简介\n早期改良派是19世纪70年代后逐渐形成的一个思想群体，代表人物有容、王韬和郑观应等。\n他们批判洋务派仅局限于技术层面的引进学习，提倡在政治、经济、文化、教育等方面进行\n全面改革。\n早期改良派的教育主张\n1.全面学习西学",
+          "keywords": [
+            "简介",
+            "早期改良派的教育主张",
+            "全面学习西学"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p072-k02-0-s1",
+          "knowledgeId": "china-p072-k02-0",
+          "title": "改革科举制度",
+          "text": "扩大向西方学习的规模和领域，深化学习的层次。如郑观应倡导全面\n学习西学，将西学分为自然科学、工艺和社会科学等诸多学科。\n2.改革科举制度\n科举制“挂牌招考西学”。\n一（1）内容：郑观应最早勾画出中国近代学制的轮廓。其思想主张有：",
+          "keywords": [
+            "改革科举制度"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p072-k02-0-s2",
+          "knowledgeId": "china-p072-k02-0",
+          "title": "仁主要观点",
+          "text": "①国家应促进教育普及化。主张“无事不学，无人不学”，一语道\n仁主要观点\n破近代教育多样化、职业化、普及化的特征。\n②国家应建立完善的学制体系。他最早提出改书院为学堂，尤其\n3.建立近代学制\n是建立高等学堂，提出仿照西方学制设立小学、中学、大学三级\n学制系统。",
+          "keywords": [
+            "仁主要观点",
+            "建立近代学制"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p072-k02-0-s3",
+          "knowledgeId": "china-p072-k02-0",
+          "title": "倡导女子教育",
+          "text": "③该学制体系有特殊之处。学制中的“小学”已略相当于中等教\n育的起始程度。\n（2）评价：郑观应力图克服洋务学堂孤立性、分散性和应急性的特点。\n4.倡导女子教育\n郑观应的《盛世危言·女教》是集中讨论女子教育问题、倡导女子教",
+          "keywords": [
+            "倡导女子教育"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p072-k02-0-s4",
+          "knowledgeId": "china-p072-k02-0",
+          "title": "原文小步 5",
+          "text": "育的专篇文章。总之，早期改良派最早倡导男女平等的教育观。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p072-k03-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "维新派的教育实践 · 第64页",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 72,
+            "rect": [
+              0.10603,
+              0.61407,
+              0.80448,
+              0.31819
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 72558,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p072-k03-0-s0",
+          "knowledgeId": "china-p072-k03-0",
+          "title": "①兴办学堂",
+          "text": "①兴办学堂。\na.维新人自办学堂。\n万木草堂：康有为在广州开办最早的维新学堂，制定学规《长兴学记》。\n湖南时务学堂：谭嗣同在长沙创办，梁启超任中文总教习，建立《湖南时务学堂学约》\n1百日维新前的教育改革措施\nb.对洋务办学观念有所突破的学堂。",
+          "keywords": [
+            "①兴办学堂",
+            "a.维新人自办学堂",
+            "百日维新前的教育改革措施"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p072-k03-0-s1",
+          "knowledgeId": "china-p072-k03-0",
+          "title": "维新派教育改革措施",
+          "text": "一维新派教育改革措施\n北洋西学堂（天津）和南洋公学（上海）：盛宣怀创建，最早采用西方三级学制\n价措施\n体系（初中高）。\n经正女学（上海）：由梁启超等人创办，是国人自办的第一所女学。\n③发行报刊：a.《万国公报》。\n。康有为创办，后更名为《中外纪闻》，北京强学",
+          "keywords": [
+            "维新派教育改革措施",
+            "价措施",
+            "③发行报刊：a.《万国公报》"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p072-k03-0-s2",
+          "knowledgeId": "china-p072-k03-0",
+          "title": "评价",
+          "text": "会的机关报。\nb.《强学报》。上海强学会的机关报。\nc.其他：梁启超创办《时务报》，严复创办《国闻报》等。\n2评价\n维新派以学会为阵地，以报刊为宣传工具传播西学，与维新学堂互为补充，不仅扩\n大了教育面，也扩大了维新变法运动的社会基础。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p073-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "维新派的教育实践 · 第65页（1）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 73,
+            "rect": [
+              0.08328,
+              0.08412,
+              0.82379,
+              0.50303
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 73081,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p073-k00-0-s0",
+          "knowledgeId": "china-p073-k00-0",
+          "title": "百日维新中的教育改革措施",
+          "text": "一①创办京师大学堂。这是中国近代国立高等教育的开端，也是维新变法失败后唯\n一保留下来的成果。\n2百日维新中的教育改革措施\n②废除八股考试，改革科举制度。废八股，设立经济特科，选拔维新人才。\n①措施",
+          "keywords": [
+            "百日维新中的教育改革措施",
+            "①措施"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p073-k00-0-s1",
+          "knowledgeId": "china-p073-k00-0",
+          "title": "评价",
+          "text": "③实力讲求西学，普遍建立新式学堂。改书院为新式学堂，势在造成“人无不学，\n学无不实”的局面。\n④其他设想。设立实业学堂，主张开放言论、翻译西书，主张派遣留学教育，开设\n报馆等。\n2评价",
+          "keywords": [
+            "评价"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p073-k00-0-s2",
+          "knowledgeId": "china-p073-k00-0",
+          "title": "简介",
+          "text": "虽只有103天就被废止，但百日维新中那种“人人谈时务，家家言西学”的局面确实\n激荡起一股思想解放的潮流。\n1.简介\n资产阶级维新派创办了京师大学堂。\n（1）设想。郑观应最早提出在京师设立大学堂的思想。\n二创办京师大学堂",
+          "keywords": [
+            "简介",
+            "创办京师大学堂"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p073-k00-0-s3",
+          "knowledgeId": "china-p073-k00-0",
+          "title": "发展",
+          "text": "（2）提出。1896年，刑部侍郎李端首次正式提出设立京师大学堂的建议。\n（3）成立。1898年，梁启超草拟《京师大学堂章程》，建立京师大学堂，孙家为\n2. 发展\n管学大臣。\n（4）留存。百日维新虽然失败，但京师大学堂被留存下来。",
+          "keywords": [
+            "发展"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p073-k00-0-s4",
+          "knowledgeId": "china-p073-k00-0",
+          "title": "特点",
+          "text": "（5）后续。1900年毁于八国联军战火，后复办，至民国初年改为北京大学。\n体现在《京师大学堂章程》中。\n(1）办学性质：不仅是全国最高学府，也是全国最高的教育行政机关。\n3. 特点\n(2）办学宗旨：中体西用。\n(3)\n课程设置：西学比重高于中学。",
+          "keywords": [
+            "特点",
+            "办学宗旨：中体西用",
+            "课程设置：西学比重高于中学"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p073-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "维新派的教育实践 · 第65页（2）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 73,
+            "rect": [
+              0.1619,
+              0.58642,
+              0.48585,
+              0.04631
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 73538,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p073-k00-1-s0",
+          "knowledgeId": "china-p073-k00-1",
+          "title": "评价",
+          "text": "意义：标志着中国近代国立高等教育的开端。\n4.评价\n(2）局限：封建等级非常浓厚。",
+          "keywords": [
+            "评价",
+            "局限：封建等级非常浓厚"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p073-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "清末新政时期的教育改革 · 第65页",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 73,
+            "rect": [
+              0.07776,
+              0.69088,
+              0.81138,
+              0.18814
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 73627,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p073-k01-0-s0",
+          "knowledgeId": "china-p073-k01-0",
+          "title": "清末新政时期的教育改革措施",
+          "text": "一清末新政时期的教育改革措施\n1.制定教育宗旨\n忠君、尊孔、尚公、尚武、尚实→这是中国近代第一次正式宣布的教育宗旨。\n中央一—设学部。\n2.建立教育行政体制\n形成新的从中央到地方的教育行政系统。\n地方——设提学使司\n食\n3.“壬寅学制”和“癸卯学制”的颁布",
+          "keywords": [
+            "清末新政时期的教育改革措施",
+            "制定教育宗旨",
+            "中央一—设学部"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p073-k01-0-s1",
+          "knowledgeId": "china-p073-k01-0",
+          "title": "原文小步 2",
+          "text": "（详见下文）\n食食",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p074-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "清末新政时期的教育改革 · 第66页（1）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 74,
+            "rect": [
+              0.09845,
+              0.08668,
+              0.82724,
+              0.64436
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 74083,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p074-k00-0-s0",
+          "knowledgeId": "china-p074-k00-0",
+          "title": "留日教育",
+          "text": "（1）留日教育。\n①原因：a.政策支持；b.战争刺激；c.科举废除；d.条件便利。\n②内容：a.学生生源广泛；b.学生成分复杂；c.研习科目变多；d.爱国热情高涨。\n③评价：形成了资产阶级革命派群体，影响中国近代社会的变革。\n（2）留美教育\n“庚款兴学”。",
+          "keywords": [
+            "留日教育",
+            "留美教育",
+            "“庚款兴学”"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p074-k00-0-s1",
+          "knowledgeId": "china-p074-k00-0",
+          "title": "清末留学教育",
+          "text": "4.清末留学教育\n一清末新政时期的教育改革措施\n①简介：为了培植效忠于美帝国主义的中国精英，美国将“庚子赔款”中的\n食商\n品考\n一部分以“先赔后退”的方式退还，鼓励留美教育，后欧洲国家纷\n纷效仿。",
+          "keywords": [
+            "清末留学教育",
+            "清末新政时期的教育改革措施"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p074-k00-0-s2",
+          "knowledgeId": "china-p074-k00-0",
+          "title": "原文小步 3",
+          "text": "②措施：确立机构。美一—游美学生监督处；中一—游美学务处和清华学堂。\n规范严格。经严格选拔，成绩优异者可公费留学。\n③意义：流向变化。把留学潮流引向美国。\n学生贡献。对中国近现代教育和科技贡献巨大。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p074-k00-0-s3",
+          "knowledgeId": "china-p074-k00-0",
+          "title": "废科举",
+          "text": "（1）科举弊端：①烦琐空疏，摧残人才；②使学校沦为附庸；③败坏学习风气。\n(2） 废除过程：①改革科举内容→ ②递减科举中额→ ③科举制度完全废止。\n5.废科举\n(3） 废除意义：①标志着旧教育体制的结束。\n兴学堂\n②推动兴办学校的浪潮。\n③正视科举制度的价值。",
+          "keywords": [
+            "废科举",
+            "兴学堂",
+            "②推动兴办学校的浪潮"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p074-k00-0-s4",
+          "knowledgeId": "china-p074-k00-0",
+          "title": "施：论",
+          "text": "施：论\n壬寅学制和葵卯学制的颁布\n（1）“壬寅学制”：第一个制定但未实施的学制。\n《钦定学堂章程》：张百熙主持；三段七级；7年义务教育。\n1.简介\n（2）“癸卯学制”：第一个正式实施的全国性法定学制。",
+          "keywords": [
+            "施：论",
+            "壬寅学制和葵卯学制的颁布",
+            "简介"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p074-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "清末新政时期的教育改革 · 第66页（2）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 74,
+            "rect": [
+              0.09569,
+              0.60486,
+              0.83,
+              0.3274
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 74554,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p074-k00-1-s0",
+          "knowledgeId": "china-p074-k00-1",
+          "title": "学制结构 (直接参考日本)",
+          "text": "《奏定学堂章程》：张百熙、荣庆、张之洞主持；三段七级；5年义务教育。\n2.学制结构 (直接参考日本)\n通儒院（5年）\n高等教育\n大学堂（3～4年）\n三级11~12年\n高等学堂/大学预科（3年）\n普通教育系统\n中等教育\n中学堂—一级5年\n癸卯学制\n高等小学堂（4年）一",
+          "keywords": [
+            "学制结构 (直接参考日本)",
+            "普通教育系统",
+            "癸卯学制"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p074-k00-1-s1",
+          "knowledgeId": "china-p074-k00-1",
+          "title": "其他教育系统",
+          "text": "初等教育\n初等小学堂（5年）\n三级13年\n蒙养院（4年）\n师范教育\n其他教育系统\n实业教育\n①考试侧重“癸卯学制”结构图，此处不再呈现“壬寅学制”结构图，以免增加学习负担。",
+          "keywords": [
+            "其他教育系统"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p075-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "清末新政时期的教育改革 · 第67页（1）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 75,
+            "rect": [
+              0.07007,
+              0.08067,
+              0.84265,
+              0.46585
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 75078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p075-k00-0-s0",
+          "knowledgeId": "china-p075-k00-0",
+          "title": "积极影响：半资本主义性",
+          "text": "(1）积极影响：半资本主义性。\n①学制体系：仿照西方流行的三级学制系统模式，分为初等、中等、高等三级，规划义务教\n育阶段，反映了对教育普及性和平等性的要求。\n②培养目标：确立德、智、体协调发展的“三育”模式。",
+          "keywords": [
+            "积极影响：半资本主义性"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p075-k00-0-s1",
+          "knowledgeId": "china-p075-k00-0",
+          "title": "清未学制的评价",
+          "text": "③实业学校：设置实业学堂，推动了近代资本主义工商业的发展。\n④师范教育：重视师范教育，加强教师职业训练。\n3清未学制的评价\n5课程设置：课程比重上，西学占主导地位。\n教学管理：重视课程规划与班级授课制。\n尊重儿童：尊重儿童个性，禁止体罚。",
+          "keywords": [
+            "清未学制的评价"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p075-k00-0-s2",
+          "knowledgeId": "china-p075-k00-0",
+          "title": "消极影响：半封建性",
+          "text": "(2）消极影响：半封建性。\n(二)\n①根本目的：培养学生效忠封建王朝。\n“壬寅学制和癸卯学制的颁布\n②课程设置：“读经讲经”课比重过大，导致学制偏长。\n③维护等级：进入大学堂需要保人作保，客观上限制普通民众进入高等教育，维护了教育的\n封建等级性。",
+          "keywords": [
+            "消极影响：半封建性",
+            "“壬寅学制和癸卯学制的颁布"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p075-k00-0-s3",
+          "knowledgeId": "china-p075-k00-0",
+          "title": "清未学制的补充与修订",
+          "text": "④排斥女性：广大妇女被排斥在学校教育之外。\n管理专制：许多规定旨在维护封建统治秩序，体现了较强的封建专制性。\n4清未学制的补充与修订\n6科举功名：根据学生的表现和学业程度奖励相应的科举功名，没有割断与旧教育的瓜葛。",
+          "keywords": [
+            "清未学制的补充与修订"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p075-k00-0-s4",
+          "knowledgeId": "china-p075-k00-0",
+          "title": "原文小步 5",
+          "text": "（3）总评：清末学制具有半资本主义半封建性，是传统性和近代性综合的产物，也是学习西\n方教育的系统性成果，在中国教育近代化发展中有标志性意义。\n（1）开放“女禁”。颁布《女子小学堂章程》《女子师范学堂章程》，是我国女子教育在学制\n上取得合法地位的开始。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p075-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "清末新政时期的教育改革 · 第67页（2）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 75,
+            "rect": [
+              0.10037,
+              0.50015,
+              0.81166,
+              0.4002
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 75460,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p075-k00-1-s0",
+          "knowledgeId": "china-p075-k00-1",
+          "title": "凯程助记",
+          "text": "（2）设置初等小学简易科。年限可缩短至4年或3年，课程更精简，有利于扩大教育对象和范围。\n（3）中学实行文、实分科。1909年，清政府调整中学制度，实行文、实分科，课程各有侧重。\n凯程助记\n积极影响：半资本主义性\n消极影响：半封建性",
+          "keywords": [
+            "凯程助记"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p075-k00-1-s1",
+          "knowledgeId": "china-p075-k00-1",
+          "title": "凯程深化",
+          "text": "指导思想忠清朝，读经讲经年限长，\n清末学制的评价\n三级学制三育论，实业师范西学重\n维护等级排女性，专制规定多茫茫，\n班级授课做规划，禁止体罚尊儿童\n科举功名为奖励，旧式教育不退堂\n凯程深化\n留学教育总结表\n时期\n洋务运动\n新政时期\n维度\n幼童留美：中途天折。",
+          "keywords": [
+            "凯程深化"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p075-k00-1-s2",
+          "knowledgeId": "china-p075-k00-1",
+          "title": "原文小步 8",
+          "text": "留日教育小高潮：培养资产阶级革命者。\n留学\n留欧教育：福建船政学堂学员\n留美教育：“庚款兴学”\n经费\n公费\n公费与自费并举\n学习\n幼童留美：英语、自然科学、儒家经典。\n留日：政法、师范、军事最多。\n专业\n留欧教育：造船和航海技术\n留美：专业更广泛\n规模\n规模小\n规模大",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p076-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "清末新政时期的教育改革 · 第68页",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 76,
+            "rect": [
+              0.11966,
+              0.08015,
+              0.76275,
+              0.15508
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 76077,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p076-k00-0-s0",
+          "knowledgeId": "china-p076-k00-0",
+          "title": "原文小步 1",
+          "text": "续表\n时期\n洋务运动\n新政时期\n维度\n幼童留美：挑选聪慧儿童。\n留日：生源广泛、成分复杂。\n生源\n留欧教育：福建船政学堂内部的优秀青年\n留美：通过严格考试选拔优秀青年\n幼童留美：虽然天折，但迈出留学的第一步。\n留日：对中国的资产阶级革命活动有贡献。\n评价",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p076-k00-0-s1",
+          "knowledgeId": "china-p076-k00-0",
+          "title": "原文小步 2",
+          "text": "留欧教育：规模虽小，但对海军和制造业贡献大\n留美：对中国近现代教育和科技贡献巨大",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p076-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "资产阶级革命派的教育活动 · 第68页",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 76,
+            "rect": [
+              0.09762,
+              0.28426,
+              0.82404,
+              0.12994
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 76261,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p076-k01-0-s0",
+          "knowledgeId": "china-p076-k01-0",
+          "title": "简介",
+          "text": "（一）简介\n清末新政时期，资产阶级革命派以推翻清政府的腐朽统治为目标，在民间开展一系\n资产阶\n级革命\n列的教育活动。\n派的教\n一1.中国教育会。1902年，蔡元培等人建立，表面从事教育工作，实际暗中宣传革命。\n育活动",
+          "keywords": [
+            "简介",
+            "资产阶",
+            "级革命"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p076-k01-0-s1",
+          "knowledgeId": "china-p076-k01-0",
+          "title": "原文小步 2",
+          "text": "2.爱国学社。1902年，中国教育会为南洋公学罢课学生组建的学校。（墨水瓶事件”，\n机构\n蔡元培出面）\n3.爱国女学。1902年中国教育会成立后，在蔡元培等人的建议下建立的著名革命女校。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p076-k03-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "康有为的教育思想 · 第68页",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 76,
+            "rect": [
+              0.09968,
+              0.53092,
+              0.82199,
+              0.39969
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 76483,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p076-k03-0-s0",
+          "knowledgeId": "china-p076-k03-0",
+          "title": "简介",
+          "text": "(一）简介\n康有为是资产阶级维新派的主要代表人物和变法者。教育活动有设立万木草堂、进行\n“公车上书”。\n1.废八股，改策论。\n维新运动中\n2.办学校，育新人。\n康有为的教育思想\n3.派留学，译西书。\n的教育改革主张\n4.倡平等，重女教。\n1.社会愿景",
+          "keywords": [
+            "简介",
+            "废八股，改策论",
+            "维新运动中"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p076-k03-0-s1",
+          "knowledgeId": "china-p076-k03-0",
+          "title": "《大同书》中",
+          "text": "建立“无邦国，无帝王，人人相亲，人人平等，天下为公”的\n社会，主张废除私有制和等级制，消灭家庭，儿童公养公育。\n一（1）人本院（出生前）。对儿童进行胎教。\n（2）育婴院（0一3岁）。育婴院与慈幼院都是幼儿教\n育的主要承担机构。\n(三)《大同书》中",
+          "keywords": [
+            "《大同书》中"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p076-k03-0-s2",
+          "knowledgeId": "china-p076-k03-0",
+          "title": "教育体系",
+          "text": "（3）慈幼院（3～6岁）。“养儿体，乐儿魂，开儿知识”。\n2. 教育体系\n（4）小学院（6一11岁）。德育为先，坚持“养体为主\n的教育理想\n而开智次之”，专用“女傅”。\n（5）中学院（11～15岁）。人生的关键期，应德、智、\n体兼重，尤以育德为重，教师男女均可。",
+          "keywords": [
+            "教育体系",
+            "的教育理想"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p076-k03-0-s3",
+          "knowledgeId": "china-p076-k03-0",
+          "title": "构建新式教育制度",
+          "text": "（6）大学院（15～20岁）。开智为主，教师不限男女。\n(1)\n构建新式教育制度。\n3.评价\n(2）乌托邦色彩浓厚。",
+          "keywords": [
+            "构建新式教育制度",
+            "评价",
+            "乌托邦色彩浓厚"
+          ],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p077-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "梁启超的教育思想 · 第69页（1）",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 77,
+            "rect": [
+              0.08729,
+              0.16067,
+              0.8268,
+              0.56174
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 77150,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p077-k01-0-s0",
+          "knowledgeId": "china-p077-k01-0",
+          "title": "简介",
+          "text": "(一） 简介\n梁启超是中国近代维新派的重要代表人物。\n1.教育作用\n开民智，伸民权→先开民智，再伸民权，权生\n于智。\n（1）内容：“新民”指具有资产阶级道德品\n2.教育目的：\n质的新民，包括民力、民智、民德三种素养。\n梁启超的教育思想\n培养新民",
+          "keywords": [
+            "简介",
+            "教育作用",
+            "教育目的"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p077-k01-0-s1",
+          "knowledgeId": "china-p077-k01-0",
+          "title": "内容",
+          "text": "（2）评价A：梁启超所要树立的新国民，具有反封建思想、\n爱国心，想推动政治改革。\n（1）简介：根据西方心理学成果制定学制阶段，列出了《教育期\n区分表》。\n(2)内容:\n①划分教育阶段。5岁以下（幼儿期一—家庭教育与幼稚园期）；",
+          "keywords": [
+            "内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p077-k01-0-s2",
+          "knowledgeId": "china-p077-k01-0",
+          "title": "论学制",
+          "text": "6~13岁（儿童期——小学校期）；14~21岁（少年期—中\n学校期）；22～25岁（成人期——大学校期）。\n3.论学制\n②介绍身心特征。梁启超分别介绍了各个年龄阶段学生的身心\n发展特征。\n③介绍日本学制。梁启超依据日本学者对学制的划分提出中国\n（二)观点",
+          "keywords": [
+            "论学制",
+            "观点"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p077-k01-0-s3",
+          "knowledgeId": "china-p077-k01-0",
+          "title": "原文小步 4",
+          "text": "学制的四阶段。\n④结合中国实际。提出“大办小学、缓办大学”的建议。\n（3）评价B梁启超是中国近代最早系统介绍和倡导这一理论的人。\n（1）简介：梁启超在《时务报》上发表《变法通议·论师范》。\n（2）问题：两类教师不可用。传统教师不了解西学；外国教\n师滥等充数。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p077-k01-0-s4",
+          "knowledgeId": "china-p077-k01-0",
+          "title": "论师范教育",
+          "text": "4.论师范教育\n（3）措施：设立师范学校。中国急需普遍设立中、西学兼习\n的新式学堂，培养符合时代要求的教师。\n（4）评价C：梁启超是中国近代教育史上首次专文论述师\n范教育问题的人，也是我国最早提出设立师范学校的人。",
+          "keywords": [
+            "论师范教育"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p077-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "梁启超的教育思想 · 第69页（2）",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 77,
+            "rect": [
+              0.29183,
+              0.71862,
+              0.61744,
+              0.20328
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 77657,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p077-k01-1-s0",
+          "knowledgeId": "china-p077-k01-1",
+          "title": "原因",
+          "text": "（1）简介：梁启超在《时务报》上发表《变法通议·论女学》。\n(2) 原因:\n①必要性。女子自养自立、成才成德、教育子女、实施文\n明胎教等。\n5.论女子教育\n②人力资源。女子是重要的人才资源。\n③天赋权利。女子接受教育是天赋权利。",
+          "keywords": [
+            "原因",
+            "论女子教育"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p077-k01-1-s1",
+          "knowledgeId": "china-p077-k01-1",
+          "title": "原文小步 7",
+          "text": "④反映国势。女子教育发展水平反映国势强弱。\n（3）措施：①破除缠足；②创办女学，如经正女学。\n（4）评价D：梁启超女子教育的主张反映了男女平权、解\n放妇女的思想，具有鲜明的进步意义。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p078-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "梁启超的教育思想 · 第70页",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 78,
+            "rect": [
+              0.09968,
+              0.08169,
+              0.82405,
+              0.25508
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 78078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p078-k00-0-s0",
+          "knowledgeId": "china-p078-k00-0",
+          "title": "观点",
+          "text": "（1）简介：梁启超撰成《变法通议·论幼学》，提出“人生百年，\n立于幼学”主张，倡导对儿童教育进行改革。\n（2）理论：对中西儿童教育进行比较。\n①西方强调由浅入深、由易到难、循序渐进，而中国相反。\n②西方重视理解，而中国注重识记。\n（二）观点\n6.论儿童教育",
+          "keywords": [
+            "观点",
+            "论儿童教育"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p078-k00-0-s1",
+          "knowledgeId": "china-p078-k00-0",
+          "title": "梁启超的教育思想",
+          "text": "③西方注重直观教学、实物教学，而中国只注重言语文字。\n梁启超的教育思想\n④西方还重视儿童的学习兴趣。\n凯程助记\n（3）实践：主张为儿童办新式学校，采用西方教学方法，从\n顺序+理解+直观+兴趣。\n编写儿童教学用书入手对儿童教育进行改革。",
+          "keywords": [
+            "梁启超的教育思想",
+            "④西方还重视儿童的学习兴趣",
+            "凯程助记"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p078-k00-0-s2",
+          "knowledgeId": "china-p078-k00-0",
+          "title": "评价",
+          "text": "（4）评价E：梁启超是我国近代最早倡导各科教材教法的教\n育家。\n（三)评价\n评价A+B+C+D+E。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p078-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "严复的教育思想 · 第70页",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 78,
+            "rect": [
+              0.10106,
+              0.40169,
+              0.82612,
+              0.53046
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 78366,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p078-k01-0-s0",
+          "knowledgeId": "china-p078-k01-0",
+          "title": "简介",
+          "text": "（一） 简介\n严复是我国近代史上第一个比较系统地介绍和传播西方资产阶级自然科学和社会科学的\n启蒙人物。他翻译了《天演论》《原富》等西方名著。\n（1）批判八股教育。①智慧；②坏心术；③滋游手。\n1.对传统教育",
+          "keywords": [
+            "简介",
+            "对传统教育"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p078-k01-0-s1",
+          "knowledgeId": "china-p078-k01-0",
+          "title": "复的教育思想",
+          "text": "（2）批判传统学风。严复认为西方的学风比中国的学风更重\n复的教育思想\n的批判\n思考。\n（3）批判学习方法。严复认为西方的学习方法比中国的学\n(《救亡决论》)\n习方法更重质疑和验证。\n（1）简介：严复是构建“三育论”模式的第一人，在《原强》",
+          "keywords": [
+            "复的教育思想",
+            "的批判",
+            "(《救亡决论》)"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p078-k01-0-s2",
+          "knowledgeId": "china-p078-k01-0",
+          "title": "“三育论”",
+          "text": "中首次阐述，其思想源自斯宾塞的《教育论》。\n（2）内容：“鼓民力”即体育→禁鸦片和破缠足。\n2.“三育论”\n“开民智”即智育→改科举，废八股，求西学。\n(二) 观点\n(《原强》)\n新民德”即德育→采用西方的民主、平等、自\n由思想取代封建伦理道德。（“新民德”最难）",
+          "keywords": [
+            "“三育论”",
+            "观点",
+            "(《原强》)"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p078-k01-0-s3",
+          "knowledgeId": "china-p078-k01-0",
+          "title": "内容",
+          "text": "（3）评价A：①为了救亡图存。\n②确立了近代化的教育目标体系。\n（1）简介：严复批判“中体西用”思想，主张“体用一致”\n的文化教育观。\n(2) 内容:\n3.“体用一致”的文化教\n①前期表现为“全盘西化”倾向。\n育观\na.肯定了西学的先进性和优越性。",
+          "keywords": [
+            "内容",
+            "“体用一致”的文化教",
+            "①前期表现为“全盘西化”倾向"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p078-k01-0-s4",
+          "knowledgeId": "china-p078-k01-0",
+          "title": "（《论世变之亟》《原强》",
+          "text": "（《论世变之亟》《原强》\nb.肯定了西学的整体性和发展性。“中学”与“西学”\n各有体用；“西学”自身有完整的体系。\n《救亡决论》）\n②后期表现为“融会中西、兼备体用”的新文化体系的设想。\n选;论\n③从“体用一致”等观点出发，严复设想各阶段的教\n学内容和方法。",
+          "keywords": [
+            "（《论世变之亟》《原强》",
+            "《救亡决论》）",
+            "选;论"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p079-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-7",
+        "title": "严复的教育思想 · 第71页",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 79,
+            "rect": [
+              0.0881,
+              0.08272,
+              0.82655,
+              0.82276
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 79079,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p079-k00-0-s0",
+          "knowledgeId": "china-p079-k00-0",
+          "title": "评价B",
+          "text": "（3）评价B：\n①严复批判“中体西用”思想的不合理性。如果洋务派只\n学西学的器物层面，无法深入到制度层面，制度不改革也\n3.“体用一致”的\n会阻碍器物层面的发展。\n②严复建立了系统性较强的文化教育观。严复的文化教育\n文化教育观\n严复的教育思想\n（二）观点",
+          "keywords": [
+            "评价B",
+            "“体用一致”的",
+            "文化教育观"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p079-k00-0-s1",
+          "knowledgeId": "china-p079-k00-0",
+          "title": "（《论世变之亟》《原",
+          "text": "观具有很强的系统性并初具理论形态，他从历史演变的规\n（《论世变之亟》《原\n律和学理上进行阐述，进步意义很大。\n强》《救亡决论》)\n③局限：在前期，虽然提倡全面学习西学具有历史进步意\n义，但过于忽视中国传统学说。\n（三)评价\n评价A+B。",
+          "keywords": [
+            "（《论世变之亟》《原",
+            "强》《救亡决论》)",
+            "评价"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p079-k00-0-s2",
+          "knowledgeId": "china-p079-k00-0",
+          "title": "凯程深化",
+          "text": "在后期，维新变法失败后，他又逐渐走向复古主\n义的道路，表现出其主张的不彻底性。\n凯程深化\n西方三级学制在中国的发展：\n（1）郑观应：最早提出仿照西方学制设立小学、中学、大学三级学制系统。\n（2）盛宣怀：北洋西学堂与南洋公学，试行三级学制体系。",
+          "keywords": [
+            "凯程深化"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p079-k00-0-s3",
+          "knowledgeId": "china-p079-k00-0",
+          "title": "知识小贴士",
+          "text": "（3）张之洞：在清末新政改革的“癸卯学制”中提出了初等、中等和高等学堂。\n（4）梁启超：介绍日本学制，最早提出按照人的身心发展规律来制定学制。\n（5）严复：探讨三级学制中的教育内容的设置。\n知识小贴士\n梁启超的教育分期表\n年龄\n时期\n学校\n5岁以下\n幼儿期",
+          "keywords": [
+            "知识小贴士"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p079-k00-0-s4",
+          "knowledgeId": "china-p079-k00-0",
+          "title": "原文小步 5",
+          "text": "家庭教育或幼稚园\n6~13岁\n儿童期\n小学\n14~21岁\n少年期\n中学（师范、实业）\n22~25岁\n成人期\n大学\n严复的教育内容设想\n阶段\n学西学时间\n学中学时间\n小学\n十分之一\n十分之九\n中学\n十分之七\n十分之三\n大学\n只学西学\n不学中学",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 9,
+    "knowledge": 35,
+    "steps": 149,
+    "memorizeSteps": 149,
+    "readOnlySteps": 0,
+    "replacedDrafts": 17
+  }
+}

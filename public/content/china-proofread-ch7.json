@@ -1,0 +1,2910 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch7-v2",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch7-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "第七章内容框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 66,
+          "rect": [
+            0.27,
+            0.19,
+            0.49,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 66171,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-stages",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "1. 教会学校发展的四个阶段",
+      "section": "第一节 · 考点一 教会学校在中国的举办 · （一）宏观背景",
+      "refs": [
+        {
+          "page": 66,
+          "rect": [
+            0.17,
+            0.43,
+            0.72,
+            0.34
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 66387,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-early-schools",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "第一阶段的代表学校",
+      "section": "第一节 · 考点一 教会学校在中国的举办 · （一）宏观背景 · 1. 第一阶段",
+      "refs": [
+        {
+          "page": 66,
+          "rect": [
+            0.27,
+            0.51,
+            0.62,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 66459,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-leadership",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "（二）领导机构",
+      "section": "第一节 · 考点一 教会学校在中国的举办 · （二）领导机构",
+      "refs": [
+        {
+          "page": 66,
+          "rect": [
+            0.18,
+            0.77,
+            0.72,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 66693,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-curriculum",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "（三）课程",
+      "section": "第一节 · 考点一 教会学校在中国的举办 · （三）课程",
+      "refs": [
+        {
+          "page": 67,
+          "rect": [
+            0.18,
+            0.06,
+            0.72,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 67054,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-effects",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "（四）性质与影响",
+      "section": "第一节 · 考点一 教会学校在中国的举办 · （四）性质与影响",
+      "refs": [
+        {
+          "page": 67,
+          "rect": [
+            0.24,
+            0.24,
+            0.66,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 67216,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-types",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "1. 洋务学堂的类别",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 1. 类别",
+      "refs": [
+        {
+          "page": 67,
+          "rect": [
+            0.2,
+            0.48,
+            0.69,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 67432,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "2. 洋务学堂的特点（新旧杂糅）",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 2. 特点（新旧杂糅）",
+      "refs": [
+        {
+          "page": 67,
+          "rect": [
+            0.25,
+            0.61,
+            0.64,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 67549,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-meaning",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "3. 兴办洋务学堂的意义",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 3. 意义",
+      "refs": [
+        {
+          "page": 67,
+          "rect": [
+            0.21,
+            0.87,
+            0.69,
+            0.07
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 67783,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "京师同文馆",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 京师同文馆",
+      "refs": [
+        {
+          "page": 67,
+          "rect": [
+            0.18,
+            0.9,
+            0.72,
+            0.1
+          ]
+        },
+        {
+          "page": 68,
+          "rect": [
+            0.2,
+            0.06,
+            0.66,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 67810,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "（三）京师同文馆的特点",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 京师同文馆 · （三）特点",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.25,
+            0.06,
+            0.62,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68054,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-meaning",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "（四）京师同文馆的意义",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 京师同文馆 · （四）意义",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.29,
+            0.25,
+            0.57,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68225,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "福建船政学堂",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 福建船政学堂",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.19,
+            0.42,
+            0.69,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68378,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-structure",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "2. 福建船政学堂的结构",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 福建船政学堂 · （二）特点 · 2. 学堂结构",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.29,
+            0.52,
+            0.58,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68468,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "3. 福建船政学堂的发展过程",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 福建船政学堂 · （二）特点 · 3. 发展过程",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.35,
+            0.68,
+            0.52,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68612,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-meaning",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "（三）福建船政学堂的意义",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （一）兴办学堂 · 福建船政学堂 · （三）意义",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.27,
+            0.8,
+            0.6,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68720,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-plan",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "1. 幼童留美：简介与特点",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （二）留学教育 · 1. 幼童留美",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.22,
+            0.86,
+            0.65,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68774,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-result",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "1. 幼童留美：内容、结果与评价",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （二）留学教育 · 1. 幼童留美",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.29,
+            0.91,
+            0.58,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68819,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-europe-students",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "2. 派遣留欧",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （二）留学教育 · 2. 派遣留欧",
+      "refs": [
+        {
+          "page": 69,
+          "rect": [
+            0.27,
+            0.07,
+            0.59,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 69063,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-study-abroad-meaning",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "3. 留学教育的意义",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · （二）留学教育 · 3. 留学教育的意义",
+      "refs": [
+        {
+          "page": 69,
+          "rect": [
+            0.29,
+            0.37,
+            0.57,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 69333,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-western-representatives",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "洋务派代表人物",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · 洋务派代表人物",
+      "refs": [
+        {
+          "page": 69,
+          "rect": [
+            0.2,
+            0.56,
+            0.64,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 69504,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-study-abroad-outcomes",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "留美幼童与留欧生的后续",
+      "section": "第一节 · 考点二 洋务派的教育改革措施 · 知识小贴士",
+      "refs": [
+        {
+          "page": 70,
+          "rect": [
+            0.12,
+            0.1,
+            0.77,
+            0.49
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 70090,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-formation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "（一）“中体西用”思想的形成和发展",
+      "section": "第二节 · 考点一 “中体西用”主张与张之洞的教育思想 · （一）“中体西用”思想的形成和发展",
+      "refs": [
+        {
+          "page": 70,
+          "rect": [
+            0.18,
+            0.64,
+            0.7,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 70576,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-quanxue",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "（二）张之洞与《劝学篇》",
+      "section": "第二节 · 考点一 “中体西用”主张与张之洞的教育思想 · （二）张之洞与《劝学篇》",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.22,
+            0.06,
+            0.67,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71054,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "2. “中学”与“西学”",
+      "section": "第二节 · 考点一 “中体西用”主张与张之洞的教育思想 · （二）张之洞与《劝学篇》 · 2. 内容",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.25,
+            0.2,
+            0.63,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71180,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-relation-measures",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "2. 中西学关系与具体措施",
+      "section": "第二节 · 考点一 “中体西用”主张与张之洞的教育思想 · （二）张之洞与《劝学篇》 · 2. 内容",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.29,
+            0.43,
+            0.58,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71387,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "3. 《劝学篇》的简评",
+      "section": "第二节 · 考点一 “中体西用”主张与张之洞的教育思想 · （二）张之洞与《劝学篇》 · 3. 简评",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.24,
+            0.53,
+            0.64,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71477,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "1. “中体西用”的历史作用",
+      "section": "第二节 · 考点一 “中体西用”主张与张之洞的教育思想 · （三）“中体西用”的历史作用与局限 · 1. 历史作用",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.27,
+            0.63,
+            0.6,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71567,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-limits",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-6",
+      "title": "2. “中体西用”的局限",
+      "section": "第二节 · 考点一 “中体西用”主张与张之洞的教育思想 · （三）“中体西用”的历史作用与局限 · 2. 局限",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.29,
+            0.77,
+            0.57,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71693,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、年代、校名、人名、引文和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch7-outline-0",
+      "knowledgeId": "china-reviewed-ch7-outline",
+      "title": "教育改革措施",
+      "text": "包括教会学校在中国的举办和洋务派的教育改革措施。",
+      "keywords": [
+        "教会学校",
+        "洋务派改革"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-outline-1",
+      "knowledgeId": "china-reviewed-ch7-outline",
+      "title": "教育思想",
+      "text": "本章教育思想为“中体西用”主张与张之洞的教育思想。",
+      "keywords": [
+        "中体西用",
+        "张之洞"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-stages-0",
+      "knowledgeId": "china-reviewed-ch7-mission-stages",
+      "title": "小规模阶段",
+      "text": "1840—1860 年：规模小、程度低，以传教为目的，主要招收贫苦子弟，办学困难。",
+      "keywords": [
+        "1840—1860",
+        "小规模",
+        "传教",
+        "贫苦子弟"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-stages-1",
+      "knowledgeId": "china-reviewed-ch7-mission-stages",
+      "title": "各自为政阶段",
+      "text": "19 世纪 60 年代初至 1876 年：学校数量迅速增加但零星分散、各自为政；以小学为主，已有少量中学。",
+      "keywords": [
+        "1860年代初—1876",
+        "各自为政",
+        "小学为主"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-stages-2",
+      "knowledgeId": "china-reviewed-ch7-mission-stages",
+      "title": "系统化阶段",
+      "text": "1877 年至 20 世纪 20 年代：形成从初等到高等并包括专门教育、相互衔接的教会教育系统；体系化、制度化，数量多、程度高，同时带有文化侵略性质。",
+      "keywords": [
+        "1877—20世纪20年代",
+        "系统化",
+        "专门教育",
+        "文化侵略"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-stages-3",
+      "knowledgeId": "china-reviewed-ch7-mission-stages",
+      "title": "世俗化与中国化阶段",
+      "text": "20 世纪 20 年代至中华人民共和国成立：收回教育权运动促使教会学校向世俗化、中国化改革，并收敛文化侵略企图。",
+      "keywords": [
+        "20世纪20年代",
+        "收回教育权运动",
+        "世俗化",
+        "中国化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-early-schools-0",
+      "knowledgeId": "china-reviewed-ch7-mission-early-schools",
+      "title": "英华书院",
+      "text": "原书称其为第一所主要面向华人的新式学校，但不设在中国本土；办学地点由马六甲迁至香港。",
+      "keywords": [
+        "英华书院",
+        "面向华人",
+        "马六甲",
+        "香港"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-early-schools-1",
+      "knowledgeId": "china-reviewed-ch7-mission-early-schools",
+      "title": "马礼逊学堂",
+      "text": "原书称其为最早设立于中国本土的比较正式的教会学校，开创教会在华办学先河；办学地点由澳门迁至香港。",
+      "keywords": [
+        "马礼逊学堂",
+        "澳门",
+        "香港"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-early-schools-2",
+      "knowledgeId": "china-reviewed-ch7-mission-early-schools",
+      "title": "宁波女塾",
+      "text": "传教士在中国创办的第一所教会女子学校，也是原书所称近代中国第一所女子学校。",
+      "keywords": [
+        "宁波女塾",
+        "教会女子学校",
+        "女子学校"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-leadership-0",
+      "knowledgeId": "china-reviewed-ch7-mission-leadership",
+      "title": "益智书会",
+      "text": "1877 年，传教士建立“学校与教科书委员会”，中文名称为“益智书会”，是近代第一个在华基督教教会联合组织。",
+      "keywords": [
+        "1877",
+        "学校与教科书委员会",
+        "益智书会",
+        "联合组织"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 简介",
+      "displayTitle": "益智书会"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-leadership-1",
+      "knowledgeId": "china-reviewed-ch7-mission-leadership",
+      "title": "中华教育会",
+      "text": "1890 年，“学校与教科书委员会”改组为“中华教育会”，对教会教育进行全面指导。",
+      "keywords": [
+        "1890",
+        "中华教育会",
+        "全面指导"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 简介",
+      "displayTitle": "中华教育会"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-leadership-2",
+      "knowledgeId": "china-reviewed-ch7-mission-leadership",
+      "title": "组织特点",
+      "text": "体现中国元素、科学性和宗教色彩。",
+      "keywords": [
+        "中国元素",
+        "科学性",
+        "宗教色彩"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 特点",
+      "displayTitle": "组织特点"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-leadership-3",
+      "knowledgeId": "china-reviewed-ch7-mission-leadership",
+      "title": "作用",
+      "text": "前者推动教会学校教材编写；中华教育会成为中国基督教教会教育的最高领导机构。",
+      "keywords": [
+        "教材编写",
+        "最高领导机构"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 评价",
+      "displayTitle": "作用与地位"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-curriculum-0",
+      "knowledgeId": "china-reviewed-ch7-mission-curriculum",
+      "title": "宗教",
+      "text": "通常是必开的主课，但上海中西书院等学校不列宗教课程。",
+      "keywords": [
+        "宗教主课",
+        "中西书院"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-curriculum-1",
+      "knowledgeId": "china-reviewed-ch7-mission-curriculum",
+      "title": "外语",
+      "text": "或设置外语课，或以外语作为教学语言；狄考文的登州文会馆不设英语课程。",
+      "keywords": [
+        "外语课",
+        "教学语言",
+        "登州文会馆"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-curriculum-2",
+      "knowledgeId": "china-reviewed-ch7-mission-curriculum",
+      "title": "西学",
+      "text": "重视科学课程，包括自然科学和人文科学。",
+      "keywords": [
+        "西学",
+        "自然科学",
+        "人文科学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-curriculum-3",
+      "knowledgeId": "china-reviewed-ch7-mission-curriculum",
+      "title": "儒学经典",
+      "text": "为在中国顺利招生，教会学校也妥协开设儒学经典课程。",
+      "keywords": [
+        "儒学经典",
+        "招生"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-effects-0",
+      "knowledgeId": "china-reviewed-ch7-mission-effects",
+      "title": "过渡作用",
+      "text": "教会学校是中国传统教育向近代教育过渡的促进因素。",
+      "keywords": [
+        "传统向近代",
+        "促进因素"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 积极影响",
+      "displayTitle": "传统教育向近代教育过渡"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-effects-1",
+      "knowledgeId": "china-reviewed-ch7-mission-effects",
+      "title": "教育体系",
+      "text": "促进中国近代教育体系的建立。",
+      "keywords": [
+        "近代教育体系"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 积极影响",
+      "displayTitle": "建立近代教育体系"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-effects-2",
+      "knowledgeId": "china-reviewed-ch7-mission-effects",
+      "title": "教育视野",
+      "text": "促进中国人教育视野的开阔。",
+      "keywords": [
+        "教育视野"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 积极影响",
+      "displayTitle": "开阔教育视野"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-effects-3",
+      "knowledgeId": "china-reviewed-ch7-mission-effects",
+      "title": "教师培养",
+      "text": "促进新式教师的培养。",
+      "keywords": [
+        "新式教师"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 积极影响",
+      "displayTitle": "培养新式教师"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-effects-4",
+      "knowledgeId": "china-reviewed-ch7-mission-effects",
+      "title": "西学传播",
+      "text": "加速西学在中国的传播进程。",
+      "keywords": [
+        "西学传播"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 积极影响",
+      "displayTitle": "传播西学"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-effects-5",
+      "knowledgeId": "china-reviewed-ch7-mission-effects",
+      "title": "殖民性质",
+      "text": "教会学校本质上是西方殖民扩张的产物，带有强烈殖民性质。",
+      "keywords": [
+        "殖民扩张",
+        "殖民性质"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 消极影响",
+      "displayTitle": "殖民性质"
+    },
+    {
+      "id": "china-reviewed-ch7-mission-effects-6",
+      "knowledgeId": "china-reviewed-ch7-mission-effects",
+      "title": "国家地位的反映",
+      "text": "教会学校的存在，是近代中国半殖民地国家地位在教育上的反映。",
+      "keywords": [
+        "半殖民地",
+        "教育反映"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 消极影响",
+      "displayTitle": "半殖民地地位的教育反映"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-types-0",
+      "knowledgeId": "china-reviewed-ch7-western-schools-types",
+      "title": "外国语学堂",
+      "text": "如京师同文馆、上海广方言馆等。",
+      "keywords": [
+        "外国语学堂",
+        "京师同文馆",
+        "上海广方言馆"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-types-1",
+      "knowledgeId": "china-reviewed-ch7-western-schools-types",
+      "title": "军事学堂",
+      "text": "如福建船政学堂、广东实学馆等。",
+      "keywords": [
+        "军事学堂",
+        "福建船政学堂",
+        "广东实学馆"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-types-2",
+      "knowledgeId": "china-reviewed-ch7-western-schools-types",
+      "title": "技术实业学堂",
+      "text": "如福州电报学堂、天津西医学堂、山海关铁路学堂等。",
+      "keywords": [
+        "技术实业学堂",
+        "电报",
+        "西医",
+        "铁路"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features-0",
+      "knowledgeId": "china-reviewed-ch7-western-schools-features",
+      "title": "办学性质",
+      "text": "具有专科性，属于部门办学。",
+      "keywords": [
+        "专科性",
+        "部门办学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）新特点",
+      "displayTitle": "办学性质"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features-1",
+      "knowledgeId": "china-reviewed-ch7-western-schools-features",
+      "title": "培养目标",
+      "text": "培养各项洋务事业需要的专门人才。",
+      "keywords": [
+        "洋务事业",
+        "专门人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）新特点",
+      "displayTitle": "培养目标"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features-2",
+      "knowledgeId": "china-reviewed-ch7-western-schools-features",
+      "title": "教学内容",
+      "text": "以“西文”和“西艺”，即科学技术类知识为主。",
+      "keywords": [
+        "西文",
+        "西艺",
+        "科学技术"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）新特点",
+      "displayTitle": "教学内容"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features-3",
+      "knowledgeId": "china-reviewed-ch7-western-schools-features",
+      "title": "教学方法",
+      "text": "重视理解与实践，反对死记硬背，按照知识规律由浅入深学习。",
+      "keywords": [
+        "理解实践",
+        "反对死记硬背",
+        "由浅入深"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）新特点",
+      "displayTitle": "教学方法"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features-4",
+      "knowledgeId": "china-reviewed-ch7-western-schools-features",
+      "title": "教学组织",
+      "text": "第一次引进和采用分年课程计划与班级授课制。",
+      "keywords": [
+        "分年课程计划",
+        "班级授课制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）新特点",
+      "displayTitle": "教学组织形式"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features-5",
+      "knowledgeId": "china-reviewed-ch7-western-schools-features",
+      "title": "缺乏规划",
+      "text": "缺少全国性的整体规划和学制系统，洋务大臣各自为政，办学零星分散、较为孤立。",
+      "keywords": [
+        "缺乏规划",
+        "各自为政",
+        "零星分散"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）旧特点",
+      "displayTitle": "缺乏规划"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features-6",
+      "knowledgeId": "china-reviewed-ch7-western-schools-features",
+      "title": "旧文化包袱",
+      "text": "接受“西文”“西艺”的同时，仍不放弃“四书五经”。",
+      "keywords": [
+        "西文西艺",
+        "四书五经"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）旧特点",
+      "displayTitle": "旧文化包袱重"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-features-7",
+      "knowledgeId": "china-reviewed-ch7-western-schools-features",
+      "title": "官僚习气",
+      "text": "学校管理带有封建官僚习气，并依赖洋人。",
+      "keywords": [
+        "官僚习气",
+        "依赖洋人"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）旧特点",
+      "displayTitle": "封建官僚习气"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-meaning-0",
+      "knowledgeId": "china-reviewed-ch7-western-schools-meaning",
+      "title": "意义",
+      "text": "洋务学堂拉开中国教育近代化的序幕，引入资本主义因素并动摇、瓦解旧教育体系。",
+      "keywords": [
+        "教育近代化序幕",
+        "资本主义因素",
+        "动摇旧教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-western-schools-meaning-1",
+      "knowledgeId": "china-reviewed-ch7-western-schools-meaning",
+      "title": "局限",
+      "text": "洋务学堂同时带有封建色彩和殖民性质。",
+      "keywords": [
+        "封建色彩",
+        "殖民性质"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-intro-0",
+      "knowledgeId": "china-reviewed-ch7-tongwen-intro",
+      "title": "创办背景",
+      "text": "鸦片战争后外语翻译人才匮乏，清政府被迫决定开办外语学校。",
+      "keywords": [
+        "鸦片战争后",
+        "翻译人才",
+        "外语学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "创办背景"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-intro-1",
+      "knowledgeId": "china-reviewed-ch7-tongwen-intro",
+      "title": "学校性质",
+      "text": "京师同文馆 1862 年设立，是我国第一所洋务学堂，也是原书所称我国最早的官办新式学校；隶属总理各国事务衙门，属于部门办学。",
+      "keywords": [
+        "1862",
+        "第一所洋务学堂",
+        "官办新式学校",
+        "总理衙门"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "学校性质"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-intro-2",
+      "knowledgeId": "china-reviewed-ch7-tongwen-intro",
+      "title": "发展线索",
+      "text": "由外语学堂添设科学课程，发展为综合性学校，最后并入京师大学堂。",
+      "keywords": [
+        "外语学堂",
+        "科学课程",
+        "综合性学校",
+        "京师大学堂"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）发展",
+      "displayTitle": "发展线索"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-features-0",
+      "knowledgeId": "china-reviewed-ch7-tongwen-features",
+      "title": "培养目标",
+      "text": "培养学以致用的翻译人才和专门人才。",
+      "keywords": [
+        "学以致用",
+        "翻译人才",
+        "专门人才"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-features-1",
+      "knowledgeId": "china-reviewed-ch7-tongwen-features",
+      "title": "课程设置",
+      "text": "外语居首位，同时学习“西学”“西艺”和汉文经学。",
+      "keywords": [
+        "外语首位",
+        "西学西艺",
+        "汉文经学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-features-2",
+      "knowledgeId": "china-reviewed-ch7-tongwen-features",
+      "title": "教学组织",
+      "text": "最早引入班级授课制、分年课程和学年制。",
+      "keywords": [
+        "班级授课制",
+        "分年课程",
+        "学年制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-features-3",
+      "knowledgeId": "china-reviewed-ch7-tongwen-features",
+      "title": "教学方法",
+      "text": "强调理解与实践。",
+      "keywords": [
+        "理解",
+        "实践"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-features-4",
+      "knowledgeId": "china-reviewed-ch7-tongwen-features",
+      "title": "教学管理",
+      "text": "由外国列强控制。",
+      "keywords": [
+        "外国列强控制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-meaning-0",
+      "knowledgeId": "china-reviewed-ch7-tongwen-meaning",
+      "title": "近代教育开端",
+      "text": "京师同文馆是洋务学堂和中国近代新教育的开端，被原书称为洋务学堂的“领头羊”。",
+      "keywords": [
+        "洋务学堂开端",
+        "近代新教育",
+        "领头羊"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-meaning-1",
+      "knowledgeId": "china-reviewed-ch7-tongwen-meaning",
+      "title": "社会焦点",
+      "text": "学校身处北京，成为当时社会关注的焦点，反映各派关于教育改革的观点。",
+      "keywords": [
+        "北京",
+        "社会焦点",
+        "改革观点"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-tongwen-meaning-2",
+      "knowledgeId": "china-reviewed-ch7-tongwen-meaning",
+      "title": "局限",
+      "text": "既有封建性，又有殖民性。",
+      "keywords": [
+        "封建性",
+        "殖民性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-intro-0",
+      "knowledgeId": "china-reviewed-ch7-ship-school-intro",
+      "title": "创办",
+      "text": "1867 年，左宗棠与沈葆桢在福建船政局中设立福建船政学堂，把造船和培养人才结合起来。",
+      "keywords": [
+        "1867",
+        "左宗棠",
+        "沈葆桢",
+        "福建船政局"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（一）简介",
+      "displayTitle": "创办"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-intro-1",
+      "knowledgeId": "china-reviewed-ch7-ship-school-intro",
+      "title": "培养目标",
+      "text": "培养造船和驾驶人才。",
+      "keywords": [
+        "造船人才",
+        "驾驶人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点",
+      "subsection": "1. 培养目标",
+      "displayTitle": "造船和驾驶人才"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-structure-0",
+      "knowledgeId": "china-reviewed-ch7-ship-school-structure",
+      "title": "前学堂",
+      "text": "学习制造技术，主要向法国学习。",
+      "keywords": [
+        "前学堂",
+        "制造技术",
+        "法国"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-structure-1",
+      "knowledgeId": "china-reviewed-ch7-ship-school-structure",
+      "title": "绘事院",
+      "text": "培养生产用图纸的制作人才。",
+      "keywords": [
+        "绘事院",
+        "图纸制作"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-structure-2",
+      "knowledgeId": "china-reviewed-ch7-ship-school-structure",
+      "title": "艺圃",
+      "text": "属于在职培训学校，开创在职教育先河。",
+      "keywords": [
+        "艺圃",
+        "在职培训",
+        "在职教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-structure-3",
+      "knowledgeId": "china-reviewed-ch7-ship-school-structure",
+      "title": "后学堂",
+      "text": "学习驾驶和轮机技术，主要向英国学习。",
+      "keywords": [
+        "后学堂",
+        "驾驶",
+        "轮机",
+        "英国"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-development-0",
+      "knowledgeId": "china-reviewed-ch7-ship-school-development",
+      "title": "1913 年改组",
+      "text": "1913 年，福建船政学堂从船政局析出，改组为三个独立学校。",
+      "keywords": [
+        "1913",
+        "析出",
+        "三个学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-development-1",
+      "knowledgeId": "china-reviewed-ch7-ship-school-development",
+      "title": "前后学堂去向",
+      "text": "前学堂改组为福州制造学校；后学堂改组为福州海军学校，直属民国政府海军部。",
+      "keywords": [
+        "福州制造学校",
+        "福州海军学校",
+        "海军部"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-development-2",
+      "knowledgeId": "china-reviewed-ch7-ship-school-development",
+      "title": "艺圃去向",
+      "text": "艺圃改组为艺术学校。",
+      "keywords": [
+        "艺圃",
+        "艺术学校"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-meaning-0",
+      "knowledgeId": "china-reviewed-ch7-ship-school-meaning",
+      "title": "持续时间",
+      "text": "原书称福建船政学堂为持续时间最久的洋务学堂。",
+      "keywords": [
+        "持续最久",
+        "洋务学堂"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-meaning-1",
+      "knowledgeId": "china-reviewed-ch7-ship-school-meaning",
+      "title": "海军人才",
+      "text": "是近代中国海军人才的摇篮。",
+      "keywords": [
+        "海军人才摇篮"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-meaning-2",
+      "knowledgeId": "china-reviewed-ch7-ship-school-meaning",
+      "title": "制造业",
+      "text": "促进中国船舰制造业发展。",
+      "keywords": [
+        "船舰制造业"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-ship-school-meaning-3",
+      "knowledgeId": "china-reviewed-ch7-ship-school-meaning",
+      "title": "技术教育",
+      "text": "是原书所称第一所技术类新式学堂。",
+      "keywords": [
+        "技术类新式学堂"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-plan-0",
+      "knowledgeId": "china-reviewed-ch7-us-students-plan",
+      "title": "倡导与支持",
+      "text": "留美幼童计划得益于容闳倡导，是清政府派出的首批留学生，曾国藩、丁日昌等多次给予帮助。",
+      "keywords": [
+        "容闳",
+        "首批留学生",
+        "曾国藩",
+        "丁日昌"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）简介",
+      "displayTitle": "倡导与支持"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-plan-1",
+      "knowledgeId": "china-reviewed-ch7-us-students-plan",
+      "title": "分批派遣",
+      "text": "1872—1875 年，每年派 30 名幼童，共 120 人、分四批赴美。",
+      "keywords": [
+        "1872—1875",
+        "每年30名",
+        "120人",
+        "四批"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点",
+      "displayTitle": "规划"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-plan-2",
+      "knowledgeId": "china-reviewed-ch7-us-students-plan",
+      "title": "招生与管理",
+      "text": "从上海、宁波、福建、广东、江苏等地招生；管理者为容闳、陈兰彬，招生非常困难。",
+      "keywords": [
+        "五地招生",
+        "容闳",
+        "陈兰彬",
+        "招生困难"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点",
+      "displayTitle": "招生与管理"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-result-0",
+      "knowledgeId": "china-reviewed-ch7-us-students-result",
+      "title": "学习内容",
+      "text": "兼学中学与西学。",
+      "keywords": [
+        "中学",
+        "西学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点",
+      "displayTitle": "内容"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-result-1",
+      "knowledgeId": "china-reviewed-ch7-us-students-result",
+      "title": "结局",
+      "text": "计划中途夭折，学生未按计划完成学业即被撤回。",
+      "keywords": [
+        "中途夭折",
+        "撤回"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点",
+      "displayTitle": "结果"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-result-2",
+      "knowledgeId": "china-reviewed-ch7-us-students-result",
+      "title": "教育意义",
+      "text": "开启中国留学教育的先河。",
+      "keywords": [
+        "留学教育先河"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "displayTitle": "开启留学教育先河"
+    },
+    {
+      "id": "china-reviewed-ch7-us-students-result-3",
+      "knowledgeId": "china-reviewed-ch7-us-students-result",
+      "title": "人才意义",
+      "text": "归国学生成为报效国家的重要力量。",
+      "keywords": [
+        "报效国家"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "displayTitle": "成为报效国家的重要力量"
+    },
+    {
+      "id": "china-reviewed-ch7-europe-students-0",
+      "knowledgeId": "china-reviewed-ch7-europe-students",
+      "title": "倡议与生源",
+      "text": "派遣留欧始于船政大臣沈葆桢的建议，以福建船政学堂学生为主。",
+      "keywords": [
+        "沈葆桢",
+        "福建船政学堂"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）简介",
+      "displayTitle": "倡议与生源"
+    },
+    {
+      "id": "china-reviewed-ch7-europe-students-1",
+      "knowledgeId": "china-reviewed-ch7-europe-students",
+      "title": "时间与规模",
+      "text": "1875—1897 年，共派遣三届成人留学生赴英、法、德三国学习，并学成归国。",
+      "keywords": [
+        "1875—1897",
+        "三届成人",
+        "英法德"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点",
+      "displayTitle": "时间与规模"
+    },
+    {
+      "id": "china-reviewed-ch7-europe-students-2",
+      "knowledgeId": "china-reviewed-ch7-europe-students",
+      "title": "海军事业",
+      "text": "留欧学生成为近代中国第一代海军的重要将领。",
+      "keywords": [
+        "第一代海军将领"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "displayTitle": "促进海军事业发展"
+    },
+    {
+      "id": "china-reviewed-ch7-europe-students-3",
+      "knowledgeId": "china-reviewed-ch7-europe-students",
+      "title": "制造事业",
+      "text": "将中国近代军舰制造技术推到新水平。",
+      "keywords": [
+        "军舰制造技术"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "displayTitle": "促进制造事业发展"
+    },
+    {
+      "id": "china-reviewed-ch7-europe-students-4",
+      "knowledgeId": "china-reviewed-ch7-europe-students",
+      "title": "海军教育",
+      "text": "为近代中国海军教育事业作出贡献。",
+      "keywords": [
+        "海军教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "displayTitle": "促进海军教育发展"
+    },
+    {
+      "id": "china-reviewed-ch7-europe-students-5",
+      "knowledgeId": "china-reviewed-ch7-europe-students",
+      "title": "其他领域",
+      "text": "在外交、实业等领域也有建树，如严复。",
+      "keywords": [
+        "外交",
+        "实业",
+        "严复"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价",
+      "displayTitle": "促进其他领域发展"
+    },
+    {
+      "id": "china-reviewed-ch7-study-abroad-meaning-0",
+      "knowledgeId": "china-reviewed-ch7-study-abroad-meaning",
+      "title": "冲击传统教育",
+      "text": "京师同文馆的建立被概括为对传统教育的第一次冲击，派遣留学生则是第二次冲击。",
+      "keywords": [
+        "第一次冲击",
+        "第二次冲击"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-study-abroad-meaning-1",
+      "knowledgeId": "china-reviewed-ch7-study-abroad-meaning",
+      "title": "培养新式人才",
+      "text": "留学生成为中国近代第一批新式人才，并作出重大贡献。",
+      "keywords": [
+        "第一批新式人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-study-abroad-meaning-2",
+      "knowledgeId": "china-reviewed-ch7-study-abroad-meaning",
+      "title": "传播西方思想",
+      "text": "留学生归国后宣传新式思想，促进中国近代化。",
+      "keywords": [
+        "新式思想",
+        "近代化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-study-abroad-meaning-3",
+      "knowledgeId": "china-reviewed-ch7-study-abroad-meaning",
+      "title": "改革层次",
+      "text": "洋务改革主要停留在器物层面，尚未深入政治和思想层面。",
+      "keywords": [
+        "器物层面",
+        "未入政治思想"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-western-representatives-0",
+      "knowledgeId": "china-reviewed-ch7-western-representatives",
+      "title": "代表人物",
+      "text": "原页列举左宗棠、张之洞、奕訢、容闳、丁日昌。",
+      "keywords": [
+        "左宗棠",
+        "张之洞",
+        "奕訢",
+        "容闳",
+        "丁日昌"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-study-abroad-outcomes-0",
+      "knowledgeId": "china-reviewed-ch7-study-abroad-outcomes",
+      "title": "留美幼童",
+      "text": "120 名留美幼童中，多人在铁路、矿业、外交、教育、法律等领域成为近代建设人才；原页举詹天佑、唐国安、梁诚、唐绍仪、蔡绍基等为例。",
+      "keywords": [
+        "120名",
+        "詹天佑",
+        "唐国安",
+        "梁诚",
+        "唐绍仪"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-study-abroad-outcomes-1",
+      "knowledgeId": "china-reviewed-ch7-study-abroad-outcomes",
+      "title": "留欧船政生",
+      "text": "晚清留欧船政学生成为早期海军和造船工业骨干，许多人在海战中牺牲；原页举刘步蟾、林泰曾、邓世昌等，并以严复为维新思想传播者。",
+      "keywords": [
+        "船政学生",
+        "海军骨干",
+        "造船骨干",
+        "严复"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-formation-0",
+      "knowledgeId": "china-reviewed-ch7-zhongti-formation",
+      "title": "冯桂芬",
+      "text": "1861 年，冯桂芬在《采西学议》中首次提出以中国伦常名教为本、辅以各国富强之术。",
+      "keywords": [
+        "1861",
+        "冯桂芬",
+        "采西学议",
+        "伦常为本"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-formation-1",
+      "knowledgeId": "china-reviewed-ch7-zhongti-formation",
+      "title": "郑观应",
+      "text": "1892 年，郑观应在《西学》篇提出“中学其本也，西学其末也”。",
+      "keywords": [
+        "1892",
+        "郑观应",
+        "中本西末"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-formation-2",
+      "knowledgeId": "china-reviewed-ch7-zhongti-formation",
+      "title": "沈寿康",
+      "text": "1895 年，沈寿康在《万国公报》写出“中学为体，西学为用”。",
+      "keywords": [
+        "1895",
+        "沈寿康",
+        "中学为体西学为用"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-formation-3",
+      "knowledgeId": "china-reviewed-ch7-zhongti-formation",
+      "title": "孙家鼐",
+      "text": "1896 年，孙家鼐在《议复开办京师大学堂折》中提出以中学为主、西学为辅，中学为体、西学为用。",
+      "keywords": [
+        "1896",
+        "孙家鼐",
+        "京师大学堂折"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-formation-4",
+      "knowledgeId": "china-reviewed-ch7-zhongti-formation",
+      "title": "张之洞",
+      "text": "1898 年，张之洞在《劝学篇》中围绕“中体西用”形成完整思想体系。助记：冯、郑、沈、孙、张。",
+      "keywords": [
+        "1898",
+        "张之洞",
+        "劝学篇",
+        "冯郑沈孙张"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-quanxue-0",
+      "knowledgeId": "china-reviewed-ch7-zhang-quanxue",
+      "title": "成书与主张",
+      "text": "1898 年，张之洞总结洋务实践，写成《劝学篇》，提出“中体西用”理论体系。",
+      "keywords": [
+        "1898",
+        "张之洞",
+        "劝学篇",
+        "中体西用"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 简介",
+      "displayTitle": "成书与主张"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-quanxue-1",
+      "knowledgeId": "china-reviewed-ch7-zhang-quanxue",
+      "title": "内外篇",
+      "text": "《劝学篇》分内篇、外篇：“内篇务本，以正人心；外篇务通，以开风气”。",
+      "keywords": [
+        "内篇务本",
+        "正人心",
+        "外篇务通",
+        "开风气"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 内容",
+      "displayTitle": "内篇与外篇"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-content-0",
+      "knowledgeId": "china-reviewed-ch7-zhang-content",
+      "title": "中学",
+      "text": "“中学”又称“旧学”，包括四书五经、中国史事、政书、地图。",
+      "keywords": [
+        "中学旧学",
+        "四书五经",
+        "中国史事政书地图"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）中学",
+      "displayTitle": "中学（旧学）"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-content-1",
+      "knowledgeId": "china-reviewed-ch7-zhang-content",
+      "title": "西政",
+      "text": "“西政”指西方文教制度、工商财政、军事建制和法律行政等管理层面的文化。",
+      "keywords": [
+        "西政",
+        "文教工商军事法律"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）西学",
+      "displayTitle": "西政"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-content-2",
+      "knowledgeId": "china-reviewed-ch7-zhang-content",
+      "title": "西艺",
+      "text": "“西艺”指近代西方科技。",
+      "keywords": [
+        "西艺",
+        "西方科技"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）西学",
+      "displayTitle": "西艺"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-content-3",
+      "knowledgeId": "china-reviewed-ch7-zhang-content",
+      "title": "西史",
+      "text": "“西史”指西方各国的历史发展过程；西政、西艺、西史合称“西学”或“新学”。",
+      "keywords": [
+        "西史",
+        "西学新学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）西学",
+      "displayTitle": "西史"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-relation-measures-0",
+      "knowledgeId": "china-reviewed-ch7-zhang-relation-measures",
+      "title": "中西学关系",
+      "text": "“旧学为体，新学为用，不使偏废”。",
+      "keywords": [
+        "旧学为体",
+        "新学为用",
+        "不使偏废"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-relation-measures-1",
+      "knowledgeId": "china-reviewed-ch7-zhang-relation-measures",
+      "title": "改革设想",
+      "text": "提出改革科举、倡导留学、制定学制、发展职业教育和培训师资等措施。",
+      "keywords": [
+        "改革科举",
+        "倡导留学",
+        "制定学制",
+        "职业教育",
+        "培训师资"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-evaluation-0",
+      "knowledgeId": "china-reviewed-ch7-zhang-evaluation",
+      "title": "纲领性文件",
+      "text": "《劝学篇》成为晚清政府推行教育改革的纲领性文件，是洋务运动的理论总结，也是后续新政改革的理论依据。",
+      "keywords": [
+        "纲领性文件",
+        "洋务理论总结",
+        "新政理论依据"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhang-evaluation-1",
+      "knowledgeId": "china-reviewed-ch7-zhang-evaluation",
+      "title": "不足",
+      "text": "在中西文化关系的处理上仍不够科学。",
+      "keywords": [
+        "中西文化关系",
+        "不够科学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-role-0",
+      "knowledgeId": "china-reviewed-ch7-zhongti-role",
+      "title": "社会近代化",
+      "text": "从整体上推动社会发展的近代化进程。",
+      "keywords": [
+        "社会近代化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）整体上",
+      "displayTitle": "推动社会近代化"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-role-1",
+      "knowledgeId": "china-reviewed-ch7-zhongti-role",
+      "title": "教育近代化",
+      "text": "推动中国教育的近代化进程。",
+      "keywords": [
+        "教育近代化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）教育方面",
+      "displayTitle": "推动教育近代化"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-role-2",
+      "knowledgeId": "china-reviewed-ch7-zhongti-role",
+      "title": "冲击价值观",
+      "text": "极大冲击传统教育价值观。",
+      "keywords": [
+        "冲击传统价值观"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）教育方面",
+      "displayTitle": "冲击传统教育价值观"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-role-3",
+      "knowledgeId": "china-reviewed-ch7-zhongti-role",
+      "title": "启动改革",
+      "text": "启动中国近代教育改革的步伐。",
+      "keywords": [
+        "启动教育改革"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）教育方面",
+      "displayTitle": "启动近代教育改革"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-role-4",
+      "knowledgeId": "china-reviewed-ch7-zhongti-role",
+      "title": "引进西学",
+      "text": "引进西方近代科学、课程和制度。",
+      "keywords": [
+        "西方科学",
+        "课程",
+        "制度"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）教育方面",
+      "displayTitle": "引进西方科学、课程和制度"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-limits-0",
+      "knowledgeId": "china-reviewed-ch7-zhongti-limits",
+      "title": "教育方面",
+      "text": "根本目的在于维护封建统治，因此具有明显局限。",
+      "keywords": [
+        "维护封建统治"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch7-zhongti-limits-1",
+      "knowledgeId": "china-reviewed-ch7-zhongti-limits",
+      "title": "文化方面",
+      "text": "把中学与西学直接嫁接，容易引起二者之间的排异性反应。",
+      "keywords": [
+        "中西直接嫁接",
+        "排异性反应"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p066-k03-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "教会学校在中国的举办 · 第58页（1）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 66,
+            "rect": [
+              0.10741,
+              0.48658,
+              0.82035,
+              0.41405
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 66443,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p066-k03-0-s0",
+          "knowledgeId": "china-p066-k03-0",
+          "title": "原文小步 1",
+          "text": "-1.第一阶段：小规模阶段（1840一1860年）。\n（1）特点：办学规模小，办学程度低，办学目的是传教，招生对象是贫苦子弟，办学非常困难。\n（2）学校：①英华书院。它是不设在本土的第一所主要面向华人的新式学校。（马六甲一香港）",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p066-k03-0-s1",
+          "knowledgeId": "china-p066-k03-0",
+          "title": "宏观背景",
+          "text": "②马礼逊学堂。最早设立于中国本土的比较正式的教会学校，开创了教会在华\n办学的先河。（澳门一香港）\n③宁波女塾。传教士在中国创办的第一所教会女子学校，也是近代中国的第一所女子学校。\n一宏观背景\n2.第二阶段：各自为政阶段（19世纪60年代初到1876年）。",
+          "keywords": [
+            "宏观背景"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p066-k03-0-s2",
+          "knowledgeId": "china-p066-k03-0",
+          "title": "教会学校在中国的举办",
+          "text": "特点：（1）学校数量迅速增加，但零星分散，各自为政；（2）以小学为主，但已有少量中学出现。\n3.第三阶段：系统化阶段（1877年至20世纪20年代）。\n（1）从初等教育到高等教育，并包括各种专门教育的相互衔接的、庞大的教会教育系统。\n教会学校在中国的举办",
+          "keywords": [
+            "教会学校在中国的举办"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p066-k03-0-s3",
+          "knowledgeId": "china-p066-k03-0",
+          "title": "原文小步 4",
+          "text": "男著\n（3）特点：体系化，制度化；数量多，程度高；为传教，收费高；已含有文化侵略的性质。\n4.第四阶段：世俗化与中国化阶段（20 世纪20 年代至中华人民共和国成立）。\n收回教育权运动促使教会学校纷纷朝着更加世俗化和中国化的方向进行改革，收敛了他",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p066-k03-0-s4",
+          "knowledgeId": "china-p066-k03-0",
+          "title": "领导机构",
+          "text": "们文化侵略的野心。\n从“学校与教科书委员会”到“中华教育会”。\n1.简介：1877年，传教士们建立“学校与教科书委员会”，中文名称为“益智书会”。这\n二领导机构\n是近代第一个在华基督教教会的联合组织。后来在1890年改组为“中华教育会”，",
+          "keywords": [
+            "领导机构"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p066-k03-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "教会学校在中国的举办 · 第58页（2）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 66,
+            "rect": [
+              0.25569,
+              0.85231,
+              0.59207,
+              0.08463
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 66777,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p066-k03-1-s0",
+          "knowledgeId": "china-p066-k03-1",
+          "title": "原文小步 6",
+          "text": "对教会教育进行全面指导。\n2.特点：（1）体现中国元素。（2）体现科学性。（3）体现宗教色彩。\n3.评价：（1）“学校与教科书委员会”的成立推动了教会学校的教材编写工作。\n（2）中华教育会成为中国基督教教会教育的最高领导机构。",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p067-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "教会学校在中国的举办 · 第59页",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 67,
+            "rect": [
+              0.08948,
+              0.08147,
+              0.82449,
+              0.22632
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 67078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p067-k00-0-s0",
+          "knowledgeId": "china-p067-k00-0",
+          "title": "课程",
+          "text": "1.宗教。必开的主课，但也有特例，如上海中西书院就不列宗教课程。\n三课程\n2.外语。或开外语课，或为教学语言，但也有特例，如狄考文的登州文会馆不设英语课程。\n教会学校在中国的举办\n3.西学。教会学校很注重科学课程、自然科学和人文科学。",
+          "keywords": [
+            "课程",
+            "教会学校在中国的举办"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p067-k00-0-s1",
+          "knowledgeId": "china-p067-k00-0",
+          "title": "性质与影响",
+          "text": "4.儒学经典。为了在中国顺利招生，教会学校不得不妥协开设儒学经典课程。\n（1）教会学校是中国传统教育向近代教育过渡的促进因素。\n①促进中国近代教育体系的建立。\n四性质与影响\n1.积极影响\n②促进中国人教育视野的开阔。\n③促进新式教师的培养。",
+          "keywords": [
+            "①促进中国近代教育体系的建立",
+            "性质与影响",
+            "积极影响"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p067-k00-0-s2",
+          "knowledgeId": "china-p067-k00-0",
+          "title": "消极影响",
+          "text": "（2）教会学校无疑加速了西学在中国的传播进程。\n2.消极影响\n（1）教会学校本质上是西方世界殖民扩张的产物，带有强烈的殖民性质。\n(性质)\n(2）教会学校的存在，是近代中国半殖民地的国家地位在教育上的反映。",
+          "keywords": [
+            "消极影响",
+            "(性质)"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p067-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "洋务派的教育改革措施 · 第59页（1）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 67,
+            "rect": [
+              0.07224,
+              0.39349,
+              0.83345,
+              0.48156
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 67359,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p067-k01-0-s0",
+          "knowledgeId": "china-p067-k01-0",
+          "title": "类别",
+          "text": "（1）外国语学堂：如京师同文馆（详见下文）、上海广方言馆等。\n1.类别\n（2）军事学堂：如福建船政学堂（详见下文）、广东实学馆等。\n（3）技术实业学堂：如福州电报学堂、天津西医学堂、山海关铁路学堂等。\n（1）新特点：\n①办学性质：专科性学校，属于部门办学。",
+          "keywords": [
+            "类别",
+            "新特点"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p067-k01-0-s1",
+          "knowledgeId": "china-p067-k01-0",
+          "title": "兴办学堂",
+          "text": "②培养目标：培养各项洋务事业需要的专门人才。\n③教学内容：以学习“西文”与“西艺”（科学技术类知识）为主。\n一\n④教学方法：重视理解与实践。反对死记硬背，按照知识规律由浅入深学习。\n兴办学堂\n2. 特点\n③教学组织形式：第一次引进和采用分年课程计划与班级授课制。",
+          "keywords": [
+            "兴办学堂",
+            "特点"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p067-k01-0-s2",
+          "knowledgeId": "china-p067-k01-0",
+          "title": "（新旧杂）",
+          "text": "（新旧杂）\n(2) 旧特点：\n①缺乏规划。缺乏全国性的整体规划和学制系统，只是洋务大臣们各自为政，\n零星分散、较为孤立的自主办学。\n②旧文化包袱重。洋务学堂在接受“西文“西艺”的同时不放弃“四书五经”的学习。",
+          "keywords": [
+            "（新旧杂）",
+            "旧特点"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p067-k01-0-s3",
+          "knowledgeId": "china-p067-k01-0",
+          "title": "意义",
+          "text": "③具有官僚习气。洋务学堂的管理有封建官僚习气，且依赖洋人。\n3.意义\n拉开了中国教育近代化的序幕。虽然引入了资本主义因素，动摇和瓦解了旧教育体系，\n但具有封建色彩和殖民性质。\n（一）简介\n鸦片战争后，中国缺乏外语翻译人才，在各种外交中屡屡吃亏。于是，清",
+          "keywords": [
+            "意义",
+            "简介"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p067-k01-0-s4",
+          "knowledgeId": "china-p067-k01-0",
+          "title": "京师同文馆",
+          "text": "政府被迫做出了开办外语学校的决定。京师同文馆于1862年设立，是我\n国第一所洋务学堂，也是我国最早的官办新式学校。（属于部门办学，是总\n京师同文馆\n理各国事务衙门之下所设的外语新学）\n贵贵★★★\n品考\n(二)发展",
+          "keywords": [
+            "京师同文馆",
+            "贵贵★★★",
+            "发展"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p067-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "洋务派的教育改革措施 · 第59页（2）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 67,
+            "rect": [
+              0.33155,
+              0.84771,
+              0.51966,
+              0.02632
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 67773,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p067-k01-1-s0",
+          "knowledgeId": "china-p067-k01-1",
+          "title": "原文小步 6",
+          "text": "初为外语学堂→添设科学课程→成为综合性学校→并入京师大学堂。",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p068-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "洋务派的教育改革措施 · 第60页（1）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 68,
+            "rect": [
+              0.10328,
+              0.08198,
+              0.81896,
+              0.55625
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 68079,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p068-k00-0-s0",
+          "knowledgeId": "china-p068-k00-0",
+          "title": "特点",
+          "text": "1.培养目标：培养学以致用的翻译人才和专门人才。\n2.课程设置：外语（首位）+“西学”“西艺”+汉文经学\n(三) 特点\n3.教学组织形式：最早引入班级授课制、分年课程与学年制。\n4.教学方法：理解与实践。\n5.教学管理：由外国列强控制。\n京师同文馆",
+          "keywords": [
+            "特点",
+            "教学方法：理解与实践",
+            "教学管理：由外国列强控制"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p068-k00-0-s1",
+          "knowledgeId": "china-p068-k00-0",
+          "title": "意义",
+          "text": "1.京师同文馆是洋务学堂和中国近代新教育的开端。(“领头羊\")\n2.京师同文馆是当时社会关注的焦点。京师同文馆身处北京，反映出\n（四）意义\n各派关于教育改革的观点。\n3.局限：京师同文馆既有封建性，又有殖民性。\n(一）简介",
+          "keywords": [
+            "意义",
+            "简介"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p068-k00-0-s2",
+          "knowledgeId": "china-p068-k00-0",
+          "title": "培养目标",
+          "text": "1867年，左宗棠与沈葆桢在福建船政局中设立福建船政学堂，把造船与培养人才结\n合起来。\n1.培养目标\n造船和驾驶人才。\n：(1）前学堂。学习制造技术。(向法国学习)\n①绘事院。培养生产用图纸的制作人才。\n2. 学堂结构\n福建船政学堂\n(二) 特点",
+          "keywords": [
+            "培养目标",
+            "造船和驾驶人才",
+            "学堂结构"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p068-k00-0-s3",
+          "knowledgeId": "china-p068-k00-0",
+          "title": "发展过程",
+          "text": "②艺圃。在职培训学校，开创了在职教育的先河。\n(2）后学堂。学习驾驶和轮机技术。（向英国学习）\n1913年，福建船政学堂从船政局中析出，改组为三个独立的\n学校。\n(1）前学堂。改组为福州制造学校。\n3.发展过程",
+          "keywords": [
+            "发展过程"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p068-k00-0-s4",
+          "knowledgeId": "china-p068-k00-0",
+          "title": "意义",
+          "text": "（2）后学堂。改组为福州海军学校，直属民国政府海军部。\n（3）艺圃。改组为艺术学校。\n福建船政学堂是持续时间最久的洋务学堂。\n2.福建船政学堂是近代中国海军人才的摇篮。\n（三） 意义\n3.福建船政学堂促进了中国船舰制造业发展。",
+          "keywords": [
+            "意义"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p068-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "洋务派的教育改革措施 · 第60页（2）",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 68,
+            "rect": [
+              0.1081,
+              0.63339,
+              0.82586,
+              0.2079
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 68580,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p068-k00-1-s0",
+          "knowledgeId": "china-p068-k00-1",
+          "title": "留学教育",
+          "text": "4.福建船政学堂是第一所技术类新式学堂。\n（1）简介：得益于容的倡导，是清政府派出的首批留学生，曾国藩、丁日昌等多次帮助。\n二留学教育\n(2) 特点:\n1.幼童\n①规划：分批计划与带队人员。自1872至1875年，每年幼童30名，共分四批；\n留美",
+          "keywords": [
+            "留学教育",
+            "特点",
+            "幼童"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p068-k00-1-s1",
+          "knowledgeId": "china-p068-k00-1",
+          "title": "原文小步 7",
+          "text": "在上海、宁波、福建、广东、江苏等地招生；管理者为容与陈兰彬。\n②招生：招生非常困难。\n③内容：兼学中学与西学。\n④结果：中途天折。学生并未按计划完成学业而被中途撤回，令人惋惜。\n（3）评价：①开启中国留学教育的先河。②成为报效国家的重要力量。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p069-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "洋务派的教育改革措施 · 第61页",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 69,
+            "rect": [
+              0.09293,
+              0.08053,
+              0.81759,
+              0.71195
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 69077,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p069-k00-0-s0",
+          "knowledgeId": "china-p069-k00-0",
+          "title": "派遣",
+          "text": "（1）简介：派遣留欧始于船政大臣沈葆桢的建议，并以福建船政学堂的学生为主。\n（2）特点：1875年至1897年，共派遣三届成人留学生赴英、法、德三国学习并学\n成归国。\n2.派遣\n(3)评价:\n留欧\n①促进海军事业发展。留欧学生成为近代中国第一代海军的重要将领。",
+          "keywords": [
+            "派遣",
+            "评价"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p069-k00-0-s1",
+          "knowledgeId": "china-p069-k00-0",
+          "title": "留学教育",
+          "text": "②促进制造事业发展。留欧学生将中国近代军舰制造技术推到一个新的水平。\n远\n③促进海军教育发展。留欧学生为近代中国海军教育事业做出了贡献。\n一留学教育\n④促进其他领域发展。留欧学生在外交、实业等其他领域均有建树，如严复。",
+          "keywords": [
+            "留学教育"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p069-k00-0-s2",
+          "knowledgeId": "china-p069-k00-0",
+          "title": "留学教育",
+          "text": "（1）冲击传统教育。京师同文馆的建立是对传统教育的第一次冲击，派遣\n3. 留学教育\n留学生就是对传统教育的第二次冲击。\n（2）培养新式人才。他们是中国近代第一批新式人才，做出了重大贡献。\n的意义",
+          "keywords": [
+            "留学教育",
+            "的意义"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p069-k00-0-s3",
+          "knowledgeId": "china-p069-k00-0",
+          "title": "原文小步 4",
+          "text": "（3）传播西方思想。留学生归国后积极宣传新式思想，促进中国近代化。\n食食★\n总结：洋务运动的改革主要是基于器物层面的改革，并未深入到政治和思想\n层面。\n洋务派代表人物：\n左宗棠\n张之洞\n奕诉\n容阔\n丁日昌",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p070-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "洋务派的教育改革措施 · 第62页",
+        "section": "第一节教育改革措施",
+        "refs": [
+          {
+            "page": 70,
+            "rect": [
+              0.1081,
+              0.08719,
+              0.79207,
+              0.51942
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 70083,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p070-k00-0-s0",
+          "knowledgeId": "china-p070-k00-0",
+          "title": "知识小贴士",
+          "text": "知识小贴士\n1.清末留美幼童的结局如何？\n留美幼童共有120人，在接下来的半个多世纪里，其绝大多数人都成为近代中国的脊梁人物。\n（1）詹天佑：建成京张铁路，成为中国铁路业“祖师爷\n（8）唐国安：清华大学首任校长\n（2）吴仰曾：公认的“中国机器采矿创始人”",
+          "keywords": [
+            "知识小贴士"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p070-k00-0-s1",
+          "knowledgeId": "china-p070-k00-0",
+          "title": "原文小步 2",
+          "text": "（9）张康仁：首位美国华人律师\n（3）梁诚：外交家，促成美国退还部分“庚子赔款”\n（10）李恩福：美国华工的“保护者”\n（4）唐绍仪：民国第一任总理\n（11）沈寿昌、黄祖连：甲午中日海战中阵亡\n（5）蔡绍基：天津大学创办人，喊出“中国没有死”的",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p070-k00-0-s2",
+          "knowledgeId": "china-p070-k00-0",
+          "title": "原文小步 3",
+          "text": "（12）杨兆南、黄季良、薛有福、邝咏钟：中\n豪言\n法战争中牺牲\n梁敦彦：外交家，以“俄国是窃贼”走红哈特福德高中\n（13）邝景扬：矿业、铁路工程师\n（7）\n容：“庚款留美”重要参与者\n2.清末派遣留欧的结局如何？",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p070-k00-0-s3",
+          "knowledgeId": "china-p070-k00-0",
+          "title": "原文小步 4",
+          "text": "晚清留欧船政学生成为中国早期海军和造船工业的骨干，是北洋舰队的主要海军将领和军舰舰长。\n他们绝大部分在海战中牺牲。\n名单：\n刘步蟾和林泰曾（北洋舰队副司令）。\n林永升、黄建勋、叶祖、邱宝仁、邓世昌(军舰舰长)。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p070-k00-0-s4",
+          "knowledgeId": "china-p070-k00-0",
+          "title": "原文小步 5",
+          "text": "刘冠雄、萨镇冰、李鼎新（先后出任北京市政府的海军总长或海军总司令），成为清末民初中国海\n军建设的核心人物。\n严复：维新思想的传播者。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p070-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "“中体西用”主张与张之洞的教育思想 · 第62页",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 70,
+            "rect": [
+              0.10672,
+              0.68524,
+              0.79069,
+              0.2163
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 70622,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p070-k02-0-s0",
+          "knowledgeId": "china-p070-k02-0",
+          "title": "原文小步 1",
+          "text": "中体西用主张与张之洞的教育思想\n一“中体西用”思想的形成和发展\n1.1861年，冯桂芬在《采西学议》中首次提到“以中国之伦常名教为原本，\n辅以诸国富强之术”。\n2.1892年，郑观应在《西学》篇中提出：“中学其本也，西学其末也。”",
+          "keywords": [
+            "中体西用主张与张之洞的教育思想",
+            "“中体西用”思想的形成和发展"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p070-k02-0-s1",
+          "knowledgeId": "china-p070-k02-0",
+          "title": "原文小步 2",
+          "text": "3.1895年，沈寿康在《万国公报》上写了“中学为体，西学为用”。\n4.1896年，孙家在《议复开办京师大学堂折》中说：“今中国京师\n创立大学堂，自应以中学为主，西学为辅；中学为体，西学为用。”",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p070-k02-0-s2",
+          "knowledgeId": "china-p070-k02-0",
+          "title": "凯程助记",
+          "text": "5.1898年，张之洞在《劝学篇》中，围绕“中体西用”形成完整的\n思想体系。\n凯程助记\n冯郑沈孙张。",
+          "keywords": [
+            "凯程助记"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p071-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "“中体西用”主张与张之洞的教育思想 · 第63页（1）",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 71,
+            "rect": [
+              0.08259,
+              0.079,
+              0.82724,
+              0.48358
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 71076,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p071-k00-0-s0",
+          "knowledgeId": "china-p071-k00-0",
+          "title": "简介",
+          "text": "1. 简介\n1898年，正值维新呼声高唱入云的时候，张之洞总结了洋务实践活动，写\n成了著名的《劝学篇》，提出“中体西用”的理论体系。\n《劝学篇》分内篇和外篇，“内篇务本，以正人心：外篇务通，以开风气”。",
+          "keywords": [
+            "简介"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p071-k00-0-s1",
+          "knowledgeId": "china-p071-k00-0",
+          "title": "张之洞与《劝学篇》",
+          "text": "（1）“中学”也称“旧学”，“四书五经、中国史事、政书、地图为旧学”。\n二张之洞与《劝学篇》\n（2）“西学”也称“新学”，“西政、西艺、西史为新学”。\n①“西政”：西方有关文教制度、工商财政、军事建制和法律行政等管理\n层面的文化。\n2.内容",
+          "keywords": [
+            "张之洞与《劝学篇》",
+            "内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p071-k00-0-s2",
+          "knowledgeId": "china-p071-k00-0",
+          "title": "简评",
+          "text": "②“西艺”：近代西方科技。\n③“西史”：西方各国的历史发展过程。\n中体西用：主张与张之洞的教育思想\n（3）“中学”与“西学”的关系：“旧学为体，新学为用，不使偏废”\n（4）设想具体措施。如改革科举、倡导留学、制定学制、进行职业教育\n和培训师资等设想。\n3.简评",
+          "keywords": [
+            "简评"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p071-k00-0-s3",
+          "knowledgeId": "china-p071-k00-0",
+          "title": "原文小步 4",
+          "text": "纲领性文件。《劝学篇》成为晚清政府推行教育改革的纲领性文件。它是洋务\n运动的理论总结，也是后续新政改革的理论依据。但在中西文化关系的处理\n上依然不够科学化。\n（1）从整体上看，“中体西用”思想推动了社会发展的近代化进程。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p071-k00-0-s4",
+          "knowledgeId": "china-p071-k00-0",
+          "title": "历史作用",
+          "text": "(2）在教育方面，“中体西用”推动了中国教育的近代化进程。\n1.历史作用\n①极大地冲击了传统教育的价值观。\n②启动了中国近代教育改革的步伐。\n③引进了西方近代科学、课程及制度。\n(1)\n教育方面：“中体西用”的根本目的是维护封建统治，这是逆行倒流。\n2. 局限",
+          "keywords": [
+            "历史作用",
+            "局限"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p071-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-6",
+        "title": "“中体西用”主张与张之洞的教育思想 · 第63页（2）",
+        "section": "第二节教育思想",
+        "refs": [
+          {
+            "page": 71,
+            "rect": [
+              0.34672,
+              0.54392,
+              0.53345,
+              0.02839
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 71499,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p071-k00-1-s0",
+          "knowledgeId": "china-p071-k00-1",
+          "title": "原文小步 6",
+          "text": "(2) 文化方面：中学与西学直接嫁接必然引起二者之间的排异性反应。",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 6,
+    "knowledge": 29,
+    "steps": 103,
+    "memorizeSteps": 103,
+    "readOnlySteps": 0,
+    "replacedDrafts": 12
+  }
+}

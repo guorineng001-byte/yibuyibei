@@ -1,0 +1,2909 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch7-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch7-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "问题解决能力与创造性的培养：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 67,
+          "rect": [
+            0.05,
+            0.13,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 67117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "传统智力理论",
+      "section": "第一节 · 智力的基本理论 · 考点一",
+      "refs": [
+        {
+          "page": 67,
+          "rect": [
+            0.05,
+            0.52,
+            0.92,
+            0.33
+          ]
+        },
+        {
+          "page": 68,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 67468,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-three-dimensions",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "智力三维结构理论原图",
+      "section": "第一节 · 智力的基本理论 · 考点一 · （三）智力三维结构理论",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.16,
+            0.085,
+            0.34,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 68076,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-fluid-crystallized",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "流体智力与晶体智力发展原曲线",
+      "section": "第一节 · 智力的基本理论 · 考点一 · （四）流体智力与晶体智力论",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.5,
+            0.16,
+            0.38,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 68144,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "加德纳的多元智力理论",
+      "section": "第一节 · 智力的基本理论 · 考点二 · 现代智力理论 · （一）多元智力理论",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.05,
+            0.36,
+            0.92,
+            0.36
+          ]
+        },
+        {
+          "page": 69,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68324,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-mnemonic",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "八种智力凯程助记原图",
+      "section": "第一节 · 智力的基本理论 · 考点二 · （一）多元智力理论 · 2. 主要内容",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.05,
+            0.44,
+            0.92,
+            0.05
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 68396,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-successful-intelligence",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "斯滕伯格的成功智力理论（三元智力理论）",
+      "section": "第一节 · 智力的基本理论 · 考点二 · 现代智力理论 · （二）成功智力理论（三元智力理论）",
+      "refs": [
+        {
+          "page": 68,
+          "rect": [
+            0.05,
+            0.725,
+            0.92,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 68652,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-bamboo-case",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "多元智力综合培养：竹子教学活动经典案例",
+      "section": "第一节 · 智力的基本理论 · 考点二 · （一）多元智力理论 · 经典案例",
+      "refs": [
+        {
+          "page": 69,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 69072,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "问题解决概述",
+      "section": "第二节 · 问题解决的实质与过程 · 考点一",
+      "refs": [
+        {
+          "page": 69,
+          "rect": [
+            0.05,
+            0.52,
+            0.92,
+            0.41
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 69468,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-example",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "问题解决辨析例题及页脚答案原图",
+      "section": "第二节 · 问题解决的实质与过程 · 考点一 · （三）举例",
+      "refs": [
+        {
+          "page": 69,
+          "rect": [
+            0.05,
+            0.715,
+            0.92,
+            0.215
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 69643,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "一般问题解决的基本过程与方法",
+      "section": "第二节 · 问题解决的实质与过程 · 考点二 · （一）一般问题解决的基本过程",
+      "refs": [
+        {
+          "page": 70,
+          "rect": [
+            0.05,
+            0.13,
+            0.92,
+            0.37
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 70117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-flowchart",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "一般问题解决的基本过程原流程图",
+      "section": "第二节 · 问题解决的实质与过程 · 考点二 · （一）一般问题解决的基本过程 · 1. 图示",
+      "refs": [
+        {
+          "page": 70,
+          "rect": [
+            0.05,
+            0.16,
+            0.92,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 70144,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "结构不良问题的解决过程",
+      "section": "第二节 · 问题解决的实质与过程 · 考点二 · （二）结构不良问题的解决过程",
+      "refs": [
+        {
+          "page": 70,
+          "rect": [
+            0.05,
+            0.515,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 70463,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "影响问题解决的因素",
+      "section": "第二节 · 问题解决的实质与过程 · 考点三",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.05,
+            0.145,
+            0.92,
+            0.45
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71130,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-situation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "问题情境呈现：已知AB求正方形面积原图",
+      "section": "第二节 · 问题解决的实质与过程 · 考点三 · （三）问题情境与表征方式",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.64,
+            0.115,
+            0.26,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 71103,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-cultivation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "问题解决能力的培养",
+      "section": "第二节 · 问题解决的实质与过程 · 考点四",
+      "refs": [
+        {
+          "page": 71,
+          "rect": [
+            0.05,
+            0.67,
+            0.92,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 71603,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "创造性概述",
+      "section": "第三节 · 创造性及其培养 · 考点一",
+      "refs": [
+        {
+          "page": 72,
+          "rect": [
+            0.05,
+            0.16,
+            0.92,
+            0.42
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 72144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "创造性思维过程",
+      "section": "第三节 · 创造性及其培养 · 考点二",
+      "refs": [
+        {
+          "page": 72,
+          "rect": [
+            0.05,
+            0.63,
+            0.92,
+            0.29
+          ]
+        },
+        {
+          "page": 73,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 72567,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-note",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "创造性思维过程教材阶段对应注释",
+      "section": "第三节 · 创造性及其培养 · 考点二 · 页脚注释",
+      "refs": [
+        {
+          "page": 72,
+          "rect": [
+            0.05,
+            0.88,
+            0.92,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 72792,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-geneplore-model",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "生成探索模型（1992）原图",
+      "section": "第三节 · 创造性及其培养 · 考点二 · （三）芬克的生成探索模型",
+      "refs": [
+        {
+          "page": 73,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 73076,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "影响创造性发展的主要因素",
+      "section": "第三节 · 创造性及其培养 · 考点三",
+      "refs": [
+        {
+          "page": 73,
+          "rect": [
+            0.05,
+            0.28,
+            0.92,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 73252,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-conditions",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "智力、知识与创造性的关系",
+      "section": "第三节 · 创造性及其培养 · 考点三 · 凯程深化",
+      "refs": [
+        {
+          "page": 73,
+          "rect": [
+            0.05,
+            0.535,
+            0.92,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 73481,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-6",
+      "title": "创造性的培养",
+      "section": "第三节 · 创造性及其培养 · 考点四",
+      "refs": [
+        {
+          "page": 74,
+          "rect": [
+            0.05,
+            0.125,
+            0.92,
+            0.425
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 74112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-0",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "单因素论",
+      "text": "智力不可分，是一种总的能力，量表测量时只测一种智力。",
+      "keywords": [
+        "不可分",
+        "总能力",
+        "一种智力"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）单因素论"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-1",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "二因素论",
+      "text": "斯皮尔曼认为人的智力由G因素（一般因素）和S因素（特殊因素）组成。",
+      "keywords": [
+        "斯皮尔曼",
+        "一般因素",
+        "特殊因素"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）二因素论"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-2",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "三维结构",
+      "text": "吉尔福特认为人的智力由很多因素构成，原书用内容、操作、产物三个维度示意。",
+      "keywords": [
+        "吉尔福特",
+        "内容",
+        "操作",
+        "产物"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）智力三维结构理论"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-3",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "流体含义",
+      "text": "基本与文化无关的、非言语的心智能力，受遗传影响较大。",
+      "keywords": [
+        "文化无关",
+        "非言语",
+        "遗传"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）流体智力与晶体智力论（卡特尔：智力功能）",
+        "1. 流体智力"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（四）流体智力与晶体智力论（卡特尔：智力功能）"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-4",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "流体举例",
+      "text": "反应速度、记忆力、计算能力等。",
+      "keywords": [
+        "反应速度",
+        "记忆力",
+        "计算能力"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）流体智力与晶体智力论（卡特尔：智力功能）",
+        "1. 流体智力"
+      ],
+      "displayTitle": "（2）举例",
+      "outline": "（四）流体智力与晶体智力论（卡特尔：智力功能）"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-5",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "流体特点",
+      "text": "在青少年之前增长，30岁左右达到高峰，后随年龄增长而逐渐衰退。",
+      "keywords": [
+        "青少年之前",
+        "30岁左右",
+        "逐渐衰退"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）流体智力与晶体智力论（卡特尔：智力功能）",
+        "1. 流体智力"
+      ],
+      "displayTitle": "（3）特点",
+      "outline": "（四）流体智力与晶体智力论（卡特尔：智力功能）"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-6",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "晶体含义",
+      "text": "从社会文化中习得的能力，与文化知识、经验积累有关。",
+      "keywords": [
+        "社会文化",
+        "习得",
+        "知识经验"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）流体智力与晶体智力论（卡特尔：智力功能）",
+        "2. 晶体智力"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（四）流体智力与晶体智力论（卡特尔：智力功能）"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-7",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "晶体举例",
+      "text": "知识的广度、判断力、常识等。",
+      "keywords": [
+        "知识广度",
+        "判断力",
+        "常识"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）流体智力与晶体智力论（卡特尔：智力功能）",
+        "2. 晶体智力"
+      ],
+      "displayTitle": "（2）举例",
+      "outline": "（四）流体智力与晶体智力论（卡特尔：智力功能）"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-8",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "晶体特点",
+      "text": "一生都在增长。",
+      "keywords": [
+        "一生",
+        "增长"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）流体智力与晶体智力论（卡特尔：智力功能）",
+        "2. 晶体智力"
+      ],
+      "displayTitle": "（3）特点",
+      "outline": "（四）流体智力与晶体智力论（卡特尔：智力功能）"
+    },
+    {
+      "id": "edu-reviewed-ch7-traditional-intelligence-9",
+      "knowledgeId": "edu-reviewed-ch7-traditional-intelligence",
+      "title": "两种智力关系",
+      "text": "解决问题时投入流体智力，发展晶体智力；一些任务需要同时使用流体智力和晶体智力。",
+      "keywords": [
+        "投入流体",
+        "发展晶体",
+        "同时使用"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）流体智力与晶体智力论（卡特尔：智力功能）"
+      ],
+      "displayTitle": "3. 关系",
+      "outline": "（四）流体智力与晶体智力论（卡特尔：智力功能）"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences-0",
+      "knowledgeId": "edu-reviewed-ch7-multiple-intelligences",
+      "title": "代表人物",
+      "text": "霍华德·加德纳。",
+      "keywords": [
+        "霍华德",
+        "加德纳"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 代表人物"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences-1",
+      "knowledgeId": "edu-reviewed-ch7-multiple-intelligences",
+      "title": "八种智力",
+      "text": "语言、逻辑—数学、空间、音乐、肢体—动觉、人际、内省、自然观察。",
+      "keywords": [
+        "语言",
+        "逻辑数学",
+        "空间",
+        "音乐",
+        "肢体动觉",
+        "人际",
+        "内省",
+        "自然观察"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 主要内容"
+      ],
+      "displayTitle": "（1）8种智力",
+      "outline": "2. 主要内容"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences-2",
+      "knowledgeId": "edu-reviewed-ch7-multiple-intelligences",
+      "title": "差异性",
+      "text": "8种智力相互依赖、相互补充，在个体身上不同程度组合，形成人的智力的独特表现和特点。",
+      "keywords": [
+        "相互依赖",
+        "相互补充",
+        "不同组合",
+        "独特"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 主要内容"
+      ],
+      "displayTitle": "（2）差异性",
+      "outline": "2. 主要内容"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences-3",
+      "knowledgeId": "edu-reviewed-ch7-multiple-intelligences",
+      "title": "教育观",
+      "text": "由精英教育转向关注独特性和差异性。",
+      "keywords": [
+        "精英教育",
+        "独特性差异性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价",
+        "（1）尊重差异"
+      ],
+      "displayTitle": "①教育观",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences-4",
+      "knowledgeId": "edu-reviewed-ch7-multiple-intelligences",
+      "title": "评价观",
+      "text": "由纸笔测验转向多元评价。",
+      "keywords": [
+        "纸笔测验",
+        "多元评价"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价",
+        "（1）尊重差异"
+      ],
+      "displayTitle": "②评价观",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences-5",
+      "knowledgeId": "edu-reviewed-ch7-multiple-intelligences",
+      "title": "教学观",
+      "text": "由单一途径转向同一知识通过多种智力途径建构。",
+      "keywords": [
+        "同一知识",
+        "多种智力途径"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价",
+        "（1）尊重差异"
+      ],
+      "displayTitle": "③教学观",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences-6",
+      "knowledgeId": "edu-reviewed-ch7-multiple-intelligences",
+      "title": "课程观",
+      "text": "由单一课表、单一方式呈现转向课程类型、内容呈现多样化。",
+      "keywords": [
+        "课程类型",
+        "内容呈现",
+        "多样化"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价",
+        "（1）尊重差异"
+      ],
+      "displayTitle": "④课程观",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch7-multiple-intelligences-7",
+      "knowledgeId": "edu-reviewed-ch7-multiple-intelligences",
+      "title": "发展整体",
+      "text": "学生的多种智力获得整体性、综合性发展。原书下一页以“竹子”教学活动示例。",
+      "keywords": [
+        "整体性",
+        "综合性",
+        "竹子案例"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（2）发展整体",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch7-successful-intelligence-0",
+      "knowledgeId": "edu-reviewed-ch7-successful-intelligence",
+      "title": "代表人物",
+      "text": "斯滕伯格。",
+      "keywords": [
+        "斯滕伯格"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 代表人物"
+    },
+    {
+      "id": "edu-reviewed-ch7-successful-intelligence-1",
+      "knowledgeId": "edu-reviewed-ch7-successful-intelligence",
+      "title": "成功智力含义",
+      "text": "成功智力是为了完成个人的以及自己群体或文化的目标而去选择环境、适应环境、改变环境的能力。",
+      "keywords": [
+        "个人群体文化目标",
+        "选择适应改变环境"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch7-successful-intelligence-2",
+      "knowledgeId": "edu-reviewed-ch7-successful-intelligence",
+      "title": "分析性智力",
+      "text": "分析问题并找到正确答案的能力。",
+      "keywords": [
+        "分析问题",
+        "正确答案"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 结构"
+      ],
+      "displayTitle": "（1）分析性智力",
+      "outline": "3. 结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-successful-intelligence-3",
+      "knowledgeId": "edu-reviewed-ch7-successful-intelligence",
+      "title": "实践性智力",
+      "text": "解决实际生活中问题的能力。",
+      "keywords": [
+        "实际生活",
+        "解决问题"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 结构"
+      ],
+      "displayTitle": "（2）实践性智力",
+      "outline": "3. 结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-successful-intelligence-4",
+      "knowledgeId": "edu-reviewed-ch7-successful-intelligence",
+      "title": "创造性智力",
+      "text": "形成好的问题和想法的能力。",
+      "keywords": [
+        "好问题",
+        "想法"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 结构"
+      ],
+      "displayTitle": "（3）创造性智力",
+      "outline": "3. 结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview-0",
+      "knowledgeId": "edu-reviewed-ch7-problem-overview",
+      "title": "问题含义",
+      "text": "给定信息与要实现的目标之间存在障碍，即需要加以解决的情境。",
+      "keywords": [
+        "给定信息",
+        "目标",
+        "障碍"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "1. 问题",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview-1",
+      "knowledgeId": "edu-reviewed-ch7-problem-overview",
+      "title": "问题解决含义",
+      "text": "个体在面临问题情境而没有现成方法可以利用时，将已知情境转化为目标情境的认知过程。加涅将其归于高级规则。",
+      "keywords": [
+        "无现成方法",
+        "已知到目标",
+        "认知过程",
+        "高级规则"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "2. 问题解决",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview-2",
+      "knowledgeId": "edu-reviewed-ch7-problem-overview",
+      "title": "新问题",
+      "text": "新的问题，否则只是操作或练习。",
+      "keywords": [
+        "新问题",
+        "区别操作练习"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "1. 新的问题",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview-3",
+      "knowledgeId": "edu-reviewed-ch7-problem-overview",
+      "title": "一系列运算",
+      "text": "一系列运算（认知成分）：组合规则。",
+      "keywords": [
+        "运算",
+        "认知成分",
+        "组合规则"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "2. 一系列运算",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview-4",
+      "knowledgeId": "edu-reviewed-ch7-problem-overview",
+      "title": "能力增长",
+      "text": "解决后，能力增长。",
+      "keywords": [
+        "解决后",
+        "能力增长"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "3. 解决后能力增长",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview-5",
+      "knowledgeId": "edu-reviewed-ch7-problem-overview",
+      "title": "活动成分",
+      "text": "涉及认知、情感和行为活动成分。",
+      "keywords": [
+        "认知",
+        "情感",
+        "行为"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "4. 涉及认知、情感和行为活动成分",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview-6",
+      "knowledgeId": "edu-reviewed-ch7-problem-overview",
+      "title": "属于问题解决",
+      "text": "原书例题中属于问题解决的是A发明创造、B写一篇论文、C用“高兴”造句、G猜谜语、H写一封信。",
+      "keywords": [
+        "发明创造",
+        "论文",
+        "造句",
+        "猜谜语",
+        "写信"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）举例"
+      ],
+      "displayTitle": "属于问题解决（A、B、C、G、H）",
+      "outline": "（三）举例"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-overview-7",
+      "knowledgeId": "edu-reviewed-ch7-problem-overview",
+      "title": "不属问题解决",
+      "text": "原书例题中D回想小时候的场景、E在公园荡秋千、F吃饭穿衣未列入问题解决。",
+      "keywords": [
+        "回想",
+        "荡秋千",
+        "吃饭穿衣"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）举例"
+      ],
+      "displayTitle": "未列入问题解决（D、E、F）",
+      "outline": "（三）举例"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-0",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "理解表征",
+      "text": "理解和表征问题。",
+      "keywords": [
+        "理解",
+        "表征问题"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 图示"
+      ],
+      "displayTitle": "理解和表征问题",
+      "outline": "1. 图示"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-1",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "无图式激活",
+      "text": "无图式激活时，先寻求解答，再尝试解答。",
+      "keywords": [
+        "无图式",
+        "寻求解答",
+        "尝试解答"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 图示"
+      ],
+      "displayTitle": "无图式激活路径",
+      "outline": "1. 图示"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-2",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "图式激活",
+      "text": "图式激活时，由理解和表征问题直接进入尝试解答。",
+      "keywords": [
+        "图式激活",
+        "直接尝试解答"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 图示"
+      ],
+      "displayTitle": "图式激活路径",
+      "outline": "1. 图示"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-3",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "评价成功",
+      "text": "尝试解答后进行评价，成功则停止。",
+      "keywords": [
+        "评价",
+        "成功",
+        "停止"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 图示"
+      ],
+      "displayTitle": "评价成功",
+      "outline": "1. 图示"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-4",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "评价失败",
+      "text": "评价失败则返回理解和表征问题或寻求解答，继续解决。",
+      "keywords": [
+        "评价失败",
+        "返回",
+        "理解表征或寻求解答"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 图示"
+      ],
+      "displayTitle": "评价失败",
+      "outline": "1. 图示"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-5",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "算法式含义",
+      "text": "为了达到某一个目标或解决某个问题而采取的一步一步的程序。",
+      "keywords": [
+        "目标",
+        "解决问题",
+        "逐步程序"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 方法",
+        "（1）算法式"
+      ],
+      "displayTitle": "含义",
+      "outline": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-6",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "算法式举例",
+      "text": "两个连续的奇数的积是323，求这两个数。",
+      "keywords": [
+        "连续奇数",
+        "积323"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 方法",
+        "（1）算法式"
+      ],
+      "displayTitle": "举例",
+      "outline": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-7",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "启发式含义",
+      "text": "只试探那些对成功趋向目标状态有价值的操作。",
+      "keywords": [
+        "试探",
+        "目标状态",
+        "有价值"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 方法",
+        "（2）启发式"
+      ],
+      "displayTitle": "①含义",
+      "outline": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-8",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "手段目的分析",
+      "text": "将一篇长论文分解成很多子任务，依次完成。",
+      "keywords": [
+        "分解子任务",
+        "依次完成"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 方法",
+        "（2）启发式",
+        "②类型"
+      ],
+      "displayTitle": "a. 手段—目的分析法",
+      "outline": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-9",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "爬山法",
+      "text": "医生给病人在看病的不同时期开不同的药。",
+      "keywords": [
+        "不同时期",
+        "不同药物"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 方法",
+        "（2）启发式",
+        "②类型"
+      ],
+      "displayTitle": "b. 爬山法",
+      "outline": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-10",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "逆向反推",
+      "text": "从目标状态出发，反推上一步，再逐步反推到起始状态。",
+      "keywords": [
+        "目标状态",
+        "反推",
+        "起始状态"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 方法",
+        "（2）启发式",
+        "②类型"
+      ],
+      "displayTitle": "c. 逆向反推法",
+      "outline": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-11",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "联想法",
+      "text": "给定三个词，用这三个词编一个故事。",
+      "keywords": [
+        "三个词",
+        "编故事"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 方法",
+        "（2）启发式",
+        "②类型"
+      ],
+      "displayTitle": "d. 联想法",
+      "outline": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch7-general-process-12",
+      "knowledgeId": "edu-reviewed-ch7-general-process",
+      "title": "类比法",
+      "text": "看到小鸟飞，想到制作飞机。",
+      "keywords": [
+        "小鸟飞",
+        "制作飞机"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 方法",
+        "（2）启发式",
+        "②类型"
+      ],
+      "displayTitle": "e. 类比法",
+      "outline": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-0",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "含义",
+      "text": "不明确目标、条件、方法，需要设计过程。",
+      "keywords": [
+        "目标条件方法不明确",
+        "设计过程"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 含义"
+      ],
+      "displayTitle": "含义",
+      "outline": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-1",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "举例",
+      "text": "任选一本书，读完写一篇观后感，文体不限，字数不限。",
+      "keywords": [
+        "任选书",
+        "观后感",
+        "文体字数不限"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 含义"
+      ],
+      "displayTitle": "举例",
+      "outline": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-2",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "确定存在",
+      "text": "确定问题是否真的存在。",
+      "keywords": [
+        "问题是否存在"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程",
+        "（1）厘清问题及其情境限制"
+      ],
+      "displayTitle": "①确定问题是否真的存在",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-3",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "厘清实质",
+      "text": "厘清问题的实质。",
+      "keywords": [
+        "问题实质"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程",
+        "（1）厘清问题及其情境限制"
+      ],
+      "displayTitle": "②厘清问题的实质",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-4",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "重组信息",
+      "text": "对相关信息重新组织。",
+      "keywords": [
+        "相关信息",
+        "重新组织"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程",
+        "（1）厘清问题及其情境限制"
+      ],
+      "displayTitle": "③对相关信息重新组织",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-5",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "澄清角度",
+      "text": "澄清、明确各种可能的角度、立场和利害关系，从多个角度、立场综合考虑问题中的多种可能性。",
+      "keywords": [
+        "角度立场",
+        "利害关系",
+        "多种可能"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程"
+      ],
+      "displayTitle": "（2）澄清、明确各种可能的角度、立场和利害关系",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-6",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "提出方法",
+      "text": "提出可能解决的方法。不同立场会有不同方案。",
+      "keywords": [
+        "不同立场",
+        "不同方案"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程"
+      ],
+      "displayTitle": "（3）提出可能解决的方法",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-7",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "评价有效性",
+      "text": "评价各种方法的有效性，选择最为可取的方法。",
+      "keywords": [
+        "有效性",
+        "最为可取"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程"
+      ],
+      "displayTitle": "（4）评价各种方法的有效性",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-8",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "反思监控",
+      "text": "对问题表征和解法的反思监控。元认知策略贯穿始终。",
+      "keywords": [
+        "表征解法",
+        "反思监控",
+        "元认知贯穿始终"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程"
+      ],
+      "displayTitle": "（5）对问题表征和解法的反思监控",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-9",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "实施监察",
+      "text": "实施、监察解决方案，使方案更有效。",
+      "keywords": [
+        "实施监察",
+        "更有效方案"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程"
+      ],
+      "displayTitle": "（6）实施、监察解决方案",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-ill-structured-10",
+      "knowledgeId": "edu-reviewed-ch7-ill-structured",
+      "title": "调整方案",
+      "text": "调整解决方案，进行反思与调整。",
+      "keywords": [
+        "反思",
+        "调整"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 过程"
+      ],
+      "displayTitle": "（7）调整解决方案",
+      "outline": "2. 过程"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-0",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "知识经验",
+      "text": "相关的知识经验。",
+      "keywords": [
+        "相关知识",
+        "经验"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）相关的知识经验"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-1",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "智力",
+      "text": "智力的水平、类型。",
+      "keywords": [
+        "水平",
+        "类型"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个体的智力和动机"
+      ],
+      "displayTitle": "1. 智力",
+      "outline": "（二）个体的智力和动机"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-2",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "动机",
+      "text": "动机的性质、强度。",
+      "keywords": [
+        "性质",
+        "强度"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个体的智力和动机"
+      ],
+      "displayTitle": "2. 动机",
+      "outline": "（二）个体的智力和动机"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-3",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "空间排列",
+      "text": "空间排列（已知条件）处于视野之中，容易解决。",
+      "keywords": [
+        "空间排列",
+        "已知条件",
+        "视野"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）问题情境与表征方式",
+        "1. 问题情境（外）"
+      ],
+      "displayTitle": "（1）空间排列",
+      "outline": "（三）问题情境与表征方式"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-4",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "刺激模式",
+      "text": "刺激模式与个人知识结构越接近，越容易解决。",
+      "keywords": [
+        "刺激模式",
+        "知识结构",
+        "接近"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）问题情境与表征方式",
+        "1. 问题情境（外）"
+      ],
+      "displayTitle": "（2）刺激模式与知识结构",
+      "outline": "（三）问题情境与表征方式"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-5",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "物件事实",
+      "text": "所含物件和事实太少、太多，都不利于解决。",
+      "keywords": [
+        "物件事实",
+        "太少太多",
+        "不利"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）问题情境与表征方式",
+        "1. 问题情境（外）"
+      ],
+      "displayTitle": "（3）物件和事实的数量",
+      "outline": "（三）问题情境与表征方式"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-6",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "表征方式",
+      "text": "头脑中的表现形式，影响理解程度。",
+      "keywords": [
+        "内部",
+        "表现形式",
+        "理解程度"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）问题情境与表征方式"
+      ],
+      "displayTitle": "2. 表征方式（内）",
+      "outline": "（三）问题情境与表征方式"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-7",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "定势含义",
+      "text": "以最熟悉的方式做出反应的倾向。",
+      "keywords": [
+        "熟悉方式",
+        "反应倾向"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）思维定势与功能固着",
+        "1. 思维定势"
+      ],
+      "displayTitle": "含义",
+      "outline": "（四）思维定势与功能固着"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-8",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "定势积极",
+      "text": "问题情境不变时，具有积极作用。",
+      "keywords": [
+        "情境不变",
+        "积极"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）思维定势与功能固着",
+        "1. 思维定势"
+      ],
+      "displayTitle": "问题情境不变：积极作用",
+      "outline": "（四）思维定势与功能固着"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-9",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "定势消极",
+      "text": "问题情境改变时，具有消极作用。",
+      "keywords": [
+        "情境改变",
+        "消极"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）思维定势与功能固着",
+        "1. 思维定势"
+      ],
+      "displayTitle": "问题情境改变：消极作用",
+      "outline": "（四）思维定势与功能固着"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-10",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "定势举例",
+      "text": "原书以“护士只适合女性，工程师只适合男性”等观念作为思维定势的例子。",
+      "keywords": [
+        "原书例子",
+        "职业性别定势"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）思维定势与功能固着",
+        "1. 思维定势"
+      ],
+      "displayTitle": "举例",
+      "outline": "（四）思维定势与功能固着"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-11",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "功能固着含义",
+      "text": "一种从物体正常功能的角度来考虑问题的定势，是思维定势消极作用的表现。",
+      "keywords": [
+        "正常功能",
+        "定势",
+        "消极作用"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）思维定势与功能固着",
+        "2. 功能固着"
+      ],
+      "displayTitle": "含义",
+      "outline": "（四）思维定势与功能固着"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-12",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "功能固着举例",
+      "text": "砖头的主要功能是建筑，很少有人能想到可以用它来当武器、坐凳、艺术品等。",
+      "keywords": [
+        "砖头",
+        "建筑",
+        "其他用途"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）思维定势与功能固着",
+        "2. 功能固着"
+      ],
+      "displayTitle": "举例",
+      "outline": "（四）思维定势与功能固着"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-13",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "原型启发含义",
+      "text": "通过与假设的事物相似的事物，来启发人们解决新问题的途径。",
+      "keywords": [
+        "相似事物",
+        "启发",
+        "新问题"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）原型启发与酝酿效应",
+        "1. 原型启发"
+      ],
+      "displayTitle": "含义",
+      "outline": "（五）原型启发与酝酿效应"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-14",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "原型启发举例",
+      "text": "飞机的设计原理受到鸟类的启发。",
+      "keywords": [
+        "飞机",
+        "鸟类启发"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）原型启发与酝酿效应",
+        "1. 原型启发"
+      ],
+      "displayTitle": "举例",
+      "outline": "（五）原型启发与酝酿效应"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-15",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "酝酿效应含义",
+      "text": "通过顿悟找到解决问题的方法。",
+      "keywords": [
+        "顿悟",
+        "解决方法"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）原型启发与酝酿效应",
+        "2. 酝酿效应"
+      ],
+      "displayTitle": "含义",
+      "outline": "（五）原型启发与酝酿效应"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-factors-16",
+      "knowledgeId": "edu-reviewed-ch7-problem-factors",
+      "title": "酝酿效应举例",
+      "text": "一件事情想了好久实在想不出来，干脆不想，结果过了一会儿想出了解决办法。",
+      "keywords": [
+        "暂时不想",
+        "之后想出办法"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）原型启发与酝酿效应",
+        "2. 酝酿效应"
+      ],
+      "displayTitle": "举例",
+      "outline": "（五）原型启发与酝酿效应"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-cultivation-0",
+      "knowledgeId": "edu-reviewed-ch7-problem-cultivation",
+      "title": "已有经验",
+      "text": "充分利用已有经验，形成知识结构体系。",
+      "keywords": [
+        "已有经验",
+        "知识结构体系"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）充分利用已有经验，形成知识结构体系"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-cultivation-1",
+      "knowledgeId": "edu-reviewed-ch7-problem-cultivation",
+      "title": "分析构成",
+      "text": "分析问题的构成，把握问题解决规律。",
+      "keywords": [
+        "问题构成",
+        "解决规律"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）分析问题的构成，把握问题解决规律"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-cultivation-2",
+      "knowledgeId": "edu-reviewed-ch7-problem-cultivation",
+      "title": "探究学习",
+      "text": "开展探究性学习，发挥学生的主动性。",
+      "keywords": [
+        "探究性学习",
+        "主动性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）开展探究性学习，发挥学生的主动性"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-cultivation-3",
+      "knowledgeId": "edu-reviewed-ch7-problem-cultivation",
+      "title": "教授策略",
+      "text": "教授问题解决策略，灵活变换问题。",
+      "keywords": [
+        "解决策略",
+        "变换问题"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（四）教授问题解决策略，灵活变换问题"
+    },
+    {
+      "id": "edu-reviewed-ch7-problem-cultivation-4",
+      "knowledgeId": "edu-reviewed-ch7-problem-cultivation",
+      "title": "猜测验证",
+      "text": "鼓励学生大胆猜测，积极开展实践验证。",
+      "keywords": [
+        "大胆猜测",
+        "实践验证"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（五）鼓励学生大胆猜测，积极开展实践验证"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-0",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "创造性含义",
+      "text": "根据一定目的和任务，运用一切已知信息，开展能动的思维活动，产生出新颖、独特、具有社会或个人价值的产品的品质。",
+      "keywords": [
+        "目的任务",
+        "已知信息",
+        "新颖独特",
+        "社会个人价值"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-1",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "创造性想象",
+      "text": "创造性想象。",
+      "keywords": [
+        "创造性想象"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构",
+        "1. 创造性认知品质"
+      ],
+      "displayTitle": "（1）创造性想象",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-2",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "流畅性",
+      "text": "短时间内产生的观念数量多，但不一定角度多。举例：一分钟内说出砖的用途，学生回答可以砌墙、建桥、盖房子等。",
+      "keywords": [
+        "数量多",
+        "不一定角度多",
+        "砌墙建桥盖房"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构",
+        "1. 创造性认知品质",
+        "（2）创造性思维"
+      ],
+      "displayTitle": "①流畅性",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-3",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "灵活性",
+      "text": "产生的观念种类多，角度多。举例：砖除了可以做建筑材料，还可以成为防身的武器，当锤子、枕头等。",
+      "keywords": [
+        "种类多",
+        "角度多",
+        "武器锤子枕头"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构",
+        "1. 创造性认知品质",
+        "（2）创造性思维"
+      ],
+      "displayTitle": "②灵活性",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-4",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "独创性",
+      "text": "产生的观念非同寻常。举例：砖除了做建筑材料，还可以成为艺术品，可以在上面雕刻花纹。",
+      "keywords": [
+        "非同寻常",
+        "艺术品",
+        "雕刻"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构",
+        "1. 创造性认知品质",
+        "（2）创造性思维"
+      ],
+      "displayTitle": "③独创性",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-5",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "综合性",
+      "text": "各种思维的综合。举例：在科学研究中，综合不同学科的知识，可能发现新的科学规律。",
+      "keywords": [
+        "思维综合",
+        "不同学科",
+        "新规律"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构",
+        "1. 创造性认知品质",
+        "（2）创造性思维"
+      ],
+      "displayTitle": "④综合性",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-6",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "突发性",
+      "text": "灵感和顿悟。举例：脑海中灵感闪现，想出解决办法。",
+      "keywords": [
+        "灵感",
+        "顿悟"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构",
+        "1. 创造性认知品质",
+        "（2）创造性思维"
+      ],
+      "displayTitle": "⑤突发性",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-7",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "创造性认知策略",
+      "text": "创造性认知策略。",
+      "keywords": [
+        "创造性认知策略"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构",
+        "1. 创造性认知品质"
+      ],
+      "displayTitle": "（3）创造性认知策略",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-8",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "创造性人格品质",
+      "text": "创造性人格品质。",
+      "keywords": [
+        "创造性人格品质"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构"
+      ],
+      "displayTitle": "2. 创造性人格品质",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-overview-9",
+      "knowledgeId": "edu-reviewed-ch7-creativity-overview",
+      "title": "创造性适应品质",
+      "text": "创造性适应品质。",
+      "keywords": [
+        "创造性适应品质"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）基本结构"
+      ],
+      "displayTitle": "3. 创造性适应品质",
+      "outline": "（二）基本结构"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-0",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "思维本质",
+      "text": "聚合思维与发散思维的统一。",
+      "keywords": [
+        "聚合思维",
+        "发散思维",
+        "统一"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）创造性思维的本质"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-1",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "准备",
+      "text": "准备，即搜集信息的阶段。",
+      "keywords": [
+        "准备",
+        "搜集信息"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）华莱士的四阶段论"
+      ],
+      "displayTitle": "第一步：准备",
+      "outline": "（二）华莱士的四阶段论"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-2",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "沉思",
+      "text": "沉思，即处于酝酿状态。",
+      "keywords": [
+        "沉思",
+        "酝酿"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）华莱士的四阶段论"
+      ],
+      "displayTitle": "第二步：沉思",
+      "outline": "（二）华莱士的四阶段论"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-3",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "灵感启迪",
+      "text": "灵感或启迪，即突然涌现出问题解决办法。",
+      "keywords": [
+        "灵感启迪",
+        "突然涌现"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）华莱士的四阶段论"
+      ],
+      "displayTitle": "第三步：灵感或启迪",
+      "outline": "（二）华莱士的四阶段论"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-4",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "验证",
+      "text": "验证，即检验各种解决办法。",
+      "keywords": [
+        "验证",
+        "检验办法"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）华莱士的四阶段论"
+      ],
+      "displayTitle": "第四步：验证",
+      "outline": "（二）华莱士的四阶段论"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-5",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "生成阶段",
+      "text": "个体要构建一种叫前发明结构的心理表征，即一个思想的萌芽。",
+      "keywords": [
+        "前发明结构",
+        "心理表征",
+        "思想萌芽"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）芬克的生成探索模型"
+      ],
+      "displayTitle": "1. 生成阶段",
+      "outline": "（三）芬克的生成探索模型"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-6",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "探索有效",
+      "text": "最初探索有效，前发明结构能够直接生成创造性产品。",
+      "keywords": [
+        "探索有效",
+        "直接生成"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）芬克的生成探索模型",
+        "2. 探索阶段"
+      ],
+      "displayTitle": "最初探索有效",
+      "outline": "（三）芬克的生成探索模型"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-7",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "探索无效",
+      "text": "最初探索无效，重新进行探索。",
+      "keywords": [
+        "探索无效",
+        "重新探索"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）芬克的生成探索模型",
+        "2. 探索阶段"
+      ],
+      "displayTitle": "最初探索无效",
+      "outline": "（三）芬克的生成探索模型"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-8",
+      "knowledgeId": "edu-reviewed-ch7-creative-process",
+      "title": "约束",
+      "text": "任何创造都有环境或资源上的约束，没有无限制的创造。",
+      "keywords": [
+        "环境资源",
+        "约束",
+        "没有无限制"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）芬克的生成探索模型"
+      ],
+      "displayTitle": "3. 约束",
+      "outline": "（三）芬克的生成探索模型"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-note-0",
+      "knowledgeId": "edu-reviewed-ch7-creative-process-note",
+      "title": "观点生成",
+      "text": "原书页脚注释：大纲将创造性思维过程分为观点生成和观点评价。凯程将华莱士四阶段论的前三步（准备、沉思、灵感或启迪）对应观点生成。",
+      "keywords": [
+        "大纲两阶段",
+        "前三步",
+        "观点生成"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "观点生成：对应前三步"
+    },
+    {
+      "id": "edu-reviewed-ch7-creative-process-note-1",
+      "knowledgeId": "edu-reviewed-ch7-creative-process-note",
+      "title": "观点评价",
+      "text": "原书页脚注释将华莱士四阶段论的第四步（验证）对应观点评价。",
+      "keywords": [
+        "第四步",
+        "验证",
+        "观点评价"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "观点评价：对应第四步"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors-0",
+      "knowledgeId": "edu-reviewed-ch7-creativity-factors",
+      "title": "智力条件",
+      "text": "智力是必要不充分条件。",
+      "keywords": [
+        "智力",
+        "必要不充分"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）个人因素"
+      ],
+      "displayTitle": "1. 智力",
+      "outline": "（一）个人因素"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors-1",
+      "knowledgeId": "edu-reviewed-ch7-creativity-factors",
+      "title": "知识条件",
+      "text": "知识是必要不充分条件，还需要灵活和善于变通。",
+      "keywords": [
+        "知识",
+        "必要不充分",
+        "灵活变通"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）个人因素"
+      ],
+      "displayTitle": "2. 知识",
+      "outline": "（一）个人因素"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors-2",
+      "knowledgeId": "edu-reviewed-ch7-creativity-factors",
+      "title": "个性",
+      "text": "好奇心、独立自信、坚持不懈等，提供心理状态和背景。",
+      "keywords": [
+        "好奇心",
+        "独立自信",
+        "坚持不懈"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）个人因素"
+      ],
+      "displayTitle": "3. 个性",
+      "outline": "（一）个人因素"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors-3",
+      "knowledgeId": "edu-reviewed-ch7-creativity-factors",
+      "title": "动机",
+      "text": "内部动机更有利于创造活动的产生和发展。",
+      "keywords": [
+        "内部动机",
+        "创造活动"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）个人因素"
+      ],
+      "displayTitle": "4. 动机",
+      "outline": "（一）个人因素"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors-4",
+      "knowledgeId": "edu-reviewed-ch7-creativity-factors",
+      "title": "情绪风格",
+      "text": "高兴和愤怒情绪均可促进个体的创造性思维，情绪与认知风格共同影响创造性思维。",
+      "keywords": [
+        "高兴愤怒",
+        "情绪",
+        "认知风格"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）个人因素"
+      ],
+      "displayTitle": "5. 情绪与认知风格",
+      "outline": "（一）个人因素"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors-5",
+      "knowledgeId": "edu-reviewed-ch7-creativity-factors",
+      "title": "家庭",
+      "text": "民主、鼓励探索、信任、安全感、父母有创造性等。",
+      "keywords": [
+        "民主探索",
+        "信任安全感",
+        "父母"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）环境因素"
+      ],
+      "displayTitle": "1. 家庭",
+      "outline": "（二）环境因素"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors-6",
+      "knowledgeId": "edu-reviewed-ch7-creativity-factors",
+      "title": "学校",
+      "text": "教师的态度、课堂气氛、课程设置、教学模式、学校环境等。",
+      "keywords": [
+        "教师态度",
+        "课堂气氛",
+        "课程教学",
+        "学校环境"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）环境因素"
+      ],
+      "displayTitle": "2. 学校",
+      "outline": "（二）环境因素"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-factors-7",
+      "knowledgeId": "edu-reviewed-ch7-creativity-factors",
+      "title": "社会环境",
+      "text": "民主型开放环境、先进的科技与学术环境等。",
+      "keywords": [
+        "民主开放",
+        "科技学术"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）环境因素"
+      ],
+      "displayTitle": "3. 社会环境",
+      "outline": "（二）环境因素"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-conditions-0",
+      "knowledgeId": "edu-reviewed-ch7-creativity-conditions",
+      "title": "高创造力",
+      "text": "高创造力者，智商一定不低。",
+      "keywords": [
+        "高创造力",
+        "智商不低"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 智力与创造性的关系"
+      ],
+      "displayTitle": "（1）高创造力者",
+      "outline": "1. 智力与创造性的关系"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-conditions-1",
+      "knowledgeId": "edu-reviewed-ch7-creativity-conditions",
+      "title": "低创造力",
+      "text": "低创造力者，智商可高可低。",
+      "keywords": [
+        "低创造力",
+        "智商可高可低"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 智力与创造性的关系"
+      ],
+      "displayTitle": "（2）低创造力者",
+      "outline": "1. 智力与创造性的关系"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-conditions-2",
+      "knowledgeId": "edu-reviewed-ch7-creativity-conditions",
+      "title": "高智商",
+      "text": "高智商者，创造力可高可低。",
+      "keywords": [
+        "高智商",
+        "创造力可高可低"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 智力与创造性的关系"
+      ],
+      "displayTitle": "（3）高智商者",
+      "outline": "1. 智力与创造性的关系"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-conditions-3",
+      "knowledgeId": "edu-reviewed-ch7-creativity-conditions",
+      "title": "低智商",
+      "text": "低智商者，创造力一定低。",
+      "keywords": [
+        "低智商",
+        "创造力低"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 智力与创造性的关系"
+      ],
+      "displayTitle": "（4）低智商者",
+      "outline": "1. 智力与创造性的关系"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-conditions-4",
+      "knowledgeId": "edu-reviewed-ch7-creativity-conditions",
+      "title": "没有知识",
+      "text": "没有知识，就没有创造性。",
+      "keywords": [
+        "无知识",
+        "无创造性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 知识与创造性的关系"
+      ],
+      "displayTitle": "（1）没有知识",
+      "outline": "2. 知识与创造性的关系"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-conditions-5",
+      "knowledgeId": "edu-reviewed-ch7-creativity-conditions",
+      "title": "有知识",
+      "text": "有知识，创造性可高可低。",
+      "keywords": [
+        "有知识",
+        "创造性可高可低"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 知识与创造性的关系"
+      ],
+      "displayTitle": "（2）有知识",
+      "outline": "2. 知识与创造性的关系"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-conditions-6",
+      "knowledgeId": "edu-reviewed-ch7-creativity-conditions",
+      "title": "有创造性",
+      "text": "有创造性，一定有知识的积累。",
+      "keywords": [
+        "创造性",
+        "知识积累"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 知识与创造性的关系"
+      ],
+      "displayTitle": "（3）有创造性",
+      "outline": "2. 知识与创造性的关系"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-0",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "信心热情",
+      "text": "树立创造信心，激发创造热情。",
+      "keywords": [
+        "创造信心",
+        "热情"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）形成创造意识"
+      ],
+      "displayTitle": "1. 树立创造信心，激发创造热情",
+      "outline": "（一）形成创造意识"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-1",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "意志勇气",
+      "text": "磨砺创造意志，培养创造勇气。",
+      "keywords": [
+        "创造意志",
+        "勇气"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）形成创造意识"
+      ],
+      "displayTitle": "2. 磨砺创造意志，培养创造勇气",
+      "outline": "（一）形成创造意识"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-2",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "脑激励法",
+      "text": "即头脑风暴法，教师鼓励学生针对一个问题畅所欲言、异想天开，中间不打断、不做评论，直到所有可能的答案都提出来为止。为了解决问题。",
+      "keywords": [
+        "头脑风暴",
+        "不打断不评论",
+        "解决问题"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）开发创造性思维"
+      ],
+      "displayTitle": "1. 脑激励法",
+      "outline": "（二）开发创造性思维"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-3",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "旧到新",
+      "text": "使熟悉的事物变得新奇（旧→新）。如熟悉的砖头可以进行雕刻。",
+      "keywords": [
+        "熟悉变新奇",
+        "旧到新",
+        "砖头雕刻"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）开发创造性思维",
+        "2. 分合法"
+      ],
+      "displayTitle": "（1）使熟悉的事物变得新奇",
+      "outline": "（二）开发创造性思维"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-4",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "新到旧",
+      "text": "使新奇的事物变得熟悉（新→旧）。原书举例：激光炮的原理是利用高强度的热光打掉对方的导弹和卫星。",
+      "keywords": [
+        "新奇变熟悉",
+        "新到旧",
+        "原理解释"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）开发创造性思维",
+        "2. 分合法"
+      ],
+      "displayTitle": "（2）使新奇的事物变得熟悉",
+      "outline": "（二）开发创造性思维"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-5",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "自由联想",
+      "text": "自由想象。为了探索心理。",
+      "keywords": [
+        "自由想象",
+        "探索心理"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）开发创造性思维"
+      ],
+      "displayTitle": "3. 自由联想技术",
+      "outline": "（二）开发创造性思维"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-6",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "改变观念",
+      "text": "改变观念。",
+      "keywords": [
+        "改变观念"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）发展批判性思维"
+      ],
+      "displayTitle": "1. 改变观念",
+      "outline": "（三）发展批判性思维"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-7",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "鼓励质疑",
+      "text": "鼓励质疑。",
+      "keywords": [
+        "鼓励质疑"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）发展批判性思维"
+      ],
+      "displayTitle": "2. 鼓励质疑",
+      "outline": "（三）发展批判性思维"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-8",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "辩论争鸣",
+      "text": "倡导辩论争鸣。",
+      "keywords": [
+        "辩论争鸣"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）发展批判性思维"
+      ],
+      "displayTitle": "3. 倡导辩论争鸣",
+      "outline": "（三）发展批判性思维"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-9",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "想象情境",
+      "text": "创设想象情境。",
+      "keywords": [
+        "想象情境"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）发展批判性思维"
+      ],
+      "displayTitle": "4. 创设想象情境",
+      "outline": "（三）发展批判性思维"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-10",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "保护好奇心",
+      "text": "保护好学生的好奇心，解除学生对犯错误的恐惧心理。",
+      "keywords": [
+        "好奇心",
+        "解除犯错恐惧"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）培养创造性个性及独创精神"
+      ],
+      "displayTitle": "1. 保护好奇心，解除犯错恐惧",
+      "outline": "（四）培养创造性个性及独创精神"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-11",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "冒险挑战",
+      "text": "培养学生的冒险精神和挑战精神，鼓励独创性与多样性。",
+      "keywords": [
+        "冒险挑战",
+        "独创多样"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）培养创造性个性及独创精神"
+      ],
+      "displayTitle": "2. 培养冒险和挑战精神，鼓励独创与多样",
+      "outline": "（四）培养创造性个性及独创精神"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-12",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "归因效能兴趣",
+      "text": "指导学生进行正确归因，提高自我效能感水平，培养健康向上的兴趣。",
+      "keywords": [
+        "正确归因",
+        "自我效能",
+        "健康兴趣"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）激发创造动机"
+      ],
+      "displayTitle": "1. 正确归因，提高自我效能感，培养兴趣",
+      "outline": "（五）激发创造动机"
+    },
+    {
+      "id": "edu-reviewed-ch7-creativity-cultivation-13",
+      "knowledgeId": "edu-reviewed-ch7-creativity-cultivation",
+      "title": "奖赏评价合作竞争",
+      "text": "运用恰当的奖赏和评价，引入合作和竞争机制。",
+      "keywords": [
+        "奖赏评价",
+        "合作竞争"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）激发创造动机"
+      ],
+      "displayTitle": "2. 恰当奖赏和评价，引入合作和竞争",
+      "outline": "（五）激发创造动机"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch7-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 8,
+    "knowledge": 23,
+    "steps": 127,
+    "referenceOnly": 9
+  }
+}

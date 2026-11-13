@@ -1,0 +1,5023 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch5-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch5-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "第五章内容框架",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 章节框架",
+      "refs": [
+        {
+          "page": 50,
+          "rect": [
+            0.28,
+            0.15,
+            0.6,
+            0.42
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 50135,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-policies",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "宋元明清的文教政策",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 教育管理",
+      "refs": [
+        {
+          "page": 50,
+          "rect": [
+            0.31,
+            0.57,
+            0.56,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 50513,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-official-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "宋元明清的官学体制",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 教育管理",
+      "refs": [
+        {
+          "page": 50,
+          "rect": [
+            0.31,
+            0.72,
+            0.57,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 50648,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-qingli",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "庆历兴学",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 51,
+          "rect": [
+            0.14,
+            0.14,
+            0.73,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 51126,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-xining",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "熙宁兴学",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 51,
+          "rect": [
+            0.14,
+            0.35,
+            0.73,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 51315,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-chongning",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "崇宁兴学",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 51,
+          "rect": [
+            0.14,
+            0.56,
+            0.73,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 51504,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-three-reforms-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "北宋三次兴学的评价",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 51,
+          "rect": [
+            0.15,
+            0.82,
+            0.72,
+            0.07
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 51738,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-three-reforms-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "北宋三次兴学对照",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 52,
+          "rect": [
+            0.11,
+            0.11,
+            0.78,
+            0.53
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 52099,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-suhu",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "苏湖教法（分斋教学法）",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 53,
+          "rect": [
+            0.14,
+            0.1,
+            0.72,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 53090,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-three-house",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "三舍法",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 53,
+          "rect": [
+            0.15,
+            0.45,
+            0.7,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 53405,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-credit-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "积分法",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 53,
+          "rect": [
+            0.28,
+            0.72,
+            0.58,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 53648,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-promote-dormitory",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "升斋等第法",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 53,
+          "rect": [
+            0.15,
+            0.86,
+            0.7,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 53774,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-community-school",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "元明清社学",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 54,
+          "rect": [
+            0.27,
+            0.06,
+            0.6,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 54054,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-student-internship",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "监生历事",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 54,
+          "rect": [
+            0.27,
+            0.29,
+            0.6,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 54261,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-six-ranks",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "六等黜陟法",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 官学改革",
+      "refs": [
+        {
+          "page": 54,
+          "rect": [
+            0.27,
+            0.53,
+            0.6,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 54477,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "书院发展的主要线索",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 书院",
+      "refs": [
+        {
+          "page": 54,
+          "rect": [
+            0.27,
+            0.73,
+            0.6,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 54657,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-definition",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "书院的含义",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 书院",
+      "refs": [
+        {
+          "page": 55,
+          "rect": [
+            0.13,
+            0.08,
+            0.76,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 55072,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "书院的产生与发展",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 书院",
+      "refs": [
+        {
+          "page": 55,
+          "rect": [
+            0.27,
+            0.17,
+            0.62,
+            0.42
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 55153,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-bailudong",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "白鹿洞书院与《白鹿洞书院揭示》",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 书院",
+      "refs": [
+        {
+          "page": 55,
+          "rect": [
+            0.14,
+            0.61,
+            0.75,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 55549,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-donglin",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "东林书院",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 书院",
+      "refs": [
+        {
+          "page": 56,
+          "rect": [
+            0.12,
+            0.08,
+            0.78,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 56072,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-zhangnan",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "漳南书院",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 书院",
+      "refs": [
+        {
+          "page": 56,
+          "rect": [
+            0.12,
+            0.31,
+            0.78,
+            0.49
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 56279,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-gujing-xuehaitang",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "诂经精舍与学海堂",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 书院",
+      "refs": [
+        {
+          "page": 57,
+          "rect": [
+            0.14,
+            0.07,
+            0.73,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 57063,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "书院教育的特点",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 书院",
+      "refs": [
+        {
+          "page": 57,
+          "rect": [
+            0.13,
+            0.39,
+            0.75,
+            0.38
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 57351,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-elementary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "蒙学的含义与发展",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 蒙学",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.16,
+            0.1,
+            0.72,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 58090,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-private-school",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "宋元明清私塾",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 蒙学",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.16,
+            0.24,
+            0.72,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 58216,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-stages",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "蒙学教材的发展与种类",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 蒙学教材",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.16,
+            0.55,
+            0.72,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 58495,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "宋元明清蒙学教材的特点",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 蒙学教材",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.26,
+            0.89,
+            0.62,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 58801,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-sui-tang",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "隋唐科举制度",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 科举演变",
+      "refs": [
+        {
+          "page": 59,
+          "rect": [
+            0.13,
+            0.11,
+            0.74,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 59099,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-song",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "宋朝科举制度的完善",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 科举演变",
+      "refs": [
+        {
+          "page": 59,
+          "rect": [
+            0.22,
+            0.28,
+            0.64,
+            0.4
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 59252,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-yuan-ming-qing",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "元明清科举制度的演变",
+      "section": "第一节 · 宋元明清时期的教育制度与实践 · 科举演变",
+      "refs": [
+        {
+          "page": 59,
+          "rect": [
+            0.14,
+            0.69,
+            0.73,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 59621,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "1. 朱熹",
+      "section": "第二节 · 考点一 朱熹的教育思想 · （一）朱熹与《四书章句集注》",
+      "refs": [
+        {
+          "page": 60,
+          "rect": [
+            0.16,
+            0.14,
+            0.72,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 60126,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-four-books",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "2. 《四书章句集注》",
+      "section": "第二节 · 考点一 朱熹的教育思想 · （一）朱熹与《四书章句集注》",
+      "refs": [
+        {
+          "page": 60,
+          "rect": [
+            0.16,
+            0.26,
+            0.72,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 60234,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-role-goal",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "（二）教育作用和目的",
+      "section": "第二节 · 考点一 朱熹的教育思想 · （二）教育作用和目的",
+      "refs": [
+        {
+          "page": 60,
+          "rect": [
+            0.16,
+            0.67,
+            0.72,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 60603,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "（三）论“小学”和“大学”教育",
+      "section": "第二节 · 考点一 朱熹的教育思想 · （三）论“小学”和“大学”教育",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.15,
+            0.07,
+            0.75,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 61063,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "（四）朱子读书法",
+      "section": "第二节 · 考点一 朱熹的教育思想 · （四）朱子读书法",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.2,
+            0.34,
+            0.67,
+            0.4
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 61306,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-moral",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "（五）道德教育",
+      "section": "第二节 · 考点一 朱熹的教育思想 · （五）道德教育",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.15,
+            0.76,
+            0.73,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 61684,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "（六）评价",
+      "section": "第二节 · 考点一 朱熹的教育思想 · （六）评价",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.15,
+            0.86,
+            0.73,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 61774,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "1. 简介",
+      "section": "第二节 · 考点二 王守仁的教育思想 · （一）“致良知”与教育作用",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.18,
+            0.1,
+            0.73,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 62090,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "2. 人性论与3. 教育作用",
+      "section": "第二节 · 考点二 王守仁的教育思想 · （一）“致良知”与教育作用",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.19,
+            0.21,
+            0.71,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 62189,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-individual",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "（二）教学原则：“随人分限所及”",
+      "section": "第二节 · 考点二 王守仁的教育思想 · （二）教学原则：“随人分限所及”",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.17,
+            0.48,
+            0.72,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 62432,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-teaching",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "（三）论教学",
+      "section": "第二节 · 考点二 王守仁的教育思想 · （三）论教学",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.16,
+            0.7,
+            0.73,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 62630,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-children",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-4",
+      "title": "（四）论儿童教育",
+      "section": "第二节 · 考点二 王守仁的教育思想 · （四）论儿童教育",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.16,
+            0.84,
+            0.73,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 62756,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch5-outline-0",
+      "knowledgeId": "china-reviewed-ch5-outline",
+      "title": "制度与实践",
+      "text": "教育管理包括文教政策与官学体制；育士制度包括三次兴学、官学改革、书院、私塾与蒙学教材；选士制度讨论科举演变及其对学校教育的制约。",
+      "keywords": [
+        "教育管理",
+        "育士制度",
+        "选士制度"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-outline-1",
+      "knowledgeId": "china-reviewed-ch5-outline",
+      "title": "教育思想",
+      "text": "南宋朱熹与明朝王守仁为本章两位代表教育家。",
+      "keywords": [
+        "朱熹",
+        "王守仁"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-policies-0",
+      "knowledgeId": "china-reviewed-ch5-policies",
+      "title": "宋朝",
+      "text": "“兴文教，抑武事”。",
+      "keywords": [
+        "宋朝",
+        "兴文教",
+        "抑武事"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-policies-1",
+      "knowledgeId": "china-reviewed-ch5-policies",
+      "title": "元朝",
+      "text": "“遵用汉法”。",
+      "keywords": [
+        "元朝",
+        "遵用汉法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-policies-2",
+      "knowledgeId": "china-reviewed-ch5-policies",
+      "title": "明朝",
+      "text": "“治国以教化为先，教化以学校为本”。",
+      "keywords": [
+        "明朝",
+        "教化为先",
+        "学校为本"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-policies-3",
+      "knowledgeId": "china-reviewed-ch5-policies",
+      "title": "清朝",
+      "text": "“兴文教，崇经术，以开太平”。",
+      "keywords": [
+        "清朝",
+        "兴文教",
+        "崇经术"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-official-system-0",
+      "knowledgeId": "china-reviewed-ch5-official-system",
+      "title": "中央机构",
+      "text": "中央教育管理机构国子监延续到清末。",
+      "keywords": [
+        "国子监",
+        "延续清末"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-official-system-1",
+      "knowledgeId": "china-reviewed-ch5-official-system",
+      "title": "宋代",
+      "text": "最早设立地方教育行政机构“提举学事司”，并首创学田制度，用于地方官学和私学（书院）。",
+      "keywords": [
+        "提举学事司",
+        "学田制度",
+        "宋代"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-official-system-2",
+      "knowledgeId": "china-reviewed-ch5-official-system",
+      "title": "元代",
+      "text": "官学等级制加强，并设社学。",
+      "keywords": [
+        "元代",
+        "等级制",
+        "社学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-official-system-3",
+      "knowledgeId": "china-reviewed-ch5-official-system",
+      "title": "明代",
+      "text": "设社学，实行“监生历事”。",
+      "keywords": [
+        "明代",
+        "社学",
+        "监生历事"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-official-system-4",
+      "knowledgeId": "china-reviewed-ch5-official-system",
+      "title": "清代",
+      "text": "实行“六等黜陟法”，并设社学、井学、义学。",
+      "keywords": [
+        "清代",
+        "六等黜陟法",
+        "社学井学义学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-qingli-0",
+      "knowledgeId": "china-reviewed-ch5-qingli",
+      "title": "主持与时期",
+      "text": "范仲淹主持，宋仁宗庆历年间实施。",
+      "keywords": [
+        "范仲淹",
+        "宋仁宗",
+        "庆历"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-qingli-1",
+      "knowledgeId": "china-reviewed-ch5-qingli",
+      "title": "太学改革",
+      "text": "创建太学，引入“苏湖教法”。",
+      "keywords": [
+        "创建太学",
+        "苏湖教法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-qingli-2",
+      "knowledgeId": "china-reviewed-ch5-qingli",
+      "title": "地方官学",
+      "text": "地方官学普遍设立，必须在学校学习三百日才能参加科举。",
+      "keywords": [
+        "普遍设学",
+        "三百日",
+        "参加科举"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-qingli-3",
+      "knowledgeId": "china-reviewed-ch5-qingli",
+      "title": "科举改革",
+      "text": "停帖经、墨义，着重策论、诗赋、经学；明法科试断案。",
+      "keywords": [
+        "停帖经墨义",
+        "策论诗赋经学",
+        "明法断案"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-xining-0",
+      "knowledgeId": "china-reviewed-ch5-xining",
+      "title": "主持与时期",
+      "text": "王安石主持，宋神宗熙宁年间实施。",
+      "keywords": [
+        "王安石",
+        "宋神宗",
+        "熙宁"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-xining-1",
+      "knowledgeId": "china-reviewed-ch5-xining",
+      "title": "太学改革",
+      "text": "改革太学，创立“三舍法”。",
+      "keywords": [
+        "改革太学",
+        "三舍法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-xining-2",
+      "knowledgeId": "china-reviewed-ch5-xining",
+      "title": "地方官学",
+      "text": "恢复和发展州县地方学校，增学田、设学官。",
+      "keywords": [
+        "州县学校",
+        "增学田",
+        "设学官"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-xining-3",
+      "knowledgeId": "china-reviewed-ch5-xining",
+      "title": "科举改革",
+      "text": "编辑《三经新义》（《诗经》《尚书》《周礼》）作为统一教材。",
+      "keywords": [
+        "三经新义",
+        "诗经尚书周礼"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-xining-4",
+      "knowledgeId": "china-reviewed-ch5-xining",
+      "title": "专科学校",
+      "text": "重视设置专科学校，恢复武学，设律学、医学等。",
+      "keywords": [
+        "武学",
+        "律学",
+        "医学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-chongning-0",
+      "knowledgeId": "china-reviewed-ch5-chongning",
+      "title": "主持与时期",
+      "text": "蔡京主持，宋徽宗崇宁年间实施。",
+      "keywords": [
+        "蔡京",
+        "宋徽宗",
+        "崇宁"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-chongning-1",
+      "knowledgeId": "china-reviewed-ch5-chongning",
+      "title": "中央官学",
+      "text": "新建辟雍，发展太学，实行“三舍法”和积分法。",
+      "keywords": [
+        "辟雍",
+        "三舍法",
+        "积分法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-chongning-2",
+      "knowledgeId": "china-reviewed-ch5-chongning",
+      "title": "地方官学",
+      "text": "全国普遍设立地方官学。",
+      "keywords": [
+        "全国地方官学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-chongning-3",
+      "knowledgeId": "china-reviewed-ch5-chongning",
+      "title": "科举制度",
+      "text": "罢科举，改由学校取士。",
+      "keywords": [
+        "罢科举",
+        "学校取士"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-chongning-4",
+      "knowledgeId": "china-reviewed-ch5-chongning",
+      "title": "专科学校",
+      "text": "创立更多专科学校，恢复医学，创立算学、书学、画学等。",
+      "keywords": [
+        "医学",
+        "算学",
+        "书学",
+        "画学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-chongning-5",
+      "knowledgeId": "china-reviewed-ch5-chongning",
+      "title": "学制系统",
+      "text": "建立县学—州学—太学三级相联系的学制系统。",
+      "keywords": [
+        "县学",
+        "州学",
+        "太学",
+        "三级联系"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-three-reforms-eval-0",
+      "knowledgeId": "china-reviewed-ch5-three-reforms-eval",
+      "title": "成败与作用",
+      "text": "前两次兴学均告失败，第三次的促进作用超过前两次；三次兴学都是北宋文教政策最直接、最重要的体现。",
+      "keywords": [
+        "前两次失败",
+        "第三次作用",
+        "文教政策体现"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-three-reforms-table-0",
+      "knowledgeId": "china-reviewed-ch5-three-reforms-table",
+      "title": "太学改革",
+      "text": "庆历：创建太学、引入苏湖教法；熙宁：改革太学、创三舍法；崇宁：新建辟雍、实行三舍法和积分法。",
+      "keywords": [
+        "庆历太学",
+        "熙宁三舍",
+        "崇宁辟雍积分"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-three-reforms-table-1",
+      "knowledgeId": "china-reviewed-ch5-three-reforms-table",
+      "title": "地方官学",
+      "text": "庆历普遍设立；熙宁恢复发展州县学校；崇宁全国普遍设立。",
+      "keywords": [
+        "庆历普设",
+        "熙宁恢复",
+        "崇宁普设"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-three-reforms-table-2",
+      "knowledgeId": "china-reviewed-ch5-three-reforms-table",
+      "title": "科举制度",
+      "text": "庆历改革科举、停帖经墨义并试断案；熙宁编撰《三经新义》为统一教材；崇宁停止科举、学校取士。",
+      "keywords": [
+        "庆历改革",
+        "熙宁三经新义",
+        "崇宁学校取士"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-three-reforms-table-3",
+      "knowledgeId": "china-reviewed-ch5-three-reforms-table",
+      "title": "专科学校",
+      "text": "庆历未列；熙宁恢复武学并设律学、医学等；崇宁创算学、书学、画学并恢复医学。",
+      "keywords": [
+        "武学律学医学",
+        "算学书学画学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-three-reforms-table-4",
+      "knowledgeId": "china-reviewed-ch5-three-reforms-table",
+      "title": "学制改革",
+      "text": "崇宁单独建立县—州—太学三级相联系的学制。",
+      "keywords": [
+        "县州太学三级"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-suhu-0",
+      "knowledgeId": "china-reviewed-ch5-suhu",
+      "title": "创立与应用",
+      "text": "胡瑗主持湖州州学时创立，后由范仲淹在庆历兴学中应用于太学。",
+      "keywords": [
+        "胡瑗",
+        "湖州州学",
+        "范仲淹",
+        "太学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-suhu-1",
+      "knowledgeId": "china-reviewed-ch5-suhu",
+      "title": "经义斋",
+      "text": "学习儒经和“明体”之学，培养统治人才。",
+      "keywords": [
+        "经义斋",
+        "儒经",
+        "明体"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-suhu-2",
+      "knowledgeId": "china-reviewed-ch5-suhu",
+      "title": "治事斋",
+      "text": "学习治兵、治民等“达用”之学，培养有专长技术和管理能力的人才；学生主治一科，兼学其他科。",
+      "keywords": [
+        "治事斋",
+        "达用",
+        "主一兼他"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-suhu-3",
+      "knowledgeId": "china-reviewed-ch5-suhu",
+      "title": "培养与方法",
+      "text": "培养经世致用人才；讲习解经、联系实际、实地考察，不提倡死记硬背。",
+      "keywords": [
+        "经世致用",
+        "联系实际",
+        "实地考察"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-suhu-4",
+      "knowledgeId": "china-reviewed-ch5-suhu",
+      "title": "评价",
+      "text": "原书称其为我国最早的分科教学制度，开主修与辅修先河；把实用科目纳入官学并提升实学地位。",
+      "keywords": [
+        "分科教学",
+        "主辅修",
+        "实学地位"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-three-house-0",
+      "knowledgeId": "china-reviewed-ch5-three-house",
+      "title": "创立",
+      "text": "王安石在熙宁兴学期间创立，是用于太学的学校管理制度。",
+      "keywords": [
+        "王安石",
+        "熙宁",
+        "太学管理"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-three-house-1",
+      "knowledgeId": "china-reviewed-ch5-three-house",
+      "title": "三级递升",
+      "text": "学生初入外舍，经考试和平时行艺升入内舍；再经考试和平时行艺升入上舍。",
+      "keywords": [
+        "外舍",
+        "内舍",
+        "上舍",
+        "考试行艺"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-three-house-2",
+      "knowledgeId": "china-reviewed-ch5-three-house",
+      "title": "上舍分等",
+      "text": "上舍考试分上、中、下三等：上等直接授官；中等直接参加殿试；下等直接参加礼部试，具有取代科举的意图。",
+      "keywords": [
+        "上中下等",
+        "直接授官",
+        "殿试",
+        "礼部试"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-three-house-3",
+      "knowledgeId": "china-reviewed-ch5-three-house",
+      "title": "评价",
+      "text": "有利于调动学生积极性、提高太学教学质量和地位，是古代大学管理制度创新。",
+      "keywords": [
+        "积极性",
+        "教学质量",
+        "太学地位"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-credit-system-0",
+      "knowledgeId": "china-reviewed-ch5-credit-system",
+      "title": "沿革",
+      "text": "为元朝国子学重要特点之一，始于宋朝太学，至元朝国子学趋于完善，明清继承发展。",
+      "keywords": [
+        "始于宋太学",
+        "元国子学完善",
+        "明清继承"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-credit-system-1",
+      "knowledgeId": "china-reviewed-ch5-credit-system",
+      "title": "内容",
+      "text": "累计计算学生全年学业成绩。",
+      "keywords": [
+        "累计积分",
+        "全年成绩"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-credit-system-2",
+      "knowledgeId": "china-reviewed-ch5-credit-system",
+      "title": "组合",
+      "text": "积分法与“升斋等第法”或“三舍法”相连使用，督促平时学习。",
+      "keywords": [
+        "升斋等第法",
+        "三舍法",
+        "督促平时"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-promote-dormitory-0",
+      "knowledgeId": "china-reviewed-ch5-promote-dormitory",
+      "title": "沿革",
+      "text": "元朝国子学重要特点，是宋朝“三舍法”的延续与发展。",
+      "keywords": [
+        "元朝国子学",
+        "三舍法延续"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-promote-dormitory-1",
+      "knowledgeId": "china-reviewed-ch5-promote-dormitory",
+      "title": "内容",
+      "text": "国子学分上、中、下三个等级、六个斋舍；学生依据学业成绩和品德行为进入不同斋舍，学习不同内容。",
+      "keywords": [
+        "上中下等级",
+        "六个斋舍",
+        "学业品德"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-promote-dormitory-2",
+      "knowledgeId": "china-reviewed-ch5-promote-dormitory",
+      "title": "评价",
+      "text": "与积分法相连使用效果更佳，督促学生平时学习。",
+      "keywords": [
+        "积分法",
+        "平时学习"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-community-school-0",
+      "knowledgeId": "china-reviewed-ch5-community-school",
+      "title": "沿革",
+      "text": "社学是设在乡镇地区最基层的地方官学，创办于元朝，成熟于明朝，普及于清朝。",
+      "keywords": [
+        "乡镇基层",
+        "元创办",
+        "明成熟",
+        "清普及"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-community-school-1",
+      "knowledgeId": "china-reviewed-ch5-community-school",
+      "title": "内容",
+      "text": "元代多设农村，利用农闲，对八至十五岁农家子弟实施初等教育；明代带有某种强制性；清代各省府州县普遍设置。",
+      "keywords": [
+        "农村农闲",
+        "八至十五岁",
+        "明强制",
+        "清普设"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-community-school-2",
+      "knowledgeId": "china-reviewed-ch5-community-school",
+      "title": "评价",
+      "text": "对发展农村地区文化教育意义重大，是元朝教育组织形式创新。",
+      "keywords": [
+        "农村文化教育",
+        "组织创新"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-student-internship-0",
+      "knowledgeId": "china-reviewed-ch5-student-internship",
+      "title": "性质",
+      "text": "又称“历练政事”或“实习历事”，是明朝国子监生的实习制度。",
+      "keywords": [
+        "历练政事",
+        "实习历事",
+        "明朝国子监"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-student-internship-1",
+      "knowledgeId": "china-reviewed-ch5-student-internship",
+      "title": "历事",
+      "text": "国子监生学习达到一定年限后，分拨各行政职务实习。",
+      "keywords": [
+        "达到年限",
+        "行政实习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-student-internship-2",
+      "knowledgeId": "china-reviewed-ch5-student-internship",
+      "title": "考核任用",
+      "text": "实习后考核分上、中、下三等：上等选吏部直接授官；中、下等仍历一年再考，上等依上等任用，中等不拘品级随才任用，下等回监读书。",
+      "keywords": [
+        "三等考核",
+        "吏部授官",
+        "随才任用",
+        "回监"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-student-internship-3",
+      "knowledgeId": "china-reviewed-ch5-student-internship",
+      "title": "影响",
+      "text": "原书称其为中国古代大学中最早的教学实习制度、明朝教育管理创举；使学校培养与业务部门用人衔接。",
+      "keywords": [
+        "教学实习",
+        "管理创举",
+        "用人衔接"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-six-ranks-0",
+      "knowledgeId": "china-reviewed-ch5-six-ranks",
+      "title": "性质",
+      "text": "清朝实施的地方官学学生定级考试制度，并配有相应奖惩。",
+      "keywords": [
+        "清朝",
+        "地方官学",
+        "定级奖惩"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-six-ranks-1",
+      "knowledgeId": "china-reviewed-ch5-six-ranks",
+      "title": "六等",
+      "text": "学生考试成绩分六等：一等补廪膳生，二等补增广生，三等无奖无罚，四等罚责，五等降级，六等除名。",
+      "keywords": [
+        "补廪膳",
+        "补增广",
+        "无奖无罚",
+        "罚责",
+        "降级",
+        "除名"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-six-ranks-2",
+      "knowledgeId": "china-reviewed-ch5-six-ranks",
+      "title": "意义",
+      "text": "实行动态管理，调动学习积极性、提高学校教育质量，是清代地方官学管理的重要创新。",
+      "keywords": [
+        "动态管理",
+        "积极性",
+        "管理创新"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-overview-0",
+      "knowledgeId": "china-reviewed-ch5-academy-overview",
+      "title": "六部分",
+      "text": "书院的产生与发展；白鹿洞书院与《白鹿洞书院揭示》；东林书院；漳南书院；诂经精舍、学海堂；书院教育特点。",
+      "keywords": [
+        "产生发展",
+        "白鹿洞",
+        "东林",
+        "漳南",
+        "诂经学海"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-definition-0",
+      "knowledgeId": "china-reviewed-ch5-academy-definition",
+      "title": "含义",
+      "text": "书院是封建社会自唐末以后重要的教育组织形式，以私人创办和组织为主，将图书收藏、教学、研究合为一体，是相对独立于官学之外的民间学术研究与教育机构。",
+      "keywords": [
+        "唐末以后",
+        "私人为主",
+        "藏教研一体",
+        "相对独立官学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-development-0",
+      "knowledgeId": "china-reviewed-ch5-academy-development",
+      "title": "唐末出现",
+      "text": "原因包括官学衰落、士人失学，源远流长的私人讲学传统，佛教禅林制度影响及印刷术发展；中央有集贤殿、丽正修书院，民间有李秘书院、松洲书院等。",
+      "keywords": [
+        "唐末",
+        "官学衰落",
+        "私人讲学",
+        "禅林",
+        "印刷术"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-development-1",
+      "knowledgeId": "china-reviewed-ch5-academy-development",
+      "title": "宋朝制度化",
+      "text": "原因包括国家统一而重科举轻官学、朝廷支持民间办学、佛教禅林影响和印刷术广泛应用。",
+      "keywords": [
+        "宋朝制度化",
+        "重科举轻官学",
+        "朝廷支持"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-development-2",
+      "knowledgeId": "china-reviewed-ch5-academy-development",
+      "title": "宋代六大书院",
+      "text": "白鹿洞书院、岳麓书院、应天府书院、嵩阳书院、石鼓书院、茅山书院。",
+      "keywords": [
+        "白鹿洞",
+        "岳麓",
+        "应天府",
+        "嵩阳",
+        "石鼓",
+        "茅山"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-development-3",
+      "knowledgeId": "china-reviewed-ch5-academy-development",
+      "title": "元朝受控制",
+      "text": "元朝政府加强管控，许多书院纳入地方官学系统，成为科举附庸。",
+      "keywords": [
+        "元朝管控",
+        "纳入官学",
+        "科举附庸"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-development-4",
+      "knowledgeId": "china-reviewed-ch5-academy-development",
+      "title": "明朝政治化",
+      "text": "东林书院讽刺朝政、议论学术；明朝其他书院以科举考试为宗旨，官学化倾向加重。",
+      "keywords": [
+        "东林议政",
+        "明朝官学化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-development-5",
+      "knowledgeId": "china-reviewed-ch5-academy-development",
+      "title": "清朝官学化",
+      "text": "清朝加强管控，书院官学化倾向更严，几乎完全沦为科举附庸。",
+      "keywords": [
+        "清朝管控",
+        "官学化严重",
+        "科举附庸"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-bailudong-0",
+      "knowledgeId": "china-reviewed-ch5-bailudong",
+      "title": "沿革",
+      "text": "白鹿洞原为唐后期李渤、李涉兄弟隐居读书处；南宋朱熹修复并使其极盛。《白鹿洞书院揭示》是书院教育宗旨，也是原书所称中国书院发展史上第一个纲领性学规。",
+      "keywords": [
+        "李渤李涉",
+        "朱熹修复",
+        "白鹿洞揭示",
+        "纲领性学规"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-bailudong-1",
+      "knowledgeId": "china-reviewed-ch5-bailudong",
+      "title": "教育目的",
+      "text": "“父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信”。",
+      "keywords": [
+        "五伦",
+        "父子君臣夫妇长幼朋友"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-bailudong-2",
+      "knowledgeId": "china-reviewed-ch5-bailudong",
+      "title": "治学顺序",
+      "text": "“博学之，审问之，慎思之，明辨之，笃行之”。",
+      "keywords": [
+        "博学",
+        "审问",
+        "慎思",
+        "明辨",
+        "笃行"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-bailudong-3",
+      "knowledgeId": "china-reviewed-ch5-bailudong",
+      "title": "修身处事接物",
+      "text": "修身：“言忠信，行笃敬，惩忿窒欲，迁善改过”；处事：“正其谊（义）不谋其利，明其道不计其功”；接物：“己所不欲，勿施于人，行有不得，反求诸己”。",
+      "keywords": [
+        "言忠信行笃敬",
+        "惩忿窒欲",
+        "正谊明道",
+        "己所不欲"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-bailudong-4",
+      "knowledgeId": "china-reviewed-ch5-bailudong",
+      "title": "意义",
+      "text": "促进书院制度化，思想取自儒家典籍并形成完整理论体系；成为后世书院典范，对书院教育和官学教育影响重大。",
+      "keywords": [
+        "制度化",
+        "完整体系",
+        "后世典范"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-donglin-0",
+      "knowledgeId": "china-reviewed-ch5-donglin",
+      "title": "沿革",
+      "text": "北宋杨时讲学之所，后由顾宪成、顾允成兄弟复修；明朝影响最大，形成东林学派，抨击朝政，后遭禁毁。",
+      "keywords": [
+        "杨时",
+        "顾宪成",
+        "顾允成",
+        "东林学派"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-donglin-1",
+      "knowledgeId": "china-reviewed-ch5-donglin",
+      "title": "特点",
+      "text": "思想上推行理学、反对心学；讲会方面制定《东林会约》完善制度；学术与政治结合，密切关注社会政治。",
+      "keywords": [
+        "推理反心",
+        "东林会约",
+        "学术政治"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-donglin-2",
+      "knowledgeId": "china-reviewed-ch5-donglin",
+      "title": "评价",
+      "text": "既是重要文化学术中心，也是政治活动中心；所带政治色彩和议政思想是明朝出色教育典范。",
+      "keywords": [
+        "学术中心",
+        "政治中心",
+        "议政"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-zhangnan-0",
+      "knowledgeId": "china-reviewed-ch5-zhangnan",
+      "title": "创办与宗旨",
+      "text": "明末清初颜元创办，主张经世致用，办学宗旨为“宁粗而实，勿妄而虚”。",
+      "keywords": [
+        "颜元",
+        "经世致用",
+        "宁粗而实"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhangnan-1",
+      "knowledgeId": "china-reviewed-ch5-zhangnan",
+      "title": "批判传统教育",
+      "text": "批判义利对立观、教学严重脱离实际和抨击八股取士。",
+      "keywords": [
+        "批义利对立",
+        "脱离实际",
+        "八股"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhangnan-2",
+      "knowledgeId": "china-reviewed-ch5-zhangnan",
+      "title": "培养目标",
+      "text": "“实才实德之士”，即品德高尚且有真才实学的经世致用人才，包括通才与专门人才。",
+      "keywords": [
+        "实才实德",
+        "经世致用",
+        "通才专才"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhangnan-3",
+      "knowledgeId": "china-reviewed-ch5-zhangnan",
+      "title": "六斋教学",
+      "text": "文事斋学礼乐书数，武备斋学兵法战法，经史斋学儒经，艺能斋学火学木学水学土学，理学斋学静坐、编著程朱陆王之学，帖括斋学八股。",
+      "keywords": [
+        "文事武备",
+        "经史艺能",
+        "理学帖括",
+        "六斋"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhangnan-4",
+      "knowledgeId": "china-reviewed-ch5-zhangnan",
+      "title": "评价",
+      "text": "教育内容超越“六经”，包括自然科学、军事及其他知识；分科设教、内容多样，是近代课程设置的萌芽。",
+      "keywords": [
+        "超越六经",
+        "分科设教",
+        "课程萌芽"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-zhangnan-5",
+      "knowledgeId": "china-reviewed-ch5-zhangnan",
+      "title": "习行含义",
+      "text": "要坚持练习和躬行实践，“学而必习，习又必行”；读书、讲学与习行相结合，不排斥书本知识。",
+      "keywords": [
+        "习行",
+        "躬行实践",
+        "读书讲学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhangnan-6",
+      "knowledgeId": "china-reviewed-ch5-zhangnan",
+      "title": "习行评价",
+      "text": "反对静坐、空谈义理，强调实践并符合学习规律；被原书评价为一次手足解放运动和教学法重大革新。",
+      "keywords": [
+        "反静坐空谈",
+        "实践",
+        "教学革新"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-gujing-xuehaitang-0",
+      "knowledgeId": "china-reviewed-ch5-gujing-xuehaitang",
+      "title": "创办",
+      "text": "阮元于浙江巡抚任内在杭州孤山创办诂经精舍，历经一百余年；任两广总督时在广州越秀山创办学海堂，历经八十余年。",
+      "keywords": [
+        "阮元",
+        "杭州孤山",
+        "诂经精舍",
+        "广州越秀山",
+        "学海堂"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-gujing-xuehaitang-1",
+      "knowledgeId": "china-reviewed-ch5-gujing-xuehaitang",
+      "title": "特点",
+      "text": "“以励品学，非以弋功名”，只做学问、不问科举；各用所长、因材施教；教学与研究结合并刊刻师生研究成果。",
+      "keywords": [
+        "非以弋功名",
+        "各用所长",
+        "教学研究",
+        "刊刻成果"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-gujing-xuehaitang-2",
+      "knowledgeId": "china-reviewed-ch5-gujing-xuehaitang",
+      "title": "影响",
+      "text": "促进学术发展，抵制书院官学化倾向。",
+      "keywords": [
+        "学术发展",
+        "抵制官学化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-features-0",
+      "knowledgeId": "china-reviewed-ch5-academy-features",
+      "title": "书院精神",
+      "text": "突出自由。",
+      "keywords": [
+        "自由"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-features-1",
+      "knowledgeId": "china-reviewed-ch5-academy-features",
+      "title": "教育目的",
+      "text": "培养学术型人格。",
+      "keywords": [
+        "学术型人格"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-features-2",
+      "knowledgeId": "china-reviewed-ch5-academy-features",
+      "title": "功能与制度",
+      "text": "集育才、研究、藏书三项功能于一体；走向制度化建设。",
+      "keywords": [
+        "育才研究藏书",
+        "制度化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-features-3",
+      "knowledgeId": "china-reviewed-ch5-academy-features",
+      "title": "办学与管理",
+      "text": "有私办、官办、私办公助等形式；实行山长负责制；经费来源多样。",
+      "keywords": [
+        "多种办学",
+        "山长负责",
+        "经费多样"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-features-4",
+      "knowledgeId": "china-reviewed-ch5-academy-features",
+      "title": "课程与教学",
+      "text": "课程设置灵活、富有弹性和选择性；道德教育与知识教育结合；以学生自学和研究为主；门户开放、重学术交流。",
+      "keywords": [
+        "课程灵活",
+        "德知结合",
+        "自学研究",
+        "门户开放"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-features-5",
+      "knowledgeId": "china-reviewed-ch5-academy-features",
+      "title": "师生关系",
+      "text": "平等亲密。",
+      "keywords": [
+        "师生平等亲密"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-academy-features-6",
+      "knowledgeId": "china-reviewed-ch5-academy-features",
+      "title": "发展倾向",
+      "text": "宋朝已出现官学化：政府赐买或授官，地方政府兴建书院，以刺激发展的同时控制书院；元明清官学化倾向不断加深。",
+      "keywords": [
+        "赐买授官",
+        "地方兴建",
+        "官学化加深"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-elementary-0",
+      "knowledgeId": "china-reviewed-ch5-elementary",
+      "title": "含义",
+      "text": "八至十五岁儿童的“小学”教育阶段称蒙养教育，学校称蒙学，教材称蒙养书或小儿书。",
+      "keywords": [
+        "八至十五岁",
+        "蒙养",
+        "蒙学",
+        "蒙养书"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-elementary-1",
+      "knowledgeId": "china-reviewed-ch5-elementary",
+      "title": "发展",
+      "text": "商周设小学；两汉有书馆；唐朝有蒙馆；宋朝设官办小学且民间私塾多；元明清有社学。",
+      "keywords": [
+        "商周小学",
+        "两汉书馆",
+        "唐蒙馆",
+        "宋小学私塾",
+        "元明清社学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-private-school-0",
+      "knowledgeId": "china-reviewed-ch5-private-school",
+      "title": "性质",
+      "text": "私塾是民间私人所办蒙学的统称，主要承担文化知识和封建道德教育，也是古代后期国家基础教育的主要承担者。",
+      "keywords": [
+        "民间蒙学",
+        "文化知识",
+        "道德教育",
+        "基础教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-private-school-1",
+      "knowledgeId": "china-reviewed-ch5-private-school",
+      "title": "种类",
+      "text": "家塾：官宦殷实之家聘师；学馆或散馆：有文化者自家兴办；义塾或义学：私人或社会团体所办、具公益性质，是私塾中规模最大的学校；村塾：一家数家、一村数村联合聘师，又称专馆、族塾、经馆。",
+      "keywords": [
+        "家塾",
+        "学馆散馆",
+        "义塾义学",
+        "公益规模最大",
+        "村塾"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-private-school-2",
+      "knowledgeId": "china-reviewed-ch5-private-school",
+      "title": "特点",
+      "text": "宗旨上严格要求、打好基础；行为上重《须知》《学则》；动机上注意儿童心理；内容上文化知识与伦理道德并重；方法上识记与领悟并重；组织上采取个别教学。",
+      "keywords": [
+        "严格基础",
+        "须知学则",
+        "儿童心理",
+        "德知并重",
+        "识记领悟",
+        "个别教学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-stages-0",
+      "knowledgeId": "china-reviewed-ch5-textbook-stages",
+      "title": "第一阶段：识字",
+      "text": "周秦至魏晋南北朝以识字为主：《史籀篇》为原书所称中国最早蒙学教材；秦《仓颉篇》统一文字；西汉史游《急就篇》流传最久、影响最大；南朝梁周兴嗣《千字文》。",
+      "keywords": [
+        "史籀篇",
+        "仓颉篇",
+        "急就篇",
+        "千字文"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-stages-1",
+      "knowledgeId": "china-reviewed-ch5-textbook-stages",
+      "title": "第二阶段：伦理历史",
+      "text": "隋唐五代以封建伦理道德和历史知识为主，包括唐朝《太公家教》和李瀚《蒙求》。",
+      "keywords": [
+        "太公家教",
+        "蒙求",
+        "隋唐五代"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-stages-2",
+      "knowledgeId": "china-reviewed-ch5-textbook-stages",
+      "title": "识字教材",
+      "text": "宋元明清按专题编写，识字类以“三、百、千”流传最广：南宋王应麟《三字经》、北宋《百家姓》、南朝梁周兴嗣《千字文》。",
+      "keywords": [
+        "三百千",
+        "三字经",
+        "百家姓",
+        "千字文"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-stages-3",
+      "knowledgeId": "china-reviewed-ch5-textbook-stages",
+      "title": "伦理道德教材",
+      "text": "吕本中《童蒙训》、朱熹《小学》《童蒙须知》、陈淳《小学生诗礼》等。",
+      "keywords": [
+        "童蒙训",
+        "小学",
+        "童蒙须知",
+        "小学生诗礼"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-stages-4",
+      "knowledgeId": "china-reviewed-ch5-textbook-stages",
+      "title": "历史与诗歌教材",
+      "text": "历史类有王令《十七史蒙求》、吴化龙《左氏蒙求》；诗歌类有《千家诗》《唐诗三百首》、朱熹《训蒙诗》、陈淳《小学生诗礼》。",
+      "keywords": [
+        "十七史蒙求",
+        "左氏蒙求",
+        "千家诗",
+        "唐诗三百首",
+        "训蒙诗"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-stages-5",
+      "knowledgeId": "china-reviewed-ch5-textbook-stages",
+      "title": "名物常识教材",
+      "text": "方逢辰《名物蒙求》等。",
+      "keywords": [
+        "名物蒙求"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-textbook-features-0",
+      "knowledgeId": "china-reviewed-ch5-textbook-features",
+      "title": "六项特点",
+      "text": "按专题分类编写；学者亲自编写；注重儿童心理特点；重视汉字特点；识字、基本知识和道德教育相结合；宋元以后蒙学教材大量涌现。",
+      "keywords": [
+        "专题分类",
+        "学者编写",
+        "儿童心理",
+        "汉字特点",
+        "德知结合",
+        "大量涌现"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-sui-tang-0",
+      "knowledgeId": "china-reviewed-ch5-exam-sui-tang",
+      "title": "隋朝建立",
+      "text": "进士科建立标志科举考试制度诞生。",
+      "keywords": [
+        "隋朝",
+        "进士科",
+        "科举诞生"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-sui-tang-1",
+      "knowledgeId": "china-reviewed-ch5-exam-sui-tang",
+      "title": "唐朝发展",
+      "text": "程序为乡试—尚书省礼部省试—吏部试；科目有秀才、明经、进士、明法、明字、明算；方法有帖经、墨义、口试、策问、诗赋。",
+      "keywords": [
+        "乡试省试吏部试",
+        "六科",
+        "帖经墨义策问诗赋"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-song-0",
+      "knowledgeId": "china-reviewed-ch5-exam-song",
+      "title": "地位与名额",
+      "text": "科举地位提高，成为取士正途；科举名额扩大，录取人数增多。",
+      "keywords": [
+        "取士正途",
+        "名额扩大"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-song-1",
+      "knowledgeId": "china-reviewed-ch5-exam-song",
+      "title": "内容与时间",
+      "text": "科举内容改革，专用《三经新义》；考试时间确定为“三年一贡举”。",
+      "keywords": [
+        "三经新义",
+        "三年一贡举"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-song-2",
+      "knowledgeId": "china-reviewed-ch5-exam-song",
+      "title": "程序",
+      "text": "程序独立，殿试成为定制：州试—省试（尚书省礼部）—殿试（科举常制）；第一甲赐进士及第，第二甲赐进士出身，第三甲赐同进士出身。",
+      "keywords": [
+        "州试省试殿试",
+        "进士及第",
+        "进士出身",
+        "同进士出身"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-song-3",
+      "knowledgeId": "china-reviewed-ch5-exam-song",
+      "title": "锁院制",
+      "text": "主考官住进贡院并与外界隔离，防止主考官泄题。",
+      "keywords": [
+        "锁院制",
+        "贡院隔离",
+        "防泄题"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-song-4",
+      "knowledgeId": "china-reviewed-ch5-exam-song",
+      "title": "别头试",
+      "text": "官家子弟须参加试复试；主考官子弟与亲戚另立考场、另派考官。",
+      "keywords": [
+        "别头试",
+        "官家子弟",
+        "另立考场"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-song-5",
+      "knowledgeId": "china-reviewed-ch5-exam-song",
+      "title": "糊名与誊录",
+      "text": "糊名制密封试卷姓名、籍贯，亦称“弥封”或“封弥”；誊录制先由经卷抄录，再交批改。",
+      "keywords": [
+        "糊名弥封",
+        "姓名籍贯",
+        "誊录抄卷"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-yuan-ming-qing-0",
+      "knowledgeId": "china-reviewed-ch5-exam-yuan-ming-qing",
+      "title": "元朝中落",
+      "text": "民族歧视明显；从“四书”出题，以《四书章句集注》为答题标准；制度日趋严密，学校教育逐渐沦为科举附庸。",
+      "keywords": [
+        "元朝",
+        "民族歧视",
+        "四书章句集注",
+        "学校附庸"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-yuan-ming-qing-1",
+      "knowledgeId": "china-reviewed-ch5-exam-yuan-ming-qing",
+      "title": "明朝鼎盛",
+      "text": "建立“永制”的科举定式；将八股文确立为固定考试文体；学校纳入科举体系，主张“科举必由学校”。",
+      "keywords": [
+        "永制",
+        "八股文",
+        "科举必由学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-yuan-ming-qing-2",
+      "knowledgeId": "china-reviewed-ch5-exam-yuan-ming-qing",
+      "title": "清朝僵化",
+      "text": "科举被称为“国家抡才大典”；科场舞弊丛生、积重难返；学校成为科举附庸。",
+      "keywords": [
+        "国家抡才大典",
+        "舞弊",
+        "学校附庸"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-exam-yuan-ming-qing-3",
+      "knowledgeId": "china-reviewed-ch5-exam-yuan-ming-qing",
+      "title": "清末废除",
+      "text": "维新时期改科举、停八股、设经济特科；新政时期完全废除科举制度。",
+      "keywords": [
+        "维新改科举",
+        "停八股",
+        "经济特科",
+        "新政废科举"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-practice-0",
+      "knowledgeId": "china-reviewed-ch5-zhu-practice",
+      "title": "1. 人物定位",
+      "text": "朱熹是南宋最负盛名的大教育家，也是理学思想的集大成者。",
+      "keywords": [
+        "南宋",
+        "大教育家",
+        "理学集大成"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-practice-1",
+      "knowledgeId": "china-reviewed-ch5-zhu-practice",
+      "title": "1.(1) 讲学与书院",
+      "text": "修复白鹿洞书院和岳麓书院，拟定《白鹿洞书院揭示》。",
+      "keywords": [
+        "白鹿洞书院",
+        "岳麓书院",
+        "白鹿洞书院揭示"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-practice-2",
+      "knowledgeId": "china-reviewed-ch5-zhu-practice",
+      "title": "1.(2) 教材与育才",
+      "text": "《近思录》是朱熹、吕祖谦合编的理学入门读物；另有《童蒙须知》《小学》《训蒙斋规》。《四书章句集注》影响力最深广、最重要。",
+      "keywords": [
+        "近思录",
+        "吕祖谦",
+        "童蒙须知",
+        "小学",
+        "训蒙斋规",
+        "四书章句集注"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-four-books-0",
+      "knowledgeId": "china-reviewed-ch5-four-books",
+      "title": "2.(1) 内容",
+      "text": "包括《大学章句》《论语集注》《孟子集注》《中庸章句》。",
+      "keywords": [
+        "大学章句",
+        "论语集注",
+        "孟子集注",
+        "中庸章句"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-four-books-1",
+      "knowledgeId": "china-reviewed-ch5-four-books",
+      "title": "2.(2) 特点",
+      "text": "构建宋朝课程体系，形成“《近思录》→四书（《大学》《论语》《孟子》《中庸》）→五经”的进阶关系。",
+      "keywords": [
+        "宋朝课程体系",
+        "近思录",
+        "四书",
+        "五经"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-four-books-2",
+      "knowledgeId": "china-reviewed-ch5-four-books",
+      "title": "2.(3)① 宋朝评价",
+      "text": "宋朝将《四书章句集注》看作国家课程，元明清均有此共识。",
+      "keywords": [
+        "宋朝",
+        "国家课程",
+        "元明清"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-four-books-3",
+      "knowledgeId": "china-reviewed-ch5-four-books",
+      "title": "2.(3)② 元朝评价",
+      "text": "元朝时，《四书章句集注》成为科举考试的标准答案和各级学校必读教材，地位高于“五经”。",
+      "keywords": [
+        "元朝",
+        "科举标准答案",
+        "必读教材",
+        "高于五经"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-role-goal-0",
+      "knowledgeId": "china-reviewed-ch5-zhu-role-goal",
+      "title": "1. 人性论·理",
+      "text": "“理”对应天命之性，至善至纯，指向“明天理”。",
+      "keywords": [
+        "理",
+        "天命之性",
+        "至善至纯",
+        "明天理"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-role-goal-1",
+      "knowledgeId": "china-reviewed-ch5-zhu-role-goal",
+      "title": "1. 人性论·气",
+      "text": "“气”对应气质之性，有善有恶，指向“灭人欲”。",
+      "keywords": [
+        "气",
+        "气质之性",
+        "有善有恶",
+        "灭人欲"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-role-goal-2",
+      "knowledgeId": "china-reviewed-ch5-zhu-role-goal",
+      "title": "2. 教育作用",
+      "text": "教育能“变换气质”，达到“明天理，灭人欲”。",
+      "keywords": [
+        "变换气质",
+        "明天理",
+        "灭人欲"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-role-goal-3",
+      "knowledgeId": "china-reviewed-ch5-zhu-role-goal",
+      "title": "3. 教育目的",
+      "text": "“明人伦”。“天理”即以“三纲五常”为核心的封建伦理道德。",
+      "keywords": [
+        "明人伦",
+        "天理",
+        "三纲五常"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-0",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "小学·年龄",
+      "text": "8～15岁。",
+      "keywords": [
+        "小学",
+        "8～15岁"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-1",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "小学·任务",
+      "text": "塑造“圣贤坯璞”。",
+      "keywords": [
+        "圣贤坯璞"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-2",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "小学·内容",
+      "text": "“学事”：道德＋习惯＋文化。",
+      "keywords": [
+        "学事",
+        "道德",
+        "习惯",
+        "文化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-3",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "小学·方法",
+      "text": "及早施教；激发兴趣；创建学规《须知》《学则》；“三到”（心到、口到、眼到）。",
+      "keywords": [
+        "及早施教",
+        "激发兴趣",
+        "须知",
+        "学则",
+        "三到"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-4",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "大学·年龄",
+      "text": "15岁以上。",
+      "keywords": [
+        "大学",
+        "15岁以上"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-5",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "大学·任务",
+      "text": "在“坯璞”基础上“加光饰”，培养对国家有用的人。",
+      "keywords": [
+        "坯璞",
+        "加光饰",
+        "对国家有用"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-6",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "大学·内容",
+      "text": "“教理”：学习“四书”“五经”。",
+      "keywords": [
+        "教理",
+        "四书",
+        "五经"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-7",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "大学·方法",
+      "text": "注重自学；注重交流。",
+      "keywords": [
+        "自学",
+        "交流"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-primary-university-8",
+      "knowledgeId": "china-reviewed-ch5-zhu-primary-university",
+      "title": "评价",
+      "text": "小学与大学既独立又联系，反映了人才培养的某些客观规律。",
+      "keywords": [
+        "既独立又联系",
+        "人才培养规律"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-0",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(1)① 循序渐进·顺序",
+      "text": "读书要按照首尾篇章的顺序，不要颠倒。",
+      "keywords": [
+        "循序渐进",
+        "首尾篇章",
+        "顺序"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（1）循序渐进",
+      "displayTitle": "顺序"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-1",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(1)② 循序渐进·量力",
+      "text": "读书要根据自己的情况量力而行，制订的读书计划要切实遵守。",
+      "keywords": [
+        "量力而行",
+        "读书计划",
+        "切实遵守"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（1）循序渐进",
+      "displayTitle": "量力"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-2",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(1)③ 循序渐进·扎实",
+      "text": "读书要扎扎实实打好基础，不可囫囵吞枣、急于求成。",
+      "keywords": [
+        "扎实",
+        "打好基础",
+        "囫囵吞枣"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（1）循序渐进",
+      "displayTitle": "扎实"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-3",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(2)① 熟读精思·熟读",
+      "text": "读书必须反复阅读，能够背熟。",
+      "keywords": [
+        "熟读精思",
+        "反复阅读",
+        "背熟"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（2）熟读精思",
+      "displayTitle": "熟读"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-4",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(2)② 熟读精思·精思",
+      "text": "读书必须结合精思，感悟思想真谛。",
+      "keywords": [
+        "精思",
+        "思想真谛"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（2）熟读精思",
+      "displayTitle": "精思"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-5",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(2)③ 熟读精思·解疑",
+      "text": "朱熹提出了“无疑→有疑→解疑”的过程。",
+      "keywords": [
+        "无疑",
+        "有疑",
+        "解疑"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（2）熟读精思",
+      "displayTitle": "解疑"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-6",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(3)① 虚心涵泳·虚心",
+      "text": "“虚心”指读书要虚怀若谷、精思体会，不主观臆断或随意发挥。",
+      "keywords": [
+        "虚心",
+        "虚怀若谷",
+        "不主观臆断"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（3）虚心涵泳",
+      "displayTitle": "虚心"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-7",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(3)② 虚心涵泳·涵泳",
+      "text": "“涵泳”指读书要反复咀嚼，细心玩味。",
+      "keywords": [
+        "涵泳",
+        "反复咀嚼",
+        "细心玩味"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（3）虚心涵泳",
+      "displayTitle": "涵泳"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-8",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(4) 切己体察",
+      "text": "将书中的伦理道德思想躬行力行，并非近代以来所讲的实践与实验。",
+      "keywords": [
+        "切己体察",
+        "躬行力行",
+        "非实践实验"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（4）切己体察",
+      "displayTitle": "切己体察"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-9",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(5)① 着紧用力·着紧",
+      "text": "“着紧”指必须抓紧时间，发愤忘食，反对悠悠然。",
+      "keywords": [
+        "着紧",
+        "抓紧时间",
+        "发愤忘食"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（5）着紧用力",
+      "displayTitle": "着紧"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-10",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(5)② 着紧用力·用力",
+      "text": "“用力”指必须抖擞精神，勇猛奋发，反对松松垮垮。",
+      "keywords": [
+        "用力",
+        "抖擞精神",
+        "勇猛奋发"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（5）着紧用力",
+      "displayTitle": "用力"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-11",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(6)① 居敬持志·居敬",
+      "text": "“居敬”指读书时精神专一，注意力集中。",
+      "keywords": [
+        "居敬",
+        "精神专一",
+        "注意集中"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（6）居敬持志",
+      "displayTitle": "居敬"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-12",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "1.(6)② 居敬持志·持志",
+      "text": "“持志”指有坚定的志向，用顽强的毅力坚持下去。",
+      "keywords": [
+        "持志",
+        "坚定志向",
+        "顽强毅力"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1. 内容",
+      "subsection": "（6）居敬持志",
+      "displayTitle": "持志"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-13",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "2.(1) 影响·研究成果",
+      "text": "“朱子读书法”反映了我国古代对读书方法研究的成果。",
+      "keywords": [
+        "影响",
+        "古代",
+        "读书方法",
+        "研究成果"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 影响",
+      "displayTitle": "读书方法研究成果"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-14",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "2.(2) 影响·基本规律",
+      "text": "“朱子读书法”反映了读书学习的基本规律和要求。",
+      "keywords": [
+        "读书学习",
+        "基本规律",
+        "要求"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 影响",
+      "displayTitle": "读书学习的基本规律"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-15",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "3.(1) 局限·内容",
+      "text": "朱熹提倡读的书是宣扬封建伦理道德的圣贤之书。",
+      "keywords": [
+        "内容局限",
+        "封建伦理道德",
+        "圣贤之书"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 局限",
+      "displayTitle": "内容局限"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-16",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "3.(2) 局限·方法",
+      "text": "未曾注意到书本知识与实际调查的配合，更谈不上实验或实践。",
+      "keywords": [
+        "方法局限",
+        "书本知识",
+        "实际调查",
+        "实验实践"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 局限",
+      "displayTitle": "方法局限"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-reading-17",
+      "knowledgeId": "china-reviewed-ch5-zhu-reading",
+      "title": "3.(3) 局限·精神",
+      "text": "造成了“万般皆下品，唯有读书高”和“两耳不闻窗外事，一心只读圣贤书”的不良学风。",
+      "keywords": [
+        "精神局限",
+        "唯有读书高",
+        "只读圣贤书"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 局限",
+      "displayTitle": "精神局限"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-moral-0",
+      "knowledgeId": "china-reviewed-ch5-zhu-moral",
+      "title": "1. 德育地位",
+      "text": "德育是首位。",
+      "keywords": [
+        "德育地位",
+        "首位"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-moral-1",
+      "knowledgeId": "china-reviewed-ch5-zhu-moral",
+      "title": "2. 德育任务",
+      "text": "“明天理，灭人欲”。",
+      "keywords": [
+        "德育任务",
+        "明天理",
+        "灭人欲"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-moral-2",
+      "knowledgeId": "china-reviewed-ch5-zhu-moral",
+      "title": "3. 德育方法",
+      "text": "立志、居敬、存养、省察、力行。",
+      "keywords": [
+        "立志",
+        "居敬",
+        "存养",
+        "省察",
+        "力行"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-eval-0",
+      "knowledgeId": "china-reviewed-ch5-zhu-eval",
+      "title": "1. 总评",
+      "text": "朱熹的教育思想影响至今，《四书章句集注》和《白鹿洞书院揭示》成就最大。",
+      "keywords": [
+        "总评",
+        "四书章句集注",
+        "白鹿洞书院揭示"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-eval-1",
+      "knowledgeId": "china-reviewed-ch5-zhu-eval",
+      "title": "2. 教育作用",
+      "text": "确立了中国封建社会中后期“明天理，灭人欲”的德育任务，但忽视了人无法“灭欲”的本性。",
+      "keywords": [
+        "教育作用",
+        "封建社会中后期",
+        "忽视人性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-eval-2",
+      "knowledgeId": "china-reviewed-ch5-zhu-eval",
+      "title": "3. 教育阶段",
+      "text": "确立了小学和大学相互衔接的关系。",
+      "keywords": [
+        "教育阶段",
+        "小学",
+        "大学",
+        "相互衔接"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-zhu-eval-3",
+      "knowledgeId": "china-reviewed-ch5-zhu-eval",
+      "title": "4. 读书方法",
+      "text": "反映了中国古代的读书研究成果，但内容缺乏与实际的联系。",
+      "keywords": [
+        "读书方法",
+        "古代研究成果",
+        "缺乏实际联系"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-intro-0",
+      "knowledgeId": "china-reviewed-ch5-wang-intro",
+      "title": "1. 人物与心学定位",
+      "text": "王守仁是明朝中期著名教育家。朱熹是客观唯心主义的代表，王守仁心学是主观唯心主义的代表。",
+      "keywords": [
+        "明朝中期",
+        "王守仁",
+        "心学",
+        "主观唯心主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience-0",
+      "knowledgeId": "china-reviewed-ch5-wang-conscience",
+      "title": "2.(1)① 良知的含义·心即理",
+      "text": "“心即理”：万事万物都不在心外，而在心中。",
+      "keywords": [
+        "良知含义",
+        "心即理",
+        "不在心外"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 人性论",
+      "subsection": "（1）良知的含义",
+      "displayTitle": "心即理"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience-1",
+      "knowledgeId": "china-reviewed-ch5-wang-conscience",
+      "title": "2.(1)② 良知的含义·良知即天理",
+      "text": "“良知即天理”。",
+      "keywords": [
+        "良知含义",
+        "良知即天理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 人性论",
+      "subsection": "（1）良知的含义",
+      "displayTitle": "良知即天理"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience-2",
+      "knowledgeId": "china-reviewed-ch5-wang-conscience",
+      "title": "2.(2)① 良知的特点·与生俱来",
+      "text": "良知与生俱来，不学自能、不教自会。",
+      "keywords": [
+        "良知特点",
+        "与生俱来",
+        "不学自能",
+        "不教自会"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 人性论",
+      "subsection": "（2）良知的特点",
+      "displayTitle": "与生俱来"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience-3",
+      "knowledgeId": "china-reviewed-ch5-wang-conscience",
+      "title": "2.(2)② 良知的特点·人人所有",
+      "text": "良知人人都有，不分圣愚。",
+      "keywords": [
+        "良知特点",
+        "人人所有",
+        "不分圣愚"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 人性论",
+      "subsection": "（2）良知的特点",
+      "displayTitle": "人人所有"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience-4",
+      "knowledgeId": "china-reviewed-ch5-wang-conscience",
+      "title": "2.(2)③ 良知的特点·不会泯灭",
+      "text": "良知不会泯灭。",
+      "keywords": [
+        "良知特点",
+        "不会泯灭"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 人性论",
+      "subsection": "（2）良知的特点",
+      "displayTitle": "不会泯灭"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience-5",
+      "knowledgeId": "china-reviewed-ch5-wang-conscience",
+      "title": "2.(2)④ 良知的特点·受蒙蔽",
+      "text": "人与外物接触，会受到物欲的引诱，良知便会受到蒙蔽。",
+      "keywords": [
+        "良知特点",
+        "外物",
+        "物欲引诱",
+        "蒙蔽"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2. 人性论",
+      "subsection": "（2）良知的特点",
+      "displayTitle": "受到蒙蔽"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience-6",
+      "knowledgeId": "china-reviewed-ch5-wang-conscience",
+      "title": "3.(1) 教育是“致良知”",
+      "text": "教育是“致良知”，即“学以去其昏蔽”“明其心”的过程。",
+      "keywords": [
+        "致良知",
+        "学以去其昏蔽",
+        "明其心"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 教育作用",
+      "displayTitle": "“致良知”"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-conscience-7",
+      "knowledgeId": "china-reviewed-ch5-wang-conscience",
+      "title": "3.(2) 教育强调主观能动性",
+      "text": "教育作用强调人的主观能动性。",
+      "keywords": [
+        "教育作用",
+        "主观能动性"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3. 教育作用",
+      "displayTitle": "强调主观能动性"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-individual-0",
+      "knowledgeId": "china-reviewed-ch5-wang-individual",
+      "title": "1. 简介",
+      "text": "教育要根据儿童的接受能力量力施教；“分限”指人的认知发展水平与限度。",
+      "keywords": [
+        "接受能力",
+        "量力施教",
+        "分限",
+        "认知发展"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-individual-1",
+      "knowledgeId": "china-reviewed-ch5-wang-individual",
+      "title": "2.(1) 量力施教",
+      "text": "量力施教是最根本的原则。",
+      "keywords": [
+        "量力施教",
+        "最根本原则"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-individual-2",
+      "knowledgeId": "china-reviewed-ch5-wang-individual",
+      "title": "2.(2) 因材施教",
+      "text": "根据学生的个别差异因材施教。",
+      "keywords": [
+        "因材施教",
+        "个别差异"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-individual-3",
+      "knowledgeId": "china-reviewed-ch5-wang-individual",
+      "title": "2.(3) 循序渐进",
+      "text": "循序渐进，“授书不在徒多，但贵精熟”。",
+      "keywords": [
+        "循序渐进",
+        "授书不在徒多",
+        "但贵精熟"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-individual-4",
+      "knowledgeId": "china-reviewed-ch5-wang-individual",
+      "title": "3. 评价",
+      "text": "承认个体差异和教育作用，把教学同受教育者的心理特征结合起来。",
+      "keywords": [
+        "个体差异",
+        "教育作用",
+        "心理特征"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-teaching-0",
+      "knowledgeId": "china-reviewed-ch5-wang-teaching",
+      "title": "1. 教育内容",
+      "text": "学习“六经”，但不局限于“六经”，要广泛学习各种知识。",
+      "keywords": [
+        "教育内容",
+        "六经",
+        "广泛学习"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-teaching-1",
+      "knowledgeId": "china-reviewed-ch5-wang-teaching",
+      "title": "2. 教育方法",
+      "text": "自求自得、循序渐进、因材施教、知行合一（知中有行，行中有知）。",
+      "keywords": [
+        "自求自得",
+        "循序渐进",
+        "因材施教",
+        "知行合一"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-teaching-2",
+      "knowledgeId": "china-reviewed-ch5-wang-teaching",
+      "title": "3. 道德教育",
+      "text": "实施封建伦理道德教育，即“明人伦”；方法是静处体悟、事上磨炼、省察克治、贵于改过。",
+      "keywords": [
+        "明人伦",
+        "静处体悟",
+        "事上磨炼",
+        "省察克治",
+        "贵于改过"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-children-0",
+      "knowledgeId": "china-reviewed-ch5-wang-children",
+      "title": "1.(1) 批判",
+      "text": "传统教育不顾及儿童的身心特点。",
+      "keywords": [
+        "批判",
+        "传统教育",
+        "身心特点"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-children-1",
+      "knowledgeId": "china-reviewed-ch5-wang-children",
+      "title": "1.(2) 主张",
+      "text": "儿童教育要顺应儿童的性情。",
+      "keywords": [
+        "主张",
+        "顺应儿童性情"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-children-2",
+      "knowledgeId": "china-reviewed-ch5-wang-children",
+      "title": "1.(3) 内容和方法",
+      "text": "“诱之歌诗，导之习礼，讽之读书”。",
+      "keywords": [
+        "诱之歌诗",
+        "导之习礼",
+        "讽之读书"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-children-3",
+      "knowledgeId": "china-reviewed-ch5-wang-children",
+      "title": "1.(4) 教育原则",
+      "text": "“随人分限所及”，即量力而行、盈科而进、因材施教。",
+      "keywords": [
+        "随人分限所及",
+        "量力而行",
+        "盈科而进",
+        "因材施教"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch5-wang-children-4",
+      "knowledgeId": "china-reviewed-ch5-wang-children",
+      "title": "2. 评价",
+      "text": "目的仍是向儿童灌输封建伦理道德，但具有自然主义倾向。",
+      "keywords": [
+        "封建伦理道德",
+        "自然主义倾向"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p050-k03-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "教育管理：宋元明清的文教政策与官学体制 · 第42页",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 50,
+            "rect": [
+              0.09555,
+              0.57559,
+              0.6746,
+              0.2478
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 50523,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p050-k03-0-s0",
+          "knowledgeId": "china-p050-k03-0",
+          "title": "文教政策",
+          "text": "1.宋朝：“兴文教，抑武事”。\n宋元明清的文教政策与官学体制\n2.元朝：“遵用汉法”。\n（一）文教政策\n3.明朝：“治国以教化为先，教化以学校为本”。\n4.清朝：“兴文教，崇经术，以开太平”。\n中央教育管理机构：国子监（延续到清末）。",
+          "keywords": [
+            "宋元明清的文教政策与官学体制",
+            "文教政策"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p050-k03-0-s1",
+          "knowledgeId": "china-p050-k03-0",
+          "title": "官学体制",
+          "text": "一（1）最早设立地方教育行政机构：提举学事司。\n1.宋代\n（二）官学体制\n地方官学。\n（2）首创学田制度\n私学（书院）。\n2.元代：等级制加强，社学。\n3.明代：社学、“监生历事”。\n4.清代：“六等陟法”、社学、井学、义学。",
+          "keywords": [
+            "官学体制"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p051-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：官学教育的改革 · 第43页",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 51,
+            "rect": [
+              0.08315,
+              0.1275,
+              0.82543,
+              0.54039
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 51120,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p051-k01-0-s0",
+          "knowledgeId": "china-p051-k01-0",
+          "title": "简介",
+          "text": "(1) 简介\n范仲淹主持，宋仁宗。\n1庆历兴学\n①太学方面：创建太学。引入“苏湖教法”。\n②地方官学：普遍设立。必须在学校学习300日才能参加科举。\n(2）内容\n③科举制度：改革科举考试。停帖经、墨义，着重策论、诗赋、经学；明\n法科试断案。\n(1)简介",
+          "keywords": [
+            "简介",
+            "庆历兴学",
+            "内容"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p051-k01-0-s1",
+          "knowledgeId": "china-p051-k01-0",
+          "title": "熙宁兴学",
+          "text": "王安石主持，宋神宗。\n2熙宁兴学\n①太学方面：改革太学，创立“三舍法”。\n②地方官学：恢复和发展州县地方学校。增学田、设学官。\n一北宋的三次兴学\n(2) 内容\n③科举制度：编撰《三经新义》（《诗经》《尚书》《周礼》）作为统一教材。",
+          "keywords": [
+            "熙宁兴学",
+            "北宋的三次兴学",
+            "内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p051-k01-0-s2",
+          "knowledgeId": "china-p051-k01-0",
+          "title": "简介",
+          "text": "④专科学校：重视设置专科学校。恢复设立武学（创举）、律学、医学等\n专科学校。\n(1)简介\n蔡京主持，宋徽宗。\n3崇宁兴学\n一①中央官学：新建辟雍，发展太学。实行“三舍法”、积分法。\n②地方官学：全国普遍设立地方官学。\n③科举制度：罢科举，改由学校取士。\n(2) 内容",
+          "keywords": [
+            "简介",
+            "崇宁兴学",
+            "内容"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p051-k01-0-s3",
+          "knowledgeId": "china-p051-k01-0",
+          "title": "评价",
+          "text": "④专科学校：创立更多种类的专科学校。恢复设立医学，创立算学、书学、\n画学（创举）等专科学校。\n③学制系统：建立县学、州学、太学三级相联系的学制系统。\n4.评价\n前两次兴学都遭遇失败，第三次兴学的促进作用超过前两次。总之，这三次兴学都是北",
+          "keywords": [
+            "评价"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p051-k01-0-s4",
+          "knowledgeId": "china-p051-k01-0",
+          "title": "原文小步 5",
+          "text": "宋文教政策最直接、最重要的体现。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p052-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：官学教育的改革 · 第44页",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 52,
+            "rect": [
+              0.11759,
+              0.0784,
+              0.77102,
+              0.5368
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 52075,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p052-k00-0-s0",
+          "knowledgeId": "china-p052-k00-0",
+          "title": "凯程助记",
+          "text": "凯程助记\n兴学\n庆历兴学\n熙宁兴学\n崇宁兴学\n内容\n改革\n创建太学；“苏湖教法”\n改革太学；“三舍法”\n新建辟雍；“三舍法”、积分法\n太学\n地方\n普遍设立\n恢复和发展州县地方学校\n普遍设立\n官学\n科举\n改革科举，停帖经、墨\n改革科举，编撰《三经新\n停止科举，学校取士\n制度\n义，明法科试断案",
+          "keywords": [
+            "凯程助记"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p052-k00-0-s1",
+          "knowledgeId": "china-p052-k00-0",
+          "title": "原文小步 2",
+          "text": "义》作为统一教材\n专科\n恢复设立武学、律学、医\n创立算学、书学、画学等，恢复设\n学校\n学等\n立医学\n改革\n县一州一太学三级相联系\n学制\n规律：1.前三次兴学都有关于地方官学、太学、科举的改革，且不断演进，结合时代背景推理演进\n的过程，就会方便记忆。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p052-k00-0-s2",
+          "knowledgeId": "china-p052-k00-0",
+          "title": "原文小步 3",
+          "text": "2.后两次兴学都有第四条，都是学校多样化。\n3.第三次兴学单独多第五条，改革学制系统",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p053-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：官学教育的改革 · 第45页（1）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 53,
+            "rect": [
+              0.08315,
+              0.083,
+              0.82474,
+              0.66162
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 53080,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p053-k00-0-s0",
+          "knowledgeId": "china-p053-k00-0",
+          "title": "宋元明清的其他教育改革",
+          "text": "（二）宋元明清的其他教育改革\n①简介：胡瑗主持湖州州学时创立，后来被范仲淹在庆历兴学中应用于太学。\n②内容:\na.教学内容:\n经义斋：学习儒经→“明体”之学，培养统治人才。\n治事斋：治兵、治民等科→“达用”之学，培养具有专长技术和管理的",
+          "keywords": [
+            "宋元明清的其他教育改革",
+            "②内容",
+            "a.教学内容"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p053-k00-0-s1",
+          "knowledgeId": "china-p053-k00-0",
+          "title": "“苏湖教法",
+          "text": "人才。学生主治一科，兼学其他科。\n（1）“苏湖教法\nb.培养目标：培养经世致用的人才。\n（“分斋教学法）\nc.教学方法：讲习解经，联系实际，实地考察，不提倡死记硬背。\n③评价：\na.我国最早分科与选修。这是我国最早的分科教学制度，也开创了主修和辅\n修的先河。",
+          "keywords": [
+            "“苏湖教法",
+            "（“分斋教学法）",
+            "③评价"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p053-k00-0-s2",
+          "knowledgeId": "china-p053-k00-0",
+          "title": "②内容",
+          "text": "b.提升实学地位。把实用科目纳入官学教学体系之中，取得了与儒家经学同\n等的地位。\n①简介：王安石“熙宁兴学”期间，创立于太学的学校管理制度。\n②内容：\n上等：直接授官\n考试\n1宋朝教育改革\n上舍\n中等：直接参加殿试\n有取代科举之意图\n平时行艺\n下等：直接参加礼部试",
+          "keywords": [
+            "②内容",
+            "宋朝教育改革"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p053-k00-0-s3",
+          "knowledgeId": "china-p053-k00-0",
+          "title": "“三舍法",
+          "text": "考试平时行艺\n内舍\n（2）“三舍法\n考试平时行艺\n外舍\n（初入辟雍）\n③评价：a.“三舍法”有利于调动学生学习的积极性，提高太学的教学质量。\nb.“三舍法”提高了太学的地位。\nc.“三舍法”是中国古代大学管理制度上的一项创新。",
+          "keywords": [
+            "“三舍法"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p053-k00-0-s4",
+          "knowledgeId": "china-p053-k00-0",
+          "title": "积分法",
+          "text": "①简介：元朝国子学的重要特点之一，始于宋朝太学，至元朝国子学趋于完善，\n明清继承和发展了该方法。\n(3) 积分法\n②内容：累积计算学生全年学业成绩的方法。\n③评价：积分法与“升斋等第法”或“三舍法”相连使用，督促学生平时学习的积极性。",
+          "keywords": [
+            "积分法"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p053-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：官学教育的改革 · 第45页（2）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 53,
+            "rect": [
+              0.08453,
+              0.76945,
+              0.82129,
+              0.1276
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 53702,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p053-k00-1-s0",
+          "knowledgeId": "china-p053-k00-1",
+          "title": "元朝教育改革",
+          "text": "①简介：“升斋等第法”是元朝国子学的重要特点之一，是宋朝“三舍法”的\n2元朝教育改革\n延续与发展。\n（1）“升斋等第法\n②内容：把国子学分为上、中、下三个等级六个斋舍，学生依据其学业成绩\n(必要补充点)\n和品德行为分别进入不同斋舍学习不同内容。",
+          "keywords": [
+            "元朝教育改革",
+            "“升斋等第法",
+            "(必要补充点)"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p053-k00-1-s1",
+          "knowledgeId": "china-p053-k00-1",
+          "title": "原文小步 7",
+          "text": "③评价：“升斋等第法”与积分法相连使用，效果更佳，督促学生平时学习\n的积极性。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p054-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：官学教育的改革 · 第46页",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 54,
+            "rect": [
+              0.10175,
+              0.07993,
+              0.82612,
+              0.55574
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 54077,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p054-k00-0-s0",
+          "knowledgeId": "china-p054-k00-0",
+          "title": "元朝教育改革",
+          "text": "①简介：社学是设在乡镇地区最基层的一种地方官学，创办于元朝，成熟于明朝，\n2元朝教育改革\n普及于清朝。\n②内容：元朝时期，社学是设在农村地区，利用农闲时间，以8～15岁的农家\n(2)社学\n子弟为对象的初等教育形式。明朝时期，社学带有某种强制性。清朝时期，",
+          "keywords": [
+            "元朝教育改革",
+            "社学"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p054-k00-0-s1",
+          "knowledgeId": "china-p054-k00-0",
+          "title": "明朝教育改革",
+          "text": "各省的府、州、县都设立社学，普及面更广。\n③评价：对发展农村地区的文化教育事业具有重要意义。这是元朝在教育组织形\n式上的一种创新。\n②内容：a.“历事”是指到监外历练政事。国子监生学习到一定年限，分拨到各\n行政职务进行实习。\n3明朝教育改革",
+          "keywords": [
+            "明朝教育改革"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p054-k00-0-s2",
+          "knowledgeId": "china-p054-k00-0",
+          "title": "监生历事",
+          "text": "b.“历事”后进行考核，分为上、中、下三等，上等者送吏部铨选授官，中、\n下等者仍历一年再考，上等者依上等用，中等者不拘品级，随才任用，\n监生历事\n下等者回监读书。\n③影响：a.“监生历事”是中国古代大学里最早的教学实习制度，是明朝教育管理制\n度的创举。",
+          "keywords": [
+            "监生历事"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p054-k00-0-s3",
+          "knowledgeId": "china-p054-k00-0",
+          "title": "清朝教育改革",
+          "text": "b.该制度使学校培养人才与业务部门使用人才直接挂钩，有利于提高人才\n素质。\n4清朝教育改革\n并有相应的奖惩措施。\n②内容：学生考试成绩被分为六等，即一等补膳生，二等补增广生，三等无\n“六等黜陟法”\n奖无罚，四等罚责，五等降级，六等除名。",
+          "keywords": [
+            "清朝教育改革",
+            "“六等黜陟法”"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p054-k00-0-s4",
+          "knowledgeId": "china-p054-k00-0",
+          "title": "原文小步 5",
+          "text": "③意义：a.积极性。对学生进行动态管理，有利于调动他们学习的积极性，提\n高学校的教育质量。\nb.创新。清朝在地方官学管理上的一个重要创新。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p054-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：书院的发展（高级私学） · 第46页",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 54,
+            "rect": [
+              0.10726,
+              0.69937,
+              0.61812,
+              0.12658
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 54634,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p054-k01-0-s0",
+          "knowledgeId": "china-p054-k01-0",
+          "title": "书院的发展",
+          "text": "（一）书院的产生与发展\n（二）宋：白鹿洞书院与《白鹿洞书院揭示》\n（三）明：东林书院\n书院的发展\n典型书院\n（四）清：漳南书院\n（五）清：话经精舍、学海堂\n（六）书院教育的特点",
+          "keywords": [
+            "书院的发展"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p055-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：书院的发展（高级私学） · 第47页（1）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 55,
+            "rect": [
+              0.0804,
+              0.07716,
+              0.82681,
+              0.72863
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 55074,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p055-k00-0-s0",
+          "knowledgeId": "china-p055-k00-0",
+          "title": "含义",
+          "text": "1.含义\n书院是中国封建社会自唐末以后的一种重要的教育组织形式。它以私人创办和组织为主，\n将图书收藏、教学、研究合为一体，是相对独立于官学之外的民间性学术研究和教育机构。\n一书院的产生与发展\n时间\n内容\n（1）原因：①官学衰落，士人失学。\n②源远流长，私人讲学。",
+          "keywords": [
+            "含义",
+            "书院的产生与发展"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p055-k00-0-s1",
+          "knowledgeId": "china-p055-k00-0",
+          "title": "发展",
+          "text": "③佛教禅林制度的影响。\n唐末出现\n④印刷术的发展。\n（2）典型：①中央政府设立集贤殿书院、丽正修书院。\n②民间设立李秘书院、松洲书院等\n（1）原因：①国家统一，重科举轻官学。\n2.发展\n②朝廷对民间办学的支持。\n③佛教禅林制度的影响。\n宋朝书院制度化\n凯程助记",
+          "keywords": [
+            "发展",
+            "凯程助记"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p055-k00-0-s2",
+          "knowledgeId": "china-p055-k00-0",
+          "title": "原文小步 3",
+          "text": "④印刷术的广泛应用。\n（2）六大书院：白鹿洞书院、岳麓书院、应天府书院、嵩\n白岳应天嵩鼓茅。\n阳书院、石鼓书院、茅山书院\n元朝政府对书院的管控力度很大，许多书院完全纳入地方\n元朝书院受控制\n官学系统，成为科举的附庸",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p055-k00-0-s3",
+          "knowledgeId": "china-p055-k00-0",
+          "title": "简介",
+          "text": "东林书院讽刺朝政，议论学术，但明朝其他书院以科举考\n明朝书院讽刺朝政\n试为宗旨，加重书院的官学化倾向\n加强对书院的管控，导致书院官学化倾向更加严重，几乎\n清朝书院官学化严重\n完全论为科举的附庸\n1. 简介",
+          "keywords": [
+            "简介"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p055-k00-0-s4",
+          "knowledgeId": "china-p055-k00-0",
+          "title": "原文小步 5",
+          "text": "白鹿洞书院原为唐后期李渤、李涉兄弟隐居读书处。南宋朱熹修复白鹿洞书院，并极盛\n二白鹿洞书院与《白鹿洞书院揭示》\n一时。《白鹿洞书院揭示》为书院教育宗旨，是中国书院发展史上第一个纲领性学规，标\n志着书院制度化的形成。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p055-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：书院的发展（高级私学） · 第47页（2）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 55,
+            "rect": [
+              0.15547,
+              0.6403,
+              0.75105,
+              0.21067
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 55586,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p055-k00-1-s0",
+          "knowledgeId": "china-p055-k00-1",
+          "title": "内容",
+          "text": "（1）教育目的：“父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信。”（《孟子》）\n（2）治学顺序：“博学之，审问之，慎思之，明辨之，笃行之。”（中庸》\n2.内容\n（3）修身之要：“言忠信，行笃敬，惩忿室欲，迁善改过。”（《论语》北宋周敦颐的《通书》\n(4）",
+          "keywords": [
+            "内容"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p055-k00-1-s1",
+          "knowledgeId": "china-p055-k00-1",
+          "title": "原文小步 7",
+          "text": "处事之要：“正其谊（义）不谋其利，明其道不计其功。”《汉书·董仲舒传》）\n(5)\n接物之要：“己所不欲，勿施于人，行有不得，反求诸己。”（《论语》《孟子》\n（1）白鹿洞书院促使书院走上制度化发展的道路。《白鹿洞书院揭示》是世界教育史",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p055-k00-1-s2",
+          "knowledgeId": "china-p055-k00-1",
+          "title": "意义",
+          "text": "上最早的教育规章制度之一，其中的思想都出自儒家典籍，形成较完整的书院教育\n3. 意义\n理论体系。\n（2）白鹿洞书院是后世书院发展的典范。白鹿洞书院对以后的书院教育和官学教育\n都产生了重大影响。",
+          "keywords": [
+            "意义"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p056-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：书院的发展（高级私学） · 第48页（1）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 56,
+            "rect": [
+              0.10313,
+              0.09,
+              0.82267,
+              0.55512
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 56086,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p056-k00-0-s0",
+          "knowledgeId": "china-p056-k00-0",
+          "title": "简介",
+          "text": "1.简介\n北宋杨时讲学之所，后来顾宪成、顾允成复修。明朝影响最大的书院，形成东林学派，\n三东林书院\n击朝政，具有明显的政治色彩，后来遭到禁毁。\n(1)\n思想：推行理学，反对心学。\n(2）讲会：制定《东林会约》，完善讲会制度。\n2. 特点",
+          "keywords": [
+            "简介",
+            "东林书院",
+            "思想：推行理学，反对心学"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p056-k00-0-s1",
+          "knowledgeId": "china-p056-k00-0",
+          "title": "评价",
+          "text": "（3）学术与政治结合，密切关注社会政治。“风声雨声读书声声声入耳，家事国事天下\n事事事关心。”\n(1)\n东林书院不仅是一个重要的文化学术中心，也是一个政治活动中心。\n3.评价\n（2）东林书院所带有的政治色彩和议政思想，是明朝出色的教育典范。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p056-k00-0-s2",
+          "knowledgeId": "china-p056-k00-0",
+          "title": "简介",
+          "text": "明末清初颜元创办漳南书院。\n（1）这是一所主张经世致用的书院，制定“宁粗而实，勿妄而虚”的办学宗旨。\n1.简介\n（2）这是一所批判传统教育的书院。①批判义利对立观。\n②批判教学严重脱离实际。\n③批判坪击八股取士。\n2.教育目标",
+          "keywords": [
+            "简介",
+            "教育目标"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p056-k00-0-s3",
+          "knowledgeId": "china-p056-k00-0",
+          "title": "①“六府”“三事”“三物”",
+          "text": "实才实德之士”。品德高尚，有真才实学的经世致用之才→通才+专门人才。\n①“六府”“三事”“三物”。\n（1）“真学”“实学”\n②重视体育和劳动教育。\n①文事斋。礼、乐、书、数。\n②武备斋。兵法、战法。\n3.教育内容：\n四漳南书院\n③经史斋。儒经。\n“真学”“实学”与",
+          "keywords": [
+            "①“六府”“三事”“三物”",
+            "“真学”“实学”",
+            "②重视体育和劳动教育"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p056-k00-0-s4",
+          "knowledgeId": "china-p056-k00-0",
+          "title": "“六斋”教学",
+          "text": "（2）“六斋”教学\n④艺能斋。火学、木学、水学、土学。\n“六斋”\n理学斋。静坐，编著程、朱、陆、王之学。\n帖括斋。八股。\n①超越经学教育的范围。教育内容超越“六经”，包含自\n然科学知识、军事知识及其他知识。\n(3) 评价",
+          "keywords": [
+            "“六斋”教学",
+            "“六斋”",
+            "帖括斋。八股"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p056-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：书院的发展（高级私学） · 第48页（2）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 56,
+            "rect": [
+              0.11759,
+              0.62901,
+              0.80959,
+              0.29999
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 56576,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p056-k00-1-s0",
+          "knowledgeId": "china-p056-k00-1",
+          "title": "含义",
+          "text": "②体现近代课程设置的萌芽。实行分科设教，教育内容\n多种多样。\n①要坚持练习和躬行实践。“学而必习，习又必行。”\n(1)含义\n②不排斥学习书本知识。将读书、讲学与习行相结合。\n①直接原因：反对静坐、空谈义理的传统教学方法。\n4.教育方法：\n(2) 原因\n“习行”",
+          "keywords": [
+            "含义",
+            "教育方法",
+            "原因"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p056-k00-1-s1",
+          "knowledgeId": "china-p056-k00-1",
+          "title": "评价",
+          "text": "③符合规律：符合学习规律，利于身体健康。\n①解放手足。颜元重视实践，中国古代教学法发展史上一次\n手足解放的运动。\n(3) 评价\n②教学革新。颜元反对传统教学方式，是教学法理论和实践\n上的重大革新。\n的内容提到此处讲解。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p057-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：书院的发展（高级私学） · 第49页（1）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 57,
+            "rect": [
+              0.08052,
+              0.08207,
+              0.8169,
+              0.74984
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 57079,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p057-k00-0-s0",
+          "knowledgeId": "china-p057-k00-0",
+          "title": "简介",
+          "text": "清朝阮元创办，宗旨是追求汉代考据学说。\n话经精舍是其任浙江巡抚时，在杭州孤山创立的，历经100多年。\n1.简介\n五话经精舍、学海堂\n学海堂是其任两广总督时，在广州越秀山创立的，历经80多年。\n两所书院是当时两地的重要文化学术研究中心，并“泽溉全国”。",
+          "keywords": [
+            "简介",
+            "话经精舍、学海堂"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p057-k00-0-s1",
+          "knowledgeId": "china-p057-k00-0",
+          "title": "“以励品学，非以弋功名",
+          "text": "（1）“以励品学，非以弋功名\n只做学问，不问科举；内容多样，学生择一肆业。\n针对教师，“各用所长”，如学海堂改设学长制。\n2. 特点\n(2）各用所长，因材施教\n针对学生，因材施教，如学海堂创立专课肆业生制度。\n（3）教学与研究相结合，刊刻师生研究成果\n3.影响",
+          "keywords": [
+            "“以励品学，非以弋功名",
+            "特点",
+            "各用所长，因材施教"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p057-k00-0-s2",
+          "knowledgeId": "china-p057-k00-0",
+          "title": "书院精神",
+          "text": "两所书院促进了学术发展，抵制了书院官学化的倾向。\n1.书院精神\n突出自由。\n2.教育目的\n培养学术型人格。\n（1）书院功能：集育才、研究、藏书三位功能于一体。\n（2）书院制度：走向制度化建设。\n3.书院管理\n自主自治\n（3）办学主体：有私办、官办和私办公助等多种形式。",
+          "keywords": [
+            "书院精神",
+            "教育目的",
+            "书院管理"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p057-k00-0-s3",
+          "knowledgeId": "china-p057-k00-0",
+          "title": "教学课程",
+          "text": "（4）管理方式：实行山长负责制。\n（5）书院经费：经费来源多样化。\n（1）教学特色：教学与研究相结合。\n（2）课程设置：灵活、富有弹性和选择性。\n4.教学课程\n自主学习\n（3）教学内容：道德教育与知识教育相结合。\n（4）教学方法：以学生自学和研究为主。",
+          "keywords": [
+            "教学课程",
+            "自主学习"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p057-k00-0-s4",
+          "knowledgeId": "china-p057-k00-0",
+          "title": "师生关系",
+          "text": "（5）学术交流：门户开放。\n5.师生关系\n平等亲密。\n（1）“以学舍入官”：政府通过赎买或授\n官等方式，吸引私人将兴建的书院捐\n赠给政府，以谋得一定的官职。有的\n已出现官\n刺激书院发\n宋朝\n书院直接被改为地方官学，如应天府\n学化倾向\n展的同时控\n6发展倾向\n逐渐官学化\n书院。",
+          "keywords": [
+            "师生关系",
+            "已出现官",
+            "学化倾向"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p057-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：书院的发展（高级私学） · 第49页（2）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 57,
+            "rect": [
+              0.29362,
+              0.75283,
+              0.57828,
+              0.11031
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 57687,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p057-k00-1-s0",
+          "knowledgeId": "china-p057-k00-1",
+          "title": "元明清",
+          "text": "制书院。\n（2）地方政府兴建书院：州郡长官利\n用地主官府财力修复或兴建书院。如\n岳麓书院、石鼓书院、白鹿洞书院等。\n元明清\n官学化倾向不断加深。",
+          "keywords": [
+            "元明清"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p058-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：私塾与蒙学教材（低级私学） · 第50页（1）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 58,
+            "rect": [
+              0.095,
+              0.11689,
+              0.83276,
+              0.46822
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 58110,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p058-k01-0-s0",
+          "knowledgeId": "china-p058-k01-0",
+          "title": "含义",
+          "text": "1. 含义\n8～15岁儿童的“小学”教育阶段称为“蒙养”教育阶段，对儿童进行启蒙教育的\n厂蒙学\n2. 发展\n商周设小学→两汉有书馆→唐朝有蒙馆→宋朝设官办小学，民间私垫多→元明清\n有社学。\n1. 含义",
+          "keywords": [
+            "含义",
+            "厂蒙学",
+            "发展"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p058-k01-0-s1",
+          "knowledgeId": "china-p058-k01-0",
+          "title": "原文小步 2",
+          "text": "私塾是民间私人所办的蒙学的统称，主要承担文化知识和封建道德教育的任务，\n也是中国古代社会中后期国家基础教育的主要承担者。\n（1）家垫：官宦和殷实人家聘教师在家中教子弟。\n（2）学馆：也叫散馆，有文化的人在自家兴办的私垫。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p058-k01-0-s2",
+          "knowledgeId": "china-p058-k01-0",
+          "title": "仁私垫",
+          "text": "（3）义塾：也叫义学，私人或社会团体所办的具有公益性质的学校，是私垫\n仁私垫\n2. 种类\n中规模最大的学校。\n（4）村塾：由一家或数家、一村或几个村子单独或联合聘教师教子弟的村学，\n以学习儒家经典为主，也叫专馆、族垫、经馆。\n(1)",
+          "keywords": [
+            "仁私垫",
+            "种类"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p058-k01-0-s3",
+          "knowledgeId": "china-p058-k01-0",
+          "title": "特点",
+          "text": "在教育宗旨上，强调严格要求，打好基础。\n(2）在行为培养上，重视《须知》《学则》。\n（3）在学习动机上，注意儿童的心理特点。\n3. 特点\n(4)\n在教学内容上，文化知识与伦理道德并重。\n（5）在教学方法上，识记与领悟并重。\n（6）在教学组织形式上，采取个别教学。",
+          "keywords": [
+            "特点"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p058-k01-0-s4",
+          "knowledgeId": "china-p058-k01-0",
+          "title": "私垫与蒙学教材",
+          "text": "私垫与蒙学教材\n(1）第一阶段：以识字为主（周秦至魏晋南北朝时期）。\n①西周：《史篇》是中国最早的蒙学教材。\n②秦代：《仓颌篇》是秦始皇统一文字的识字范本。\n③西汉：《急就篇》（史游）流传最久远、影响最大。\n④南朝梁：《千字文》（周兴嗣）。",
+          "keywords": [
+            "私垫与蒙学教材"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p058-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "育士制度：私塾与蒙学教材（低级私学） · 第50页（2）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 58,
+            "rect": [
+              0.16397,
+              0.57925,
+              0.75552,
+              0.35916
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 58531,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p058-k01-1-s0",
+          "knowledgeId": "china-p058-k01-1",
+          "title": "发展",
+          "text": "（2）第二阶段：以封建伦理道德和历史知识为主（隋唐五代时期）。\n①《太公家教》：唐朝规劝人们践行封建伦理道德的教材。\n1. 发展\n②《蒙求》：唐朝李瀚所作的历史故事的教材，可读性很强。\n(3）第三阶段：按专题分类编写（宋元明清时期)。\n与种类",
+          "keywords": [
+            "发展",
+            "与种类"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p058-k01-1-s1",
+          "knowledgeId": "china-p058-k01-1",
+          "title": "蒙学教材",
+          "text": "①识字教学类。如“三、百、千”流传最广。南宋王应麟的《三字经》北宋\n初期的《百家姓》南朝梁周兴嗣的《千字文》。\n②伦理道德类。如吕本中的《童蒙训》朱熹的《小学》《童蒙须知》陈淳的\n《小学诗礼》等。\n三蒙学教材",
+          "keywords": [
+            "蒙学教材"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p058-k01-1-s2",
+          "knowledgeId": "china-p058-k01-1",
+          "title": "按专题分类编写",
+          "text": "③历史教材类。如王令的《十七史蒙求》吴化龙的《左氏蒙求》等。\n④诗歌类。如《千家诗》《唐诗三百首》朱熹的《训蒙诗》陈淳的《小学诗礼》\n（也属于伦理道德类）等。\n③名物制度和自然常识类。如方逢辰的《名物蒙求》等。\n（1）按专题分类编写。\n(2）学者亲自编写。",
+          "keywords": [
+            "按专题分类编写",
+            "学者亲自编写"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p058-k01-1-s3",
+          "knowledgeId": "china-p058-k01-1",
+          "title": "注重儿童的心理特点",
+          "text": "(3）注重儿童的心理特点。\n2. 特点\n(4）重视汉字的特点。\n(5）将识字、基本知识和道德教育相结合。\n(6）宋元之后，蒙学教材大量涌现。",
+          "keywords": [
+            "注重儿童的心理特点",
+            "特点",
+            "重视汉字的特点"
+          ],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p059-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "选士制度：科举制度的演变及对学校教育的制约 · 第51页（1）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 59,
+            "rect": [
+              0.07086,
+              0.11279,
+              0.82794,
+              0.62747
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 59106,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p059-k01-0-s0",
+          "knowledgeId": "china-p059-k01-0",
+          "title": "隋—建立",
+          "text": "(一) 隋—建立\n进士科的建立标志着科举考试制度的诞生。\n1.程序：乡试一尚书省礼部举办的省试一吏部试。\n（二）唐——发展\n2.科目：秀才、明经、进士、明法、明字、明算。\n3.方法：帖经、墨义、口试、策问、诗赋。\n1.科举地位提高，成为取士正途。",
+          "keywords": [
+            "隋—建立",
+            "唐——发展"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p059-k01-0-s1",
+          "knowledgeId": "china-p059-k01-0",
+          "title": "原文小步 2",
+          "text": "2.科举名额扩大，录取人数增多。\n3.科举内容改革，专用《三经新义》。\n4.科举时间确定，“三年一贡举”。\n科举\n5.科举程序确立，殿试成为定制。\n推动\n（1）州试（地方主持）一省试（尚书省礼部）一殿试（成为科举常制）。\n学校",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p059-k01-0-s2",
+          "knowledgeId": "china-p059-k01-0",
+          "title": "宋——完善",
+          "text": "（2）第一甲赐进士及第，第二甲赐进士出身，第三甲赐同进士出身。\n教育\n6.科举新制建立，防止科场作弊。\n（三)宋——完善\n发展。\n（1）锁院制：主考官住进贡院，与外界隔离，防止主考官泄题。\n（2）别头试：宋朝规定官家子弟必须加试复试，主考官子弟与亲",
+          "keywords": [
+            "宋——完善"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p059-k01-0-s3",
+          "knowledgeId": "china-p059-k01-0",
+          "title": "科举制度的演变",
+          "text": "戚应另立考场，另派考官。\n科举制度的演变\n（3）糊名制：密封试卷上的姓名、籍贯，防止考官私舞弊，也\n叫作“弥封”或“封弥”。\n（4）誉录制：考生试卷先经誉抄，后接受批改。\n1.民族歧视明显。\n(四）元一中落\n2.规定从“四书”中出题，以《四书章句集注》为答题标准。",
+          "keywords": [
+            "科举制度的演变",
+            "元一中落"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p059-k01-0-s4",
+          "knowledgeId": "china-p059-k01-0",
+          "title": "明——鼎盛",
+          "text": "3.科举制度日趋严密。\n学校\n1.建立了“永制”的科举定式。\n教育\n（五）明——鼎盛\n2.将八股文确立为固定的考试文体。\n逐渐\n3.将学校教育纳入科举体系，主张“科举必由学校”。\n沦为\n科举\n1.科举为“国家抢才大典”。\n附庸。\n（六）清—僵化\n2.科场舞弊丛生，积重难返。",
+          "keywords": [
+            "明——鼎盛",
+            "清—僵化"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p059-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "选士制度：科举制度的演变及对学校教育的制约 · 第51页（2）",
+        "section": "第一节宋元明清时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 59,
+            "rect": [
+              0.14328,
+              0.73286,
+              0.53483,
+              0.08625
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 59669,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p059-k01-1-s0",
+          "knowledgeId": "china-p059-k01-1",
+          "title": "清末一—废除",
+          "text": "3.学校成为科举的附庸。\n1.维新时期：改科举，停八股，设经济特科。\n（七）清末一—废除\n2.新政时期：完全废除科举制度。",
+          "keywords": [
+            "清末一—废除"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p060-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "朱熹的教育思想 · 第52页",
+        "section": "第二节宋元明清时期的教育思想",
+        "refs": [
+          {
+            "page": 60,
+            "rect": [
+              0.10534,
+              0.14915,
+              0.82241,
+              0.55065
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 60139,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p060-k02-0-s0",
+          "knowledgeId": "china-p060-k02-0",
+          "title": "朱熹与《四书章句集注》",
+          "text": "1.朱熹：南宋最负盛名的大教育家，也是理学思想的集大成者。\n（1）讲学与书院。修复白鹿洞书院和岳麓书院，拟定《白鹿洞书院揭示》。\n一朱熹与《四书章句集注》\n（2）教材与育才。《近思录》（朱熹、吕祖谦合编的理学入门读物）；《童蒙须知》《小学》《训",
+          "keywords": [
+            "朱熹与《四书章句集注》"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p060-k02-0-s1",
+          "knowledgeId": "china-p060-k02-0",
+          "title": "《四书章句集注》",
+          "text": "蒙斋规》；《四书章句集注》（影响力最深广、最重要）。\n2.《四书章句集注》：\n《《《《》\n（2）特点：构建宋朝课程体系（详见下图）。\n五经\n四书\n近思录\n中庸\n朱熹\n孟子\n大学\n论语\n(3)评价:\n①宋朝：将《四书章句集注》看作国家课程，元明清均有此共识。\n二教育作用和目的",
+          "keywords": [
+            "《四书章句集注》",
+            "评价",
+            "教育作用和目的"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p060-k02-0-s2",
+          "knowledgeId": "china-p060-k02-0",
+          "title": "原文小步 3",
+          "text": "1.人性论：“理”→天命之性：至善至纯→明天理。\n“气”→气质之性：有善有恶→灭人欲。\n2.教育作用：“变换气质”→“明天理，灭人欲”。\n3.教育目的：“明人伦”。“天理”即以“三纲五常”为核心的封建伦理道德。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p061-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "朱熹的教育思想 · 第53页（1）",
+        "section": "第二节宋元明清时期的教育思想",
+        "refs": [
+          {
+            "page": 61,
+            "rect": [
+              0.07776,
+              0.08821,
+              0.82862,
+              0.5138
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 61084,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p061-k00-0-s0",
+          "knowledgeId": "china-p061-k00-0",
+          "title": "目论“小学”和“大学”教育",
+          "text": "目论“小学”和“大学”教育\n阶段\n年龄\n任务\n内容\n方法\n1.及早施教。\n“学事”：道德+2.激发兴趣。\n小学8~15岁\n“圣贤坏璞”\n习惯+文化\n3.创建学规《须知》《学则》)。\n4.“三到”（心到、口到、眼到）\n在“坯璞”基础上“加\n“教理”：“四书”\n1.注重自学。",
+          "keywords": [
+            "目论“小学”和“大学”教育"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p061-k00-0-s1",
+          "knowledgeId": "china-p061-k00-0",
+          "title": "凯程助记",
+          "text": "大学15岁以上\n光饰”→对国家有用\n“五经”\n2.注重交流\n的人\n评价：小学与大学既独立又联系，反映了人才培养的某些客观规律。\n凯程助记\n(1）循序渐进：①读书要按照首尾篇章的顺序，不要颠倒。（顺序）\n②读书要根据自己的情况量力而行，制订的读书计划要切实遵",
+          "keywords": [
+            "凯程助记"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p061-k00-0-s2",
+          "knowledgeId": "china-p061-k00-0",
+          "title": "内容",
+          "text": "心志体力渐熟。\n守。(量力）\n③读书要扎扎实实打好基础，不可图图吞枣、急于求成。（扎实）\n（2）熟读精思：①读书必须反复阅读，能够背熟。（熟读）\n②读书必须结合精思，感悟思想真谛。（精思）\n③朱熹提出了无疑一有疑一解疑的过程。（解疑）\n1. 内容",
+          "keywords": [
+            "内容"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p061-k00-0-s3",
+          "knowledgeId": "china-p061-k00-0",
+          "title": "朱子读书法",
+          "text": "（3）虚心涵泳：①“虚心”指读书要虚怀若谷、精思体会，不主观臆断或随意发挥。\n②“涵泳”指读书要反复咀嚼，细心玩味。\n（4）切己体察：朱熹强调将书中的伦理道德思想进行力行，并非近代以来所\n朱熹\n四朱子读书法\n讲的实践与实验。",
+          "keywords": [
+            "朱子读书法"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p061-k00-0-s4",
+          "knowledgeId": "china-p061-k00-0",
+          "title": "原文小步 5",
+          "text": "（5）着紧用力：①“着紧”指必须抓紧时间，发愤忘食，反对悠悠然。\n②“用力”指必须抖擞精神，勇猛奋发，反对松松垮。\n（6）居敬持志：①“居敬”指读书时精神专一，注意力集中。\n②“持志”指有坚定的志向，用顽强的毅力坚持下去。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p061-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "朱熹的教育思想 · 第53页（2）",
+        "section": "第二节宋元明清时期的教育思想",
+        "refs": [
+          {
+            "page": 61,
+            "rect": [
+              0.13914,
+              0.59205,
+              0.76035,
+              0.30847
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 61543,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p061-k00-1-s0",
+          "knowledgeId": "china-p061-k00-1",
+          "title": "影响",
+          "text": "（1）“朱子读书法”反映了我国古代对读书方法研究的成果。\n2.影响\n(2)\n）“朱子读书法”反映了读书学习的基本规律和要求。\n(1)\n内容局限：朱熹提倡读的书是宣扬封建伦理道德的圣贤之书。\n（2）方法局限：未曾注意到书本知识与实际调查的配合，更谈不上实验或实践。",
+          "keywords": [
+            "影响"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p061-k00-1-s1",
+          "knowledgeId": "china-p061-k00-1",
+          "title": "局限",
+          "text": "3. 局限\n（3）精神局限：造成了“万般皆下品，唯有读书高”和“两耳不闻窗外事，一\n心只读圣贤书”的不良学风。\n德育地位：德育是首位。\n（五）道德教育\n2.德育任务：“明天理，灭人欲”。\n3.德育方法：立志、居敬、存养、省察、力行。",
+          "keywords": [
+            "局限",
+            "德育地位：德育是首位",
+            "道德教育"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p061-k00-1-s2",
+          "knowledgeId": "china-p061-k00-1",
+          "title": "原文小步 8",
+          "text": "1.总评：朱熹的教育思想影响至今，《四书章句集注》和《白鹿洞书院揭示》成就最大。\n评价\n2.教育作用：确立了中国封建社会中后期“明天理，灭人欲”的德育任务，但忽视了人无法\n“灭欲”的本性。\n3.教育阶段：确立了小学和大学相互衔接的关系。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p061-k00-1-s3",
+          "knowledgeId": "china-p061-k00-1",
+          "title": "原文小步 9",
+          "text": "4.读书方法：反映了中国古代的读书研究成果，但内容缺乏与实际的联系。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p062-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "王守仁的教育思想 · 第54页（1）",
+        "section": "第二节宋元明清时期的教育思想",
+        "refs": [
+          {
+            "page": 62,
+            "rect": [
+              0.10328,
+              0.11586,
+              0.81482,
+              0.60904
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 62109,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p062-k01-0-s0",
+          "knowledgeId": "china-p062-k01-0",
+          "title": "简介",
+          "text": "1.简介\n王守仁是明朝中期著名教育家。如果朱熹代表的理学是客观唯心主义，那么王\n守仁代表的心学是主观唯心主义。\n“致良知”与教育作用\n①“心即理”：万事万物都不在心外，而在心中。\n(1）良知的含义\n②\n）“良知即天理”。\n2. 人性论",
+          "keywords": [
+            "简介",
+            "“致良知”与教育作用",
+            "良知的含义"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p062-k01-0-s1",
+          "knowledgeId": "china-p062-k01-0",
+          "title": "良知的特点",
+          "text": "①它与生俱来，不学自能，不教自会。\n②它是人人所具有的，不分圣愚。\n(2）良知的特点\n③它不会泯灭。\n④它在与外物的接触中，由于受物欲的引诱，会\n受昏蔽。\n(1)\n教育是“致良知”（“学以去其昏蔽”“明其心”）的过程。\n3.教育作用：“致良知”",
+          "keywords": [
+            "良知的特点",
+            "教育作用：“致良知”"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p062-k01-0-s2",
+          "knowledgeId": "china-p062-k01-0",
+          "title": "教学原则：“随人分限所及",
+          "text": "（2）教育的作用强调人的主观能动性。\n二教学原则：“随人分限所及\n1. 简介\n教育应该根据儿童的接受能力量力施教。“分限”指人的认知发展水平与限度。\n(1）量力施教。最根本的原则。\n王守仁\n2.内容\n(2）因材施教。\n（3）循序渐进。“授书不在徒多，但贵精熟。”",
+          "keywords": [
+            "教学原则：“随人分限所及",
+            "简介",
+            "量力施教。最根本的原则"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p062-k01-0-s3",
+          "knowledgeId": "china-p062-k01-0",
+          "title": "评价",
+          "text": "3.评价\n承认人的个体差异，承认教育的作用，把教学和受教育\n者的心理特征结合起来。\n1.教育内容：学习“六经”，但不局限于“六经”，要广泛学习各种知识。\n三论教学\n2.教育方法：自求自得、循序渐进、因材施教、知行合一（知中有行，行中有知）。",
+          "keywords": [
+            "评价",
+            "论教学"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p062-k01-0-s4",
+          "knowledgeId": "china-p062-k01-0",
+          "title": "内容",
+          "text": "3.道德教育：封建伦理道德教育，即“明人伦”。\n方法：静处体悟、事上磨炼、省察克治、贵于改过。\n（1）批判：揭露传统教育不顾及儿童的身心特点。\n（2）主张：儿童教育要顺应儿童的性情。\n1. 内容\n（3）内容方法：“诱之歌诗，导之以礼，讽之读书”。",
+          "keywords": [
+            "内容"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p062-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-4",
+        "title": "王守仁的教育思想 · 第54页（2）",
+        "section": "第二节宋元明清时期的教育思想",
+        "refs": [
+          {
+            "page": 62,
+            "rect": [
+              0.18259,
+              0.71648,
+              0.75,
+              0.07907
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 62655,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p062-k01-1-s0",
+          "knowledgeId": "china-p062-k01-1",
+          "title": "论儿童教育",
+          "text": "（4）教育原则：“随人分限所及”（量力而行、盈科而进、因\n（四）论儿童教育\n材施教）。\n2.评价\n虽然目的是向儿童灌输封建伦理道德，但具有自然主义倾向。",
+          "keywords": [
+            "论儿童教育",
+            "评价"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 13,
+    "knowledge": 42,
+    "steps": 181,
+    "readOnlySteps": 24,
+    "replacedDrafts": 22
+  }
+}

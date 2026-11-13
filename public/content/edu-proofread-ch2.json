@@ -1,0 +1,6118 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch2-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch2-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "学习及其理论解释：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 18,
+          "rect": [
+            0.07,
+            0.125,
+            0.86,
+            0.5
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 18112,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-meaning",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "学习的含义与意义",
+      "section": "第一节 · 学习概述 · 考点一",
+      "refs": [
+        {
+          "page": 19,
+          "rect": [
+            0.07,
+            0.19,
+            0.86,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 19171,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-example-reference",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "学习判定示例及页下注答案",
+      "section": "第一节 · 学习概述 · 考点一 · 举例",
+      "refs": [
+        {
+          "page": 19,
+          "rect": [
+            0.07,
+            0.205,
+            0.86,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 19184,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "学习的分类",
+      "section": "第一节 · 学习概述 · 考点二",
+      "refs": [
+        {
+          "page": 19,
+          "rect": [
+            0.07,
+            0.54,
+            0.86,
+            0.36
+          ]
+        },
+        {
+          "page": 20,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 19486,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-classification-mnemonics",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "加涅八种学习层次助记",
+      "section": "第一节 · 学习概述 · 考点二 · 凯程助记",
+      "refs": [
+        {
+          "page": 19,
+          "rect": [
+            0.075,
+            0.64,
+            0.22,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 19576,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-results-mnemonic",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "加涅学习结果分类助记",
+      "section": "第一节 · 学习概述 · 考点二 · 凯程助记",
+      "refs": [
+        {
+          "page": 20,
+          "rect": [
+            0.72,
+            0.145,
+            0.2,
+            0.085
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 20130,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "行为主义学习理论：分支框架",
+      "section": "第二节 · 行为主义学习理论",
+      "refs": [
+        {
+          "page": 20,
+          "rect": [
+            0.07,
+            0.29,
+            0.86,
+            0.165
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 20261,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-classical-experiments",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "巴甫洛夫与华生的经典条件作用实验图",
+      "section": "第二节 · 行为主义学习理论 · 考点一 · 经典实验",
+      "refs": [
+        {
+          "page": 20,
+          "rect": [
+            0.07,
+            0.505,
+            0.86,
+            0.355
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 20454,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "巴甫洛夫的经典条件作用说",
+      "section": "第二节 · 行为主义学习理论 · 考点一 · 经典条件作用说",
+      "refs": [
+        {
+          "page": 21,
+          "rect": [
+            0.07,
+            0.155,
+            0.86,
+            0.43
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 21139,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-watson",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "华生对经典条件作用的发展",
+      "section": "第二节 · 行为主义学习理论 · 考点一 · 经典条件作用说",
+      "refs": [
+        {
+          "page": 21,
+          "rect": [
+            0.07,
+            0.59,
+            0.86,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 21531,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-classical-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "经典条件作用说总结表原图",
+      "section": "第二节 · 行为主义学习理论 · 考点一",
+      "refs": [
+        {
+          "page": 21,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.67
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 21072,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-operant-experiments",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "桑代克迷笼与斯金纳白鼠实验图",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 经典实验",
+      "refs": [
+        {
+          "page": 22,
+          "rect": [
+            0.07,
+            0.12,
+            0.86,
+            0.77
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 22108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-thorndike",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "桑代克的联结—试误说",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 操作性条件作用说",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.07,
+            0.155,
+            0.86,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 23139,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "斯金纳的操作性条件作用说",
+      "section": "第二节 · 行为主义学习理论 · 考点二",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.07,
+            0.355,
+            0.86,
+            0.47
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 23319,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-operant-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "操作性条件作用说总结表原图",
+      "section": "第二节 · 行为主义学习理论 · 考点二",
+      "refs": [
+        {
+          "page": 23,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.75
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 23072,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-conditioning-comparison",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "经典与操作性条件作用对比原表",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 凯程深化",
+      "refs": [
+        {
+          "page": 24,
+          "rect": [
+            0.07,
+            0.1,
+            0.86,
+            0.265
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 24090,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "行为矫正技术：增加行为发生概率",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 斯金纳的应用 · 行为矫正",
+      "refs": [
+        {
+          "page": 24,
+          "rect": [
+            0.07,
+            0.41,
+            0.86,
+            0.41
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 24369,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-decrease",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "行为矫正技术：降低行为发生概率",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 斯金纳的应用 · 行为矫正",
+      "refs": [
+        {
+          "page": 25,
+          "rect": [
+            0.07,
+            0.155,
+            0.86,
+            0.365
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 25139,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-new",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "行为矫正技术：培养新行为",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 斯金纳的应用 · 行为矫正",
+      "refs": [
+        {
+          "page": 25,
+          "rect": [
+            0.07,
+            0.52,
+            0.86,
+            0.16
+          ]
+        },
+        {
+          "page": 26,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.345
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 25468,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-other",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "行为矫正技术：代币制与行为契约",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 斯金纳的应用 · 行为矫正",
+      "refs": [
+        {
+          "page": 25,
+          "rect": [
+            0.07,
+            0.68,
+            0.86,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 25612,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "行为矫正技术两页总结表",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 斯金纳的应用",
+      "refs": [
+        {
+          "page": 24,
+          "rect": [
+            0.07,
+            0.385,
+            0.86,
+            0.44
+          ]
+        },
+        {
+          "page": 25,
+          "rect": [
+            0.07,
+            0.105,
+            0.86,
+            0.78
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 24346,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-shaping-chaining-cases",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "塑造与连锁经典案例原图",
+      "section": "第二节 · 行为主义学习理论 · 考点二 · 经典案例",
+      "refs": [
+        {
+          "page": 26,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.345
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 26067,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-experiment",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "班杜拉赏罚控制实验原图",
+      "section": "第二节 · 行为主义学习理论 · 考点三 · 社会（观察）学习理论",
+      "refs": [
+        {
+          "page": 26,
+          "rect": [
+            0.07,
+            0.475,
+            0.86,
+            0.255
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 26427,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-social-cognitive-background",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "（一）宏观背景：社会认知理论",
+      "section": "第二节 · 行为主义学习理论 · 考点三 · 社会（观察）学习理论",
+      "refs": [
+        {
+          "page": 26,
+          "rect": [
+            0.07,
+            0.74,
+            0.86,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 26666,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-reciprocal-diagram",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "个体、行为和环境的关系图",
+      "section": "第二节 · 行为主义学习理论 · 考点三 · （一）宏观背景",
+      "refs": [
+        {
+          "page": 26,
+          "rect": [
+            0.7,
+            0.755,
+            0.235,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 26679,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "（二）班杜拉的社会（观察）学习理论",
+      "section": "第二节 · 行为主义学习理论 · 考点三",
+      "refs": [
+        {
+          "page": 27,
+          "rect": [
+            0.07,
+            0.07,
+            0.86,
+            0.85
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 27063,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "学习的认知理论：分支框架",
+      "section": "第三节 · 学习的认知理论",
+      "refs": [
+        {
+          "page": 28,
+          "rect": [
+            0.07,
+            0.115,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 28103,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-gestalt",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "格式塔学派：完形—顿悟说",
+      "section": "第三节 · 学习的认知理论 · 考点一 · 早期的认知学习理论",
+      "refs": [
+        {
+          "page": 28,
+          "rect": [
+            0.07,
+            0.345,
+            0.86,
+            0.07
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 28310,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-tolman",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "托尔曼：认知—目的说（符号学习理论）",
+      "section": "第三节 · 学习的认知理论 · 考点一 · 早期的认知学习理论",
+      "refs": [
+        {
+          "page": 28,
+          "rect": [
+            0.07,
+            0.415,
+            0.86,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 28373,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-early-cognitive-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "早期认知学习理论对照表原图",
+      "section": "第三节 · 学习的认知理论 · 考点一",
+      "refs": [
+        {
+          "page": 28,
+          "rect": [
+            0.07,
+            0.325,
+            0.86,
+            0.195
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 28292,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-early-cognitive-experiments",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "苛勒叠箱子与托尔曼迷宫实验原图",
+      "section": "第三节 · 学习的认知理论 · 考点一 · 经典实验",
+      "refs": [
+        {
+          "page": 28,
+          "rect": [
+            0.07,
+            0.55,
+            0.86,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 28495,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "布鲁纳的认知—发现说",
+      "section": "第三节 · 学习的认知理论 · 考点二",
+      "refs": [
+        {
+          "page": 29,
+          "rect": [
+            0.07,
+            0.165,
+            0.86,
+            0.62
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 29148,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-encoding-diagram",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "布鲁纳编码系统图",
+      "section": "第三节 · 学习的认知理论 · 考点二",
+      "refs": [
+        {
+          "page": 29,
+          "rect": [
+            0.07,
+            0.81,
+            0.86,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 29729,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "奥苏伯尔的有意义接受说",
+      "section": "第三节 · 学习的认知理论 · 考点三",
+      "refs": [
+        {
+          "page": 30,
+          "rect": [
+            0.07,
+            0.125,
+            0.86,
+            0.6
+          ]
+        },
+        {
+          "page": 31,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.485
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 30112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-assimilation-diagrams",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "上位、下位与组合学习示意图",
+      "section": "第三节 · 学习的认知理论 · 考点三 · 认知同化模式",
+      "refs": [
+        {
+          "page": 30,
+          "rect": [
+            0.07,
+            0.72,
+            0.86,
+            0.135
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 30648,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-meaning-discovery-matrix",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "接受／发现与有意义／机械学习二维图",
+      "section": "第三节 · 学习的认知理论 · 考点三 · 接受学习",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.375,
+            0.295,
+            0.53,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 31265,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-ausubel-comparison",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "布鲁纳与奥苏伯尔观点异同比较原表",
+      "section": "第三节 · 学习的认知理论 · 考点三 · 凯程助记",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.07,
+            0.59,
+            0.86,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 31531,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "加涅的信息加工学习理论",
+      "section": "第三节 · 学习的认知理论 · 考点四",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.07,
+            0.125,
+            0.86,
+            0.64
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 32112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-model-reference",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "加涅信息加工模型原图",
+      "section": "第三节 · 学习的认知理论 · 考点四 · （一）",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.07,
+            0.135,
+            0.86,
+            0.305
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 32121,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-stages-reference",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "加涅八阶段与教学设计配对表原图",
+      "section": "第三节 · 学习的认知理论 · 考点四 · （二）",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.07,
+            0.445,
+            0.86,
+            0.335
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 32400,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-mnemonic",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "加涅学习阶段助记",
+      "section": "第三节 · 学习的认知理论 · 考点四 · 凯程助记",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.755,
+            0.315,
+            0.18,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 32283,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "认知负荷理论",
+      "section": "第三节 · 学习的认知理论 · 考点四 · （三）信息加工模型的发展",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.07,
+            0.81,
+            0.86,
+            0.115
+          ]
+        },
+        {
+          "page": 33,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.065
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 32729,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load-example",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "认知负荷：两种细胞结构图呈现方式",
+      "section": "第三节 · 学习的认知理论 · 考点四 · 举例",
+      "refs": [
+        {
+          "page": 33,
+          "rect": [
+            0.07,
+            0.145,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 33130,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-multimedia",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "多媒体学习原理",
+      "section": "第三节 · 学习的认知理论 · 考点四 · （三）信息加工模型的发展",
+      "refs": [
+        {
+          "page": 33,
+          "rect": [
+            0.07,
+            0.285,
+            0.86,
+            0.215
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 33256,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "建构主义的思想渊源与理论取向",
+      "section": "第四节 · 建构主义学习理论 · 考点一",
+      "refs": [
+        {
+          "page": 33,
+          "rect": [
+            0.07,
+            0.595,
+            0.86,
+            0.305
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 33535,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-fish-cow-reference",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "牛鱼寓言的知识建构示意图",
+      "section": "第四节 · 建构主义学习理论 · 考点一 · 举例",
+      "refs": [
+        {
+          "page": 33,
+          "rect": [
+            0.675,
+            0.565,
+            0.27,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 33508,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "建构主义学习理论的基本观点",
+      "section": "第四节 · 建构主义学习理论 · 考点二",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.07,
+            0.115,
+            0.86,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34103,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "认知建构主义学习理论及其应用",
+      "section": "第四节 · 建构主义学习理论 · 考点三",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.07,
+            0.45,
+            0.86,
+            0.43
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34405,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "社会建构主义学习理论及其应用",
+      "section": "第四节 · 建构主义学习理论 · 考点四",
+      "refs": [
+        {
+          "page": 35,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.585
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 35117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "学习的人本主义理论",
+      "section": "第五节 · 学习的人本主义理论",
+      "refs": [
+        {
+          "page": 36,
+          "rect": [
+            0.07,
+            0.14,
+            0.86,
+            0.615
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 36126,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch2-theory-summary",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-1",
+      "title": "四大学习理论流派总结及口诀原表",
+      "section": "第五节 · 学习的人本主义理论 · 章末凯程助记",
+      "refs": [
+        {
+          "page": 37,
+          "rect": [
+            0.07,
+            0.07,
+            0.86,
+            0.785
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 37063,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch2-learning-meaning-0",
+      "knowledgeId": "edu-reviewed-ch2-learning-meaning",
+      "title": "学习含义",
+      "text": "学习是由经验所引起的行为或思维的比较持久的变化。",
+      "keywords": [
+        "经验",
+        "行为或思维",
+        "比较持久"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-meaning-1",
+      "knowledgeId": "edu-reviewed-ch2-learning-meaning",
+      "title": "由经验引起",
+      "text": "参与或观察引起，不同于本能。",
+      "keywords": [
+        "参与",
+        "观察",
+        "不同于本能"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "1. 由经验引起",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-meaning-2",
+      "knowledgeId": "edu-reviewed-ch2-learning-meaning",
+      "title": "行为或思维变化",
+      "text": "思想、情感、价值观等的变化。",
+      "keywords": [
+        "思想",
+        "情感",
+        "价值观"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "2. 行为或思维的变化",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-meaning-3",
+      "knowledgeId": "edu-reviewed-ch2-learning-meaning",
+      "title": "比较持久",
+      "text": "行为的变化不等同于学习的存在。",
+      "keywords": [
+        "比较持久",
+        "不等同"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "3. 比较持久",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-meaning-4",
+      "knowledgeId": "edu-reviewed-ch2-learning-meaning",
+      "title": "学习与表现",
+      "text": "学习不意味着表现，表现也不一定因学习而产生。",
+      "keywords": [
+        "学习",
+        "表现",
+        "不一定"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "4. 学习不意味着表现",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-meaning-5",
+      "knowledgeId": "edu-reviewed-ch2-learning-meaning",
+      "title": "广义概念",
+      "text": "人和动物均有，涉及各个方面、各种环境，贯穿一生。",
+      "keywords": [
+        "人和动物",
+        "各方面",
+        "贯穿一生"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "5. 学习是一个广义的概念",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-meaning-6",
+      "knowledgeId": "edu-reviewed-ch2-learning-meaning",
+      "title": "生物意义",
+      "text": "竞争力、生存力。",
+      "keywords": [
+        "竞争力",
+        "生存力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）意义"
+      ],
+      "displayTitle": "1. 生物意义",
+      "outline": "（三）意义"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-meaning-7",
+      "knowledgeId": "edu-reviewed-ch2-learning-meaning",
+      "title": "社会意义",
+      "text": "个性化、社会化。",
+      "keywords": [
+        "个性化",
+        "社会化"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）意义"
+      ],
+      "displayTitle": "2. 社会意义",
+      "outline": "（三）意义"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-0",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "信号学习",
+      "text": "对信号做出反应，经典条件作用。例：在经历多次考试带来的压力后，老师一提到“考试”，就会让学生感到焦虑。",
+      "keywords": [
+        "信号",
+        "经典条件作用",
+        "考试焦虑"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按照学习的水平／层次分类（加涅）"
+      ],
+      "displayTitle": "信号学习",
+      "outline": "（一）按照学习的水平／层次分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-1",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "刺激反应学习",
+      "text": "情境—反应—强化，操作性条件作用。例：回答问题被表扬后，更喜欢回答问题。",
+      "keywords": [
+        "情境反应强化",
+        "操作性条件作用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按照学习的水平／层次分类（加涅）"
+      ],
+      "displayTitle": "刺激—反应学习",
+      "outline": "（一）按照学习的水平／层次分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-2",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "连锁学习",
+      "text": "一系列刺激—反应（S-R）的联合。例：一系列接球闪躲动作。",
+      "keywords": [
+        "刺激反应",
+        "一系列",
+        "联合"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按照学习的水平／层次分类（加涅）"
+      ],
+      "displayTitle": "连锁学习",
+      "outline": "（一）按照学习的水平／层次分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-3",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "言语联想学习",
+      "text": "由言语单位所联结的一系列刺激—反应的联合。例：说出一段通顺的话。",
+      "keywords": [
+        "言语单位",
+        "联结",
+        "刺激反应"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按照学习的水平／层次分类（加涅）"
+      ],
+      "displayTitle": "言语联想学习",
+      "outline": "（一）按照学习的水平／层次分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-4",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "辨别学习",
+      "text": "辨别多种刺激的异同，并对它们做出不同的反应。例：区别“泡、跑、炮”的用法。",
+      "keywords": [
+        "刺激异同",
+        "不同反应"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按照学习的水平／层次分类（加涅）"
+      ],
+      "displayTitle": "辨别学习",
+      "outline": "（一）按照学习的水平／层次分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-5",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "概念学习",
+      "text": "对刺激进行分类时，对一类刺激做出同样的反应。例：将牛、羊、兔归为动物。",
+      "keywords": [
+        "刺激分类",
+        "同样反应"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按照学习的水平／层次分类（加涅）"
+      ],
+      "displayTitle": "概念学习",
+      "outline": "（一）按照学习的水平／层次分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-6",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "规则原理学习",
+      "text": "概念与概念之间的关系。例：理解直径和半径的概念，得知圆的直径是半径的2倍。",
+      "keywords": [
+        "概念关系",
+        "规则",
+        "原理"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按照学习的水平／层次分类（加涅）"
+      ],
+      "displayTitle": "规则或原理的学习",
+      "outline": "（一）按照学习的水平／层次分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-7",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "解决问题学习",
+      "text": "运用规则解决问题，又叫高级规则的学习。例：利用圆的周长、面积公式解决关于圆的所有实际问题。",
+      "keywords": [
+        "运用规则",
+        "高级规则"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按照学习的水平／层次分类（加涅）"
+      ],
+      "displayTitle": "解决问题的学习",
+      "outline": "（一）按照学习的水平／层次分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-8",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "学习形式",
+      "text": "接受学习与发现学习。",
+      "keywords": [
+        "接受学习",
+        "发现学习"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按照学习的性质分类（奥苏伯尔）"
+      ],
+      "displayTitle": "1. 学习的形式",
+      "outline": "（二）按照学习的性质分类（奥苏伯尔）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-9",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "学习性质",
+      "text": "学习材料与学习者原有认知结构的关系：机械学习与有意义学习。",
+      "keywords": [
+        "原有认知结构",
+        "机械学习",
+        "有意义学习"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按照学习的性质分类（奥苏伯尔）"
+      ],
+      "displayTitle": "2. 学习的性质",
+      "outline": "（二）按照学习的性质分类（奥苏伯尔）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-10",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "言语信息",
+      "text": "“是什么”。",
+      "keywords": [
+        "言语信息",
+        "是什么"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）按照学习的结果分类（加涅）"
+      ],
+      "displayTitle": "1. 言语信息",
+      "outline": "（三）按照学习的结果分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-11",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "动作技能",
+      "text": "外显行为上显示怎么做。",
+      "keywords": [
+        "动作技能",
+        "外显行为",
+        "怎么做"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）按照学习的结果分类（加涅）"
+      ],
+      "displayTitle": "2. 动作技能",
+      "outline": "（三）按照学习的结果分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-12",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "智慧技能",
+      "text": "心里知道怎么做。",
+      "keywords": [
+        "智慧技能",
+        "心里",
+        "怎么做"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）按照学习的结果分类（加涅）"
+      ],
+      "displayTitle": "3. 智慧技能",
+      "outline": "（三）按照学习的结果分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-13",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "认知策略",
+      "text": "怎样可以做得更好。",
+      "keywords": [
+        "认知策略",
+        "做得更好"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）按照学习的结果分类（加涅）"
+      ],
+      "displayTitle": "4. 认知策略",
+      "outline": "（三）按照学习的结果分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-learning-classification-14",
+      "knowledgeId": "edu-reviewed-ch2-learning-classification",
+      "title": "态度",
+      "text": "怎样看待人或事。",
+      "keywords": [
+        "态度",
+        "人或事"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）按照学习的结果分类（加涅）"
+      ],
+      "displayTitle": "5. 态度",
+      "outline": "（三）按照学习的结果分类（加涅）"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-0",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "实验",
+      "text": "狗分泌唾液实验。",
+      "keywords": [
+        "巴甫洛夫",
+        "狗",
+        "唾液"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "实验"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-1",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "学习本质",
+      "text": "人的行为是通过刺激—反应联结（即S-R联结）形成的。",
+      "keywords": [
+        "刺激反应",
+        "S-R联结"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "学习本质"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-2",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "习得",
+      "text": "条件刺激和无条件刺激同时或近乎同时多次呈现，习得行为。例：孩子打针怕疼，看到穿白大褂的医生就哭。",
+      "keywords": [
+        "条件刺激",
+        "无条件刺激",
+        "多次呈现"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "1. 习得与消退"
+      ],
+      "displayTitle": "（1）习得",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-3",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "消退",
+      "text": "反应行为得不到无条件刺激的强化。例：孩子哭闹要玩具，妈妈不搭理，孩子哭闹行为逐渐消失。",
+      "keywords": [
+        "得不到",
+        "无条件刺激",
+        "强化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "1. 习得与消退"
+      ],
+      "displayTitle": "（2）消退",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-4",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "泛化",
+      "text": "与原来刺激相似的新刺激也可能引起反应。例：宠物狗一开始听到欢快的音乐就会活蹦乱跳，后来只要听到音乐就会活蹦乱跳。",
+      "keywords": [
+        "相似新刺激",
+        "引起反应"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "2. 泛化和分化"
+      ],
+      "displayTitle": "（1）泛化",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-5",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "分化",
+      "text": "只对条件刺激做出条件反应，而对泛化的刺激不做出条件反应。例：宠物狗只在听到欢快的音乐时活蹦乱跳，听抒情、悲伤的音乐时则不会。",
+      "keywords": [
+        "条件刺激",
+        "泛化刺激",
+        "不反应"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "2. 泛化和分化"
+      ],
+      "displayTitle": "（2）分化",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-6",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "高级条件作用",
+      "text": "由一个已经条件化的刺激来使另一个中性刺激条件化的过程。例：教师批评带来焦虑，卷子与批评联系后，听到要考试也产生焦虑。",
+      "keywords": [
+        "已条件化",
+        "中性刺激",
+        "条件化"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律"
+      ],
+      "displayTitle": "3. 高级条件作用",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-7",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "第一信号系统",
+      "text": "物理性条件刺激。例：孩子看见白大褂就开始哭。",
+      "keywords": [
+        "物理性条件刺激"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "4. 第一信号系统与第二信号系统"
+      ],
+      "displayTitle": "（1）第一信号系统",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-pavlov-8",
+      "knowledgeId": "edu-reviewed-ch2-pavlov",
+      "title": "第二信号系统",
+      "text": "以语言符号为中介的条件刺激。例：谈虎变色，一说学习就焦虑。",
+      "keywords": [
+        "语言符号",
+        "中介",
+        "条件刺激"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "4. 第一信号系统与第二信号系统"
+      ],
+      "displayTitle": "（2）第二信号系统",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-watson-0",
+      "knowledgeId": "edu-reviewed-ch2-watson",
+      "title": "实验",
+      "text": "婴儿恐惧形成实验。",
+      "keywords": [
+        "华生",
+        "婴儿",
+        "恐惧"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "实验"
+    },
+    {
+      "id": "edu-reviewed-ch2-watson-1",
+      "knowledgeId": "edu-reviewed-ch2-watson",
+      "title": "学习本质",
+      "text": "学习是通过刺激—反应联结形成习惯的过程。",
+      "keywords": [
+        "刺激反应",
+        "习惯"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "学习本质"
+    },
+    {
+      "id": "edu-reviewed-ch2-watson-2",
+      "knowledgeId": "edu-reviewed-ch2-watson",
+      "title": "频因律",
+      "text": "练习次数越多，习惯形成越快。例：妈妈每天要求孩子回家换鞋、把鞋摆好，孩子做得多了，就形成了回家换鞋、摆鞋的良好习惯。",
+      "keywords": [
+        "练习次数",
+        "习惯形成"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律"
+      ],
+      "displayTitle": "1. 频因律",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-watson-3",
+      "knowledgeId": "edu-reviewed-ch2-watson",
+      "title": "近因律",
+      "text": "最新近的反应更容易得到强化。例：小明因生病被父母要求多休息，病好后读书时间减少、睡觉时间增多。",
+      "keywords": [
+        "最新近",
+        "反应",
+        "强化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律"
+      ],
+      "displayTitle": "2. 近因律",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-thorndike-0",
+      "knowledgeId": "edu-reviewed-ch2-thorndike",
+      "title": "实验",
+      "text": "饿猫打开迷笼实验。",
+      "keywords": [
+        "桑代克",
+        "饿猫",
+        "迷笼"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "实验"
+    },
+    {
+      "id": "edu-reviewed-ch2-thorndike-1",
+      "knowledgeId": "edu-reviewed-ch2-thorndike",
+      "title": "学习本质",
+      "text": "有机体形成刺激—反应联结，这个联结需要通过试误来形成。",
+      "keywords": [
+        "刺激反应",
+        "联结",
+        "试误"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "学习本质"
+    },
+    {
+      "id": "edu-reviewed-ch2-thorndike-2",
+      "knowledgeId": "edu-reviewed-ch2-thorndike",
+      "title": "准备律",
+      "text": "个体有准备，又有活动，感到满意；反之，则不满意。例：预习了且教师正好讲该课会满意，没有预习则会不满意、烦恼。",
+      "keywords": [
+        "准备",
+        "活动",
+        "满意"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律"
+      ],
+      "displayTitle": "1. 准备律",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-thorndike-3",
+      "knowledgeId": "edu-reviewed-ch2-thorndike",
+      "title": "练习律",
+      "text": "有奖励的重复练习可以增强联结。例：不停地重复乘法表并持续提供奖励，形成刺激“7×7=？”和反应“49”的联结。",
+      "keywords": [
+        "奖励",
+        "重复练习",
+        "增强联结"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律"
+      ],
+      "displayTitle": "2. 练习律",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-thorndike-4",
+      "knowledgeId": "edu-reviewed-ch2-thorndike",
+      "title": "效果律",
+      "text": "一个动作如果带来满意变化，那么该动作出现的概率增加。例：预习后回答得好受到表扬，下次还预习。",
+      "keywords": [
+        "满意变化",
+        "概率增加"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律"
+      ],
+      "displayTitle": "3. 效果律",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-0",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "实验",
+      "text": "白鼠的操作性条件作用实验。",
+      "keywords": [
+        "斯金纳",
+        "白鼠",
+        "操作性条件作用"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "实验"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-1",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "学习本质",
+      "text": "一种反应概率的变化，强化是增加反应概率的手段，用符号表示为R-S。",
+      "keywords": [
+        "反应概率",
+        "强化",
+        "R-S"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "学习本质"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-2",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "正强化",
+      "text": "呈现愉快刺激，使反应概率增加。例：给予表扬。",
+      "keywords": [
+        "呈现愉快刺激",
+        "概率增加"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "1. 强化与惩罚",
+        "强化：反应概率增加"
+      ],
+      "displayTitle": "正强化",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-3",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "负强化",
+      "text": "消除厌恶刺激，使反应概率增加。例：免做家务。",
+      "keywords": [
+        "消除厌恶刺激",
+        "概率增加"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "1. 强化与惩罚",
+        "强化：反应概率增加"
+      ],
+      "displayTitle": "负强化",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-4",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "正惩罚",
+      "text": "呈现厌恶刺激，使反应概率降低。例：关禁闭。",
+      "keywords": [
+        "呈现厌恶刺激",
+        "概率降低"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "1. 强化与惩罚",
+        "惩罚：反应概率降低"
+      ],
+      "displayTitle": "正惩罚",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-5",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "负惩罚",
+      "text": "消除愉快刺激，使反应概率降低。例：禁止吃零食。",
+      "keywords": [
+        "消除愉快刺激",
+        "概率降低"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "1. 强化与惩罚",
+        "惩罚：反应概率降低"
+      ],
+      "displayTitle": "负惩罚",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-6",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "普雷马克原理",
+      "text": "用喜爱的活动强化不喜爱的活动。例：你好好刷牙，我就给你讲故事。",
+      "keywords": [
+        "喜爱活动",
+        "不喜爱活动",
+        "强化"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律"
+      ],
+      "displayTitle": "2. 普雷马克原理",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-7",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "逃避条件作用",
+      "text": "厌恶的情境出现了，反应后逃避。例：班级太吵，回寝室学习。",
+      "keywords": [
+        "厌恶情境已出现",
+        "逃避"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "3. 逃避条件作用与回避条件作用"
+      ],
+      "displayTitle": "（1）逃避条件作用",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-8",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "回避条件作用",
+      "text": "预示厌恶的情境即将出现，反应后回避。例：准备去自习室学习，想到自习室太吵，决定不去。",
+      "keywords": [
+        "厌恶情境即将出现",
+        "回避"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "3. 逃避条件作用与回避条件作用"
+      ],
+      "displayTitle": "（2）回避条件作用",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-9",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "消退",
+      "text": "反应之后不再有强化物相伴，所以行为渐渐消失。例：不再用玩具强化孩子的哭闹，哭闹行为渐渐消失。",
+      "keywords": [
+        "不再强化",
+        "行为消失"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "4. 消退与维持"
+      ],
+      "displayTitle": "（1）消退",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-10",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "维持",
+      "text": "逐渐减弱甚至停止强化后，行为依旧持续。例：教师对做题的表扬变少且时间不定，甚至没有表扬，学生仍能坚持做题。",
+      "keywords": [
+        "减弱停止强化",
+        "行为持续"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规律",
+        "4. 消退与维持"
+      ],
+      "displayTitle": "（2）维持",
+      "outline": "规律"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-11",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "程序教学",
+      "text": "程序教学包括教学机器与五原则。",
+      "keywords": [
+        "程序教学",
+        "教学机器"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "应用",
+        "1. 程序教学"
+      ],
+      "displayTitle": "教学机器与五原则",
+      "outline": "应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-12",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "小步子",
+      "text": "小步子。",
+      "keywords": [
+        "小步子"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "应用",
+        "1. 程序教学"
+      ],
+      "displayTitle": "（1）小步子",
+      "outline": "应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-13",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "积极反应",
+      "text": "积极反应。",
+      "keywords": [
+        "积极反应"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "应用",
+        "1. 程序教学"
+      ],
+      "displayTitle": "（2）积极反应",
+      "outline": "应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-14",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "及时反馈",
+      "text": "及时反馈。",
+      "keywords": [
+        "及时反馈"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "应用",
+        "1. 程序教学"
+      ],
+      "displayTitle": "（3）及时反馈",
+      "outline": "应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-15",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "自定步调",
+      "text": "自定步调。",
+      "keywords": [
+        "自定步调"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "应用",
+        "1. 程序教学"
+      ],
+      "displayTitle": "（4）自定步调",
+      "outline": "应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-16",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "低错误率",
+      "text": "低错误率。",
+      "keywords": [
+        "低错误率"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "应用",
+        "1. 程序教学"
+      ],
+      "displayTitle": "（5）低错误率",
+      "outline": "应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-skinner-17",
+      "knowledgeId": "edu-reviewed-ch2-skinner",
+      "title": "行为矫正",
+      "text": "行为矫正，详见原书后续行为矫正技术总结表。",
+      "keywords": [
+        "行为矫正",
+        "总结表"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "应用"
+      ],
+      "displayTitle": "2. 行为矫正",
+      "outline": "应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-0",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "正强化",
+      "text": "呈现愉快刺激。例：给予表扬。",
+      "keywords": [
+        "正强化",
+        "呈现愉快刺激"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "正强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-1",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "负强化",
+      "text": "消除厌恶刺激。例：免做家务后，孩子好好学习的行为增加。",
+      "keywords": [
+        "负强化",
+        "消除厌恶刺激"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "负强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-2",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "立即强化",
+      "text": "在个体做出正确反应或行为后，立即给予强化。反应建立方式：建立快，消退快。例：小明主动举手回答问题，立即受到表扬，此后主动发言次数增多。",
+      "keywords": [
+        "立即强化",
+        "建立快",
+        "消退快"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "立即强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-3",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "连续强化",
+      "text": "每次目标行为出现时，都给予强化。反应建立方式：建立快，消退快。例：持续受赞扬的学生逐渐习惯，觉得赞扬理所当然，赞扬便失去激励和强化作用。",
+      "keywords": [
+        "连续强化",
+        "每次",
+        "建立快消退快"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "连续强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-4",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "间歇强化",
+      "text": "偶然地或间歇地给予强化，反应建立慢，消退慢。",
+      "keywords": [
+        "偶然间歇",
+        "建立慢",
+        "消退慢"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "间歇强化"
+      ],
+      "displayTitle": "总体特点",
+      "outline": "间歇强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-5",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "定时强化",
+      "text": "固定时段后给予强化。反应建立快，持续性相对短，消退也相对快。例：按时发工资。",
+      "keywords": [
+        "固定时段",
+        "持续性短",
+        "消退快"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "间歇强化",
+        "程式"
+      ],
+      "displayTitle": "（1）定时强化",
+      "outline": "间歇强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-6",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "定比强化",
+      "text": "固定反应次数后给予强化。反应建立快，持续性稍微长，消退也相对快。例：计件工作。",
+      "keywords": [
+        "固定反应次数",
+        "持续性稍长"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "间歇强化",
+        "程式"
+      ],
+      "displayTitle": "（2）定比强化",
+      "outline": "间歇强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-7",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "变时强化",
+      "text": "不定时的给予强化。反应建立慢，持续性更加长，消退相对缓慢。例：随堂测验。",
+      "keywords": [
+        "不定时",
+        "持续性更长",
+        "消退缓慢"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "间歇强化",
+        "程式"
+      ],
+      "displayTitle": "（3）变时强化",
+      "outline": "间歇强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-8",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "变比强化",
+      "text": "在不定反应次数后给予强化。反应建立快，持续性最长久，难以消退。例：买彩票、抓娃娃。",
+      "keywords": [
+        "不定反应次数",
+        "最长久",
+        "难消退"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "间歇强化",
+        "程式"
+      ],
+      "displayTitle": "（4）变比强化",
+      "outline": "间歇强化"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-increase-9",
+      "knowledgeId": "edu-reviewed-ch2-behavior-increase",
+      "title": "页下注说明",
+      "text": "间歇强化与立即强化、连续强化相比，建立慢，消退也慢；间歇强化的四种程式的建立速度又各有不同。",
+      "keywords": [
+        "间歇强化",
+        "四种程式",
+        "建立速度"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "页下注补充"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-decrease-0",
+      "knowledgeId": "edu-reviewed-ch2-behavior-decrease",
+      "title": "惩罚",
+      "text": "呈现厌恶刺激或消除愉快刺激。例：关禁闭、禁止吃零食。",
+      "keywords": [
+        "惩罚",
+        "厌恶刺激",
+        "消除愉快刺激"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "惩罚"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-decrease-1",
+      "knowledgeId": "edu-reviewed-ch2-behavior-decrease",
+      "title": "消退",
+      "text": "某种已习得的行为，经不搭理、不理睬之后逐渐消失。例：孩子吵着要玩具，妈妈不搭理后，孩子不再吵着要玩具。",
+      "keywords": [
+        "已习得行为",
+        "不理睬",
+        "消失"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "消退"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-decrease-2",
+      "knowledgeId": "edu-reviewed-ch2-behavior-decrease",
+      "title": "系统脱敏",
+      "text": "当个体处于充分放松的状态下，让个体逐渐接近使其害怕或焦虑的事物，或逐渐提高刺激物强度。原书例：怕白鼠的小明依次想象、观看视频、隔玻璃看、接触白鼠。",
+      "keywords": [
+        "充分放松",
+        "逐渐接近",
+        "刺激强度"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "系统脱敏法"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-decrease-3",
+      "knowledgeId": "edu-reviewed-ch2-behavior-decrease",
+      "title": "厌恶疗法",
+      "text": "厌恶刺激几乎与不良行为同时出现，通过将厌恶刺激的厌恶性迁移到不良行为上来改变个体的不良行为。原书例：啃手指甲时尝到辣味，两者多次同时呈现后不再啃手指甲。",
+      "keywords": [
+        "厌恶刺激",
+        "同时出现",
+        "迁移"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "厌恶疗法"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-decrease-4",
+      "knowledgeId": "edu-reviewed-ch2-behavior-decrease",
+      "title": "过度满足",
+      "text": "让学生过量地重复其原有不良行为，使不良行为因得不到强化、失去意义而自动消退。原书例：课堂怪异动作被要求反复做到疲惫不堪后消失。",
+      "keywords": [
+        "过量重复",
+        "得不到强化",
+        "自动消退"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "过度满足法（餍足法）"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-decrease-5",
+      "knowledgeId": "edu-reviewed-ch2-behavior-decrease",
+      "title": "隔离法",
+      "text": "为了抑制某种特定行为的发生，让行为者在一段时间内得不到强化或远离强化刺激（环境）的一种行为干预方法。原书例：攻击行为出现后短暂离开教室，之后回到教室。",
+      "keywords": [
+        "抑制特定行为",
+        "得不到强化",
+        "远离环境"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "隔离法"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-new-0",
+      "knowledgeId": "edu-reviewed-ch2-behavior-new",
+      "title": "塑造",
+      "text": "将总目标行为分为若干子目标行为，针对每个子目标行为进行针对性强化，最终帮助学生达到总目标行为。原书的26个英文字母分组学习案例见PDF26。",
+      "keywords": [
+        "总目标",
+        "子目标",
+        "针对性强化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "塑造"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-new-1",
+      "knowledgeId": "edu-reviewed-ch2-behavior-new",
+      "title": "连锁",
+      "text": "通过形成一系列“刺激—反应”链来建立新行为。原书逐步将打开水龙头、用手盛水、洗脸、擦脸连接起来，每次对延长后的行为链强化，案例见PDF26。",
+      "keywords": [
+        "刺激反应链",
+        "建立新行为"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "连锁"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-new-2",
+      "knowledgeId": "edu-reviewed-ch2-behavior-new",
+      "title": "渐隐",
+      "text": "刺激渐渐减少，个体反应依旧。例：妈妈陪学的指导由多到少，再离开、只检查，最后彻底不陪学，孩子自己也可以。",
+      "keywords": [
+        "刺激减少",
+        "反应依旧"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "渐隐"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-other-0",
+      "knowledgeId": "edu-reviewed-ch2-behavior-other",
+      "title": "代币制",
+      "text": "使用代币及其交换系统对个体行为进行强化。例：学生积攒小红花，10个换1个“金币”，20个“金币”可跟教师出去春游。",
+      "keywords": [
+        "代币",
+        "交换系统",
+        "强化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "代币制"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-other-1",
+      "knowledgeId": "edu-reviewed-ch2-behavior-other",
+      "title": "行为契约",
+      "text": "以书面合同的形式规定个体应该有的行为表现，以及行为出现或未出现会伴随的具体结果。有单向契约和双向契约两种形式。",
+      "keywords": [
+        "书面合同",
+        "行为表现",
+        "具体结果"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "行为契约"
+      ],
+      "displayTitle": "含义",
+      "outline": "行为契约"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-other-2",
+      "knowledgeId": "edu-reviewed-ch2-behavior-other",
+      "title": "单向契约",
+      "text": "妈妈单向规定孩子，不写完作业不能看动画片。",
+      "keywords": [
+        "单向规定",
+        "作业",
+        "动画片"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "行为契约"
+      ],
+      "displayTitle": "单向契约",
+      "outline": "行为契约"
+    },
+    {
+      "id": "edu-reviewed-ch2-behavior-other-3",
+      "knowledgeId": "edu-reviewed-ch2-behavior-other",
+      "title": "双向契约",
+      "text": "妈妈和孩子双向规定：孩子要认真写作业，否则不能看动画片；妈妈检查作业时不能发火，否则要增加孩子每周零花钱。",
+      "keywords": [
+        "双向规定",
+        "双方结果"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "行为契约"
+      ],
+      "displayTitle": "双向契约",
+      "outline": "行为契约"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-cognitive-background-0",
+      "knowledgeId": "edu-reviewed-ch2-social-cognitive-background",
+      "title": "交互决定论",
+      "text": "个体、行为和环境相互影响。",
+      "keywords": [
+        "个体",
+        "行为",
+        "环境",
+        "相互影响"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 交互决定论"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-cognitive-background-1",
+      "knowledgeId": "edu-reviewed-ch2-social-cognitive-background",
+      "title": "参与性学习",
+      "text": "通过实际行动并亲自体验行动后果而进行的学习。",
+      "keywords": [
+        "实际行动",
+        "亲自体验",
+        "行动后果"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 学习分类"
+      ],
+      "displayTitle": "（1）参与性学习",
+      "outline": "2. 学习分类"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-cognitive-background-2",
+      "knowledgeId": "edu-reviewed-ch2-social-cognitive-background",
+      "title": "替代性学习",
+      "text": "通过观察别人的行动和后果而进行的学习。",
+      "keywords": [
+        "观察别人",
+        "行动",
+        "后果"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 学习分类"
+      ],
+      "displayTitle": "（2）替代性学习",
+      "outline": "2. 学习分类"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-0",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "实验",
+      "text": "赏罚控制实验。",
+      "keywords": [
+        "赏罚",
+        "控制",
+        "实验"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 实验"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-1",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "观察习得",
+      "text": "儿童可以通过观察习得行为。",
+      "keywords": [
+        "观察",
+        "习得行为"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 学习的本质"
+      ],
+      "displayTitle": "（1）通过观察习得行为",
+      "outline": "2. 学习的本质"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-2",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "榜样后果",
+      "text": "榜样行为的后果是决定个体是否表现榜样行为的关键性因素。",
+      "keywords": [
+        "榜样后果",
+        "是否表现",
+        "关键因素"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 学习的本质"
+      ],
+      "displayTitle": "（2）榜样行为的后果",
+      "outline": "2. 学习的本质"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-3",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "注意过程",
+      "text": "注意过程。",
+      "keywords": [
+        "注意过程"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 规律（过程）"
+      ],
+      "displayTitle": "（1）注意过程",
+      "outline": "3. 规律（过程）"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-4",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "保持过程",
+      "text": "保持过程。",
+      "keywords": [
+        "保持过程"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 规律（过程）"
+      ],
+      "displayTitle": "（2）保持过程",
+      "outline": "3. 规律（过程）"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-5",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "复制过程",
+      "text": "复制过程，又称动作再现过程。",
+      "keywords": [
+        "复制过程",
+        "动作再现"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 规律（过程）"
+      ],
+      "displayTitle": "（3）复制过程（动作再现过程）",
+      "outline": "3. 规律（过程）"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-6",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "直接强化",
+      "text": "外界因素对学习者的行为产生的影响。例：小明做作业认真，教师直接表扬他。",
+      "keywords": [
+        "外界因素",
+        "直接表扬"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 规律（过程）",
+        "（4）动机过程"
+      ],
+      "displayTitle": "①外部／直接强化",
+      "outline": "3. 规律（过程）"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-7",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "替代强化",
+      "text": "看到榜样受强化而受到的强化。例：全班传看小明认真完成的作业，其他同学受到启发，也认真做作业。",
+      "keywords": [
+        "榜样受强化",
+        "受到启发"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 规律（过程）",
+        "（4）动机过程"
+      ],
+      "displayTitle": "②替代强化",
+      "outline": "3. 规律（过程）"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-8",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "自我强化",
+      "text": "依照自己的标准对行为做出判断后进行的强化。例：小明认真做作业后肯定自己，以后仍这样做作业。",
+      "keywords": [
+        "自己的标准",
+        "行为判断",
+        "强化"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 规律（过程）",
+        "（4）动机过程"
+      ],
+      "displayTitle": "③自我强化",
+      "outline": "3. 规律（过程）"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-9",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "教授新行为",
+      "text": "教师要利用观察学习理论，教授新行为、技能、态度和情感。",
+      "keywords": [
+        "观察学习",
+        "新行为",
+        "技能态度情感"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用"
+      ],
+      "displayTitle": "（1）利用观察学习理论",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-10",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "提供榜样",
+      "text": "重视替代强化的作用，为学生提供榜样。",
+      "keywords": [
+        "替代强化",
+        "榜样"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用"
+      ],
+      "displayTitle": "（2）重视替代强化",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-11",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "激发能动性",
+      "text": "引导学生发挥自我强化的作用，激发学生学习的能动性。",
+      "keywords": [
+        "自我强化",
+        "能动性"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用"
+      ],
+      "displayTitle": "（3）发挥自我强化",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-12",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "教师榜样",
+      "text": "教师注意发挥自身的榜样作用。",
+      "keywords": [
+        "教师",
+        "自身",
+        "榜样"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用"
+      ],
+      "displayTitle": "（4）发挥教师榜样作用",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-13",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "消除不良榜样",
+      "text": "教师要消除社会环境中的不良榜样行为。",
+      "keywords": [
+        "社会环境",
+        "不良榜样"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用"
+      ],
+      "displayTitle": "（5）消除不良榜样",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-14",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "习得效应",
+      "text": "观察榜样行为使个体习得新行为。例：小红看到小明帮教师收玩具，也习得帮助教师收玩具的行为。",
+      "keywords": [
+        "榜样",
+        "新行为",
+        "习得"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用",
+        "（6）教师利用五种效应监控学生习得行为"
+      ],
+      "displayTitle": "①习得效应",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-15",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "抑制效应",
+      "text": "看到榜样受惩罚使个体反应概率降低。例：有校园欺凌行为的学生看到攻击性行为受惩罚，可能较少表现攻击行为。",
+      "keywords": [
+        "榜样受惩罚",
+        "概率降低"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用",
+        "（6）教师利用五种效应监控学生习得行为",
+        "②抑制效应和去抑制效应"
+      ],
+      "displayTitle": "抑制效应",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-16",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "去抑制效应",
+      "text": "看到榜样做出原有抑制行为却受到奖励，个体会增加这种行为。例：因受嘲讽而不敢提问的学生，看到同学提问受表扬，又敢于提问。",
+      "keywords": [
+        "原有抑制行为",
+        "奖励",
+        "增加行为"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用",
+        "（6）教师利用五种效应监控学生习得行为",
+        "②抑制效应和去抑制效应"
+      ],
+      "displayTitle": "去抑制效应",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-17",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "社会促进效应",
+      "text": "观看榜样行为引发其已有行为的反应。例：教师带头用“你好”“谢谢”，引发学生早已学会的礼貌行为；这并非学生新学到的行为。",
+      "keywords": [
+        "已有行为",
+        "引发",
+        "非新行为"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用",
+        "（6）教师利用五种效应监控学生习得行为"
+      ],
+      "displayTitle": "③社会促进效应",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-18",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "刺激指向效应",
+      "text": "通过观察榜样行为，观察者将自己的注意指向特定的刺激。例：看到榜样用木槌击打充气娃娃的儿童，不但模仿攻击，而且更多地将木槌用于其他情境。",
+      "keywords": [
+        "注意指向",
+        "特定刺激",
+        "其他情境"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用",
+        "（6）教师利用五种效应监控学生习得行为"
+      ],
+      "displayTitle": "④刺激指向效应",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-bandura-19",
+      "knowledgeId": "edu-reviewed-ch2-bandura",
+      "title": "情绪唤醒效应",
+      "text": "看到榜样表达的情感，在观察者身上唤起类似的情感。例：小红看电视剧中的战士投身守护家国，也想参军、报效祖国。",
+      "keywords": [
+        "榜样情感",
+        "类似情感",
+        "唤起"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 应用",
+        "（6）教师利用五种效应监控学生习得行为"
+      ],
+      "displayTitle": "⑤情绪唤醒效应",
+      "outline": "4. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-gestalt-0",
+      "knowledgeId": "edu-reviewed-ch2-gestalt",
+      "title": "实验",
+      "text": "黑猩猩叠箱子实验，原书实验人物为苛勒。",
+      "keywords": [
+        "黑猩猩",
+        "叠箱子",
+        "苛勒"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "实验"
+    },
+    {
+      "id": "edu-reviewed-ch2-gestalt-1",
+      "knowledgeId": "edu-reviewed-ch2-gestalt",
+      "title": "顿悟过程",
+      "text": "学习是一个顿悟过程，依靠自身智慧、理解力去顿悟情境与自身的关系。",
+      "keywords": [
+        "顿悟",
+        "自身智慧",
+        "情境关系"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "1. 学习是顿悟过程",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch2-gestalt-2",
+      "knowledgeId": "edu-reviewed-ch2-gestalt",
+      "title": "构造完形",
+      "text": "学习实质是构造完形，不是S-R的简单联结。",
+      "keywords": [
+        "构造完形",
+        "非简单联结"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "2. 学习实质",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch2-gestalt-3",
+      "knowledgeId": "edu-reviewed-ch2-gestalt",
+      "title": "意识中介",
+      "text": "S-O-R，其中O是意识、构造完形。",
+      "keywords": [
+        "S-O-R",
+        "意识",
+        "构造完形"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "3. S-O-R",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch2-tolman-0",
+      "knowledgeId": "edu-reviewed-ch2-tolman",
+      "title": "实验",
+      "text": "白鼠学习方位迷宫实验。",
+      "keywords": [
+        "白鼠",
+        "方位迷宫"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "实验"
+    },
+    {
+      "id": "edu-reviewed-ch2-tolman-1",
+      "knowledgeId": "edu-reviewed-ch2-tolman",
+      "title": "有目的行为",
+      "text": "学习是有目的的行为，非盲目的。",
+      "keywords": [
+        "有目的",
+        "非盲目"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "1. 有目的的行为",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch2-tolman-2",
+      "knowledgeId": "edu-reviewed-ch2-tolman",
+      "title": "认知地图",
+      "text": "学习是对情境整体的感悟，形成认知地图。",
+      "keywords": [
+        "整体感悟",
+        "认知地图"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "2. 形成认知地图",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch2-tolman-3",
+      "knowledgeId": "edu-reviewed-ch2-tolman",
+      "title": "意识中介",
+      "text": "S-O-R，其中O是意识、认知地图。",
+      "keywords": [
+        "S-O-R",
+        "意识",
+        "认知地图"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "3. S-O-R",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch2-tolman-4",
+      "knowledgeId": "edu-reviewed-ch2-tolman",
+      "title": "潜在学习",
+      "text": "外在的强化并不是学习产生的必要因素，不强化也会出现学习；进一步证明学习并不是S-R的直接联结。",
+      "keywords": [
+        "强化非必要",
+        "不强化也学习"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "4. 潜在学习",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-0",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "动作表征",
+      "text": "自己做和观察他人外显动作。",
+      "keywords": [
+        "自己做",
+        "观察动作"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论：认知结构观",
+        "1. 认知表征理论"
+      ],
+      "displayTitle": "（1）动作表征",
+      "outline": "（一）理论：认知结构观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-1",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "映象表征",
+      "text": "大脑形成图像或表象。",
+      "keywords": [
+        "图像",
+        "表象"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论：认知结构观",
+        "1. 认知表征理论"
+      ],
+      "displayTitle": "（2）映象表征",
+      "outline": "（一）理论：认知结构观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-2",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "符号表征",
+      "text": "认识符号，如语言和数字。",
+      "keywords": [
+        "符号",
+        "语言数字"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论：认知结构观",
+        "1. 认知表征理论"
+      ],
+      "displayTitle": "（3）符号表征",
+      "outline": "（一）理论：认知结构观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-3",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "主动认知结构",
+      "text": "主动地形成认知结构，不是被动地形成刺激—反应的联结。",
+      "keywords": [
+        "主动",
+        "认知结构",
+        "非被动"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论：认知结构观",
+        "2. 学习实质"
+      ],
+      "displayTitle": "（1）主动形成认知结构",
+      "outline": "（一）理论：认知结构观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-4",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "编码系统",
+      "text": "学会编码系统就会获得认知结构，原书食品分类编码系统见页下图。",
+      "keywords": [
+        "编码系统",
+        "认知结构"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论：认知结构观",
+        "2. 学习实质"
+      ],
+      "displayTitle": "（2）学会编码系统",
+      "outline": "（一）理论：认知结构观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-5",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "学习过程",
+      "text": "获得、转换、评价；由被动的知识接受者转为主动的信息加工者。",
+      "keywords": [
+        "获得",
+        "转换",
+        "评价",
+        "主动加工"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论：认知结构观"
+      ],
+      "displayTitle": "3. 学习过程",
+      "outline": "（一）理论：认知结构观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-6",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "结构教学含义",
+      "text": "重在促进学生理解学科的基本结构：一门学科的基本概念、原理、公式、原则和基本法则等，以及它们之间的相互联系和规律。",
+      "keywords": [
+        "基本结构",
+        "相互联系",
+        "规律"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观"
+      ],
+      "displayTitle": "1. 含义",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-7",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "动机原则",
+      "text": "好奇内驱力、胜任内驱力、互惠内驱力。",
+      "keywords": [
+        "好奇",
+        "胜任",
+        "互惠"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观",
+        "2. 原则"
+      ],
+      "displayTitle": "（1）动机原则",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-8",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "结构原则",
+      "text": "选择合适的表征方式呈现知识。",
+      "keywords": [
+        "合适表征",
+        "呈现知识"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观",
+        "2. 原则"
+      ],
+      "displayTitle": "（2）结构原则",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-9",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "序列原则",
+      "text": "又称程序原则，合理组织教学顺序。",
+      "keywords": [
+        "程序原则",
+        "教学顺序"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观",
+        "2. 原则"
+      ],
+      "displayTitle": "（3）序列原则（程序原则）",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-10",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "强化原则",
+      "text": "适当反馈。",
+      "keywords": [
+        "适当反馈"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观",
+        "2. 原则"
+      ],
+      "displayTitle": "（4）强化原则",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-11",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "学习准备性",
+      "text": "任何学科的基础都可以用某种适当的形式教给任何年龄的任何人。",
+      "keywords": [
+        "适当形式",
+        "任何年龄"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观",
+        "3. 意义"
+      ],
+      "displayTitle": "（1）发展学习的准备性",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-12",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "激发学习动机",
+      "text": "主动参与，体验成功。",
+      "keywords": [
+        "主动参与",
+        "体验成功"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观",
+        "3. 意义"
+      ],
+      "displayTitle": "（2）激发学习动机",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-13",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "直觉思维",
+      "text": "创造性思维，鼓励“猜想”。",
+      "keywords": [
+        "创造性思维",
+        "猜想"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观",
+        "3. 意义"
+      ],
+      "displayTitle": "（3）培养直觉思维",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-14",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "获得基本结构",
+      "text": "促进理解，利于记忆，增强迁移，形成知识体系。",
+      "keywords": [
+        "理解",
+        "记忆",
+        "迁移",
+        "知识体系"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用1：结构教学观",
+        "3. 意义"
+      ],
+      "displayTitle": "（4）获得基本结构",
+      "outline": "（二）应用1：结构教学观"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-15",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "发现学习含义",
+      "text": "学习者用自己的头脑亲自获得知识的一切形式。",
+      "keywords": [
+        "自己头脑",
+        "亲自获得"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "1. 含义"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-16",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "发现学习目的",
+      "text": "掌握学科基本结构。",
+      "keywords": [
+        "学科基本结构"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "1. 含义"
+      ],
+      "displayTitle": "（2）目的",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-17",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "提出问题",
+      "text": "提出问题。",
+      "keywords": [
+        "提出问题"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "2. 步骤"
+      ],
+      "displayTitle": "（1）提出问题",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-18",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "做出假设",
+      "text": "做出假设。",
+      "keywords": [
+        "做出假设"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "2. 步骤"
+      ],
+      "displayTitle": "（2）做出假设",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-19",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "验证假设",
+      "text": "验证假设。",
+      "keywords": [
+        "验证假设"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "2. 步骤"
+      ],
+      "displayTitle": "（3）验证假设",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-20",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "形成结论",
+      "text": "形成结论。",
+      "keywords": [
+        "形成结论"
+      ],
+      "order": 20,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "2. 步骤"
+      ],
+      "displayTitle": "（4）形成结论",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-21",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "提高潜能",
+      "text": "提高学生的潜能。",
+      "keywords": [
+        "学生潜能"
+      ],
+      "order": 21,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "3. 评价",
+        "（1）优点"
+      ],
+      "displayTitle": "①提高潜能",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-22",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "内部动机",
+      "text": "获得内部动机。",
+      "keywords": [
+        "内部动机"
+      ],
+      "order": 22,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "3. 评价",
+        "（1）优点"
+      ],
+      "displayTitle": "②获得内部动机",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-23",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "方法策略",
+      "text": "获得学习的方法和策略。",
+      "keywords": [
+        "学习方法",
+        "策略"
+      ],
+      "order": 23,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "3. 评价",
+        "（1）优点"
+      ],
+      "displayTitle": "③获得方法和策略",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-24",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "保持检索",
+      "text": "帮助信息的保持和检索。",
+      "keywords": [
+        "信息保持",
+        "检索"
+      ],
+      "order": 24,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "3. 评价",
+        "（1）优点"
+      ],
+      "displayTitle": "④帮助保持和检索",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-25",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "夸大能力",
+      "text": "夸大学生的能力，难以实现。",
+      "keywords": [
+        "夸大能力",
+        "难以实现"
+      ],
+      "order": 25,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "3. 评价",
+        "（2）缺点"
+      ],
+      "displayTitle": "①夸大学生能力",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-bruner-26",
+      "knowledgeId": "edu-reviewed-ch2-bruner",
+      "title": "效率局限",
+      "text": "对教师要求高，耗时耗力，学习效率低，等等。",
+      "keywords": [
+        "教师要求高",
+        "耗时耗力",
+        "效率低"
+      ],
+      "order": 26,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用2：发现学习",
+        "3. 评价",
+        "（2）缺点"
+      ],
+      "displayTitle": "②教师要求与学习效率",
+      "outline": "（三）应用2：发现学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-0",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "有意义实质",
+      "text": "符号所代表的新知识与学习者认知结构中已有适当观念建立非人为（非任意）的、实质性（非字面）的联系。",
+      "keywords": [
+        "新知识",
+        "已有观念",
+        "非任意",
+        "非字面"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "1. 实质"
+      ],
+      "displayTitle": "总体表述",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-1",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "非人为",
+      "text": "合理的、客观存在的。",
+      "keywords": [
+        "合理",
+        "客观存在"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "1. 实质"
+      ],
+      "displayTitle": "（1）非人为",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-2",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "实质性",
+      "text": "内在、非表面，不是惰性知识。",
+      "keywords": [
+        "内在",
+        "非表面",
+        "非惰性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "1. 实质"
+      ],
+      "displayTitle": "（2）实质性",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-3",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "逻辑意义",
+      "text": "材料本身必须具有逻辑意义。",
+      "keywords": [
+        "材料",
+        "逻辑意义"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "2. 条件",
+        "（1）客观条件"
+      ],
+      "displayTitle": "①逻辑意义",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-4",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "能力范围",
+      "text": "材料难度在学生能力范围之内。",
+      "keywords": [
+        "材料难度",
+        "能力范围"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "2. 条件",
+        "（1）客观条件"
+      ],
+      "displayTitle": "②能力范围",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-5",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "心向倾向",
+      "text": "心向、倾向性。",
+      "keywords": [
+        "心向",
+        "倾向性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "2. 条件",
+        "（2）主观条件"
+      ],
+      "displayTitle": "①心向、倾向性",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-6",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "基础知识",
+      "text": "基础知识。",
+      "keywords": [
+        "基础知识"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "2. 条件",
+        "（2）主观条件"
+      ],
+      "displayTitle": "②基础知识",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-7",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "主动建立联系",
+      "text": "积极主动地建立联系。",
+      "keywords": [
+        "积极主动",
+        "建立联系"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "2. 条件",
+        "（2）主观条件"
+      ],
+      "displayTitle": "③积极主动地建立联系",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-8",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "表征学习",
+      "text": "学习单个或一组符号的意义。例：“苹果”“apple”。",
+      "keywords": [
+        "单个或一组",
+        "符号意义"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "3. 类型"
+      ],
+      "displayTitle": "（1）表征学习",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-9",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "概念学习",
+      "text": "掌握同类事物共同的关键特征。例：无论大小、颜色，都明白这是“苹果”。",
+      "keywords": [
+        "同类事物",
+        "共同",
+        "关键特征"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "3. 类型"
+      ],
+      "displayTitle": "（2）概念学习",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-10",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "命题学习",
+      "text": "掌握概念或事物之间的关系，以句子形式表达。例：苹果是一种水果，苹果不属于蔬菜。",
+      "keywords": [
+        "概念关系",
+        "句子表达"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论一：有意义学习理论",
+        "3. 类型"
+      ],
+      "displayTitle": "（3）命题学习",
+      "outline": "（一）理论一：有意义学习理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-11",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "同化含义",
+      "text": "新信息与学生认知结构中已有的有关观念相互作用，导致新旧知识有意义的同化。",
+      "keywords": [
+        "新信息",
+        "已有观念",
+        "相互作用",
+        "同化"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论二：认知同化理论"
+      ],
+      "displayTitle": "1. 含义",
+      "outline": "（二）理论二：认知同化理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-12",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "影响因素",
+      "text": "固着观念、清晰稳定性、可辨别性。",
+      "keywords": [
+        "固着观念",
+        "清晰稳定性",
+        "可辨别性"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论二：认知同化理论"
+      ],
+      "displayTitle": "2. 影响因素",
+      "outline": "（二）理论二：认知同化理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-13",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "上位学习",
+      "text": "学习上位概念，又称总括学习。",
+      "keywords": [
+        "上位概念",
+        "总括学习"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论二：认知同化理论",
+        "3. 认知同化过程（同化模式）"
+      ],
+      "displayTitle": "（1）上位（总括）学习",
+      "outline": "（二）理论二：认知同化理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-14",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "派生类属",
+      "text": "下位（类属）学习是学习下位概念。派生类属学习：新的知识是学生已有知识的一个例证。",
+      "keywords": [
+        "下位概念",
+        "已有知识",
+        "例证"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论二：认知同化理论",
+        "3. 认知同化过程（同化模式）",
+        "（2）下位（类属）学习"
+      ],
+      "displayTitle": "①派生类属学习",
+      "outline": "（二）理论二：认知同化理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-15",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "相关类属",
+      "text": "新内容扩展、修饰、限定了已有内容。",
+      "keywords": [
+        "扩展",
+        "修饰",
+        "限定"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论二：认知同化理论",
+        "3. 认知同化过程（同化模式）",
+        "（2）下位（类属）学习"
+      ],
+      "displayTitle": "②相关类属学习",
+      "outline": "（二）理论二：认知同化理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-16",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "组合学习",
+      "text": "新旧知识抽象概括程度相同，又称并列学习。",
+      "keywords": [
+        "新旧知识",
+        "概括程度相同",
+        "并列"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论二：认知同化理论",
+        "3. 认知同化过程（同化模式）"
+      ],
+      "displayTitle": "（3）组合（并列）学习",
+      "outline": "（二）理论二：认知同化理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-17",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "先行组织者",
+      "text": "先于学习任务本身出现的一种引导性材料，抽象、概括水平高于学习任务，并且与认知结构中原有观念和新的学习任务均相关联。",
+      "keywords": [
+        "先于任务",
+        "引导性材料",
+        "高于任务",
+        "均相关联"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用一：先行组织者策略"
+      ],
+      "displayTitle": "1. 含义",
+      "outline": "（三）应用一：先行组织者策略"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-18",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "陈述性组织者",
+      "text": "与新知识产生上位关系。例：先说明本单元学习地形，已有山脉、高原知识，今天学习平原。",
+      "keywords": [
+        "新知识",
+        "上位关系"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用一：先行组织者策略",
+        "2. 类别"
+      ],
+      "displayTitle": "（1）陈述性组织者",
+      "outline": "（三）应用一：先行组织者策略"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-19",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "比较性组织者",
+      "text": "教师引导学生对相同概括水平的新旧知识增强可辨别性。例：智慧技能与动作技能都越练越熟，但前者是内化动作，后者是外化动作。",
+      "keywords": [
+        "相同概括水平",
+        "可辨别性",
+        "内化外化"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用一：先行组织者策略",
+        "2. 类别"
+      ],
+      "displayTitle": "（2）比较性组织者",
+      "outline": "（三）应用一：先行组织者策略"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-20",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "接受学习",
+      "text": "教师通过讲授，引导学生理解和接受事物意义的学习。",
+      "keywords": [
+        "教师讲授",
+        "理解接受",
+        "事物意义"
+      ],
+      "order": 20,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习"
+      ],
+      "displayTitle": "1. 含义",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-21",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "有意义接受",
+      "text": "原书二维图的有意义接受示例：教师讲解、知识结构。",
+      "keywords": [
+        "有意义",
+        "接受",
+        "教师讲解"
+      ],
+      "order": 21,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "2. 区别",
+        "有意义"
+      ],
+      "displayTitle": "接受",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-22",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "有意义发现",
+      "text": "原书二维图的有意义发现示例：自主探究。",
+      "keywords": [
+        "有意义",
+        "发现",
+        "自主探究"
+      ],
+      "order": 22,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "2. 区别",
+        "有意义"
+      ],
+      "displayTitle": "发现",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-23",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "机械接受",
+      "text": "原书二维图的机械接受示例：灌输教学、机械记忆。",
+      "keywords": [
+        "机械",
+        "接受",
+        "灌输"
+      ],
+      "order": 23,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "2. 区别",
+        "机械"
+      ],
+      "displayTitle": "接受",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-24",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "机械发现",
+      "text": "原书二维图的机械发现示例：试误、“迷宫”问题解决。",
+      "keywords": [
+        "机械",
+        "发现",
+        "试误迷宫"
+      ],
+      "order": 24,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "2. 区别",
+        "机械"
+      ],
+      "displayTitle": "发现",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-25",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "认知结构作用",
+      "text": "强调认知结构的作用。",
+      "keywords": [
+        "认知结构"
+      ],
+      "order": 25,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "3. 评价",
+        "（1）优点"
+      ],
+      "displayTitle": "①强调认知结构",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-26",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "澄清偏见",
+      "text": "澄清对接受学习的偏见。",
+      "keywords": [
+        "接受学习",
+        "澄清偏见"
+      ],
+      "order": 26,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "3. 评价",
+        "（1）优点"
+      ],
+      "displayTitle": "②澄清偏见",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-27",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "有意义价值",
+      "text": "重视有意义学习的价值。",
+      "keywords": [
+        "有意义学习",
+        "价值"
+      ],
+      "order": 27,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "3. 评价",
+        "（1）优点"
+      ],
+      "displayTitle": "③重视有意义学习",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-28",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "组织者策略",
+      "text": "提出先行组织者策略。",
+      "keywords": [
+        "先行组织者"
+      ],
+      "order": 28,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "3. 评价",
+        "（1）优点"
+      ],
+      "displayTitle": "④先行组织者策略",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-29",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "偏重知识",
+      "text": "偏重知识。",
+      "keywords": [
+        "偏重知识"
+      ],
+      "order": 29,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "3. 评价",
+        "（2）缺点"
+      ],
+      "displayTitle": "①偏重知识",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-30",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "忽视创造性",
+      "text": "忽视创造性。",
+      "keywords": [
+        "忽视创造性"
+      ],
+      "order": 30,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "3. 评价",
+        "（2）缺点"
+      ],
+      "displayTitle": "②忽视创造性",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-ausubel-31",
+      "knowledgeId": "edu-reviewed-ch2-ausubel",
+      "title": "过分强调接受",
+      "text": "过于强调接受学习。",
+      "keywords": [
+        "过于强调",
+        "接受学习"
+      ],
+      "order": 31,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）应用二：接受学习",
+        "3. 评价",
+        "（2）缺点"
+      ],
+      "displayTitle": "③过于强调接受学习",
+      "outline": "（四）应用二：接受学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-0",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "环境感受器",
+      "text": "环境信息经感受器进入信息加工系统。",
+      "keywords": [
+        "环境",
+        "感受器"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "环境与感受器",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-1",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "瞬时记忆",
+      "text": "瞬时记忆，又称感觉登记，进行初步编码；原书时长为0.25～2秒。",
+      "keywords": [
+        "瞬时记忆",
+        "感觉登记",
+        "初步编码"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "瞬时记忆／感觉登记",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-2",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "选择性知觉",
+      "text": "通过选择性知觉，由瞬时记忆进入短时记忆。",
+      "keywords": [
+        "选择性知觉",
+        "瞬时记忆",
+        "短时记忆"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "选择性知觉",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-3",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "短时记忆",
+      "text": "短时记忆，又称工作记忆，进行再次编码；原书时长为2.5～20秒，容量有限，为7±2个记忆组块。",
+      "keywords": [
+        "工作记忆",
+        "再次编码",
+        "7±2"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "短时记忆／工作记忆",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-4",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "长时记忆",
+      "text": "容量无限大，信息被编码；可从长时记忆提取信息并再加工。",
+      "keywords": [
+        "长时记忆",
+        "编码",
+        "提取再加工"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "长时记忆",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-5",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "反应发生器",
+      "text": "将信息转化成动作，向效应器传递。",
+      "keywords": [
+        "反应发生器",
+        "信息转动作"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "反应发生器",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-6",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "效应器",
+      "text": "效应器为肌肉，通过动作作用于环境。",
+      "keywords": [
+        "效应器",
+        "肌肉",
+        "环境"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "效应器（肌肉）",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-7",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "期望事项",
+      "text": "期望事项对应动机，影响信息加工。",
+      "keywords": [
+        "期望事项",
+        "动机"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "期望事项",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-8",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "执行控制",
+      "text": "执行控制对应已有经验，影响信息加工。",
+      "keywords": [
+        "执行控制",
+        "已有经验"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习的信息加工模型"
+      ],
+      "displayTitle": "执行控制",
+      "outline": "（一）学习的信息加工模型"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-9",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "动机阶段",
+      "text": "学习事件：期望。教学事件：激发兴趣。",
+      "keywords": [
+        "动机",
+        "期望",
+        "激发兴趣"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学习阶段与教学设计"
+      ],
+      "displayTitle": "动机",
+      "outline": "（二）学习阶段与教学设计"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-10",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "领会阶段",
+      "text": "学习事件：注意、选择性知觉。教学事件：引导学生注意与目标有关的刺激。",
+      "keywords": [
+        "领会",
+        "注意",
+        "目标刺激"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学习阶段与教学设计"
+      ],
+      "displayTitle": "领会",
+      "outline": "（二）学习阶段与教学设计"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-11",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "习得阶段",
+      "text": "学习事件：编码、储存记忆。教学事件：对信息进行编码和存储。",
+      "keywords": [
+        "习得",
+        "编码",
+        "存储"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学习阶段与教学设计"
+      ],
+      "displayTitle": "习得",
+      "outline": "（二）学习阶段与教学设计"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-12",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "保持阶段",
+      "text": "学习事件：记忆储存。教学事件：提供有利于形成长时记忆的策略。",
+      "keywords": [
+        "保持",
+        "记忆储存",
+        "长时策略"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学习阶段与教学设计"
+      ],
+      "displayTitle": "保持",
+      "outline": "（二）学习阶段与教学设计"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-13",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "回忆阶段",
+      "text": "学习事件：提取。教学事件：帮助学生提取线索，或者引导学生自己提供线索。",
+      "keywords": [
+        "回忆",
+        "提取",
+        "线索"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学习阶段与教学设计"
+      ],
+      "displayTitle": "回忆",
+      "outline": "（二）学习阶段与教学设计"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-14",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "概括阶段",
+      "text": "学习事件：迁移。教学事件：让学生在不同情境中学习，引导其概括、迁移。",
+      "keywords": [
+        "概括",
+        "迁移",
+        "不同情境"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学习阶段与教学设计"
+      ],
+      "displayTitle": "概括",
+      "outline": "（二）学习阶段与教学设计"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-15",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "操作阶段",
+      "text": "学习事件：反应。教学事件：合理布置作业，使学生有机会表现行为。",
+      "keywords": [
+        "操作作业",
+        "反应",
+        "表现行为"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学习阶段与教学设计"
+      ],
+      "displayTitle": "操作（作业）",
+      "outline": "（二）学习阶段与教学设计"
+    },
+    {
+      "id": "edu-reviewed-ch2-gagne-16",
+      "knowledgeId": "edu-reviewed-ch2-gagne",
+      "title": "反馈阶段",
+      "text": "学习事件：强化。教学事件：提供反馈。",
+      "keywords": [
+        "反馈",
+        "强化"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学习阶段与教学设计"
+      ],
+      "displayTitle": "反馈",
+      "outline": "（二）学习阶段与教学设计"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load-0",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-load",
+      "title": "认知负荷含义",
+      "text": "学生的工作记忆容量有限，如果某种材料的信息过多，所需的资源总量超过了学生所具有的资源总量，就会影响学习或问题解决的效率。",
+      "keywords": [
+        "工作记忆有限",
+        "资源总量",
+        "学习效率"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load-1",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-load",
+      "title": "内在负荷",
+      "text": "知识的数量和知识本身的复杂度带来的负荷。",
+      "keywords": [
+        "知识数量",
+        "复杂度"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（1）内在认知负荷",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load-2",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-load",
+      "title": "外加负荷",
+      "text": "不恰当的信息呈现方式带来的负荷。",
+      "keywords": [
+        "外加无关",
+        "呈现方式"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（2）外加（无关）认知负荷",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load-3",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-load",
+      "title": "关联负荷",
+      "text": "与促进图式建构和图式自动化过程相关的负荷，能促进有效学习的发生。",
+      "keywords": [
+        "图式建构",
+        "图式自动化",
+        "有效学习"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（3）关联（生成／有效）认知负荷",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load-4",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-load",
+      "title": "管理内在负荷",
+      "text": "合理管理内在认知负荷，复杂知识教学由易到难。",
+      "keywords": [
+        "内在负荷",
+        "由易到难"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 应用"
+      ],
+      "displayTitle": "（1）合理管理内在认知负荷",
+      "outline": "3. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load-5",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-load",
+      "title": "降低外加负荷",
+      "text": "适量降低外加认知负荷，避免呈现不相关信息。",
+      "keywords": [
+        "外加负荷",
+        "不相关信息"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 应用"
+      ],
+      "displayTitle": "（2）适量降低外加认知负荷",
+      "outline": "3. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-load-6",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-load",
+      "title": "促进关联负荷",
+      "text": "有效促进关联认知负荷，合理进行知识加工，建构图式。",
+      "keywords": [
+        "关联负荷",
+        "知识加工",
+        "图式"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 应用"
+      ],
+      "displayTitle": "（3）有效促进关联认知负荷",
+      "outline": "3. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-multimedia-0",
+      "knowledgeId": "edu-reviewed-ch2-multimedia",
+      "title": "多媒体含义",
+      "text": "教师利用两种及两种以上方式，如声音、文字、图形、动画、视频等，同时呈现一个知识，会更利于学习者理解知识。",
+      "keywords": [
+        "两种以上方式",
+        "同时呈现",
+        "理解知识"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch2-multimedia-1",
+      "knowledgeId": "edu-reviewed-ch2-multimedia",
+      "title": "双重编码",
+      "text": "文字和非文字，如画面、视频，以组合的方式一起呈现信息，比只使用单一的文字呈现信息更能促进有意义学习的发生。",
+      "keywords": [
+        "文字非文字",
+        "组合",
+        "有意义学习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 理论基础",
+        "（1）双通道假设：双重编码理论"
+      ],
+      "displayTitle": "①双重编码理论",
+      "outline": "2. 理论基础"
+    },
+    {
+      "id": "edu-reviewed-ch2-multimedia-2",
+      "knowledgeId": "edu-reviewed-ch2-multimedia",
+      "title": "双通道",
+      "text": "双通道分别是听觉通道和视觉通道。",
+      "keywords": [
+        "听觉通道",
+        "视觉通道"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 理论基础",
+        "（1）双通道假设：双重编码理论"
+      ],
+      "displayTitle": "②双通道假设",
+      "outline": "2. 理论基础"
+    },
+    {
+      "id": "edu-reviewed-ch2-multimedia-3",
+      "knowledgeId": "edu-reviewed-ch2-multimedia",
+      "title": "容量有限",
+      "text": "容量有限假设对应认知负荷理论。",
+      "keywords": [
+        "容量有限",
+        "认知负荷理论"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 理论基础"
+      ],
+      "displayTitle": "（2）容量有限假设",
+      "outline": "2. 理论基础"
+    },
+    {
+      "id": "edu-reviewed-ch2-multimedia-4",
+      "knowledgeId": "edu-reviewed-ch2-multimedia",
+      "title": "主动加工",
+      "text": "主动加工假设对应生成学习理论，原书指向本章第四节考点三。",
+      "keywords": [
+        "主动加工",
+        "生成学习理论"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 理论基础"
+      ],
+      "displayTitle": "（3）主动加工假设",
+      "outline": "2. 理论基础"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-0",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "皮亚杰",
+      "text": "图式始终处于变化与建构中。",
+      "keywords": [
+        "图式",
+        "变化",
+        "建构"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）思想渊源"
+      ],
+      "displayTitle": "1. 皮亚杰",
+      "outline": "（一）思想渊源"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-1",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "布鲁纳",
+      "text": "强调个体主动性。",
+      "keywords": [
+        "个体主动性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）思想渊源"
+      ],
+      "displayTitle": "2. 布鲁纳",
+      "outline": "（一）思想渊源"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-2",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "维果茨基",
+      "text": "在社会文化历史背景中建构。",
+      "keywords": [
+        "社会文化历史",
+        "建构"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）思想渊源"
+      ],
+      "displayTitle": "3. 维果茨基",
+      "outline": "（一）思想渊源"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-3",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "杜威",
+      "text": "在经验中建构。",
+      "keywords": [
+        "经验",
+        "建构"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）思想渊源"
+      ],
+      "displayTitle": "4. 杜威",
+      "outline": "（一）思想渊源"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-4",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "个人认知含义",
+      "text": "个体对知识的主动建构离不开大脑对知识的加工过程。",
+      "keywords": [
+        "主动建构",
+        "大脑加工"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论取向",
+        "1. 个人／认知建构主义"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）理论取向"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-5",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "激进建构",
+      "text": "知识完全是主观的。",
+      "keywords": [
+        "完全主观"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论取向",
+        "1. 个人／认知建构主义",
+        "（2）分类"
+      ],
+      "displayTitle": "①激进建构主义",
+      "outline": "（二）理论取向"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-6",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "信息加工建构",
+      "text": "知识不能完全主观化，还要看知识本身的特点；温和建构主义。",
+      "keywords": [
+        "非完全主观",
+        "知识特点",
+        "温和"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论取向",
+        "1. 个人／认知建构主义",
+        "（2）分类"
+      ],
+      "displayTitle": "②信息加工建构主义",
+      "outline": "（二）理论取向"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-7",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "社会建构含义",
+      "text": "个体对知识的主动建构离不开合作互动或社会文化机制的影响。",
+      "keywords": [
+        "合作互动",
+        "社会文化机制"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论取向",
+        "2. 社会建构主义"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）理论取向"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-8",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "社会性建构",
+      "text": "社会交往互动影响知识建构。",
+      "keywords": [
+        "社会交往",
+        "互动"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论取向",
+        "2. 社会建构主义",
+        "（2）分类"
+      ],
+      "displayTitle": "①社会性建构主义",
+      "outline": "（二）理论取向"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-origins-9",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-origins",
+      "title": "社会文化建构",
+      "text": "文化、历史、习俗影响知识建构。",
+      "keywords": [
+        "文化历史习俗",
+        "知识建构"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）理论取向",
+        "2. 社会建构主义",
+        "（2）分类"
+      ],
+      "displayTitle": "②社会文化认知建构主义",
+      "outline": "（二）理论取向"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-0",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "动态性",
+      "text": "知识具有相对性、不确定性，是不断发展的。",
+      "keywords": [
+        "相对性",
+        "不确定性",
+        "发展"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）知识观"
+      ],
+      "displayTitle": "1. 知识的动态性",
+      "outline": "（一）知识观"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-1",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "情境性",
+      "text": "个体需要针对具体情境中的具体问题，对已有知识改组、重组甚至创造，才能更好地解决问题。",
+      "keywords": [
+        "具体情境",
+        "改组重组",
+        "创造"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）知识观"
+      ],
+      "displayTitle": "2. 知识的情境性",
+      "outline": "（一）知识观"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-2",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "主观性",
+      "text": "个体的知识是由自己建构起来的。",
+      "keywords": [
+        "自己建构"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）知识观"
+      ],
+      "displayTitle": "3. 知识的主观性",
+      "outline": "（一）知识观"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-3",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "经验丰富性",
+      "text": "学生不是空着脑袋进入教室的，他们在日常生活、学习中形成了丰富的经验。",
+      "keywords": [
+        "非空脑袋",
+        "丰富经验"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学生观"
+      ],
+      "displayTitle": "1. 学生经验世界的丰富性",
+      "outline": "（二）学生观"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-4",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "经验差异性",
+      "text": "教师要引导学生从原有经验中“生长”出新知识。",
+      "keywords": [
+        "原有经验",
+        "生长新知识"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）学生观"
+      ],
+      "displayTitle": "2. 学生经验世界的差异性",
+      "outline": "（二）学生观"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-5",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "主动建构性",
+      "text": "每个学生都在以自己原有知识经验为基础，主动建构自己对新知识的理解。",
+      "keywords": [
+        "原有经验",
+        "主动建构",
+        "新知识理解"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）学习观"
+      ],
+      "displayTitle": "1. 主动建构性",
+      "outline": "（三）学习观"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-6",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "社会互动性",
+      "text": "学习任务是在真实的实践活动中，通过各成员的沟通交流和共同分享学习资源完成的。",
+      "keywords": [
+        "真实实践",
+        "沟通交流",
+        "分享资源"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）学习观"
+      ],
+      "displayTitle": "2. 社会互动性",
+      "outline": "（三）学习观"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-7",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "活动情境性",
+      "text": "学习应该与情境化的社会实践活动结合起来。",
+      "keywords": [
+        "情境化",
+        "社会实践"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）学习观"
+      ],
+      "displayTitle": "3. 活动情境性",
+      "outline": "（三）学习观"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-8",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "知识建构活动",
+      "text": "为学生组织知识建构的活动。",
+      "keywords": [
+        "组织",
+        "知识建构活动"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学观（必要补充点）"
+      ],
+      "displayTitle": "1. 组织知识建构活动",
+      "outline": "（四）教学观（必要补充点）"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-9",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "创设学习情境",
+      "text": "为学生创设学习情境。",
+      "keywords": [
+        "创设",
+        "学习情境"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学观（必要补充点）"
+      ],
+      "displayTitle": "2. 创设学习情境",
+      "outline": "（四）教学观（必要补充点）"
+    },
+    {
+      "id": "edu-reviewed-ch2-constructivism-basic-10",
+      "knowledgeId": "edu-reviewed-ch2-constructivism-basic",
+      "title": "教学总述",
+      "text": "教学应帮助学生从现有的知识经验出发，在真实情境中，通过操作、对话、协作等进行意义的建构。",
+      "keywords": [
+        "现有经验",
+        "真实情境",
+        "操作对话协作"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学观（必要补充点）"
+      ],
+      "displayTitle": "总述",
+      "outline": "（四）教学观（必要补充点）"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-0",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "基本观点",
+      "text": "关注个体是如何建构认知经验和情感经验的。",
+      "keywords": [
+        "个体",
+        "认知经验",
+        "情感经验"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）基本观点"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-1",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "激进建构",
+      "text": "知识完全是主观的。",
+      "keywords": [
+        "知识完全主观"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）代表理论"
+      ],
+      "displayTitle": "1. 激进建构主义",
+      "outline": "（二）代表理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-2",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "三级记忆基础",
+      "text": "该理论也是一种信息加工的建构主义，以三级记忆系统为基础。",
+      "keywords": [
+        "信息加工",
+        "三级记忆"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）代表理论",
+        "2. 生成学习理论"
+      ],
+      "displayTitle": "（1）三级记忆系统基础",
+      "outline": "（二）代表理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-3",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "双向作用",
+      "text": "不同之处是强调外部信息与已有知识存在双向的、反复的相互作用。",
+      "keywords": [
+        "外部信息",
+        "已有知识",
+        "双向反复"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）代表理论",
+        "2. 生成学习理论"
+      ],
+      "displayTitle": "（2）双向、反复的相互作用",
+      "outline": "（二）代表理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-4",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "知识学习范围",
+      "text": "重视结构性和非结构性知识经验，关注正式学习和非正式学习。",
+      "keywords": [
+        "结构非结构",
+        "正式非正式"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）代表理论",
+        "2. 生成学习理论"
+      ],
+      "displayTitle": "（3）知识经验与学习范围",
+      "outline": "（二）代表理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-5",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "结构不良",
+      "text": "关注结构不良领域的学习，即高级学习的本质。",
+      "keywords": [
+        "结构不良领域",
+        "高级学习"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）代表理论",
+        "3. 认知灵活性理论"
+      ],
+      "displayTitle": "（1）关注结构不良领域",
+      "outline": "（二）代表理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-6",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "双向建构",
+      "text": "以知识的双向建构为基础：新信息的建构，加上原有经验的改造和重组。",
+      "keywords": [
+        "双向建构",
+        "新信息",
+        "经验改造重组"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）代表理论",
+        "3. 认知灵活性理论"
+      ],
+      "displayTitle": "（2）双向建构基础",
+      "outline": "（二）代表理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-7",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "为理解而教",
+      "text": "教学目的为“为理解而教”，培养认知灵活性。",
+      "keywords": [
+        "为理解而教",
+        "认知灵活性"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）代表理论",
+        "3. 认知灵活性理论"
+      ],
+      "displayTitle": "（3）教学目的",
+      "outline": "（二）代表理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-8",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "随机通达方法",
+      "text": "教学方法为随机通达教学。",
+      "keywords": [
+        "随机通达教学"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）代表理论",
+        "3. 认知灵活性理论"
+      ],
+      "displayTitle": "（4）教学方法",
+      "outline": "（二）代表理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-9",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "探究性学习",
+      "text": "学习者通过探究性的活动发现问题和解决问题，从而建构知识的过程。例：用两个相同的三角形拼图，发现规律并推导出面积公式。",
+      "keywords": [
+        "探究活动",
+        "发现解决",
+        "知识建构"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用"
+      ],
+      "displayTitle": "1. 探究性学习",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-cognitive-constructivism-10",
+      "knowledgeId": "edu-reviewed-ch2-cognitive-constructivism",
+      "title": "随机通达",
+      "text": "对同一内容，在不同时间、重新安排的情境中，带着不同目的、从不同角度进行多次交叉反复学习，以把握概念的复杂性并促进迁移；这是促进高级知识获得的教学原则。例：用放盐、加水让土豆反复浮起、下沉，以理解浮力原理。",
+      "keywords": [
+        "同一内容",
+        "不同时间情境目的角度",
+        "交叉反复",
+        "迁移"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用"
+      ],
+      "displayTitle": "2. 随机通达教学",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-0",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "自下而上",
+      "text": "由直接经验向概括化知识发展。",
+      "keywords": [
+        "直接经验",
+        "概括化知识"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论",
+        "1. 文化内化和活动理论"
+      ],
+      "displayTitle": "（1）自下而上的知识",
+      "outline": "（一）理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-1",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "自上而下",
+      "text": "由概括化知识向直接经验发展。",
+      "keywords": [
+        "概括化知识",
+        "直接经验"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论",
+        "1. 文化内化和活动理论"
+      ],
+      "displayTitle": "（2）自上而下的知识",
+      "outline": "（一）理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-2",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "活动内化",
+      "text": "人的心理是在人的活动中发展起来的，强调活动在内化过程中的关键作用。",
+      "keywords": [
+        "活动",
+        "内化",
+        "关键作用"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论",
+        "1. 文化内化和活动理论"
+      ],
+      "displayTitle": "（3）活动的关键作用",
+      "outline": "（一）理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-3",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "情境性认知",
+      "text": "人的认知具有情境性。学习应与情境性的社会实践活动结合起来，所以倡导情境性教学。",
+      "keywords": [
+        "认知情境性",
+        "社会实践",
+        "情境教学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论",
+        "2. 情境性认知与学习理论"
+      ],
+      "displayTitle": "（1）认知的情境性",
+      "outline": "（一）理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-4",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "分布性认知",
+      "text": "人的认知具有分布性。分布式认知：同一情境出现在不同地方，人们对它的认知和理解不同。",
+      "keywords": [
+        "认知分布性",
+        "不同地方",
+        "不同理解"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论",
+        "2. 情境性认知与学习理论"
+      ],
+      "displayTitle": "（2）认知的分布性",
+      "outline": "（一）理论"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-5",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "抛锚式教学",
+      "text": "以具有感染力的真实事件或真实问题为基础，确定教学内容和进程。例：以奥运会历史与我国成绩为“锚”，激发兴趣和探索，再通过讨论逐步深化理解。",
+      "keywords": [
+        "真实事件问题",
+        "教学内容进程",
+        "锚"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用"
+      ],
+      "displayTitle": "1. 抛锚式教学",
+      "outline": "（二）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-6",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "认知学徒制",
+      "text": "经验较少的学生在专家的指导下参加真实性活动。例：医学生在见习期间跟着主任医师处理临床病例。",
+      "keywords": [
+        "专家指导",
+        "真实性活动"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用"
+      ],
+      "displayTitle": "2. 认知学徒制",
+      "outline": "（二）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-7",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "情境式教学",
+      "text": "情境式教学，原书指向第一章第二节考点二。",
+      "keywords": [
+        "情境式教学"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用"
+      ],
+      "displayTitle": "3. 情境式教学",
+      "outline": "（二）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-8",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "支架式教学",
+      "text": "支架式教学，原书指向第一章第二节考点二。",
+      "keywords": [
+        "支架式教学"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用"
+      ],
+      "displayTitle": "4. 支架式教学",
+      "outline": "（二）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-9",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "合作学习",
+      "text": "合作学习，原书指向第一章第二节考点二。",
+      "keywords": [
+        "合作学习"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用"
+      ],
+      "displayTitle": "5. 合作学习",
+      "outline": "（二）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-social-constructivism-10",
+      "knowledgeId": "edu-reviewed-ch2-social-constructivism",
+      "title": "交互式教学",
+      "text": "交互式教学，原书指向第一章第二节考点二。",
+      "keywords": [
+        "交互式教学"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用"
+      ],
+      "displayTitle": "6. 交互式教学",
+      "outline": "（二）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-0",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "知情统一",
+      "text": "教学目标：知情统一。",
+      "keywords": [
+        "知情统一"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习"
+      ],
+      "displayTitle": "1. 教学目标",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-1",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "认知学习",
+      "text": "奥苏伯尔的“有意义学习”，指新旧知识联系，只涉及心智，不涉及个人情感的参与。罗杰斯评价其只发生在“颈部以上”。",
+      "keywords": [
+        "新旧联系",
+        "只涉及心智",
+        "颈部以上"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习",
+        "2. 分类"
+      ],
+      "displayTitle": "（1）认知学习",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-2",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "经验学习",
+      "text": "罗杰斯的“有意义学习”，指个体认知活动和心理活动，如兴趣、热情，全部参与到学习中，成为知情统一的、自发自动的学习。",
+      "keywords": [
+        "认知情感参与",
+        "知情统一",
+        "自发自动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习",
+        "2. 分类"
+      ],
+      "displayTitle": "（2）经验学习",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-3",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "学习含义",
+      "text": "不仅是增长知识，而是与个人各部分经验融合在一起，使个人的行为、态度、个性及在未来选择行动方针时发生重大变化的学习。",
+      "keywords": [
+        "经验融合",
+        "行为态度个性",
+        "重大变化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习"
+      ],
+      "displayTitle": "3. 含义",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-4",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "个人参与",
+      "text": "整个人，包括认知、情感两方面，都投入。",
+      "keywords": [
+        "认知情感",
+        "整个人投入"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习",
+        "4. 要素（特点）"
+      ],
+      "displayTitle": "（1）个人参与",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-5",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "自我发动",
+      "text": "满足兴趣和需要。",
+      "keywords": [
+        "兴趣",
+        "需要"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习",
+        "4. 要素（特点）"
+      ],
+      "displayTitle": "（2）自我发动",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-6",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "全面发展",
+      "text": "行动、人格、态度等都发展。",
+      "keywords": [
+        "行动",
+        "人格",
+        "态度"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习",
+        "4. 要素（特点）"
+      ],
+      "displayTitle": "（3）全面发展",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-7",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "自我评价",
+      "text": "是否有助于自我实现。",
+      "keywords": [
+        "自我实现"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习",
+        "4. 要素（特点）"
+      ],
+      "displayTitle": "（4）自我评价",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-8",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "自由学习",
+      "text": "教师提供学习资源和学习气氛，让学生自己决定如何学习。",
+      "keywords": [
+        "学习资源气氛",
+        "自己决定"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）学习观：有意义的自由学习"
+      ],
+      "displayTitle": "5. 原则：自由学习",
+      "outline": "（一）学习观：有意义的自由学习"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-9",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "传统角色",
+      "text": "教师为知识传授者、指导者；学生为被动的知识接受者。",
+      "keywords": [
+        "知识传授者",
+        "被动接受"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学观：非指导性教学",
+        "1. 批判传统"
+      ],
+      "displayTitle": "（1）传统角色",
+      "outline": "（二）教学观：非指导性教学"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-10",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "非指导角色",
+      "text": "提倡非指导性教学，教师为学习促进者，“以学生为中心”。",
+      "keywords": [
+        "学习促进者",
+        "学生中心"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学观：非指导性教学",
+        "1. 批判传统"
+      ],
+      "displayTitle": "（2）非指导性教学角色",
+      "outline": "（二）教学观：非指导性教学"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-11",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "心理氛围",
+      "text": "良好的心理氛围：真诚一致、无条件积极关注、同理心／移情性理解。",
+      "keywords": [
+        "真诚一致",
+        "无条件关注",
+        "同理心"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学观：非指导性教学"
+      ],
+      "displayTitle": "2. 条件",
+      "outline": "（二）教学观：非指导性教学"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-12",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "无固定结构",
+      "text": "教学过程无固定结构，学生自主学习、自主建构知识。",
+      "keywords": [
+        "无固定结构",
+        "自主学习建构"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学观：非指导性教学",
+        "3. 特点"
+      ],
+      "displayTitle": "（1）教学过程无固定结构",
+      "outline": "（二）教学观：非指导性教学"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-13",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "无固定内容",
+      "text": "教学无固定内容，重视过程，不重视内容。",
+      "keywords": [
+        "无固定内容",
+        "重视过程"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学观：非指导性教学",
+        "3. 特点"
+      ],
+      "displayTitle": "（2）教学无固定内容",
+      "outline": "（二）教学观：非指导性教学"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-14",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "资源气氛",
+      "text": "教师不做任何指导，提供资源、促进学习的气氛。",
+      "keywords": [
+        "提供资源",
+        "促进气氛"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学观：非指导性教学",
+        "3. 特点"
+      ],
+      "displayTitle": "（3）教师提供资源和气氛",
+      "outline": "（二）教学观：非指导性教学"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-15",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "学生应用",
+      "text": "学生：自主地位，关注情感。",
+      "keywords": [
+        "自主地位",
+        "关注情感"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用"
+      ],
+      "displayTitle": "1. 学生",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-16",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "教师应用",
+      "text": "教师：重视促进作用，允许学生自由学习。",
+      "keywords": [
+        "促进作用",
+        "自由学习"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用"
+      ],
+      "displayTitle": "2. 教师",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-17",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "学习应用",
+      "text": "学习：重视有意义的自由学习。",
+      "keywords": [
+        "有意义",
+        "自由学习"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用"
+      ],
+      "displayTitle": "3. 学习",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch2-humanism-18",
+      "knowledgeId": "edu-reviewed-ch2-humanism",
+      "title": "师生应用",
+      "text": "师生：重视友好关系，建立良好的心理氛围。",
+      "keywords": [
+        "友好关系",
+        "心理氛围"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用"
+      ],
+      "displayTitle": "4. 师生",
+      "outline": "（三）应用"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch2-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 20,
+    "knowledge": 51,
+    "steps": 264,
+    "referenceOnly": 27
+  }
+}

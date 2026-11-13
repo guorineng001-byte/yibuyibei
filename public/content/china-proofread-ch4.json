@@ -1,0 +1,4000 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch4-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch4-western-jin-guozixue",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "西晋国子学",
+      "section": "第一节 · 魏晋南北朝的教育制度与实践 · 官学变革",
+      "refs": [
+        {
+          "page": 41,
+          "rect": [
+            0.14,
+            0.2,
+            0.75,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 41180,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-four-schools",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "南朝宋“四馆”",
+      "section": "第一节 · 魏晋南北朝的教育制度与实践 · 官学变革",
+      "refs": [
+        {
+          "page": 41,
+          "rect": [
+            0.39,
+            0.28,
+            0.46,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 41252,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-zongmingguan",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "南朝宋总明观",
+      "section": "第一节 · 魏晋南北朝的教育制度与实践 · 官学变革",
+      "refs": [
+        {
+          "page": 41,
+          "rect": [
+            0.39,
+            0.44,
+            0.46,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 41396,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-policy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐文教政策：探索与稳定",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 教育管理",
+      "refs": [
+        {
+          "page": 41,
+          "rect": [
+            0.18,
+            0.71,
+            0.68,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 41639,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-guozijian",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐教育管理机构：国子监",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 教育管理",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.27,
+            0.1,
+            0.61,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42090,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-management-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐教育管理体制",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 教育管理",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.44,
+            0.43,
+            0.46,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42387,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-official-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐官学体系概览",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 育士制度",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.14,
+            0.54,
+            0.75,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42486,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-central-schools",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "唐代中央官学的机构与特点",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 育士制度",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.42,
+            0.58,
+            0.46,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42522,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-local-schools",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "唐代地方官学",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 育士制度",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.28,
+            0.73,
+            0.59,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42657,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-official-management",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "唐代官学的六项管理制度",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 育士制度",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.27,
+            0.79,
+            0.61,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42711,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-official-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "唐代官学的评价",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 育士制度",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.27,
+            0.94,
+            0.62,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42846,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-confucian-schools-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "唐代中央儒学学校与生源",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 学校系统表",
+      "refs": [
+        {
+          "page": 43,
+          "rect": [
+            0.08,
+            0.18,
+            0.82,
+            0.48
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 43162,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-special-schools-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "唐代中央专门学校",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 学校系统表",
+      "refs": [
+        {
+          "page": 43,
+          "rect": [
+            0.08,
+            0.5,
+            0.82,
+            0.38
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 43450,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-local-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "唐代地方官学层级",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 学校系统表",
+      "refs": [
+        {
+          "page": 43,
+          "rect": [
+            0.08,
+            0.88,
+            0.82,
+            0.07
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 43792,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-private-causes",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐私学发展的原因",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 私学",
+      "refs": [
+        {
+          "page": 44,
+          "rect": [
+            0.35,
+            0.12,
+            0.5,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 44108,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-private-types",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐私学的分类",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 私学",
+      "refs": [
+        {
+          "page": 44,
+          "rect": [
+            0.2,
+            0.25,
+            0.65,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 44225,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-academies",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "唐末书院的兴起",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 私学",
+      "refs": [
+        {
+          "page": 44,
+          "rect": [
+            0.19,
+            0.43,
+            0.67,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 44387,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-private-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐私学的评价",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 私学",
+      "refs": [
+        {
+          "page": 44,
+          "rect": [
+            0.18,
+            0.73,
+            0.67,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 44657,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-system-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐学校教育体系总结",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 学校发展",
+      "refs": [
+        {
+          "page": 44,
+          "rect": [
+            0.3,
+            0.83,
+            0.58,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 44747,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-school-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "隋唐学校教育发展的特点",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 学校发展",
+      "refs": [
+        {
+          "page": 45,
+          "rect": [
+            0.18,
+            0.09,
+            0.67,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 45081,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-origin",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举制度的含义与时代",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 45,
+          "rect": [
+            0.17,
+            0.39,
+            0.68,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 45351,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-causes",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举制度产生的原因",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 45,
+          "rect": [
+            0.26,
+            0.47,
+            0.58,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 45423,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举制度的产生与发展",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 45,
+          "rect": [
+            0.25,
+            0.62,
+            0.6,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 45558,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-procedure",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举考生来源与考试程序",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 45,
+          "rect": [
+            0.17,
+            0.79,
+            0.69,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 45711,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-subjects",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举考试科目",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 46,
+          "rect": [
+            0.1,
+            0.07,
+            0.79,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 46063,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-methods",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举考试方法",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 46,
+          "rect": [
+            0.1,
+            0.33,
+            0.79,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 46297,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-school-exam-relation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举制度与学校教育的关系",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 46,
+          "rect": [
+            0.13,
+            0.43,
+            0.76,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 46387,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-positive",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举制度的积极影响",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 46,
+          "rect": [
+            0.29,
+            0.74,
+            0.59,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 46666,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-negative",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "科举制度的消极影响",
+      "section": "第二节 · 隋唐时期的教育制度与实践 · 科举制度",
+      "refs": [
+        {
+          "page": 47,
+          "rect": [
+            0.28,
+            0.07,
+            0.6,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 47063,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "颜之推的教育实践",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 颜之推",
+      "refs": [
+        {
+          "page": 47,
+          "rect": [
+            0.16,
+            0.39,
+            0.72,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 47351,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "颜之推论教育作用",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 颜之推",
+      "refs": [
+        {
+          "page": 47,
+          "rect": [
+            0.31,
+            0.48,
+            0.56,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 47432,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-goal",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "颜之推的教育目标",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 颜之推",
+      "refs": [
+        {
+          "page": 47,
+          "rect": [
+            0.31,
+            0.64,
+            0.56,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 47576,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "颜之推的教育内容：德艺周厚",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 颜之推",
+      "refs": [
+        {
+          "page": 47,
+          "rect": [
+            0.31,
+            0.7,
+            0.56,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 47630,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-family",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "颜之推论家庭教育",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 颜之推",
+      "refs": [
+        {
+          "page": 48,
+          "rect": [
+            0.31,
+            0.05,
+            0.57,
+            0.34
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 48045,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "颜之推家庭教育思想的评价",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 颜之推",
+      "refs": [
+        {
+          "page": 48,
+          "rect": [
+            0.3,
+            0.42,
+            0.58,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 48378,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-han-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "韩愈的教育实践与著作",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 韩愈",
+      "refs": [
+        {
+          "page": 48,
+          "rect": [
+            0.16,
+            0.72,
+            0.72,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 48648,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-han-orthodoxy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "韩愈的儒学道统说",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 韩愈",
+      "refs": [
+        {
+          "page": 48,
+          "rect": [
+            0.31,
+            0.87,
+            0.57,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 48783,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-han-nature",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "韩愈“性三品”说与教育作用",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 韩愈",
+      "refs": [
+        {
+          "page": 49,
+          "rect": [
+            0.28,
+            0.08,
+            0.62,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 49072,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-han-talent",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "韩愈论人才培养和选拔",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 韩愈",
+      "refs": [
+        {
+          "page": 49,
+          "rect": [
+            0.27,
+            0.43,
+            0.63,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 49387,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-han-teacher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "韩愈论师道",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 韩愈",
+      "refs": [
+        {
+          "page": 49,
+          "rect": [
+            0.27,
+            0.61,
+            0.63,
+            0.31
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 49549,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch4-han-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-3",
+      "title": "韩愈教育思想的评价",
+      "section": "第三节 · 魏晋南北朝与隋唐时期的教育思想 · 韩愈",
+      "refs": [
+        {
+          "page": 49,
+          "rect": [
+            0.27,
+            0.92,
+            0.63,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 49828,
+      "reviewNote": "已对照扫描原页校对文字、专名、引文和层级；简介、评价及教材绝对化表述默认只需阅读。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch4-western-jin-guozixue-0",
+      "knowledgeId": "china-reviewed-ch4-western-jin-guozixue",
+      "title": "建立背景",
+      "text": "西晋为维护门阀士族的利益和尊贵，建立国子学。",
+      "keywords": [
+        "西晋",
+        "门阀士族",
+        "国子学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-western-jin-guozixue-1",
+      "knowledgeId": "china-reviewed-ch4-western-jin-guozixue",
+      "title": "性质与内容",
+      "text": "国子学旨在培养贵族子弟，是太学之外的另一所儒学学校。",
+      "keywords": [
+        "贵族子弟",
+        "太学之外",
+        "儒学学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-western-jin-guozixue-2",
+      "knowledgeId": "china-reviewed-ch4-western-jin-guozixue",
+      "title": "评价",
+      "text": "国子学体现了中央官学等级制的发展。",
+      "keywords": [
+        "中央官学",
+        "等级制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-four-schools-0",
+      "knowledgeId": "china-reviewed-ch4-four-schools",
+      "title": "创办",
+      "text": "“四馆”是南朝宋文帝创办的中央官学。",
+      "keywords": [
+        "宋文帝",
+        "中央官学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-four-schools-1",
+      "knowledgeId": "china-reviewed-ch4-four-schools",
+      "title": "科目与组织",
+      "text": "按开设时间依次为儒学馆、玄学馆、史学馆、文学馆；四馆并列，各自招收学生。",
+      "keywords": [
+        "儒学馆",
+        "玄学馆",
+        "史学馆",
+        "文学馆",
+        "并列招生"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-four-schools-2",
+      "knowledgeId": "china-reviewed-ch4-four-schools",
+      "title": "评价",
+      "text": "打破了汉代以来经学教育独霸官学的局面。",
+      "keywords": [
+        "打破经学独霸"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-zongmingguan-0",
+      "knowledgeId": "china-reviewed-ch4-zongmingguan",
+      "title": "创办",
+      "text": "总明观是南朝宋明帝设立的中央官学。",
+      "keywords": [
+        "宋明帝",
+        "总明观"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-zongmingguan-1",
+      "knowledgeId": "china-reviewed-ch4-zongmingguan",
+      "title": "组织与功能",
+      "text": "总明观为总领导机构，下设儒、玄、文、史四科；藏书、研究、教学三位一体。",
+      "keywords": [
+        "总领导机构",
+        "儒玄文史",
+        "藏书研究教学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-zongmingguan-2",
+      "knowledgeId": "china-reviewed-ch4-zongmingguan",
+      "title": "意义",
+      "text": "使四个单科性质的大学发展成在多科性大学中实行分科教授的制度。",
+      "keywords": [
+        "多科性大学",
+        "分科教授"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-policy-0",
+      "knowledgeId": "china-reviewed-ch4-policy",
+      "title": "总方针",
+      "text": "隋唐文教政策概括为“重振儒术，兼用佛道”。",
+      "keywords": [
+        "重振儒术",
+        "兼用佛道"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-policy-1",
+      "knowledgeId": "china-reviewed-ch4-policy",
+      "title": "四项措施",
+      "text": "崇儒兴学；兼用佛道；发展科举；任立私学。",
+      "keywords": [
+        "崇儒兴学",
+        "兼用佛道",
+        "发展科举",
+        "任立私学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-policy-2",
+      "knowledgeId": "china-reviewed-ch4-policy",
+      "title": "承上",
+      "text": "承接汉代儒学发展，又利用魏晋以来的佛教和道教，建立更完善的以儒学为核心的经学教育体系。",
+      "keywords": [
+        "承接汉儒",
+        "利用佛道",
+        "儒学核心"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-policy-3",
+      "knowledgeId": "china-reviewed-ch4-policy",
+      "title": "启下",
+      "text": "为宋代理学教育的产生奠定基础。",
+      "keywords": [
+        "宋代理学",
+        "奠定基础"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-guozijian-0",
+      "knowledgeId": "china-reviewed-ch4-guozijian",
+      "title": "设立与沿革",
+      "text": "隋代为加强教育管理和领导，设国子寺，后更名国子监；国子监教育管理机构延续至清末学部成立。",
+      "keywords": [
+        "国子寺",
+        "国子监",
+        "清末学部"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-guozijian-1",
+      "knowledgeId": "china-reviewed-ch4-guozijian",
+      "title": "性质",
+      "text": "国子监既是中央政府最高教育行政机构，又是国家最高学府。",
+      "keywords": [
+        "最高教育行政机构",
+        "最高学府"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-guozijian-2",
+      "knowledgeId": "china-reviewed-ch4-guozijian",
+      "title": "管理对象",
+      "text": "国子监专门负责和管理中央官学的“六学一馆”。",
+      "keywords": [
+        "六学一馆",
+        "中央官学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-guozijian-3",
+      "knowledgeId": "china-reviewed-ch4-guozijian",
+      "title": "长官",
+      "text": "国子监设祭酒一人，是管理教育事业的最高行政长官。",
+      "keywords": [
+        "祭酒",
+        "最高行政长官"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-guozijian-4",
+      "knowledgeId": "china-reviewed-ch4-guozijian",
+      "title": "评价",
+      "text": "我国历史上首次设置最高教育行政机构，标志教育发展成为独立部门，并促进经学教育学校体系的发展。",
+      "keywords": [
+        "首次最高教育行政机构",
+        "独立部门"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-management-system-0",
+      "knowledgeId": "china-reviewed-ch4-management-system",
+      "title": "中央与地方并举",
+      "text": "国子祭酒负责中央官学；地方行政长官负责地方官学。",
+      "keywords": [
+        "国子祭酒",
+        "中央官学",
+        "地方长官",
+        "地方官学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-management-system-1",
+      "knowledgeId": "china-reviewed-ch4-management-system",
+      "title": "统一与对口并举",
+      "text": "国子监统一管理教育事业；对口部门管理专门学校。",
+      "keywords": [
+        "国子监统一管理",
+        "对口部门",
+        "专门学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-official-system-0",
+      "knowledgeId": "china-reviewed-ch4-official-system",
+      "title": "中央官学",
+      "text": "中央官学包括国子监主持的“六学一馆”、对口机构管理的专门学校，以及弘文馆、崇文馆。",
+      "keywords": [
+        "六学一馆",
+        "专门学校",
+        "弘文馆",
+        "崇文馆"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-official-system-1",
+      "knowledgeId": "china-reviewed-ch4-official-system",
+      "title": "地方官学",
+      "text": "地方官学类型主要有经学、医学、崇玄学。",
+      "keywords": [
+        "经学",
+        "医学",
+        "崇玄学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-central-schools-0",
+      "knowledgeId": "china-reviewed-ch4-central-schools",
+      "title": "六学一馆",
+      "text": "国子监主办国子学、太学、四门学、律学、算学、书学和广文馆，合称“六学一馆”。",
+      "keywords": [
+        "国子学",
+        "太学",
+        "四门学",
+        "律学",
+        "算学",
+        "书学",
+        "广文馆"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-central-schools-1",
+      "knowledgeId": "china-reviewed-ch4-central-schools",
+      "title": "对口专门学校",
+      "text": "医药学、天文学、乐舞学、兽医学等由相应机构主办；弘文馆由门下省主办，崇文馆由东宫主办。",
+      "keywords": [
+        "医药天文乐舞兽医",
+        "门下省",
+        "东宫"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-central-schools-2",
+      "knowledgeId": "china-reviewed-ch4-central-schools",
+      "title": "特点",
+      "text": "唐代中央官学校发达，种类繁多、人数众多、等级森严、内容丰富、制度完备，远超前朝。",
+      "keywords": [
+        "种类繁多",
+        "等级森严",
+        "制度完备"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-local-schools-0",
+      "knowledgeId": "china-reviewed-ch4-local-schools",
+      "title": "机构",
+      "text": "地方官学有经学、医学、崇玄学三种类型，主要学习儒家经典。",
+      "keywords": [
+        "经学",
+        "医学",
+        "崇玄学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-local-schools-1",
+      "knowledgeId": "china-reviewed-ch4-local-schools",
+      "title": "特点",
+      "text": "地方官学发达，学生出路多：可升入四门学、参加科举（乡贡）、成为地方官吏，也可自由择业。",
+      "keywords": [
+        "升四门学",
+        "乡贡",
+        "地方官吏",
+        "自由择业"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-official-management-0",
+      "knowledgeId": "china-reviewed-ch4-official-management",
+      "title": "入学制度",
+      "text": "实行等级入学制度，贵族与官僚子弟优先入学；除广文馆外，申请入监者有年龄限制。",
+      "keywords": [
+        "等级入学",
+        "贵族官僚优先",
+        "年龄限制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-official-management-1",
+      "knowledgeId": "china-reviewed-ch4-official-management",
+      "title": "学礼制度",
+      "text": "包括束脩之礼、国子释奠礼、贡士谒见礼和使者观礼等。",
+      "keywords": [
+        "束脩",
+        "释奠",
+        "贡士谒见",
+        "使者观礼"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-official-management-2",
+      "knowledgeId": "china-reviewed-ch4-official-management",
+      "title": "教学制度",
+      "text": "教学具有专业性，并规定教学内容与教学年限。",
+      "keywords": [
+        "专业性",
+        "教学内容",
+        "教学年限"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-official-management-3",
+      "knowledgeId": "china-reviewed-ch4-official-management",
+      "title": "考核制度",
+      "text": "设旬试、月试、季试、岁试和毕业试。",
+      "keywords": [
+        "旬试",
+        "月试",
+        "季试",
+        "岁试",
+        "毕业试"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-official-management-4",
+      "knowledgeId": "china-reviewed-ch4-official-management",
+      "title": "惩罚制度",
+      "text": "对不率师教、学业无成、假逾程限、作乐杂戏者，令其退学。",
+      "keywords": [
+        "不率师教",
+        "学业无成",
+        "假逾程限",
+        "退学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-official-management-5",
+      "knowledgeId": "china-reviewed-ch4-official-management",
+      "title": "休假制度",
+      "text": "设旬假（每十日休沐日）、田假十五天和授衣假十五天。",
+      "keywords": [
+        "旬假",
+        "田假",
+        "授衣假"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-official-eval-0",
+      "knowledgeId": "china-reviewed-ch4-official-eval",
+      "title": "官私互补",
+      "text": "官学发达与完备并未妨碍私学发展，官学与私学相互补充，共同构成唐代封建教育体系。",
+      "keywords": [
+        "官学私学",
+        "相互补充",
+        "教育体系"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-confucian-schools-table-0",
+      "knowledgeId": "china-reviewed-ch4-confucian-schools-table",
+      "title": "弘文馆与崇文馆",
+      "text": "弘文馆、崇文馆兼有收藏、校理书籍和研究教授儒家经典的功能，面向皇亲国戚及高级官员子弟；弘文馆由门下省主办，崇文馆由东宫主办。",
+      "keywords": [
+        "弘文馆",
+        "门下省",
+        "崇文馆",
+        "东宫",
+        "藏研教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-confucian-schools-table-1",
+      "knowledgeId": "china-reviewed-ch4-confucian-schools-table",
+      "title": "广文馆",
+      "text": "以帖经、杂文、时务策为学习内容，面向进士科举考试者。",
+      "keywords": [
+        "广文馆",
+        "帖经",
+        "杂文",
+        "时务策",
+        "进士科"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-confucian-schools-table-2",
+      "knowledgeId": "china-reviewed-ch4-confucian-schools-table",
+      "title": "国子学",
+      "text": "学习儒学经典，生源为三品以上及国公子孙、从二品以上曾孙。",
+      "keywords": [
+        "国子学",
+        "三品以上",
+        "国公子孙"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-confucian-schools-table-3",
+      "knowledgeId": "china-reviewed-ch4-confucian-schools-table",
+      "title": "太学",
+      "text": "学习儒学经典，生源为五品以上及郡县公子孙、从三品曾孙。",
+      "keywords": [
+        "太学",
+        "五品以上",
+        "郡县公子孙"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-confucian-schools-table-4",
+      "knowledgeId": "china-reviewed-ch4-confucian-schools-table",
+      "title": "四门学",
+      "text": "学习儒学经典，生源包括七品以上及侯伯子男子之为生者，或庶人子有文化知识、经考试选拔为俊士者。",
+      "keywords": [
+        "四门学",
+        "七品以上",
+        "庶人俊士"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-special-schools-table-0",
+      "knowledgeId": "china-reviewed-ch4-special-schools-table",
+      "title": "律学",
+      "text": "培养熟识唐朝律令的行政官员，以学习唐律令为主要内容。",
+      "keywords": [
+        "律学",
+        "唐律令",
+        "行政官员"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-special-schools-table-1",
+      "knowledgeId": "china-reviewed-ch4-special-schools-table",
+      "title": "算学",
+      "text": "培养天文、历法、财务、工程等方面的专业计算人才，以算学专书为主要内容。",
+      "keywords": [
+        "算学",
+        "专业计算人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-special-schools-table-2",
+      "knowledgeId": "china-reviewed-ch4-special-schools-table",
+      "title": "书学",
+      "text": "培养通晓文字并精于书法的官员，以《石经》《说文》《字林》为主要内容。",
+      "keywords": [
+        "书学",
+        "石经",
+        "说文",
+        "字林"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-special-schools-table-3",
+      "knowledgeId": "china-reviewed-ch4-special-schools-table",
+      "title": "生源",
+      "text": "律学、算学、书学面向八品以下子及庶人子之通其学者。",
+      "keywords": [
+        "八品以下",
+        "庶人子"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-special-schools-table-4",
+      "knowledgeId": "china-reviewed-ch4-special-schools-table",
+      "title": "其他专门学校",
+      "text": "医药学由太医署主办，天文学由司天台主办，乐舞学由太乐署主办，兽医学由太仆寺主办。",
+      "keywords": [
+        "太医署",
+        "司天台",
+        "太乐署",
+        "太仆寺"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-special-schools-table-5",
+      "knowledgeId": "china-reviewed-ch4-special-schools-table",
+      "title": "崇玄学",
+      "text": "学习《老子》《庄子》《文子》《列子》等道教经典，毕业后可参加道举考试，由尚书省祠部主办。",
+      "keywords": [
+        "崇玄学",
+        "道教经典",
+        "道举",
+        "尚书省祠部"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-local-table-0",
+      "knowledgeId": "china-reviewed-ch4-local-table",
+      "title": "三级地方官学",
+      "text": "地方官学包括府学、州学和县学。",
+      "keywords": [
+        "府学",
+        "州学",
+        "县学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-private-causes-0",
+      "knowledgeId": "china-reviewed-ch4-private-causes",
+      "title": "四项原因",
+      "text": "社会民众的需要；政府政策的倡导；隋唐经济繁荣；私学灵活多样。",
+      "keywords": [
+        "社会需要",
+        "政策倡导",
+        "经济繁荣",
+        "灵活多样"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-private-types-0",
+      "knowledgeId": "china-reviewed-ch4-private-types",
+      "title": "初级私学",
+      "text": "进行启蒙识字教育和生活、伦理常识教育，没有成文规定。",
+      "keywords": [
+        "初级私学",
+        "启蒙识字",
+        "生活伦理"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-private-types-1",
+      "knowledgeId": "china-reviewed-ch4-private-types",
+      "title": "高级私学",
+      "text": "传授儒家经传或其他专业知识技术。",
+      "keywords": [
+        "高级私学",
+        "儒家经传",
+        "专业技术"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-academies-0",
+      "knowledgeId": "china-reviewed-ch4-academies",
+      "title": "性质",
+      "text": "书院由私人读书、藏书场所演化为讲学授徒场所；既有藏书，又有教学活动，才是名副其实的书院。",
+      "keywords": [
+        "读书藏书",
+        "讲学授徒",
+        "书院"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-academies-1",
+      "knowledgeId": "china-reviewed-ch4-academies",
+      "title": "典型",
+      "text": "中央政府设集贤殿书院、丽正修书院；民间有李秘书院、松洲书院等，多以人名或地名命名。",
+      "keywords": [
+        "集贤殿书院",
+        "丽正修书院",
+        "李秘书院",
+        "松洲书院"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-academies-2",
+      "knowledgeId": "china-reviewed-ch4-academies",
+      "title": "萌芽原因",
+      "text": "官学衰落、私学传统、佛教禅林制度影响，以及印刷术发展导致书籍大量增加。",
+      "keywords": [
+        "官学衰落",
+        "私学传统",
+        "禅林制度",
+        "印刷术"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-academies-3",
+      "knowledgeId": "china-reviewed-ch4-academies",
+      "title": "评价",
+      "text": "唐末书院承担培养人才、收藏图书、传播中华文化的任务，为宋朝书院发展奠定基础。",
+      "keywords": [
+        "培养人才",
+        "收藏图书",
+        "传播文化",
+        "宋代书院"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-private-eval-0",
+      "knowledgeId": "china-reviewed-ch4-private-eval",
+      "title": "职能",
+      "text": "私学承担启蒙识字基础教育和民族文化传承的任务。",
+      "keywords": [
+        "启蒙识字",
+        "文化传承"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-private-eval-1",
+      "knowledgeId": "china-reviewed-ch4-private-eval",
+      "title": "特点",
+      "text": "私学具有很强的自由性。",
+      "keywords": [
+        "自由性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-system-summary-0",
+      "knowledgeId": "china-reviewed-ch4-system-summary",
+      "title": "中央官学",
+      "text": "中央官学包括“六学一馆”和专门学校。",
+      "keywords": [
+        "六学一馆",
+        "专门学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-system-summary-1",
+      "knowledgeId": "china-reviewed-ch4-system-summary",
+      "title": "地方官学",
+      "text": "地方官学包括经学、医学、崇玄学。",
+      "keywords": [
+        "经学",
+        "医学",
+        "崇玄学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-system-summary-2",
+      "knowledgeId": "china-reviewed-ch4-system-summary",
+      "title": "私学",
+      "text": "私学包括初级私学、高级私学和唐末书院。",
+      "keywords": [
+        "初级私学",
+        "高级私学",
+        "唐末书院"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-school-features-0",
+      "knowledgeId": "china-reviewed-ch4-school-features",
+      "title": "管理方面",
+      "text": "宏观上形成学校体系并确立教育行政体制分级管理；微观上完善学校内部教学管理制度及法规。",
+      "keywords": [
+        "学校体系",
+        "分级管理",
+        "校内管理法规"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-school-features-1",
+      "knowledgeId": "china-reviewed-ch4-school-features",
+      "title": "育士方面",
+      "text": "国内学校表现出多样性和等级性，重视专业教育，并把学校教育同教育行政机构及事务部门结合；国际上扩大国内外文化教育交流。",
+      "keywords": [
+        "多样等级",
+        "专业教育",
+        "机构结合",
+        "国际交流"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-school-features-2",
+      "knowledgeId": "china-reviewed-ch4-school-features",
+      "title": "选士方面",
+      "text": "学校与科举的关系极为密切。",
+      "keywords": [
+        "学校科举密切"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-origin-0",
+      "knowledgeId": "china-reviewed-ch4-imperial-origin",
+      "title": "含义",
+      "text": "科举考试是个人自愿报考、经县州逐级考试筛选，以分科考试为办法的选才制度。",
+      "keywords": [
+        "自愿报考",
+        "县州逐级",
+        "分科考试"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-origin-1",
+      "knowledgeId": "china-reviewed-ch4-imperial-origin",
+      "title": "时代",
+      "text": "科举制度产生于隋朝，发展于唐宋，是原书所称持续约一千三百年、影响范围最广的封建选士制度。",
+      "keywords": [
+        "隋朝产生",
+        "唐宋发展",
+        "一千三百年"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-causes-0",
+      "knowledgeId": "china-reviewed-ch4-imperial-causes",
+      "title": "求贤若渴",
+      "text": "隋统一后为巩固政权，迫切需要大量德才兼备的人才充任官吏。",
+      "keywords": [
+        "统一巩固",
+        "德才兼备"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-causes-1",
+      "knowledgeId": "china-reviewed-ch4-imperial-causes",
+      "title": "庶族愿望",
+      "text": "庶族希望参与政治、分享权力。",
+      "keywords": [
+        "庶族",
+        "参与政治",
+        "分享权力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-causes-2",
+      "knowledgeId": "china-reviewed-ch4-imperial-causes",
+      "title": "旧制不妥",
+      "text": "九品中正制仅凭门第取士，不适应隋朝社会发展。",
+      "keywords": [
+        "九品中正",
+        "门第取士"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-causes-3",
+      "knowledgeId": "china-reviewed-ch4-imperial-causes",
+      "title": "新制已验",
+      "text": "西魏时已有不全凭门第的考试选士方法。",
+      "keywords": [
+        "西魏",
+        "考试选士"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-development-0",
+      "knowledgeId": "china-reviewed-ch4-imperial-development",
+      "title": "起步",
+      "text": "隋炀帝时期始建进士科，原书将其作为科举考试制度诞生的标志。",
+      "keywords": [
+        "隋炀帝",
+        "进士科",
+        "诞生标志"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-development-1",
+      "knowledgeId": "china-reviewed-ch4-imperial-development",
+      "title": "唐太宗",
+      "text": "一方面扩建校舍、振兴学校；另一方面开科取士、网罗人才。",
+      "keywords": [
+        "唐太宗",
+        "振兴学校",
+        "开科取士"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-development-2",
+      "knowledgeId": "china-reviewed-ch4-imperial-development",
+      "title": "唐高宗",
+      "text": "科举考试日益健全，取士名额扩大。",
+      "keywords": [
+        "唐高宗",
+        "日益健全",
+        "扩大名额"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-development-3",
+      "knowledgeId": "china-reviewed-ch4-imperial-development",
+      "title": "武则天",
+      "text": "轻视学校教育、重视科举，开创殿试、武举、糊名制。",
+      "keywords": [
+        "武则天",
+        "殿试",
+        "武举",
+        "糊名"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-development-4",
+      "knowledgeId": "china-reviewed-ch4-imperial-development",
+      "title": "完备",
+      "text": "唐玄宗时期发展完备，使学校教育和科举考试相得益彰、共同发展。",
+      "keywords": [
+        "唐玄宗",
+        "发展完备",
+        "相得益彰"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-procedure-0",
+      "knowledgeId": "china-reviewed-ch4-imperial-procedure",
+      "title": "生徒",
+      "text": "中央官学与地方官学校内考试合格的学生。",
+      "keywords": [
+        "生徒",
+        "官学校内考试"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-procedure-1",
+      "knowledgeId": "china-reviewed-ch4-imperial-procedure",
+      "title": "乡贡",
+      "text": "通过自学，向所在州、县官府报考的学生。",
+      "keywords": [
+        "乡贡",
+        "自学",
+        "州县报考"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-procedure-2",
+      "knowledgeId": "china-reviewed-ch4-imperial-procedure",
+      "title": "程序",
+      "text": "乡试—尚书省礼部举办的省试—吏部试。",
+      "keywords": [
+        "乡试",
+        "礼部省试",
+        "吏部试"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-subjects-0",
+      "knowledgeId": "china-reviewed-ch4-imperial-subjects",
+      "title": "常科与制科",
+      "text": "文科举分常科与制科：常科定期举行；制科不定期举行，地位不如常科。另有武科举。",
+      "keywords": [
+        "常科",
+        "制科",
+        "武科举"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-subjects-1",
+      "knowledgeId": "china-reviewed-ch4-imperial-subjects",
+      "title": "秀才科",
+      "text": "地位最高，也是最难的科目。",
+      "keywords": [
+        "秀才科",
+        "最高最难"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-subjects-2",
+      "knowledgeId": "china-reviewed-ch4-imperial-subjects",
+      "title": "明经科",
+      "text": "考核儒家经典，最重帖经，另有口试、时务策。",
+      "keywords": [
+        "明经科",
+        "儒家经典",
+        "帖经",
+        "口试",
+        "时务策"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-subjects-3",
+      "knowledgeId": "china-reviewed-ch4-imperial-subjects",
+      "title": "进士科",
+      "text": "注重诗赋，考查写作能力和应变能力；原书以“三十老明经，五十少进士”说明难度。",
+      "keywords": [
+        "进士科",
+        "诗赋",
+        "写作应变"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-subjects-4",
+      "knowledgeId": "china-reviewed-ch4-imperial-subjects",
+      "title": "其他科目",
+      "text": "明法科考律令，明字科考书学，明算科考数学。",
+      "keywords": [
+        "明法律令",
+        "明字书学",
+        "明算数学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-methods-0",
+      "knowledgeId": "china-reviewed-ch4-imperial-methods",
+      "title": "五种方法",
+      "text": "帖经类似填空；墨义类似默写；口试；策问，即写出政治性文章；诗赋。",
+      "keywords": [
+        "帖经",
+        "墨义",
+        "口试",
+        "策问",
+        "诗赋"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-school-exam-relation-0",
+      "knowledgeId": "china-reviewed-ch4-school-exam-relation",
+      "title": "相互促进",
+      "text": "学校教育是科举制度的基础；科举选拔刺激学校教育发展。",
+      "keywords": [
+        "学校为基础",
+        "科举促学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-school-exam-relation-1",
+      "knowledgeId": "china-reviewed-ch4-school-exam-relation",
+      "title": "相互制约",
+      "text": "学校教育兴衰影响科举取士的数量和质量；科举考试是学校教育的“指挥棒”。",
+      "keywords": [
+        "学校兴衰",
+        "数量质量",
+        "指挥棒"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-school-exam-relation-2",
+      "knowledgeId": "china-reviewed-ch4-school-exam-relation",
+      "title": "指挥棒的四方面",
+      "text": "科举考试影响学校教育的培养目标、教学内容、教学方法和学校地位。",
+      "keywords": [
+        "培养目标",
+        "教学内容",
+        "教学方法",
+        "学校地位"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-school-exam-relation-3",
+      "knowledgeId": "china-reviewed-ch4-school-exam-relation",
+      "title": "根本关系",
+      "text": "政治、经济、文化是决定封建学校教育发展的终极因素，科举制度只是辅助因素；统治者偏重科举时学校易成其附庸，合理平衡则可相互促进。",
+      "keywords": [
+        "终极因素",
+        "辅助因素",
+        "附庸",
+        "平衡促进"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-positive-0",
+      "knowledgeId": "china-reviewed-ch4-imperial-positive",
+      "title": "加强中央集权",
+      "text": "中央政府掌握选士大权，提高官吏文化修养，扩大统治基础，统一思想并缓和阶级矛盾。",
+      "keywords": [
+        "中央集权",
+        "官吏修养",
+        "统治基础",
+        "统一思想"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-positive-1",
+      "knowledgeId": "china-reviewed-ch4-imperial-positive",
+      "title": "选士与育士结合",
+      "text": "形成良好学习风气，使思想统一于儒学，促进教育普及和兴办学校；多样考试科目扭转门阀重文轻武思想。",
+      "keywords": [
+        "学习风气",
+        "统一儒学",
+        "教育普及",
+        "文武"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-positive-2",
+      "knowledgeId": "china-reviewed-ch4-imperial-positive",
+      "title": "人才选拔进步",
+      "text": "重视知识和才能而非门第；策问、诗赋有利于检验能力；原书称我国最早实行文官考试制度。",
+      "keywords": [
+        "重才非门第",
+        "策问诗赋",
+        "检验能力"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-negative-0",
+      "knowledgeId": "china-reviewed-ch4-imperial-negative",
+      "title": "学校沦为附庸",
+      "text": "国家重科举取士而忽略学校教育，学校成为科举制度的附庸。",
+      "keywords": [
+        "重科举轻学校",
+        "学校附庸"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-negative-1",
+      "knowledgeId": "china-reviewed-ch4-imperial-negative",
+      "title": "欺骗性与弊端",
+      "text": "评分受主观因素影响；考官受贿与作弊严重；诱使知识分子为功名利禄耗费时间。",
+      "keywords": [
+        "评分主观",
+        "受贿作弊",
+        "浪费时间"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-imperial-negative-2",
+      "knowledgeId": "china-reviewed-ch4-imperial-negative",
+      "title": "束缚思想败坏学风",
+      "text": "形成教条主义、形式主义学风；造成重权威轻创新、重经书轻科学、重书本轻实践、重记忆轻思考，并形成“功利色彩浓重”的畸形读书观和学习观。",
+      "keywords": [
+        "教条形式",
+        "性格缺陷",
+        "功利色彩",
+        "畸形读书观"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-practice-0",
+      "knowledgeId": "china-reviewed-ch4-yan-practice",
+      "title": "人物",
+      "text": "颜之推是南朝梁至隋朝初期的思想家和教育家。",
+      "keywords": [
+        "南朝梁",
+        "隋初",
+        "颜之推"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-practice-1",
+      "knowledgeId": "china-reviewed-ch4-yan-practice",
+      "title": "著作",
+      "text": "《颜氏家训》是原书所称我国第一部系统完整的家庭教育教科书。",
+      "keywords": [
+        "颜氏家训",
+        "家庭教育教科书"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-role-0",
+      "knowledgeId": "china-reviewed-ch4-yan-role",
+      "title": "人性论",
+      "text": "在人性论上主张“性三品”说。",
+      "keywords": [
+        "性三品"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-role-1",
+      "knowledgeId": "china-reviewed-ch4-yan-role",
+      "title": "社会地位",
+      "text": "接受教育是维护士大夫原有社会地位的必要手段。",
+      "keywords": [
+        "维护士大夫地位"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-role-2",
+      "knowledgeId": "china-reviewed-ch4-yan-role",
+      "title": "谋生技能",
+      "text": "接受教育也是人们谋生的手段。",
+      "keywords": [
+        "谋生手段"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-role-3",
+      "knowledgeId": "china-reviewed-ch4-yan-role",
+      "title": "评价",
+      "text": "从“利”的角度论述教育作用。",
+      "keywords": [
+        "利的角度"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-goal-0",
+      "knowledgeId": "china-reviewed-ch4-yan-goal",
+      "title": "目标",
+      "text": "培养具有实际效用的各方面人才，即治国人才，冲破“君子、圣人”的抽象培养目标。",
+      "keywords": [
+        "实际效用",
+        "治国人才",
+        "冲破抽象目标"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-content-0",
+      "knowledgeId": "china-reviewed-ch4-yan-content",
+      "title": "德",
+      "text": "重视“仁义”，包括孝悌仁义。",
+      "keywords": [
+        "德",
+        "仁义",
+        "孝悌"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-content-1",
+      "knowledgeId": "china-reviewed-ch4-yan-content",
+      "title": "艺",
+      "text": "强调渊博知识：必读经史百家，兼习琴棋书画、数医射投等杂艺，并学习农业生产知识。",
+      "keywords": [
+        "经史百家",
+        "兼习杂艺",
+        "农业生产"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-content-2",
+      "knowledgeId": "china-reviewed-ch4-yan-content",
+      "title": "关系",
+      "text": "道德教育是根本，知识教育是道德教育的基础，二者相互联系。",
+      "keywords": [
+        "道德根本",
+        "知识基础"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-content-3",
+      "knowledgeId": "china-reviewed-ch4-yan-content",
+      "title": "评价",
+      "text": "教育内容得到扩展，比传统唯以圣贤为楷模的儒家思想有所进步。",
+      "keywords": [
+        "扩展内容",
+        "实际知识"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-family-0",
+      "knowledgeId": "china-reviewed-ch4-yan-family",
+      "title": "早教原因",
+      "text": "重视早教，因为儿童可塑性强、记忆力好。",
+      "keywords": [
+        "早教",
+        "可塑性",
+        "记忆力"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-family-1",
+      "knowledgeId": "china-reviewed-ch4-yan-family",
+      "title": "严慈相济",
+      "text": "“使为则为，使止则止”，树立威严而又体现慈爱。",
+      "keywords": [
+        "严慈相济",
+        "使为则为",
+        "使止则止"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-family-2",
+      "knowledgeId": "china-reviewed-ch4-yan-family",
+      "title": "均爱无偏",
+      "text": "切忌偏宠和偏爱，同样爱护与标准；“贤俊者自可赏爱，顽鲁者亦当矜怜”。",
+      "keywords": [
+        "均爱无偏",
+        "贤俊顽鲁"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-family-3",
+      "knowledgeId": "china-reviewed-ch4-yan-family",
+      "title": "语言规范",
+      "text": "通用语言不方言，语言教育有规范。",
+      "keywords": [
+        "通用语言",
+        "语言规范"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-family-4",
+      "knowledgeId": "china-reviewed-ch4-yan-family",
+      "title": "道德教育",
+      "text": "道德教育重风化，示范孝悌和立志。",
+      "keywords": [
+        "风化",
+        "示范",
+        "孝悌立志"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-family-5",
+      "knowledgeId": "china-reviewed-ch4-yan-family",
+      "title": "勤学交流",
+      "text": "勤学切磋重交流，读书实践靠眼学；“好问则裕”“独学而无友，则孤陋而寡闻”“必须眼学，勿信耳受”。",
+      "keywords": [
+        "勤学切磋",
+        "好问则裕",
+        "眼学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-family-6",
+      "knowledgeId": "china-reviewed-ch4-yan-family",
+      "title": "端正态度",
+      "text": "学习态度要端正，不为做官和阔论。",
+      "keywords": [
+        "态度端正",
+        "不为做官阔论"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-eval-0",
+      "knowledgeId": "china-reviewed-ch4-yan-eval",
+      "title": "独创与经验",
+      "text": "既揭露士大夫教育的腐朽，又总结治学治家经验，具有独创的家庭教育见解。",
+      "keywords": [
+        "独创见解",
+        "治学治家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-eval-1",
+      "knowledgeId": "china-reviewed-ch4-yan-eval",
+      "title": "进步之处",
+      "text": "从“利”的角度强调教育重要性；要求培养实用人才；认为农工商贾、厮役奴隶均有可学习之处，士大夫也应学习农业生产知识。",
+      "keywords": [
+        "教育重要",
+        "实用人才",
+        "各业可学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-yan-eval-2",
+      "knowledgeId": "china-reviewed-ch4-yan-eval",
+      "title": "局限",
+      "text": "具有宗教色彩；站在士大夫立场谈家庭教育，有阶级局限；不放弃棍棒教育，带有封建专制色彩。",
+      "keywords": [
+        "宗教色彩",
+        "阶级局限",
+        "棍棒教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-han-practice-0",
+      "knowledgeId": "china-reviewed-ch4-han-practice",
+      "title": "三项运动",
+      "text": "思想上发起“尊孔孟、排异端”运动，尤其反对佛教；文学上倡导古文运动；教育上倡导师道运动。",
+      "keywords": [
+        "尊孔孟排异端",
+        "古文运动",
+        "师道运动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-practice-1",
+      "knowledgeId": "china-reviewed-ch4-han-practice",
+      "title": "主要著作",
+      "text": "教育相关著作有《师说》《马说》《原道》；《师说》是原书所称中国古代第一篇集中论述教师问题的文章。",
+      "keywords": [
+        "师说",
+        "马说",
+        "原道",
+        "教师问题"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-orthodoxy-0",
+      "knowledgeId": "china-reviewed-ch4-han-orthodoxy",
+      "title": "内涵",
+      "text": "反对佛教“法统”，提倡儒家“道统”；“道”指儒家的仁义道德理念。",
+      "keywords": [
+        "反佛法统",
+        "儒家道统",
+        "仁义道德"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-orthodoxy-1",
+      "knowledgeId": "china-reviewed-ch4-han-orthodoxy",
+      "title": "教育目的",
+      "text": "“明先王之教”“学所以为道”，通过教育重新认识儒家仁义道德。",
+      "keywords": [
+        "明先王之教",
+        "学所以为道"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-orthodoxy-2",
+      "knowledgeId": "china-reviewed-ch4-han-orthodoxy",
+      "title": "评价",
+      "text": "韩愈是“重振儒学的卫道者”，为恢复儒学独尊地位及后世理学伦理思想提供理论准备。",
+      "keywords": [
+        "儒学卫道者",
+        "恢复正统",
+        "理学准备"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-han-nature-0",
+      "knowledgeId": "china-reviewed-ch4-han-nature",
+      "title": "性三品",
+      "text": "出自《原性》，属于唯心主义天命论：上品为善性；中品可善可恶、尚未定型；下品为恶性。",
+      "keywords": [
+        "原性",
+        "上中下三品"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-nature-1",
+      "knowledgeId": "china-reviewed-ch4-han-nature",
+      "title": "性与情",
+      "text": "性是情的基础，有什么样的性，就有什么样的情。",
+      "keywords": [
+        "性为情基础"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-nature-2",
+      "knowledgeId": "china-reviewed-ch4-han-nature",
+      "title": "品级不移",
+      "text": "性的品级不可移，教育只能在既定品格内使性移动。",
+      "keywords": [
+        "品级不可移",
+        "品格内移动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-nature-3",
+      "knowledgeId": "china-reviewed-ch4-han-nature",
+      "title": "人性与教育作用",
+      "text": "人性是决定教育的主要因素，教育只能在人性品位内起作用。",
+      "keywords": [
+        "人性决定作用",
+        "品位内作用"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-nature-4",
+      "knowledgeId": "china-reviewed-ch4-han-nature",
+      "title": "教育权利与内容",
+      "text": "上品和中品之性均可接受学校教育；儒家经典被视为最好的教育内容。",
+      "keywords": [
+        "上中品受教",
+        "儒家经典"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-nature-5",
+      "knowledgeId": "china-reviewed-ch4-han-nature",
+      "title": "评价",
+      "text": "为多数人可接受教育提供理论依据，但教育作用论具有唯心主义色彩；性情结合说影响宋明理学。韩愈主张控制人的情欲，与宋明理学“明天理，灭人欲”有异曲同工之处。",
+      "keywords": [
+        "多数人受教",
+        "唯心主义",
+        "影响理学",
+        "控制情欲"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-han-talent-0",
+      "knowledgeId": "china-reviewed-ch4-han-talent",
+      "title": "用德礼重学校",
+      "text": "用德礼而重学校，学校为政治服务；学校任务是训练官吏。",
+      "keywords": [
+        "德礼",
+        "学校为政治",
+        "训练官吏"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-talent-1",
+      "knowledgeId": "china-reviewed-ch4-han-talent",
+      "title": "整顿国学：招生",
+      "text": "放宽招生的等级限制。",
+      "keywords": [
+        "放宽等级"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-talent-2",
+      "knowledgeId": "china-reviewed-ch4-han-talent",
+      "title": "整顿国学：学官",
+      "text": "选任学官以实际才学为标准。",
+      "keywords": [
+        "实际才学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-talent-3",
+      "knowledgeId": "china-reviewed-ch4-han-talent",
+      "title": "整顿国学：学风",
+      "text": "恢复教学秩序是转变学风的首要任务。",
+      "keywords": [
+        "恢复教学秩序"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-talent-4",
+      "knowledgeId": "china-reviewed-ch4-han-talent",
+      "title": "地方学校",
+      "text": "恢复发展地方学校。",
+      "keywords": [
+        "地方学校"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-teacher-0",
+      "knowledgeId": "china-reviewed-ch4-han-teacher",
+      "title": "主旨",
+      "text": "《师说》提倡尊师重道，主张建立平等的师生观。",
+      "keywords": [
+        "师说",
+        "尊师重道",
+        "平等师生观"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-teacher-1",
+      "knowledgeId": "china-reviewed-ch4-han-teacher",
+      "title": "尊师原因",
+      "text": "政治上师道即君道、尊师即忠君；儒学上出于崇儒卫道需要；教师方面针对“耻学于师”风气；学生方面因为“人非生而知之者”。",
+      "keywords": [
+        "师道君道",
+        "崇儒卫道",
+        "耻学于师",
+        "非生而知"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-teacher-2",
+      "knowledgeId": "china-reviewed-ch4-han-teacher",
+      "title": "教师地位",
+      "text": "“学者必有师”，应尊师重道。",
+      "keywords": [
+        "学者必有师",
+        "尊师重道"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-teacher-3",
+      "knowledgeId": "china-reviewed-ch4-han-teacher",
+      "title": "教师任务",
+      "text": "原书称韩愈首次提出教师任务是“传道、授业、解惑”。",
+      "keywords": [
+        "传道",
+        "授业",
+        "解惑"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-teacher-4",
+      "knowledgeId": "china-reviewed-ch4-han-teacher",
+      "title": "择师标准",
+      "text": "以“道”为求师标准，主张“学无常师”。",
+      "keywords": [
+        "以道求师",
+        "学无常师"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-teacher-5",
+      "knowledgeId": "china-reviewed-ch4-han-teacher",
+      "title": "师生关系",
+      "text": "提倡“相师”和民主性的师生关系：“弟子不必不如师，师不必贤于弟子。闻道有先后，术业有专攻，如是而已。”",
+      "keywords": [
+        "相师",
+        "弟子不必不如师",
+        "闻道术业"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch4-han-teacher-6",
+      "knowledgeId": "china-reviewed-ch4-han-teacher",
+      "title": "《师说》评价",
+      "text": "原书评价《师说》为我国教育史上第一篇较全面从理论上论述教师观的文章，体现朴素辩证法色彩，丰富了古代教师理论。",
+      "keywords": [
+        "教师观",
+        "朴素辩证法",
+        "教师理论"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch4-han-eval-0",
+      "knowledgeId": "china-reviewed-ch4-han-eval",
+      "title": "总体评价",
+      "text": "韩愈是唐代后期儒学教育思想的主要代表，反佛道、兴儒学；教育思想具有一定进步性，尤其教师观独树一帜。",
+      "keywords": [
+        "唐代后期",
+        "反佛道兴儒学",
+        "教师观"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p041-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "育士制度：魏晋南北朝官学的变革 · 第33页",
+        "section": "第一节委魏晋南北朝的教育制度与实践",
+        "refs": [
+          {
+            "page": 41,
+            "rect": [
+              0.07558,
+              0.21157,
+              0.83576,
+              0.29954
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 41195,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p041-k02-0-s0",
+          "knowledgeId": "china-p041-k02-0",
+          "title": "西晋的国",
+          "text": "（一）西晋的国\n1.简介：西晋为了维护门阀士族的利益和尊贵，建立国子学。\n2.内容：旨在培养贵族子弟的国子学，是太学之外的另一所儒学学校。\n子学\n3.评价：体现了中央官学等级制的发展。\n（1）简介：南朝宋文帝创办的中央官学。\n魏晋南北朝官学的变革",
+          "keywords": [
+            "西晋的国",
+            "魏晋南北朝官学的变革"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p041-k02-0-s1",
+          "knowledgeId": "china-p041-k02-0",
+          "title": "“四馆”",
+          "text": "（2）内容：①儒学馆、玄学馆、史学馆、文学馆（按照开设时\n1.“四馆”\n间排序）。②“四馆”并列，各自招收学生。\n（3）评价：打破汉代以来经学教育独霸官学的局面。\n(二)\n南朝宋的\n“四馆”和总明观\n（1）简介：南朝宋明帝设立的中央官学。",
+          "keywords": [
+            "“四馆”",
+            "南朝宋的",
+            "“四馆”和总明观"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p041-k02-0-s2",
+          "knowledgeId": "china-p041-k02-0",
+          "title": "总明观",
+          "text": "（2）内容：①总明观是总领导机构，下设科目：儒、玄、文、\n2.总明观\n史四科。②藏书、研究、教学三位一体。\n（3）意义：使原来四个单科性质的大学发展成在多科性大学\n中实行分科教授的制度。\n（三）北魏的官学\n（略）",
+          "keywords": [
+            "总明观",
+            "北魏的官学"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p041-k03-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "第二节隋唐时期的教育制度与实践 · 第33页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 41,
+            "rect": [
+              0.35588,
+              0.59359,
+              0.27377,
+              0.02988
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 41539,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p041-k03-0-s0",
+          "knowledgeId": "china-p041-k03-0",
+          "title": "（隋唐时期教育体系的完备）",
+          "text": "（隋唐时期教育体系的完备）",
+          "keywords": [
+            "（隋唐时期教育体系的完备）"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p041-k04-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "教育管理：文教政策的探索与稳定 · 第33页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 41,
+            "rect": [
+              0.08729,
+              0.66152,
+              0.81991,
+              0.21731
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 41600,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p041-k04-0-s0",
+          "knowledgeId": "china-p041-k04-0",
+          "title": "简介",
+          "text": "（一）简介\n“重振儒术，兼用佛道”。\n1.崇儒兴学。\n2.兼用佛道。\n措施\n文教政策的\n3.发展科举。\n探索与稳定\n4.任立私学。\n承上启下，文化融合。\n1.承上：隋唐既承接汉代儒学发展，又利用魏晋以来的佛教和道教。\n（三）评价",
+          "keywords": [
+            "简介",
+            "“重振儒术，兼用佛道”",
+            "文教政策的"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p041-k04-0-s1",
+          "knowledgeId": "china-p041-k04-0",
+          "title": "原文小步 2",
+          "text": "隋唐建立了更为完善的以儒学为核心的经学教育体系。\n2.启下：为宋代理学教育的产生奠定了基础。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p042-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "教育管理：政府教育管理机构和体制的确立 · 第34页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 42,
+            "rect": [
+              0.10382,
+              0.11249,
+              0.82198,
+              0.33529
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 42106,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p042-k01-0-s0",
+          "knowledgeId": "china-p042-k01-0",
+          "title": "简介",
+          "text": "1.简介\n隋代为了加强对教育事业的管理和领导，设立了国子\n寺，后更名为国子监，这标志着教育管理机构的诞生。\n国子监贯穿各朝各代，直到清末学部成立方告终结。\n（1）性质：国子监既是中央政府最高教育行\n（一）教育管理机构：\n政机构，又是国家最高学府。\n国子监",
+          "keywords": [
+            "简介",
+            "教育管理机构",
+            "国子监"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p042-k01-0-s1",
+          "knowledgeId": "china-p042-k01-0",
+          "title": "内容",
+          "text": "（2）管理：国子监专门负责和管理中央官学\n2. 内容\n的“六学一馆”。\n（3）长官：国子监设祭酒一人，管理教育事业，\n政府教育管理\n是国家教育管理的最高行政长官。\n机构和体制的\n3. 评价\n我国历史上首次设立的最高教育行政机构，标志着\n确立",
+          "keywords": [
+            "内容",
+            "政府教育管理",
+            "机构和体制的"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p042-k01-0-s2",
+          "knowledgeId": "china-p042-k01-0",
+          "title": "教育管理体制",
+          "text": "教育发展成为独立的部门，促使经学教育学校体系\n的发展形成高潮，这在中国教育史上有重大意义。\n1.中央管理和地方管理并举。国子祭酒负责→中央官学；\n地方行政长官长史负责→地方官学。\n（二）教育管理体制\n2.统一管理与对口管理并举。国子监统一管理→教育事业；",
+          "keywords": [
+            "教育管理体制"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p042-k01-0-s3",
+          "knowledgeId": "china-p042-k01-0",
+          "title": "原文小步 4",
+          "text": "对口部门管理→专门学校。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p042-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "育士制度：中央和地方官学体系的完备 · 第34页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 42,
+            "rect": [
+              0.10037,
+              0.49145,
+              0.82337,
+              0.43539
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 42447,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p042-k02-0-s0",
+          "knowledgeId": "china-p042-k02-0",
+          "title": "机构",
+          "text": "一（1）“六学一馆”国子学、太学、四门学、律学、算学、书学、\n广文馆（进士科备考）。（详见下表）\n（2）专门学校：①对口机构管理的专门学校。\n1.机构\n如：太医署→医药学；太乐署→乐舞学。（详见下表）\n②弘文馆和崇文馆。\n（一）中央官学",
+          "keywords": [
+            "机构",
+            "中央官学"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p042-k02-0-s1",
+          "knowledgeId": "china-p042-k02-0",
+          "title": "特点",
+          "text": "前者由门下省主办，后者由东宫主办。\n2. 特点\n唐代中央官学较为发达，种类繁多、人数众多、等级森严、内容丰富、\n制度完备，远超前朝。\n1.机构：类型有三种一经学、医学、崇玄学，但主要学习儒家经典。\n地方官学",
+          "keywords": [
+            "特点",
+            "地方官学"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p042-k02-0-s2",
+          "knowledgeId": "china-p042-k02-0",
+          "title": "中央和地方官学体系的完备",
+          "text": "2.特点：地方官学发达，学生出路多，可升入四门学，参加科举（乡贡），\n中央和地方官学体系的完备\n也可成为地方官吏，还可以自由择业。\n1.入学制度。（1）等级入学制度。贵族与官僚子弟优先入学。\n（2）限制入学年龄。除广文馆外，申请入监者都有年龄限制。",
+          "keywords": [
+            "中央和地方官学体系的完备"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p042-k02-0-s3",
+          "knowledgeId": "china-p042-k02-0",
+          "title": "管理制度",
+          "text": "2.学礼制度。如束之礼、国学释奠礼、贡士谒见礼及使者观礼等。\n3.教学制度。教学要有专业性。规定教学内容与教学年限。\n(三)\n管理制度\n4.考核制度。有旬试、月试、季试、岁试和毕业试。\n5.惩罚制度。不率师教、学业无成、假违程限、作乐杂戏者令其退学。",
+          "keywords": [
+            "管理制度"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p042-k02-0-s4",
+          "knowledgeId": "china-p042-k02-0",
+          "title": "评价",
+          "text": "6.休假制度。有旬假（每10日一休沐日）、田假（15天）和授衣假（15天）。\n（四)评价\n唐代官学的发达与完备并没有妨碍私学的发展，官学与私学相互补充，共同构",
+          "keywords": [
+            "评价"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p043-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "育士制度：中央和地方官学体系的完备 · 第35页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 43,
+            "rect": [
+              0.08566,
+              0.07746,
+              0.81494,
+              0.81691
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 43075,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p043-k00-0-s0",
+          "knowledgeId": "china-p043-k00-0",
+          "title": "凯程助记",
+          "text": "凯程助记\n入学有限制，学礼需定期，教学很专业，考核较频繁，督责惩戒必须有，休假不可少。\n唐代学校教育系统表\n性质\n分类\n名称\n学习内容与生源\n主管部门\n弘文馆\n收藏、校理书籍和研究教授\n门下省主办\n皇亲国戚及高级官员子弟\n崇文馆\n儒家经典三位一体\n东宫主办\n广文馆",
+          "keywords": [
+            "凯程助记"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p043-k00-0-s1",
+          "knowledgeId": "china-p043-k00-0",
+          "title": "原文小步 2",
+          "text": "帖经、杂文、时务策\n进士科举考试者\n三品以上及国公子孙、从\n国子学\n儒学\n二品以上曾孙\n五品以上及郡县公子孙、\n太学\n儒学经典\n从三品曾孙\n七品以上及侯伯子男子之\n四门学\n为生者，或庶人子有文化\n知识经考试选拔为俊士者\n国子监主办，\n合称“六学一馆”\n培养熟识唐朝律令的行政官\n律学",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p043-k00-0-s2",
+          "knowledgeId": "china-p043-k00-0",
+          "title": "原文小步 3",
+          "text": "员，以学习唐律令为主要内容\n中央官学\n培养天文、历法、财务、工程\n专门\n算学\n等方面的专业计算人才，以算\n八品以下子及庶人子之通\n学校\n学专书为主要学习内容\n其学者\n培养通晓文字并精于书法的官\n书学\n员，以学习《石经》《说文》《字\n林》为主要内容\n医药学\n太医署主办\n天文学",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p043-k00-0-s3",
+          "knowledgeId": "china-p043-k00-0",
+          "title": "原文小步 4",
+          "text": "司天台主办\n学习专业知识\n乐舞学\n太乐署主办\n其他专\n兽医学\n太仆寺主办\n门学校\n学习《老子》《庄子》《文子》《列子》等道教经典，学生\n崇玄学\n尚书省祠部主办\n毕业后可参加道举考试\n地方官学\n府学；州学；县学",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p044-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "育士制度：私学发展 · 第36页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 44,
+            "rect": [
+              0.10283,
+              0.12713,
+              0.81838,
+              0.50662
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 44119,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p044-k01-0-s0",
+          "knowledgeId": "china-p044-k01-0",
+          "title": "私学发展的原因",
+          "text": "1.社会民众的需要。\n2.政府政策的倡导。\n私学发展的原因\n3.隋唐经济的繁荣。\n4.私学灵活多样。\n二私学的分类\n1.初级私学\n进行启蒙识字教育和生活、伦理常识教育的场所，没有成文的规定。\n2.高级私学\n凡进行专经传授或其他专业知识技术传授的为高级私学。\n1. 简介",
+          "keywords": [
+            "私学发展的原因",
+            "私学的分类",
+            "初级私学"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p044-k01-0-s1",
+          "knowledgeId": "china-p044-k01-0",
+          "title": "私学发展",
+          "text": "由私人读书、藏书的场所演化为讲学授徒的场所，既有藏书，又有教学活\n私学发展\n动的书院，才是名副其实的书院。\n(1)\n中央政府设立：集贤殿书院、丽正修书院。\n2.典型\n(2)\n民间设立：李秘书院、松洲书院等（以人名或地名命名）。\n三唐末书院",
+          "keywords": [
+            "私学发展",
+            "典型",
+            "唐末书院"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p044-k01-0-s2",
+          "knowledgeId": "china-p044-k01-0",
+          "title": "萌芽原因",
+          "text": "（1）官学衰落。社会动荡，官学衰落，士人失学。\n（2）私学传统。我国有源远流长的私学讲学传统。\n3.萌芽原因\n(3)\n禅林制度。受佛教禅林制度的影响。\n（4）印刷技术。由于印刷术的发展，书籍大量增加。\n4.评价",
+          "keywords": [
+            "萌芽原因",
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p044-k01-0-s3",
+          "knowledgeId": "china-p044-k01-0",
+          "title": "评价",
+          "text": "承担起培育人才、收藏图书、传播中华文化的任务，为宋朝书院的发展\n打下基础。\n1.在职能上，私学承担了启蒙识字基础教育和民族文化传承的任务。\n（四）评价\n2.在特点上，私学具有很强的自由性。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p044-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "育士制度：学校教育发展的特点 · 第36页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 44,
+            "rect": [
+              0.10626,
+              0.68422,
+              0.51137,
+              0.1651
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 44621,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p044-k02-0-s0",
+          "knowledgeId": "china-p044-k02-0",
+          "title": "中央官学",
+          "text": "六学一馆”。\n1.中央官学\n专门学校。\n（一）隋唐学校体系总结\n2.地方官学\n经学、医学、崇玄学。\n初级私学。\n3. 私学发展\n高级私学。\n唐末书院。",
+          "keywords": [
+            "中央官学",
+            "隋唐学校体系总结",
+            "地方官学"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p045-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "育士制度：学校教育发展的特点 · 第37页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 45,
+            "rect": [
+              0.09184,
+              0.08105,
+              0.77717,
+              0.19223
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 45078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p045-k00-0-s0",
+          "knowledgeId": "china-p045-k00-0",
+          "title": "宏观",
+          "text": "①学校体系的形成。\n（1）宏观\n②教育行政体制分级管理的确立。\n1.管理方面\n（2）微观：学校内部教学管理制度及法规的完善。\n①学校教育制度表现出多样性和等级性。\n（二）学校教育\n（1）国内学校\n②专业教育的重视。\n发展的特点\n③学校教育与行政机构及事务部门的结合。",
+          "keywords": [
+            "宏观",
+            "管理方面",
+            "学校教育"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p045-k00-0-s1",
+          "knowledgeId": "china-p045-k00-0",
+          "title": "育士方面",
+          "text": "2.育士方面\n（2）国际交流：扩大了国际国内文化教育的交流。\n3.选士方面\n学校与科举的关系极为密切。",
+          "keywords": [
+            "育士方面",
+            "选士方面"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p045-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "选士制度：科举考试制度建立 · 第37页（1）",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 45,
+            "rect": [
+              0.08497,
+              0.32324,
+              0.82319,
+              0.51072
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 45296,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p045-k01-0-s0",
+          "knowledgeId": "china-p045-k01-0",
+          "title": "知识小贴士",
+          "text": "知识小贴士\n隋唐三省六部制\n（一）科举制度的产生\n皇帝\n科举\n（二）考试的程序、科目与方法\n制度\n（三）科举制度与学校教育的关系\n中书省\n尚书省\n门下省\n（四）科举制度的影响\n吏部\n户部\n礼部\n兵部\n刑部\n工部\n1.含义",
+          "keywords": [
+            "知识小贴士",
+            "含义"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p045-k01-0-s1",
+          "knowledgeId": "china-p045-k01-0",
+          "title": "科举制度的产生",
+          "text": "科举制度产生于隋朝，发展于唐宋，是我国封建社会中持续时间最长、影响范围最广的\n选士制度，共存在1300年。科举考试是个人自愿报考，县州逐级考试筛选的以分科考\n试为办法的选才制度。\n一科举制度的产生\n(1)",
+          "keywords": [
+            "科举制度的产生"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p045-k01-0-s2",
+          "knowledgeId": "china-p045-k01-0",
+          "title": "原因",
+          "text": "求贤若渴。隋朝统一国家后，为了巩固政权，迫切需要大量德才兼备的人才充任官吏。\n(2)\n庶族愿望。庶族希望参与政治、分享权力。\n2. 原因\n(3)\n旧制不妥。九品中正制仅凭门第取士，不适应隋朝社会发展的要求。\n(4)",
+          "keywords": [
+            "原因"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p045-k01-0-s3",
+          "knowledgeId": "china-p045-k01-0",
+          "title": "产生",
+          "text": "新制已验。西魏时已经有了不全凭门第的考试选士方法。\n(1)\n）起步：隋炀帝时期，始建进士科，标志着科举考试制度的诞生。\n（2）发展：①唐太宗时期，一方面，扩建校舍，振兴学校；另一方面，开科取士，网罗人才。\n3.产生",
+          "keywords": [
+            "产生"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p045-k01-0-s4",
+          "knowledgeId": "china-p045-k01-0",
+          "title": "考生来源",
+          "text": "②唐高宗时期，科举考试日益健全，取士名额扩大。\n③武则天时期，轻视学校教育，重视科举，开创了殿试、武举、糊名制。\n（3）完备：唐玄宗时期发展完备，促使学校教育和科举考试相得益彰，共同发展。\n1.考生来源\n（1）生徒（中央官学与地方官学校内考试合格的学生）。",
+          "keywords": [
+            "考生来源"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p045-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "选士制度：科举考试制度建立 · 第37页（2）",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 45,
+            "rect": [
+              0.08085,
+              0.82452,
+              0.80876,
+              0.055
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 45752,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p045-k01-1-s0",
+          "knowledgeId": "china-p045-k01-1",
+          "title": "考试的程序、科目与方法",
+          "text": "（二）考试的程序、科目与方法\n（2）乡贡（通过自学，向所在州、县官府报考的学生）。\n2.考试程序\n乡试一尚书省礼部举办的省试一吏部试。",
+          "keywords": [
+            "考试的程序、科目与方法",
+            "考试程序"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p046-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "选士制度：科举考试制度建立 · 第38页（1）",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 46,
+            "rect": [
+              0.09802,
+              0.08309,
+              0.82456,
+              0.59265
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 46080,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p046-k00-0-s0",
+          "knowledgeId": "china-p046-k00-0",
+          "title": "①常科：定期举行",
+          "text": "①常科：定期举行。\na.秀才科。为最高、最难的科目。\nb.明经科。考核儒家经典，最重视帖经，此外还有口试、时务策。\n二考试的程序、科目与方法\nc.进士科。注重诗赋，考查写作能力和应变能力。（三十老明经，\n(1）文科举\n五十少进士）\nd.明法科。考查法令。",
+          "keywords": [
+            "①常科：定期举行",
+            "考试的程序、科目与方法",
+            "文科举"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p046-k00-0-s1",
+          "knowledgeId": "china-p046-k00-0",
+          "title": "考试科目",
+          "text": "e.明字科。考查书学。\n3. 考试科目\nf.明算科。考查数学。\n②制科：不定期举行，地位不如常科。\n(2)武科举\n4.考试方法\n帖经（类似填空）、墨义（类似默写）、口试、策问（写出政论性的文章）、诗赋。\n(1)\n学校教育是科举制度的基础\n1.相互促进\n(2)",
+          "keywords": [
+            "考试科目",
+            "武科举",
+            "考试方法"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p046-k00-0-s2",
+          "knowledgeId": "china-p046-k00-0",
+          "title": "科举选拔刺激学校教育的发展",
+          "text": "科举选拔刺激学校教育的发展。\n三科举制度与学校教育的关系\n学校教育的兴衰影响科举取士的数量和质量。\n①科举考试影响学校教育的培养目标。\n2.相互制约\n②科举考试影响学校的教学内容。\n（2）科举考试是学校教育的指挥棒\n③科举考试影响学校的教学方法。",
+          "keywords": [
+            "科举选拔刺激学校教育的发展",
+            "科举制度与学校教育的关系",
+            "相互制约"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p046-k00-0-s3",
+          "knowledgeId": "china-p046-k00-0",
+          "title": "只是辅助因素",
+          "text": "④科举考试影响学校的地位。\n(1）决定封建学校教育发展的终极因素是政治、经济、文化，科举制度\n只是辅助因素。\n3.学校教育成为科举\n(2）当统治者偏重科举制度时，学校容易成为科举制度的附庸。\n制度附庸的根本原因",
+          "keywords": [
+            "只是辅助因素",
+            "学校教育成为科举",
+            "制度附庸的根本原因"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p046-k00-0-s4",
+          "knowledgeId": "china-p046-k00-0",
+          "title": "相互促进，共同巩固封建统治",
+          "text": "(3）当统治者采用合理的方式去平衡学校教育与科举制度时，二者则会\n相互促进，共同巩固封建统治。\n（1）有利于加强中央集权。（中央集权+文化修养+统治基础+缓和阶级矛盾）\n①中央政府掌握选士大权，有利于加强中央集权。\n②提高官吏的文化修养，利于国家长治久安。",
+          "keywords": [
+            "相互促进，共同巩固封建统治"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p046-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "选士制度：科举考试制度建立 · 第38页（2）",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 46,
+            "rect": [
+              0.10146,
+              0.66988,
+              0.81975,
+              0.22245
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 46613,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p046-k00-1-s0",
+          "knowledgeId": "china-p046-k00-1",
+          "title": "科举制度的影响",
+          "text": "③利于扩大统治基础。\n四科举制度的影响\n④利于国家统一思想，笼络人心，缓和阶级矛盾。\n（2）使选士与育士紧密结合。（学习风气+统一于儒学+教育普及+扭转思想）\n①促使社会形成良好的学习风气。\n1.积极影响\n②促进人们的思想统一于儒学，结束思想混乱的局面。",
+          "keywords": [
+            "科举制度的影响",
+            "积极影响"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p046-k00-1-s1",
+          "knowledgeId": "china-p046-k00-1",
+          "title": "原文小步 7",
+          "text": "③有利于教育的普及，兴办学校。\n④种类繁多的考试科目扭转了人们重文轻武的思想。\n（3）使人才选拔较为公正客观。（重视才能+检验能力+世界最早）\n①重视人的知识和才能，而非门第。\n②考核策问与诗赋，有利于检验人的能力。\n③我国是世界上最早实行文官考试制的国家。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p047-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "选士制度：科举考试制度建立 · 第39页",
+        "section": "第二节隋唐时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 47,
+            "rect": [
+              0.09047,
+              0.08658,
+              0.82112,
+              0.18694
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 47083,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p047-k00-0-s0",
+          "knowledgeId": "china-p047-k00-0",
+          "title": "科举制度的影响",
+          "text": "（1）国家只重科举取士，而忽略了学校教育。学校成为科举制度的附庸。\n(2）科举制度具有很大的欺骗性。(评分主观+作弊严重+浪费时间)\n四科举制度的影响\n①评分时主观随意因素会影响评分的客观性。\n②考官受贿和考试作弊现象严重。",
+          "keywords": [
+            "科举制度的影响"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p047-k00-0-s1",
+          "knowledgeId": "china-p047-k00-0",
+          "title": "消极影响",
+          "text": "③诱骗知识分子为功名利禄而学习，大部分考生将终生时间浪费在科举考试上。\n2. 消极影响\n(3）科举制度束缚思想，败坏学风。(败坏学风+性格缺陷+功利读书观)\n①导致学校形成教条主义、形式主义的学习风气。\n②影响中国知识分子的性格",
+          "keywords": [
+            "消极影响"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p047-k00-0-s2",
+          "knowledgeId": "china-p047-k00-0",
+          "title": "原文小步 3",
+          "text": "各一一重权威轻创新、重经书轻科学、重书本轻实践、\n重记忆轻思考。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p047-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "颜之推的教育思想 · 第39页",
+        "section": "第三节魏晋南北朝与隋唐时期的教育思想",
+        "refs": [
+          {
+            "page": 47,
+            "rect": [
+              0.08635,
+              0.41906,
+              0.82318,
+              0.35676
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 47382,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p047-k02-0-s0",
+          "knowledgeId": "china-p047-k02-0",
+          "title": "教育实践",
+          "text": "教育实践\n颜之推是南朝梁到隋朝初期的思想家与教育家。\n《颜氏家训》是我国第一部系统完整的家庭教育教科书。\n（1）在人性论上，颜之推主张“性三品”说。\n颜之推\n(2）在社会地位上，接受教育是维护士大夫原有社会\n1. 教育作用:\n地位的必要手段。\n必须重视教育",
+          "keywords": [
+            "教育实践",
+            "颜之推",
+            "教育作用"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p047-k02-0-s1",
+          "knowledgeId": "china-p047-k02-0",
+          "title": "教育目标",
+          "text": "（3）在谋生技能上，接受教育也是人们谋生的手段。\n（4）评价：从“利”的角度论述。\n2. 教育目标:\n实际效用的各方面人才一冲破“君子、圣人”的抽象\n（二）论士大夫教育\n培养治国人才\n的培养目标。\n（1）德：重视“仁义”。孝梯仁义。",
+          "keywords": [
+            "教育目标",
+            "论士大夫教育",
+            "培养治国人才"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p047-k02-0-s2",
+          "knowledgeId": "china-p047-k02-0",
+          "title": "教育内容",
+          "text": "（2）艺：渊博的知识一一必读的经史百家+兼习杂\n3. 教育内容:\n艺（琴棋书画数医射投）+农业生产知识。\n（3）关系：相互联系。道德教育是根本，知识教育\n德艺周厚\n是道德教育的基础。\n（4）评价：教育内容扩展了，也比传统的唯以圣贤\n为楷模的儒家思想进步了。",
+          "keywords": [
+            "教育内容",
+            "德艺周厚"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p048-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "颜之推的教育思想 · 第40页",
+        "section": "第三节魏晋南北朝与隋唐时期的教育思想",
+        "refs": [
+          {
+            "page": 48,
+            "rect": [
+              0.10008,
+              0.08147,
+              0.82044,
+              0.41762
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 48078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p048-k00-0-s0",
+          "knowledgeId": "china-p048-k00-0",
+          "title": "原则与方法",
+          "text": "-1.重视早教的原因：（1）可塑性强；（2）记忆力好。\n2.原则与方法：\n(1）严慈相济不溺爱，树立威严可体罚。“使为则为，使止则止。”\n（2）切忌偏宠和偏爱，同样爱护与标准。“贤俊者自可赏爱，顽鲁者亦当矜怜。”\n(3）通用语言不方言，语言教育有规范。",
+          "keywords": [
+            "原则与方法"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p048-k00-0-s1",
+          "knowledgeId": "china-p048-k00-0",
+          "title": "论家庭教育",
+          "text": "(4）道德教育重风化，示范孝梯和立志。\n（三）论家庭教育\n（5）勤学切重交流，读书实践靠眼学。“好问则裕”“独学而无友，则孤陋而\n寡闻”“必须眼学，勿信耳受”。\n（6）学习态度要端正，不为做官和阔论。\n颜之推",
+          "keywords": [
+            "论家庭教育",
+            "颜之推"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p048-k00-0-s2",
+          "knowledgeId": "china-p048-k00-0",
+          "title": "意义",
+          "text": "（1）有独创的家庭教育见解。既揭露了士大夫教育的腐朽，又总结\n了治学治家经验的结晶。\n(2）相较传统儒学思想的进步之处。\n1. 意义\n①作用上：更多地从“利”的角度强调教育的重要性。\n②目的上：要求培养各种实用人才。\n(四) 评价",
+          "keywords": [
+            "意义",
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p048-k00-0-s3",
+          "knowledgeId": "china-p048-k00-0",
+          "title": "局限",
+          "text": "③内容上：农工商贾、厮役奴隶都有可学习之处，士大夫也应该学\n习农业生产知识。\n（1）有宗教色彩。\n2. 局限\n（2）站在士大夫的立场谈家庭教育，有阶级局限性。\n（3）不放弃棍棒教育，具有封建专制色彩。",
+          "keywords": [
+            "局限"
+          ],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p048-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "韩愈的教育思想 · 第40页",
+        "section": "第三节魏晋南北朝与隋唐时期的教育思想",
+        "refs": [
+          {
+            "page": 48,
+            "rect": [
+              0.10352,
+              0.56433,
+              0.81975,
+              0.33425
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 48513,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p048-k01-0-s0",
+          "knowledgeId": "china-p048-k01-0",
+          "title": "三运动",
+          "text": "（1）在思想上，他主张复兴儒学。发出“尊孔孟、排异端”的号召，尤其反对佛教。\n（2）在文学上，他倡导古文运动。反对体文，主张接近口语的散体文，弘扬\n1.三运动\n一教育实践\n儒学思想。\n（3）在教育上，他倡导师道运动。发表《师说》，主张尊师重教。\n2.著作",
+          "keywords": [
+            "三运动",
+            "教育实践",
+            "著作"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p048-k01-0-s1",
+          "knowledgeId": "china-p048-k01-0",
+          "title": "文化观：重",
+          "text": "《师说》《马说》《原道》。《师说》是中国古代第一篇集中论述教师问题的文章。\n《原道》：“儒家之道是真正的正统。”\n（1）内涵：韩愈反抗佛教的“法统”，提倡儒家的“道统”，“道”指\n儒家的仁义道德理念。\n1.文化观：重",
+          "keywords": [
+            "文化观：重"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p048-k01-0-s2",
+          "knowledgeId": "china-p048-k01-0",
+          "title": "振儒学的卫道",
+          "text": "（2）教育目的：“明先王之教”“学所以为道”。解释为：发扬先王所\n加强\n提倡的儒家教育内容，通过教育让人们重新认识儒家的仁义道德。\n儒学\n振儒学的卫道\n（3）评价：①韩愈是“重振儒学的卫道者”，他要恢复儒学的独尊\n正统\n者 (道统说）\n地位。\n地位。",
+          "keywords": [
+            "振儒学的卫道",
+            "者 (道统说）"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p048-k01-0-s3",
+          "knowledgeId": "china-p048-k01-0",
+          "title": "原文小步 4",
+          "text": "②韩愈为后世理学教育思想提供理论准备。他对儒家\n道德观的推崇成为理学道德自律思想的理论准备。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p049-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "韩愈的教育思想 · 第41页（1）",
+        "section": "第三节魏晋南北朝与隋唐时期的教育思想",
+        "refs": [
+          {
+            "page": 49,
+            "rect": [
+              0.08591,
+              0.09272,
+              0.82612,
+              0.60126
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 49088,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p049-k00-0-s0",
+          "knowledgeId": "china-p049-k00-0",
+          "title": "原文小步 1",
+          "text": "（1）“性三品”说：出自《原性》，属于唯心主义的天命论。\n①人性分三品。上品之性为善性；中品之性可善可恶，尚未定型；下品之性为\n恶性。\n②人性中有情。性是情的基础。有什么样的性，就有什么样的情。\n③性的品级不可移。教育的作用，就是在既定的品格之内使性移动。",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p049-k00-0-s1",
+          "knowledgeId": "china-p049-k00-0",
+          "title": "教育作用",
+          "text": "(2) 教育作用:\n①人性决定教育所起的作用。人性是决定教育的主要因素，教育只能在人性\n2.教育作用\n品位内发生作用。\n②人性规定教育的权利。上品和中品之性均可以接受学校教育。\n③人性决定教育的主要内容。儒家经典是最好的教育内容。\n(3）评价：",
+          "keywords": [
+            "教育作用",
+            "教育作用",
+            "评价"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p049-k00-0-s2",
+          "knowledgeId": "china-p049-k00-0",
+          "title": "原文小步 3",
+          "text": "①韩愈为多数人可以接受教育提供了理论依据。\n②韩愈对教育作用的论述具有唯心主义色彩。\n③韩愈的性与情相结合的学说，对宋明理学有很大影响。韩愈主张要控制人\n的情欲，这与宋明理学的“明天理，灭人欲”有异曲同工之处。\n（1）用德礼而重学校。学校为政治服务。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p049-k00-0-s3",
+          "knowledgeId": "china-p049-k00-0",
+          "title": "学校的任务是训练官吏",
+          "text": "(2） 学校的任务是训练官吏。\n(3） 整顿国学:\n3.人才培养和选拔\n①在招生制度方面，放宽等级限制。\n②在选任学官方面，以实际才学为标准。\n男考\n③在转变学风方面，以恢复教学秩序为首要。\n二教育思想\n（4）恢复发展地方学校。",
+          "keywords": [
+            "学校的任务是训练官吏",
+            "整顿国学",
+            "人才培养和选拔"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p049-k00-0-s4",
+          "knowledgeId": "china-p049-k00-0",
+          "title": "尊师的原因",
+          "text": "（1）简介：《师说》价值重大，提倡尊师重道，提倡建立平等的师生观。\n(2）尊师的原因：\n①政治：师道即君道，尊师即忠君。\n②儒学：崇儒卫道的需要。\n③教师：“耻学于师”的社会风气。\n④学生：“人非生而知之者”。\n（3）教师的地位：①“学者必有师”。②尊师重道",
+          "keywords": [
+            "尊师的原因",
+            "②儒学：崇儒卫道的需要",
+            "④学生：“人非生而知之者”"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p049-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-3",
+        "title": "韩愈的教育思想 · 第41页（2）",
+        "section": "第三节魏晋南北朝与隋唐时期的教育思想",
+        "refs": [
+          {
+            "page": 49,
+            "rect": [
+              0.16855,
+              0.68403,
+              0.74003,
+              0.20585
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 49626,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p049-k00-1-s0",
+          "knowledgeId": "china-p049-k00-1",
+          "title": "论师道",
+          "text": "（4）教师的任务：韩愈首次提出教师的任务是“传道、授业、解惑”。\n4.论师道\n（5）择师的标准：以“道”为求师的标准，主张“学无常师”。\n（6）师生关系：韩愈提倡“相师”建立民主性的师生关系。“是故弟子不必不如师，",
+          "keywords": [
+            "论师道"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p049-k00-1-s1",
+          "knowledgeId": "china-p049-k00-1",
+          "title": "《师说》评价",
+          "text": "师不必贤于弟子。闻道有先后，术业有专攻，如是而已。”\n（7）《师说》评价：\n①《师说》的地位：我国教育史上第一篇比较全面地从理论上论述教师观的文章。\n《师说》的特点：体现了朴素辩证法的色彩。\n③《师说》的影响：丰富了古代教师理论。",
+          "keywords": [
+            "《师说》评价"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p049-k00-1-s2",
+          "knowledgeId": "china-p049-k00-1",
+          "title": "评价",
+          "text": "（1）韩愈是唐代后期儒学教育思想的主要代表。反佛道，兴儒学。\n5.评价\n（2）教育思想具有一定的进步性，尤其是教师观独树一帜。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 9,
+    "knowledge": 41,
+    "steps": 136,
+    "readOnlySteps": 34,
+    "replacedDrafts": 19
+  }
+}

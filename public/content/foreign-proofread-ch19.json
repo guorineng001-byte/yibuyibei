@@ -1,0 +1,1878 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch19-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch19-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "第七章章节框架",
+      "section": "外教 · 法国的近现代教育制度 · 章节框架",
+      "refs": [
+        {
+          "page": 140,
+          "rect": [
+            0.07,
+            0.16,
+            0.86,
+            0.41
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 140144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-before-revolution",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（一）法国大革命以前的教育",
+      "section": "第一节 · 17—18世纪的法国近代教育概况",
+      "refs": [
+        {
+          "page": 140,
+          "rect": [
+            0.07,
+            0.71,
+            0.86,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 140639,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-revolution",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（二）大革命时期的教育改革方案与主张",
+      "section": "第一节 · 17—18世纪的法国近代教育概况",
+      "refs": [
+        {
+          "page": 141,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 141072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-imperial-university",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（一）教育管理：帝国大学",
+      "section": "第二节 · 19世纪的法国近代教育概况",
+      "refs": [
+        {
+          "page": 141,
+          "rect": [
+            0.07,
+            0.39,
+            0.86,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 141351,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-guizot",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "1.《基佐法案》",
+      "section": "第二节 · （二）初等教育",
+      "refs": [
+        {
+          "page": 141,
+          "rect": [
+            0.07,
+            0.63,
+            0.86,
+            0.04
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 141567,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-ferry",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "2.《费里法案》",
+      "section": "第二节 · （二）初等教育",
+      "refs": [
+        {
+          "page": 141,
+          "rect": [
+            0.07,
+            0.68,
+            0.86,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 141612,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-nineteenth-secondary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（三）中等教育",
+      "section": "第二节 · 19世纪的法国近代教育概况",
+      "refs": [
+        {
+          "page": 142,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 142081,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-nineteenth-higher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（四）高等教育",
+      "section": "第二节 · 19世纪的法国近代教育概况",
+      "refs": [
+        {
+          "page": 142,
+          "rect": [
+            0.07,
+            0.17,
+            0.86,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 142153,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-curriculum1902",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（一）中学课程的改革",
+      "section": "第三节 · 考点一 中等教育",
+      "refs": [
+        {
+          "page": 142,
+          "rect": [
+            0.07,
+            0.4,
+            0.86,
+            0.05
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 142360,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-unified-schools",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（二）“统一学校运动”",
+      "section": "第三节 · 考点一 中等教育",
+      "refs": [
+        {
+          "page": 142,
+          "rect": [
+            0.07,
+            0.46,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 142414,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-school-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（三）学制改革及评价",
+      "section": "第三节 · 考点一 中等教育",
+      "refs": [
+        {
+          "page": 142,
+          "rect": [
+            0.07,
+            0.63,
+            0.86,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 142567,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-guidance-chart",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "1937年方向指导班学制图",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 142,
+          "rect": [
+            0.07,
+            0.77,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 142693,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch19-astier",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "《阿斯蒂埃法》与职业技术教育的发展",
+      "section": "第三节 · 考点二 职业教育",
+      "refs": [
+        {
+          "page": 143,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 143117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-principles",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "《郎之万—瓦隆教育改革方案》：简介与基本原则",
+      "section": "第四节 · 考点一 20世纪40年代的教育改革",
+      "refs": [
+        {
+          "page": 143,
+          "rect": [
+            0.07,
+            0.4,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 143360,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "《郎之万—瓦隆教育改革方案》：学制",
+      "section": "第四节 · 考点一 · （二）内容",
+      "refs": [
+        {
+          "page": 143,
+          "rect": [
+            0.07,
+            0.56,
+            0.86,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 143504,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "《郎之万—瓦隆教育改革方案》：评价",
+      "section": "第四节 · 考点一 · （三）评价",
+      "refs": [
+        {
+          "page": 143,
+          "rect": [
+            0.07,
+            0.68,
+            0.86,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 143612,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-chart",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "郎之万—瓦隆方案学制图",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 144,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 144117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（一）《教育改革法》（1959年）",
+      "section": "第四节 · 考点二 20世纪50—60年代的教育改革",
+      "refs": [
+        {
+          "page": 144,
+          "rect": [
+            0.07,
+            0.37,
+            0.86,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 144333,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959-chart",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "1959年《教育改革法》学制图",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 144,
+          "rect": [
+            0.07,
+            0.41,
+            0.86,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 144369,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch19-private1959",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（二）《国家与私立学校关系法》（1959年）",
+      "section": "第四节 · 考点二 20世纪50—60年代的教育改革",
+      "refs": [
+        {
+          "page": 144,
+          "rect": [
+            0.07,
+            0.62,
+            0.86,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 144558,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-faure",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "（三）《高等教育方向指导法》（《富尔法》）",
+      "section": "第四节 · 考点二 20世纪50—60年代的教育改革",
+      "refs": [
+        {
+          "page": 144,
+          "rect": [
+            0.07,
+            0.69,
+            0.86,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 144621,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-haby",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "《哈比法》",
+      "section": "第四节 · 考点三 20世纪70—80年代的教育改革",
+      "refs": [
+        {
+          "page": 145,
+          "rect": [
+            0.07,
+            0.12,
+            0.86,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 145108,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-priority-zones",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "教育优先区",
+      "section": "第四节 · 考点三 20世纪70—80年代的教育改革",
+      "refs": [
+        {
+          "page": 145,
+          "rect": [
+            0.07,
+            0.34,
+            0.86,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 145306,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-curriculum-charter",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "《课程宪章》",
+      "section": "第四节 · 考点四 20世纪90年代的教育改革",
+      "refs": [
+        {
+          "page": 145,
+          "rect": [
+            0.07,
+            0.47,
+            0.86,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 145423,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch19-france-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-18",
+      "title": "法国的近现代教育制度总结表（含续表）",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 145,
+          "rect": [
+            0.07,
+            0.66,
+            0.86,
+            0.27
+          ]
+        },
+        {
+          "page": 146,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.33
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 145594,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch19-outline-0",
+      "knowledgeId": "foreign-reviewed-ch19-outline",
+      "title": "第一节",
+      "text": "17—18世纪：法国大革命以前的教育；大革命时期的主要教育改革方案与主张。",
+      "keywords": [
+        "大革命以前",
+        "大革命时期"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-outline-1",
+      "knowledgeId": "foreign-reviewed-ch19-outline",
+      "title": "第二节",
+      "text": "19世纪：帝国大学与教育管理；《基佐法案》《费里法案》与初等教育；中等教育、高等教育。",
+      "keywords": [
+        "帝国大学",
+        "基佐",
+        "费里",
+        "中等",
+        "高等"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-outline-2",
+      "knowledgeId": "foreign-reviewed-ch19-outline",
+      "title": "第三节",
+      "text": "20世纪上半叶：中学课程改革、“统一学校运动”和学制改革；《阿斯蒂埃法》与职业技术教育。",
+      "keywords": [
+        "统一学校运动",
+        "学制改革",
+        "阿斯蒂埃法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-outline-3",
+      "knowledgeId": "foreign-reviewed-ch19-outline",
+      "title": "第四节",
+      "text": "20世纪下半叶：郎之万—瓦隆方案；1959年两项法案、1968年《富尔法》；《哈比法》、教育优先区；《课程宪章》。",
+      "keywords": [
+        "郎之万—瓦隆",
+        "富尔法",
+        "哈比法",
+        "教育优先区",
+        "课程宪章"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-before-revolution-0",
+      "knowledgeId": "foreign-reviewed-ch19-before-revolution",
+      "title": "1.初等教育",
+      "text": "面向平民的是宗教教育，面向富人的是家庭教师。",
+      "keywords": [
+        "宗教教育",
+        "家庭教师"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-before-revolution-1",
+      "knowledgeId": "foreign-reviewed-ch19-before-revolution",
+      "title": "2.中等教育",
+      "text": "耶稣会学校占统治地位。",
+      "keywords": [
+        "耶稣会学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-before-revolution-2",
+      "knowledgeId": "foreign-reviewed-ch19-before-revolution",
+      "title": "3.高等教育",
+      "text": "传统古典大学，如巴黎大学；专门技术学校，如路桥学校、矿业学校、皇家军事学校及各兵种专门学校等。",
+      "keywords": [
+        "巴黎大学",
+        "路桥",
+        "矿业",
+        "军事学校"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-before-revolution-3",
+      "knowledgeId": "foreign-reviewed-ch19-before-revolution",
+      "title": "4.新式思想",
+      "text": "启蒙运动教育思想：反对封建，主张民主自由；反对宗教，主张理性。原书助记为“爱、狄、卢、拉”。",
+      "keywords": [
+        "启蒙运动",
+        "民主自由",
+        "理性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-revolution-0",
+      "knowledgeId": "foreign-reviewed-ch19-revolution",
+      "title": "1.简介",
+      "text": "《塔列兰教育法案》《康多塞方案》《雷佩尔提教育方案》。",
+      "keywords": [
+        "塔列兰",
+        "康多塞",
+        "雷佩尔提"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-revolution-1",
+      "knowledgeId": "foreign-reviewed-ch19-revolution",
+      "title": "（1）国家管理",
+      "text": "建立国家教育制度，提出互相连接的学校系统的设想。",
+      "keywords": [
+        "国家教育制度",
+        "学校系统"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-revolution-2",
+      "knowledgeId": "foreign-reviewed-ch19-revolution",
+      "title": "（2）普及义务",
+      "text": "国家应实行普及教育，并提出免费入学的主张。",
+      "keywords": [
+        "普及教育",
+        "免费入学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-revolution-3",
+      "knowledgeId": "foreign-reviewed-ch19-revolution",
+      "title": "（3）人人受教",
+      "text": "人人都有受教育的机会与权利，尤其主张男女有平等的受教育权。",
+      "keywords": [
+        "人人受教",
+        "男女平等"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-revolution-4",
+      "knowledgeId": "foreign-reviewed-ch19-revolution",
+      "title": "（4）世俗科学",
+      "text": "取消宗教课程，普及道德基础知识和技术类、实科类知识。",
+      "keywords": [
+        "取消宗教课程",
+        "道德",
+        "技术实科"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-revolution-5",
+      "knowledgeId": "foreign-reviewed-ch19-revolution",
+      "title": "（1）优点",
+      "text": "体现启蒙运动中国家管理教育等先进思想。",
+      "keywords": [
+        "启蒙运动",
+        "国家管理"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch19-revolution-6",
+      "knowledgeId": "foreign-reviewed-ch19-revolution",
+      "title": "（2）缺点",
+      "text": "未实施，限制了劳动者子女获得初等以上教育的机会和权利。",
+      "keywords": [
+        "未实施",
+        "劳动者子女"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch19-imperial-university-0",
+      "knowledgeId": "foreign-reviewed-ch19-imperial-university",
+      "title": "1.简介",
+      "text": "19世纪初，拿破仑建立以帝国大学为核心的中央集权式教育管理体制。",
+      "keywords": [
+        "拿破仑",
+        "帝国大学",
+        "中央集权"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-imperial-university-1",
+      "knowledgeId": "foreign-reviewed-ch19-imperial-university",
+      "title": "（1）设立帝国大学",
+      "text": "帝国大学是全国最高教育行政管理机构。",
+      "keywords": [
+        "最高教育行政管理机构"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-imperial-university-2",
+      "knowledgeId": "foreign-reviewed-ch19-imperial-university",
+      "title": "（2）学区管理",
+      "text": "全国划分若干大学区，每个大学区下再设各级各类学校。",
+      "keywords": [
+        "大学区",
+        "各级各类学校"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-imperial-university-3",
+      "knowledgeId": "foreign-reviewed-ch19-imperial-university",
+      "title": "（3）管理办学",
+      "text": "任何教育机构或学校成立，必须经过帝国大学首脑批准。",
+      "keywords": [
+        "学校成立",
+        "首脑批准"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-imperial-university-4",
+      "knowledgeId": "foreign-reviewed-ch19-imperial-university",
+      "title": "（4）教师资格",
+      "text": "公立学校教师被视为国家官吏，薪酬由国家支付。",
+      "keywords": [
+        "国家官吏",
+        "国家支付"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-imperial-university-5",
+      "knowledgeId": "foreign-reviewed-ch19-imperial-university",
+      "title": "3.评价",
+      "text": "原书评价：拿破仑建立的中央集权式教育管理体制，其基本框架保留至今。",
+      "keywords": [
+        "中央集权",
+        "基本框架"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-guizot-0",
+      "knowledgeId": "foreign-reviewed-ch19-guizot",
+      "title": "时间与内容",
+      "text": "1833年，政府与教会联手发展初等教育，扩大初等学校的办学自主权。",
+      "keywords": [
+        "1833",
+        "政府教会",
+        "办学自主权"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-ferry-0",
+      "knowledgeId": "foreign-reviewed-ch19-ferry",
+      "title": "（1）简介",
+      "text": "1881—1882年颁布，确立国民教育义务、免费、世俗化三大原则。",
+      "keywords": [
+        "1881—1882",
+        "义务",
+        "免费",
+        "世俗化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-ferry-1",
+      "knowledgeId": "foreign-reviewed-ch19-ferry",
+      "title": "①义务",
+      "text": "6～13岁强制入学；平民家庭不送儿童入学的家长受罚款，贵族家庭从第三年起每年接受考试。",
+      "keywords": [
+        "6～13岁",
+        "强制入学",
+        "罚款",
+        "考试"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-ferry-2",
+      "knowledgeId": "foreign-reviewed-ch19-ferry",
+      "title": "②免费",
+      "text": "公立幼儿园和小学免学杂费；师范学校免学费、膳食费、住宿费。",
+      "keywords": [
+        "幼儿园小学",
+        "师范学校",
+        "免费"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-ferry-3",
+      "knowledgeId": "foreign-reviewed-ch19-ferry",
+      "title": "③世俗化：三取消",
+      "text": "取消教会监督学校的特权、牧师担任教师的特权、公立学校的宗教课。",
+      "keywords": [
+        "教会监督",
+        "牧师任教",
+        "宗教课"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-ferry-4",
+      "knowledgeId": "foreign-reviewed-ch19-ferry",
+      "title": "③世俗化：一设立",
+      "text": "设立道德与公民教育课。",
+      "keywords": [
+        "道德与公民教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-ferry-5",
+      "knowledgeId": "foreign-reviewed-ch19-ferry",
+      "title": "（3）评价",
+      "text": "标志法国初等教育步入新的历史发展阶段。",
+      "keywords": [
+        "初等教育",
+        "新阶段"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-nineteenth-secondary-0",
+      "knowledgeId": "foreign-reviewed-ch19-nineteenth-secondary",
+      "title": "1.古典中学",
+      "text": "国立中学和市立中学成为主要中等教育机构，古典主义色彩浓厚。",
+      "keywords": [
+        "国立中学",
+        "市立中学",
+        "古典主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-nineteenth-secondary-1",
+      "knowledgeId": "foreign-reviewed-ch19-nineteenth-secondary",
+      "title": "2.现代中学",
+      "text": "教授现代语及自然科学知识。",
+      "keywords": [
+        "现代语",
+        "自然科学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-nineteenth-higher-0",
+      "knowledgeId": "foreign-reviewed-ch19-nineteenth-higher",
+      "title": "1.兴办期（1804—1814年）",
+      "text": "创办一批专科学校、军事学校及巴黎高等师范学校，合称“大学校”。",
+      "keywords": [
+        "1804—1814",
+        "巴黎高师",
+        "大学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-nineteenth-higher-1",
+      "knowledgeId": "foreign-reviewed-ch19-nineteenth-higher",
+      "title": "2.衰落期（1815—1870年）",
+      "text": "受到宗教势力冲击，一些高等教育机构被迫停办，文理学院发展受阻。",
+      "keywords": [
+        "1815—1870",
+        "宗教势力",
+        "停办"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-nineteenth-higher-2",
+      "knowledgeId": "foreign-reviewed-ch19-nineteenth-higher",
+      "title": "3.复兴期（1871年—19世纪末）",
+      "text": "1896年颁布《国立大学组织法》，恢复创办大学。",
+      "keywords": [
+        "1896",
+        "国立大学组织法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-curriculum1902-0",
+      "knowledgeId": "foreign-reviewed-ch19-curriculum1902",
+      "title": "改革内容",
+      "text": "1902年课程改革强调古典课程与现代课程的并行和互补，确立法国中等教育课程改革的新模式。",
+      "keywords": [
+        "1902",
+        "古典课程",
+        "现代课程",
+        "并行互补"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-unified-schools-0",
+      "knowledgeId": "foreign-reviewed-ch19-unified-schools",
+      "title": "1.简介",
+      "text": "为变革双轨制，1919年掀起试图衔接初等教育与中等教育的“统一学校运动”，“新大学同志会”发挥重要作用。",
+      "keywords": [
+        "1919",
+        "双轨制",
+        "新大学同志会"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-unified-schools-1",
+      "knowledgeId": "foreign-reviewed-ch19-unified-schools",
+      "title": "（1）民主教育",
+      "text": "初等与中等教育相互衔接，高等教育向一切中学毕业生开放。",
+      "keywords": [
+        "初中衔接",
+        "高等开放"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-unified-schools-2",
+      "knowledgeId": "foreign-reviewed-ch19-unified-schools",
+      "title": "（2）择优录取",
+      "text": "在初等与中等教育衔接上采用“方向指导”策略，让不同儿童进入不同中学。",
+      "keywords": [
+        "择优录取",
+        "方向指导"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-school-system-0",
+      "knowledgeId": "foreign-reviewed-ch19-school-system",
+      "title": "1.决定统一学校",
+      "text": "1923年，在初等教育阶段实施统一的学校制度。",
+      "keywords": [
+        "1923",
+        "统一学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-school-system-1",
+      "knowledgeId": "foreign-reviewed-ch19-school-system",
+      "title": "2.实现小学统一",
+      "text": "1925年，初步实现小学阶段的统一学校。",
+      "keywords": [
+        "1925",
+        "小学统一"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-school-system-2",
+      "knowledgeId": "foreign-reviewed-ch19-school-system",
+      "title": "3.公立中学免费",
+      "text": "1930年，国立中学和市立中学实行免费制度。",
+      "keywords": [
+        "1930",
+        "中学免费"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-school-system-3",
+      "knowledgeId": "foreign-reviewed-ch19-school-system",
+      "title": "4.统一入学考试",
+      "text": "1933年，中学设立统一入学考试制度。",
+      "keywords": [
+        "1933",
+        "统一入学考试"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-school-system-4",
+      "knowledgeId": "foreign-reviewed-ch19-school-system",
+      "title": "5.完善学制体系",
+      "text": "1937年，教育部长让·泽提出在中学初级阶段实行统一学校制度的方案。",
+      "keywords": [
+        "1937",
+        "让·泽",
+        "初级阶段"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-school-system-5",
+      "knowledgeId": "foreign-reviewed-ch19-school-system",
+      "title": "学制图",
+      "text": "小学 → 方向指导班（中学第一阶段，11～12岁）→ 古典中学、现代中学、技术中学。",
+      "keywords": [
+        "11～12岁",
+        "方向指导班",
+        "古典现代技术"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-school-system-6",
+      "knowledgeId": "foreign-reviewed-ch19-school-system",
+      "title": "共同评价",
+      "text": "“统一学校运动”及其引发的学制改革冲击双轨制，推动教育民主化，形成“方向指导”特色。",
+      "keywords": [
+        "双轨制",
+        "民主化",
+        "方向指导"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-astier-0",
+      "knowledgeId": "foreign-reviewed-ch19-astier",
+      "title": "（一）简介",
+      "text": "随着民办职业教育发展，法国于1919年颁布《阿斯蒂埃法》。",
+      "keywords": [
+        "1919",
+        "阿斯蒂埃法"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-astier-1",
+      "knowledgeId": "foreign-reviewed-ch19-astier",
+      "title": "1.国家管理",
+      "text": "设相关部门管理职业教育，由国家代替私人承担职业教育任务。",
+      "keywords": [
+        "国家管理",
+        "代替私人"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-astier-2",
+      "knowledgeId": "foreign-reviewed-ch19-astier",
+      "title": "2.经费来源",
+      "text": "每一市镇设一所职业学校，国家与雇主各负担一半经费；私立职业技术学校要取得国家补助，必须遵守教育部规定。",
+      "keywords": [
+        "国家雇主",
+        "各半",
+        "教育部规定"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-astier-3",
+      "knowledgeId": "foreign-reviewed-ch19-astier",
+      "title": "3.学习免费",
+      "text": "18岁以下青年有义务接受免费职业教育，雇主须保证每周四小时学习时间。",
+      "keywords": [
+        "18岁以下",
+        "免费职业教育",
+        "每周四小时"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-astier-4",
+      "knowledgeId": "foreign-reviewed-ch19-astier",
+      "title": "4.教育内容",
+      "text": "初等教育的普通教育，加上作为职业基础的各门学科和劳动技能。",
+      "keywords": [
+        "普通教育",
+        "职业基础",
+        "劳动技能"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-astier-5",
+      "knowledgeId": "foreign-reviewed-ch19-astier",
+      "title": "（三）评价",
+      "text": "被称为“技术教育宪章”，使职业教育第一次成为国家管理的事业。",
+      "keywords": [
+        "技术教育宪章",
+        "国家管理"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-principles-0",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-principles",
+      "title": "（一）简介",
+      "text": "为恢复“二战”前教育、推动教育现代化和民主化，法国于1947年提出《郎之万—瓦隆教育改革方案》。",
+      "keywords": [
+        "1947",
+        "现代化",
+        "民主化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-principles-1",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-principles",
+      "title": "（1）公正",
+      "text": "社会公正，人人都有受教育的权利。",
+      "keywords": [
+        "公正",
+        "受教育权"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基本原则"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-principles-2",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-principles",
+      "title": "（2）平等",
+      "text": "社会上一切工作价值平等，任何学科价值平等。",
+      "keywords": [
+        "工作价值",
+        "学科价值"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基本原则"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-principles-3",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-principles",
+      "title": "（3）免费",
+      "text": "各级教育实行免费。",
+      "keywords": [
+        "各级教育",
+        "免费"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基本原则"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-principles-4",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-principles",
+      "title": "（4）完备",
+      "text": "人人有接受完备教育的权利。",
+      "keywords": [
+        "完备教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基本原则"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-principles-5",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-principles",
+      "title": "（5）专普",
+      "text": "加强专门教育，同时注意普通教育。",
+      "keywords": [
+        "专门教育",
+        "普通教育"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基本原则"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-principles-6",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-principles",
+      "title": "（6）教师",
+      "text": "加强师资培养，提高教师地位。",
+      "keywords": [
+        "师资培养",
+        "教师地位"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基本原则"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-system-0",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-system",
+      "title": "范围",
+      "text": "6～18岁免费义务教育。",
+      "keywords": [
+        "6～18岁",
+        "免费义务教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.义务教育"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-system-1",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-system",
+      "title": "（1）基础教育阶段",
+      "text": "6～11岁，无须考试升入方向指导期。",
+      "keywords": [
+        "6～11岁",
+        "无须考试"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.义务教育"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-system-2",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-system",
+      "title": "（2）方向指导阶段",
+      "text": "共4年。",
+      "keywords": [
+        "方向指导",
+        "4年"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.义务教育"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-system-3",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-system",
+      "title": "（3）决定阶段",
+      "text": "分学术型学校、技术型学校、艺徒制学校，18岁时结束免费义务教育。",
+      "keywords": [
+        "学术型",
+        "技术型",
+        "艺徒制",
+        "18岁"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.义务教育"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-system-4",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-system",
+      "title": "3.高等教育",
+      "text": "学术型学校结业生可进入一年制大学预科，再进入高等学校学习。",
+      "keywords": [
+        "学术型",
+        "一年制大学预科",
+        "高等学校"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-impact-0",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-impact",
+      "title": "1.发展方向",
+      "text": "虽未实施，但指明法国未来教育发展方向：公正、平等、免费体现民主化；完备、专普、教师体现现代化。",
+      "keywords": [
+        "未实施",
+        "民主化",
+        "现代化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-impact-1",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-impact",
+      "title": "2.教育实惠",
+      "text": "恢复初等教育发展，加强初等与中等教育衔接，重视方向指导班的过渡作用。",
+      "keywords": [
+        "初等教育",
+        "初中衔接",
+        "方向指导班"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-impact-2",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-impact",
+      "title": "3.地位与影响",
+      "text": "被誉为法国教育史“第二次革命”的法案，影响1959年《教育改革法》和1975年《哈比法》；后续法案在其基础上改动，民主化和现代化方向未动摇。",
+      "keywords": [
+        "第二次革命",
+        "1959",
+        "1975",
+        "哈比法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-impact-3",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-impact",
+      "title": "4.局限",
+      "text": "方案未实施。",
+      "keywords": [
+        "未实施"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-impact-4",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-impact",
+      "title": "（1）外部原因",
+      "text": "政治尚不稳定，经济未恢复，意见不够一致。",
+      "keywords": [
+        "政治",
+        "经济",
+        "意见"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.局限"
+    },
+    {
+      "id": "foreign-reviewed-ch19-langevin-impact-5",
+      "knowledgeId": "foreign-reviewed-ch19-langevin-impact",
+      "title": "（2）内部原因",
+      "text": "立意陈述太高，与法国实际不相符，宏伟教育蓝图无法实践。",
+      "keywords": [
+        "立意过高",
+        "脱离实际"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.局限"
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959-0",
+      "knowledgeId": "foreign-reviewed-ch19-reform1959",
+      "title": "1.简介",
+      "text": "郎之万—瓦隆方案未实施，法国为实现教育强国梦，于1959年颁布《教育改革法》。",
+      "keywords": [
+        "1959",
+        "教育改革法"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959-1",
+      "knowledgeId": "foreign-reviewed-ch19-reform1959",
+      "title": "义务教育范围",
+      "text": "6～16岁。",
+      "keywords": [
+        "6～16岁"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959-2",
+      "knowledgeId": "foreign-reviewed-ch19-reform1959",
+      "title": "初等教育",
+      "text": "6～11岁。",
+      "keywords": [
+        "6～11岁"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959-3",
+      "knowledgeId": "foreign-reviewed-ch19-reform1959",
+      "title": "中等教育第一阶段",
+      "text": "11～13岁，为观察期。",
+      "keywords": [
+        "11～13岁",
+        "观察期"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959-4",
+      "knowledgeId": "foreign-reviewed-ch19-reform1959",
+      "title": "中等教育第二阶段",
+      "text": "13～16岁，分为短期职业型、长期职业型、短期普通型、长期普通型。",
+      "keywords": [
+        "13～16岁",
+        "短期长期",
+        "职业型普通型"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959-5",
+      "knowledgeId": "foreign-reviewed-ch19-reform1959",
+      "title": "（1）优点",
+      "text": "“市立初级中学”迅速发展。",
+      "keywords": [
+        "市立初级中学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch19-reform1959-6",
+      "knowledgeId": "foreign-reviewed-ch19-reform1959",
+      "title": "（2）局限",
+      "text": "法案不够灵活、难操作，导致未完全实施；观察期被指责太短。",
+      "keywords": [
+        "未完全实施",
+        "观察期太短"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch19-private1959-0",
+      "knowledgeId": "foreign-reviewed-ch19-private1959",
+      "title": "契约关系",
+      "text": "国家通过“契约”给私立学校补助金，要求其按公立学校制度办学，并接受国家监督。",
+      "keywords": [
+        "契约",
+        "补助金",
+        "公立学校制度",
+        "国家监督"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-faure-0",
+      "knowledgeId": "foreign-reviewed-ch19-faure",
+      "title": "1.内容",
+      "text": "1968年颁布，确立法国高等教育“自主自治、民主参与、多科性结构”的办学原则。",
+      "keywords": [
+        "1968",
+        "自主自治",
+        "民主参与",
+        "多科性结构"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-faure-1",
+      "knowledgeId": "foreign-reviewed-ch19-faure",
+      "title": "2.评价",
+      "text": "中央集权制背景下，法案美好但难以实施。",
+      "keywords": [
+        "中央集权",
+        "难以实施"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-haby-0",
+      "knowledgeId": "foreign-reviewed-ch19-haby",
+      "title": "（一）简介",
+      "text": "为保障法国在世界工业和科技领域的优势，推进教育改革，1975年颁布《哈比法》，即《法国学校体制现代化建议》。",
+      "keywords": [
+        "1975",
+        "哈比法",
+        "法国学校体制现代化建议"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-haby-1",
+      "knowledgeId": "foreign-reviewed-ch19-haby",
+      "title": "1.教育管理",
+      "text": "中学校长由教育部长任命，学校内成立各种组织。",
+      "keywords": [
+        "教育部长",
+        "校长任命"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-haby-2",
+      "knowledgeId": "foreign-reviewed-ch19-haby",
+      "title": "2.教育内容",
+      "text": "强调教学内容现代化，增强与实际生活的联系。",
+      "keywords": [
+        "现代化",
+        "实际生活"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-haby-3",
+      "knowledgeId": "foreign-reviewed-ch19-haby",
+      "title": "3.（1）心理与个性",
+      "text": "把心理学研究应用于教学，注重个性差异。",
+      "keywords": [
+        "心理学",
+        "个性差异"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 教育方法"
+    },
+    {
+      "id": "foreign-reviewed-ch19-haby-4",
+      "knowledgeId": "foreign-reviewed-ch19-haby",
+      "title": "3.（2）实验与手段",
+      "text": "开展教学实验，采用现代化教学手段。",
+      "keywords": [
+        "教学实验",
+        "现代化手段"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 教育方法"
+    },
+    {
+      "id": "foreign-reviewed-ch19-haby-5",
+      "knowledgeId": "foreign-reviewed-ch19-haby",
+      "title": "4.三分制教学法",
+      "text": "工具课程（数学、法语）上午上课；启蒙性课程（艺术、自然科学、人文科学等）和体育课程下午上课。",
+      "keywords": [
+        "工具课程",
+        "启蒙性课程",
+        "体育课程",
+        "上午下午"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 课程设置"
+    },
+    {
+      "id": "foreign-reviewed-ch19-haby-6",
+      "knowledgeId": "foreign-reviewed-ch19-haby",
+      "title": "（三）评价",
+      "text": "方向正确，但要求较高、改革步子太大，难以实施。",
+      "keywords": [
+        "方向正确",
+        "难以实施"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-priority-zones-0",
+      "knowledgeId": "foreign-reviewed-ch19-priority-zones",
+      "title": "（一）简介",
+      "text": "为克服学业失败、缩小教育不平等，1981年在学业失败率较高的城区或乡村划定“教育优先区”。",
+      "keywords": [
+        "1981",
+        "学业失败",
+        "教育不平等"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-priority-zones-1",
+      "knowledgeId": "foreign-reviewed-ch19-priority-zones",
+      "title": "（二）内容",
+      "text": "以“给予最匮乏者更多，特别是更好”为宗旨，加强各种教育帮扶。",
+      "keywords": [
+        "最匮乏者",
+        "更多更好",
+        "教育帮扶"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-priority-zones-2",
+      "knowledgeId": "foreign-reviewed-ch19-priority-zones",
+      "title": "（三）评价",
+      "text": "改善弱势区域教育资源配置，有助于缩小教育差距。",
+      "keywords": [
+        "资源配置",
+        "缩小差距"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-curriculum-charter-0",
+      "knowledgeId": "foreign-reviewed-ch19-curriculum-charter",
+      "title": "（一）简介",
+      "text": "法国重视基础教育课程改革，于1992年颁布《课程宪章》。",
+      "keywords": [
+        "1992",
+        "课程宪章"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch19-curriculum-charter-1",
+      "knowledgeId": "foreign-reviewed-ch19-curriculum-charter",
+      "title": "1.中央集权",
+      "text": "坚持中央集权的课程管理体制，课程大纲以《政府公报》形式颁布。",
+      "keywords": [
+        "中央集权",
+        "政府公报"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-curriculum-charter-2",
+      "knowledgeId": "foreign-reviewed-ch19-curriculum-charter",
+      "title": "2.学生中心",
+      "text": "课程编制以学生为中心，使全体学生具备较高素质。",
+      "keywords": [
+        "学生中心",
+        "全体学生"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-curriculum-charter-3",
+      "knowledgeId": "foreign-reviewed-ch19-curriculum-charter",
+      "title": "3.纵横改革",
+      "text": "纵向：小学到高中课程融为一体；横向：各科知识融会贯通。",
+      "keywords": [
+        "纵向",
+        "横向",
+        "融会贯通"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch19-curriculum-charter-4",
+      "knowledgeId": "foreign-reviewed-ch19-curriculum-charter",
+      "title": "（三）评价",
+      "text": "成为20世纪90年代以来法国教育改革的纲领性文件。",
+      "keywords": [
+        "纲领性文件"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "stats": {
+    "pages": 7,
+    "knowledge": 25,
+    "steps": 93,
+    "referenceOnly": 4
+  }
+}

@@ -1,0 +1,3751 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch24-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch24-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "近现代主要的教育家（三星级教育家）：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 171,
+          "rect": [
+            0.07,
+            0.128,
+            0.86,
+            0.318
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 171115,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "洛克论教育",
+      "section": "第一节 · 英国的近现代教育家 · 考点一",
+      "refs": [
+        {
+          "page": 171,
+          "rect": [
+            0.07,
+            0.548,
+            0.86,
+            0.36
+          ]
+        },
+        {
+          "page": 172,
+          "rect": [
+            0.075,
+            0.08,
+            0.85,
+            0.159
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 171493,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "斯宾塞论教育",
+      "section": "第一节 · 考点二",
+      "refs": [
+        {
+          "page": 172,
+          "rect": [
+            0.07,
+            0.284,
+            0.86,
+            0.331
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 172255,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-memory",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "斯宾塞教学原则与方法助记图",
+      "section": "第一节 · 考点二 · 凯程助记",
+      "refs": [
+        {
+          "page": 172,
+          "rect": [
+            0.07,
+            0.634,
+            0.86,
+            0.102
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 172570,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch24-huxley",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "赫胥黎论教育",
+      "section": "第一节 · 考点三",
+      "refs": [
+        {
+          "page": 172,
+          "rect": [
+            0.07,
+            0.784,
+            0.86,
+            0.125
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 172705,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-british-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "英国的近现代教育家总结表",
+      "section": "第一节 · 凯程助记",
+      "refs": [
+        {
+          "page": 173,
+          "rect": [
+            0.07,
+            0.119,
+            0.86,
+            0.259
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 173107,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch24-helvetius",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "爱尔维修论教育",
+      "section": "第二节 · 法国的近现代教育家 · 考点一",
+      "refs": [
+        {
+          "page": 173,
+          "rect": [
+            0.07,
+            0.477,
+            0.86,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 173429,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lachalotais",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "拉夏洛泰论教育",
+      "section": "第二节 · 考点二",
+      "refs": [
+        {
+          "page": 173,
+          "rect": [
+            0.07,
+            0.69,
+            0.86,
+            0.162
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 173621,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "第斯多惠论教育",
+      "section": "第三节 · 德国的近现代教育家 · 考点一",
+      "refs": [
+        {
+          "page": 174,
+          "rect": [
+            0.07,
+            0.141,
+            0.86,
+            0.242
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 174126,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "贺拉斯·曼论教育",
+      "section": "第四节 · 美国的近现代教育家 · 考点一",
+      "refs": [
+        {
+          "page": 174,
+          "rect": [
+            0.07,
+            0.482,
+            0.86,
+            0.269
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 174433,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-fukuzawa",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "福泽谕吉论教育",
+      "section": "第五节 · 日本的近现代教育家 · 考点一",
+      "refs": [
+        {
+          "page": 175,
+          "rect": [
+            0.07,
+            0.166,
+            0.86,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 175149,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "乌申斯基论教育",
+      "section": "第六节 · 俄国（苏联）的近现代教育家 · 考点一",
+      "refs": [
+        {
+          "page": 175,
+          "rect": [
+            0.07,
+            0.443,
+            0.86,
+            0.401
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 175398,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lenin",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "列宁的教育思想",
+      "section": "第六节 · 考点二",
+      "refs": [
+        {
+          "page": 176,
+          "rect": [
+            0.07,
+            0.119,
+            0.86,
+            0.156
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 176107,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-krupskaya",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "克鲁普斯卡娅的教育思想",
+      "section": "第六节 · 考点三",
+      "refs": [
+        {
+          "page": 176,
+          "rect": [
+            0.07,
+            0.346,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 176311,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "马卡连柯：简介、教育实践与集体教育思想",
+      "section": "第六节 · 考点四 · 马卡连柯的教育思想 · （一）—（三）",
+      "refs": [
+        {
+          "page": 176,
+          "rect": [
+            0.07,
+            0.556,
+            0.86,
+            0.39
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 176500,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-memory",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "马卡连柯集体教育原则助记图",
+      "section": "第六节 · 考点四 · 凯程助记",
+      "refs": [
+        {
+          "page": 176,
+          "rect": [
+            0.06,
+            0.806,
+            0.235,
+            0.135
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 176725,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "马卡连柯：劳动教育、家庭教育与评价",
+      "section": "第六节 · 考点四 · 马卡连柯的教育思想 · （四）—（六）",
+      "refs": [
+        {
+          "page": 177,
+          "rect": [
+            0.07,
+            0.084,
+            0.86,
+            0.258
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 177075,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "巴班斯基的教学过程最优化理论",
+      "section": "第六节 · 考点五",
+      "refs": [
+        {
+          "page": 177,
+          "rect": [
+            0.07,
+            0.411,
+            0.86,
+            0.242
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 177369,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "赞科夫的教学理论",
+      "section": "第六节 · 考点六",
+      "refs": [
+        {
+          "page": 177,
+          "rect": [
+            0.07,
+            0.723,
+            0.86,
+            0.17
+          ]
+        },
+        {
+          "page": 178,
+          "rect": [
+            0.075,
+            0.083,
+            0.85,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 177650,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-23",
+      "title": "苏霍姆林斯基的教育理论",
+      "section": "第六节 · 考点七",
+      "refs": [
+        {
+          "page": 178,
+          "rect": [
+            0.07,
+            0.298,
+            0.86,
+            0.581
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 178268,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch24-locke-0",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "（一）简介",
+      "text": "洛克是英国著名的实科教育和绅士教育的倡导者，《教育漫话》是其代表作。",
+      "keywords": [
+        "实科教育",
+        "绅士教育",
+        "教育漫话"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-1",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "1.理论基础",
+      "text": "洛克提倡“白板说”，认为人出生后心灵如同一块白板，一切知识都建立在经验的基础上。",
+      "keywords": [
+        "白板说",
+        "经验"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想"
+      ],
+      "displayTitle": "1. 理论基础",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-2",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "教育作用（1）个人",
+      "text": "教育在人的形成中有巨大作用。",
+      "keywords": [
+        "人的形成",
+        "巨大作用"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "2. 教育作用"
+      ],
+      "displayTitle": "（1）对个人",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-3",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "教育作用（2）社会",
+      "text": "教育关系到国家的幸福与繁荣。",
+      "keywords": [
+        "国家",
+        "幸福繁荣"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "2. 教育作用"
+      ],
+      "displayTitle": "（2）对社会",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-4",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "目的",
+      "text": "培养绅士：身体强健、举止优雅、有德行、智慧和实际才干的事业家。",
+      "keywords": [
+        "绅士",
+        "身体",
+        "德行",
+        "智慧",
+        "事业家"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "3. 教育目的与途径"
+      ],
+      "displayTitle": "（1）目的",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-5",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "途径",
+      "text": "家庭教育。针对贵族子弟，洛克反对学校教育，主张适合儿童个性的个别指导。",
+      "keywords": [
+        "家庭教育",
+        "贵族子弟",
+        "个别指导"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "3. 教育目的与途径"
+      ],
+      "displayTitle": "（2）途径",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-6",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "体育①地位",
+      "text": "体育是全部教育的前提。",
+      "keywords": [
+        "全部教育",
+        "前提"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（1）体育"
+      ],
+      "displayTitle": "①地位",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-7",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "体育②内容",
+      "text": "培养忍耐劳苦的精神。",
+      "keywords": [
+        "忍耐劳苦"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（1）体育"
+      ],
+      "displayTitle": "②内容",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-8",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "体育③方法",
+      "text": "制订健康教育计划。",
+      "keywords": [
+        "健康教育计划"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（1）体育"
+      ],
+      "displayTitle": "③方法",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-9",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "德育①地位",
+      "text": "德行重于学问。",
+      "keywords": [
+        "德行",
+        "学问"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（2）德育"
+      ],
+      "displayTitle": "①地位",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-10",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "德育②内容",
+      "text": "重视美德与礼仪。",
+      "keywords": [
+        "美德",
+        "礼仪"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（2）德育"
+      ],
+      "displayTitle": "②内容",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-11",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "德育③方法",
+      "text": "重视理性与节制，要求处理克制和自由之间的关系。",
+      "keywords": [
+        "理性",
+        "节制",
+        "克制与自由"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（2）德育"
+      ],
+      "displayTitle": "③方法",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-12",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "智育①地位",
+      "text": "学问是品德的辅助。",
+      "keywords": [
+        "学问",
+        "品德辅助"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（3）智育"
+      ],
+      "displayTitle": "①地位",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-13",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "智育②内容",
+      "text": "以实用科目为基础的广泛的课程内容体系。",
+      "keywords": [
+        "实用科目",
+        "广泛课程"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（3）智育"
+      ],
+      "displayTitle": "②内容",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-14",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "智育③方法",
+      "text": "培养学习态度与方法。",
+      "keywords": [
+        "学习态度",
+        "学习方法"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "4. 教育内容与方法",
+        "（3）智育"
+      ],
+      "displayTitle": "③方法",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-15",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "评价（1）优点",
+      "text": "洛克的绅士教育体系体现出鲜明的实用性、功利化的特征。",
+      "keywords": [
+        "实用性",
+        "功利化"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "5. 评价"
+      ],
+      "displayTitle": "（1）优点",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-16",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "评价（2）局限",
+      "text": "他的教育思想局限于绅士教育，缺乏夸美纽斯的民主性。",
+      "keywords": [
+        "绅士教育",
+        "缺乏民主性"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）绅士教育思想",
+        "5. 评价"
+      ],
+      "displayTitle": "（2）局限",
+      "outline": "（二）绅士教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-locke-17",
+      "knowledgeId": "foreign-reviewed-ch24-locke",
+      "title": "贫民教育",
+      "text": "《工作学校计划》主张将贫民子弟组织起来劳动，不教知识，只教技能和宗教；原书评价其缺乏夸美纽斯的民主性。",
+      "keywords": [
+        "工作学校计划",
+        "劳动",
+        "技能宗教",
+        "民主性"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）贫民教育思想"
+      ],
+      "displayTitle": "内容与评价",
+      "outline": "（三）贫民教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-0",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "（一）简介",
+      "text": "斯宾塞在《教育论》中主张实科教育理论，反对古典教育。",
+      "keywords": [
+        "教育论",
+        "实科教育",
+        "反对古典教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-1",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "（二）教育目的",
+      "text": "教育准备生活说：教育为了人未来的完满生活做准备。",
+      "keywords": [
+        "教育准备生活",
+        "完满生活"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）教育目的"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-2",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "知识价值论",
+      "text": "“什么知识最有价值？科学知识最有价值。”",
+      "keywords": [
+        "科学知识",
+        "最有价值"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教育内容"
+      ],
+      "displayTitle": "1. 知识价值论",
+      "outline": "（三）教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-3",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "课程（1）",
+      "text": "直接保全自己的知识：医学、生理学、解剖学等。",
+      "keywords": [
+        "直接保全",
+        "医学",
+        "生理学",
+        "解剖学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教育内容",
+        "2. 课程论"
+      ],
+      "displayTitle": "（1）直接保全自己的知识",
+      "outline": "（三）教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-4",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "课程（2）",
+      "text": "间接保全自己的知识：力学、光学、数学、逻辑等。",
+      "keywords": [
+        "间接保全",
+        "力学",
+        "光学",
+        "数学",
+        "逻辑"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教育内容",
+        "2. 课程论"
+      ],
+      "displayTitle": "（2）间接保全自己的知识",
+      "outline": "（三）教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-5",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "课程（3）",
+      "text": "履行父母职责的知识：心理学、教育学等。",
+      "keywords": [
+        "父母职责",
+        "心理学",
+        "教育学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教育内容",
+        "2. 课程论"
+      ],
+      "displayTitle": "（3）履行父母职责的知识",
+      "outline": "（三）教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-6",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "课程（4）",
+      "text": "调节自身行为的知识：历史、政治等。",
+      "keywords": [
+        "自身行为",
+        "历史",
+        "政治"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教育内容",
+        "2. 课程论"
+      ],
+      "displayTitle": "（4）调节自身行为的知识",
+      "outline": "（三）教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-7",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "课程（5）",
+      "text": "供自己娱乐的知识：艺术、文学等。",
+      "keywords": [
+        "娱乐",
+        "艺术",
+        "文学"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教育内容",
+        "2. 课程论"
+      ],
+      "displayTitle": "（5）供自己娱乐的知识",
+      "outline": "（三）教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-8",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "教学1",
+      "text": "教学应符合儿童心智发展的自然顺序。",
+      "keywords": [
+        "心智发展",
+        "自然顺序"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学原则与方法"
+      ],
+      "displayTitle": "1. 自然顺序",
+      "outline": "（四）教学原则与方法"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-9",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "教学2",
+      "text": "教育要顺应人类“复演说”。儿童所接受的教育必须在方式和安排上同历史上人类的教育一致。",
+      "keywords": [
+        "复演说",
+        "方式与安排"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学原则与方法"
+      ],
+      "displayTitle": "2. 人类“复演说”",
+      "outline": "（四）教学原则与方法"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-10",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "教学3",
+      "text": "教学的每个部分都应该从实验到推理。",
+      "keywords": [
+        "实验",
+        "推理"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学原则与方法"
+      ],
+      "displayTitle": "3. 从实验到推理",
+      "outline": "（四）教学原则与方法"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-11",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "教学4",
+      "text": "引导儿童自己进行探讨与推论。",
+      "keywords": [
+        "自己探讨",
+        "推论"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学原则与方法"
+      ],
+      "displayTitle": "4. 探讨与推论",
+      "outline": "（四）教学原则与方法"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-12",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "教学5",
+      "text": "重视学生的学习兴趣。",
+      "keywords": [
+        "学习兴趣"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学原则与方法"
+      ],
+      "displayTitle": "5. 学习兴趣",
+      "outline": "（四）教学原则与方法"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-13",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "教学6",
+      "text": "重视实物教学。",
+      "keywords": [
+        "实物教学"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学原则与方法"
+      ],
+      "displayTitle": "6. 实物教学",
+      "outline": "（四）教学原则与方法"
+    },
+    {
+      "id": "foreign-reviewed-ch24-spencer-14",
+      "knowledgeId": "foreign-reviewed-ch24-spencer",
+      "title": "（五）评价",
+      "text": "冲击了英国古典教育传统，推动了世界科学教育的发展。",
+      "keywords": [
+        "古典教育传统",
+        "科学教育"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（五）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-huxley-0",
+      "knowledgeId": "foreign-reviewed-ch24-huxley",
+      "title": "（一）简介",
+      "text": "赫胥黎是近代科学教育的主要倡导者，其教育著作是《科学与教育》。",
+      "keywords": [
+        "科学教育",
+        "科学与教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-huxley-1",
+      "knowledgeId": "foreign-reviewed-ch24-huxley",
+      "title": "1.批判古典教育",
+      "text": "批判传统的古典教育只关注古典知识，不注重科学教育。",
+      "keywords": [
+        "古典知识",
+        "科学教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 批判传统的古典教育",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-huxley-2",
+      "knowledgeId": "foreign-reviewed-ch24-huxley",
+      "title": "2.科学教育",
+      "text": "内容包括自然科学，以及社会、政治、道德、历史。",
+      "keywords": [
+        "自然科学",
+        "社会",
+        "政治",
+        "道德",
+        "历史"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 科学教育",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-huxley-3",
+      "knowledgeId": "foreign-reviewed-ch24-huxley",
+      "title": "3.学科并重",
+      "text": "自然科学与人文学科并重；赫胥黎比斯宾塞更注重自然科学与人文学科的平衡。",
+      "keywords": [
+        "自然科学",
+        "人文学科",
+        "平衡"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 自然科学与人文学科并重",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-huxley-4",
+      "knowledgeId": "foreign-reviewed-ch24-huxley",
+      "title": "（三）评价",
+      "text": "推动科学教育发展。",
+      "keywords": [
+        "科学教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-helvetius-0",
+      "knowledgeId": "foreign-reviewed-ch24-helvetius",
+      "title": "（一）简介",
+      "text": "爱尔维修是法国启蒙运动中提倡唯物主义的重要成员之一。",
+      "keywords": [
+        "法国启蒙运动",
+        "唯物主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-helvetius-1",
+      "knowledgeId": "foreign-reviewed-ch24-helvetius",
+      "title": "1.理论基础",
+      "text": "智力天生平等。",
+      "keywords": [
+        "智力",
+        "天生平等"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 理论基础",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-helvetius-2",
+      "knowledgeId": "foreign-reviewed-ch24-helvetius",
+      "title": "2.教育作用",
+      "text": "“教育万能论”。",
+      "keywords": [
+        "教育万能论"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 教育作用",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-helvetius-3",
+      "knowledgeId": "foreign-reviewed-ch24-helvetius",
+      "title": "3.教育管理",
+      "text": "国家办学。",
+      "keywords": [
+        "国家办学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 教育管理",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-helvetius-4",
+      "knowledgeId": "foreign-reviewed-ch24-helvetius",
+      "title": "4.教育性质",
+      "text": "世俗教育。",
+      "keywords": [
+        "世俗教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 教育性质",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-helvetius-5",
+      "knowledgeId": "foreign-reviewed-ch24-helvetius",
+      "title": "（三）评价",
+      "text": "“教育万能论”过高估计了教育的作用，但为人人享有平等教育权利提供了理论依据。",
+      "keywords": [
+        "过高估计",
+        "平等教育权利"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lachalotais-0",
+      "knowledgeId": "foreign-reviewed-ch24-lachalotais",
+      "title": "（一）简介",
+      "text": "拉夏洛泰是18世纪中期法国驱逐耶稣会运动的主要倡导人，《论国民教育》系统地阐述了国家办学的教育思想。",
+      "keywords": [
+        "18世纪中期",
+        "驱逐耶稣会",
+        "论国民教育",
+        "国家办学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lachalotais-1",
+      "knowledgeId": "foreign-reviewed-ch24-lachalotais",
+      "title": "1.教育管理",
+      "text": "国家办学。",
+      "keywords": [
+        "国家办学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 教育管理",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lachalotais-2",
+      "knowledgeId": "foreign-reviewed-ch24-lachalotais",
+      "title": "2.教育目的",
+      "text": "培养法国公民。",
+      "keywords": [
+        "法国公民"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 教育目的",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lachalotais-3",
+      "knowledgeId": "foreign-reviewed-ch24-lachalotais",
+      "title": "3.教育内容",
+      "text": "重视法语与科学教育。",
+      "keywords": [
+        "法语",
+        "科学教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 教育内容",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lachalotais-4",
+      "knowledgeId": "foreign-reviewed-ch24-lachalotais",
+      "title": "4.教学方法",
+      "text": "自然是最好的教师。",
+      "keywords": [
+        "自然",
+        "教师"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 教学方法",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lachalotais-5",
+      "knowledgeId": "foreign-reviewed-ch24-lachalotais",
+      "title": "5.教师素养",
+      "text": "对教师提出了严格要求。",
+      "keywords": [
+        "教师",
+        "严格要求"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "5. 教师素养",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lachalotais-6",
+      "knowledgeId": "foreign-reviewed-ch24-lachalotais",
+      "title": "（三）评价",
+      "text": "关于国家办学的论证走在了时代的前列。",
+      "keywords": [
+        "国家办学",
+        "时代前列"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-0",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "（一）简介",
+      "text": "第斯多惠是19世纪德国著名的资产阶级民主主义教育家，被誉为“德国师范教育之父”，著有《德国教师培养指南》。",
+      "keywords": [
+        "德国师范教育之父",
+        "德国教师培养指南"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-1",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "1.影响发展因素",
+      "text": "天资、教育和自由自主。天资的发挥和教育的实施均需注重个体自主学习。",
+      "keywords": [
+        "天资",
+        "教育",
+        "自由自主",
+        "自主学习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 论影响人发展的因素",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-2",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "2.教育目的",
+      "text": "实现和谐发展。",
+      "keywords": [
+        "和谐发展"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 教育目的",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-3",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "形式与实质",
+      "text": "形式教学与实质教学相互结合。",
+      "keywords": [
+        "形式教学",
+        "实质教学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 教学论"
+      ],
+      "displayTitle": "（1）形式教学与实质教学",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-4",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "原则①",
+      "text": "遵循自然原则。",
+      "keywords": [
+        "自然原则"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 教学论",
+        "（2）教学原则"
+      ],
+      "displayTitle": "①遵循自然原则",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-5",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "原则②",
+      "text": "遵循文化原则。当遵循自然与遵循文化发生冲突时，遵循文化应该让位于遵循自然。",
+      "keywords": [
+        "文化原则",
+        "让位于自然"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 教学论",
+        "（2）教学原则"
+      ],
+      "displayTitle": "②遵循文化原则",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-6",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "原则③",
+      "text": "遵循连续性与彻底性原则。",
+      "keywords": [
+        "连续性",
+        "彻底性"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 教学论",
+        "（2）教学原则"
+      ],
+      "displayTitle": "③连续性与彻底性",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-7",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "原则④",
+      "text": "遵循直观教学原则。",
+      "keywords": [
+        "直观教学"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 教学论",
+        "（2）教学原则"
+      ],
+      "displayTitle": "④直观教学",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-8",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "4.论教师",
+      "text": "重视教师的地位和作用，形成尊师重教的社会风尚，对教师提出要求。",
+      "keywords": [
+        "教师地位作用",
+        "尊师重教"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 论教师",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-diesterweg-9",
+      "knowledgeId": "foreign-reviewed-ch24-diesterweg",
+      "title": "（三）评价",
+      "text": "推动了资产阶级民主主义和人道主义思想的发展，推动了德国师范教育的发展。",
+      "keywords": [
+        "民主主义",
+        "人道主义",
+        "师范教育"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-0",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "（一）简介",
+      "text": "贺拉斯·曼是19世纪美国杰出的教育家，被誉为“美国公立学校之父”。",
+      "keywords": [
+        "19世纪",
+        "美国公立学校之父"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-1",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "实践1",
+      "text": "州教育管理体制的建立。",
+      "keywords": [
+        "州教育管理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育实践"
+      ],
+      "displayTitle": "1. 州教育管理体制",
+      "outline": "（二）教育实践"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-2",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "实践2",
+      "text": "公立学校运动。",
+      "keywords": [
+        "公立学校运动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育实践"
+      ],
+      "displayTitle": "2. 公立学校运动",
+      "outline": "（二）教育实践"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-3",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "实践3",
+      "text": "师范学校的建立。",
+      "keywords": [
+        "师范学校"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育实践"
+      ],
+      "displayTitle": "3. 师范学校",
+      "outline": "（二）教育实践"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-4",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "作用（1）个体",
+      "text": "教育是人民摆脱贫穷的重要手段。",
+      "keywords": [
+        "摆脱贫穷"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点",
+        "1. 教育作用"
+      ],
+      "displayTitle": "（1）对个体",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-5",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "作用（2）社会",
+      "text": "教育是维持社会安定的重要工具。",
+      "keywords": [
+        "社会安定"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点",
+        "1. 教育作用"
+      ],
+      "displayTitle": "（2）对社会",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-6",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "作用（3）政治",
+      "text": "实施普及教育是共和政府存在的保证。",
+      "keywords": [
+        "普及教育",
+        "共和政府"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点",
+        "1. 教育作用"
+      ],
+      "displayTitle": "（3）对政治",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-7",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "2.教育目的",
+      "text": "教育应当培养社会需要的各类专业工作者（或职业工作者）。",
+      "keywords": [
+        "专业工作者",
+        "职业工作者"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点"
+      ],
+      "displayTitle": "2. 教育目的",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-8",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "教育内容（1）",
+      "text": "德育。",
+      "keywords": [
+        "德育"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点",
+        "3. 教育内容"
+      ],
+      "displayTitle": "（1）德育",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-9",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "教育内容（2）",
+      "text": "智育。",
+      "keywords": [
+        "智育"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点",
+        "3. 教育内容"
+      ],
+      "displayTitle": "（2）智育",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-10",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "教育内容（3）",
+      "text": "体育。",
+      "keywords": [
+        "体育"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点",
+        "3. 教育内容"
+      ],
+      "displayTitle": "（3）体育",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-11",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "教育内容（4）",
+      "text": "政治。",
+      "keywords": [
+        "政治"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点",
+        "3. 教育内容"
+      ],
+      "displayTitle": "（4）政治",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-12",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "教育内容（5）",
+      "text": "宗教。",
+      "keywords": [
+        "宗教"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点",
+        "3. 教育内容"
+      ],
+      "displayTitle": "（5）宗教",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-13",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "4.论师范教育",
+      "text": "重视培养教师，建立第一批公立师范学校。",
+      "keywords": [
+        "培养教师",
+        "公立师范学校"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点"
+      ],
+      "displayTitle": "4. 论师范教育",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-mann-14",
+      "knowledgeId": "foreign-reviewed-ch24-mann",
+      "title": "（四）评价",
+      "text": "为推动美国公立学校的发展做出了杰出贡献。",
+      "keywords": [
+        "公立学校",
+        "杰出贡献"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-fukuzawa-0",
+      "knowledgeId": "foreign-reviewed-ch24-fukuzawa",
+      "title": "（一）简介",
+      "text": "福泽谕吉是日本明治维新时期著名的启蒙思想家、教育家，被誉为明治维新时期的“国民教师”，主要著作有《劝学篇》。",
+      "keywords": [
+        "明治维新",
+        "国民教师",
+        "劝学篇"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-fukuzawa-1",
+      "knowledgeId": "foreign-reviewed-ch24-fukuzawa",
+      "title": "1.教育作用",
+      "text": "知识富人，教育立国。",
+      "keywords": [
+        "知识富人",
+        "教育立国"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 教育作用",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-fukuzawa-2",
+      "knowledgeId": "foreign-reviewed-ch24-fukuzawa",
+      "title": "2.论智育",
+      "text": "修习学问，唯尚实学。",
+      "keywords": [
+        "修习学问",
+        "唯尚实学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 论智育",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-fukuzawa-3",
+      "knowledgeId": "foreign-reviewed-ch24-fukuzawa",
+      "title": "3.论德育",
+      "text": "培养国家观念和独立意识。",
+      "keywords": [
+        "国家观念",
+        "独立意识"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 论德育",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-fukuzawa-4",
+      "knowledgeId": "foreign-reviewed-ch24-fukuzawa",
+      "title": "4.论体育",
+      "text": "造就健康国民。",
+      "keywords": [
+        "健康国民"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 论体育",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-fukuzawa-5",
+      "knowledgeId": "foreign-reviewed-ch24-fukuzawa",
+      "title": "（三）评价",
+      "text": "积极投身于文明开化、思想启蒙的教育活动。",
+      "keywords": [
+        "文明开化",
+        "思想启蒙"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-0",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "（一）简介",
+      "text": "乌申斯基是19世纪俄国国民学校和教育科学的奠基人，被誉为“俄国教师的教师”和“俄国教育科学的创始人”，著有《人是教育的对象》。",
+      "keywords": [
+        "国民学校",
+        "俄国教师的教师",
+        "人是教育的对象"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-1",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "1.教育本质",
+      "text": "教育是一门艺术，而不是一门科学。",
+      "keywords": [
+        "艺术",
+        "科学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 教育本质",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-2",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "2.教育目的",
+      "text": "培养全面和谐发展的人。",
+      "keywords": [
+        "全面和谐发展"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 教育目的",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-3",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "教学（1）",
+      "text": "形式教育论与实质教育论相结合。",
+      "keywords": [
+        "形式教育论",
+        "实质教育论"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 论教学"
+      ],
+      "displayTitle": "（1）形式与实质相结合",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-4",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "教学（2）",
+      "text": "开设实科课程。",
+      "keywords": [
+        "实科课程"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 论教学"
+      ],
+      "displayTitle": "（2）实科课程",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-5",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "教学（3）",
+      "text": "教学要适应学生的心理特点。",
+      "keywords": [
+        "心理特点"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 论教学"
+      ],
+      "displayTitle": "（3）心理特点",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-6",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "教学（4）",
+      "text": "教学原则包括直观性、自觉性与积极性、连贯性和巩固性。",
+      "keywords": [
+        "直观",
+        "自觉积极",
+        "连贯巩固"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "3. 论教学"
+      ],
+      "displayTitle": "（4）教学原则",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-7",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "德育（1）内容",
+      "text": "爱国主义情感最重要。",
+      "keywords": [
+        "爱国主义情感"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "4. 论道德教育"
+      ],
+      "displayTitle": "（1）德育内容",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-8",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "德育（2）方法",
+      "text": "以教学为基本方法。",
+      "keywords": [
+        "教学",
+        "基本方法"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "4. 论道德教育"
+      ],
+      "displayTitle": "（2）德育方法",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-9",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "教育学①广义",
+      "text": "教育学者所必需的知识汇集。",
+      "keywords": [
+        "教育学者",
+        "知识汇集"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "5. 论教育学",
+        "（1）界定教育学的含义"
+      ],
+      "displayTitle": "①广义",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-10",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "教育学②狭义",
+      "text": "教育活动规则的汇集。",
+      "keywords": [
+        "教育活动规则"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "5. 论教育学",
+        "（1）界定教育学的含义"
+      ],
+      "displayTitle": "②狭义",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-11",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "教育学（2）价值",
+      "text": "教育学要从一切方面去教育人，首先要从一切方面去了解人；生理学和心理学很重要。",
+      "keywords": [
+        "教育人",
+        "了解人",
+        "生理学",
+        "心理学"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "5. 论教育学"
+      ],
+      "displayTitle": "（2）学科价值",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-12",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "教育学（3）途径",
+      "text": "创办教育系。",
+      "keywords": [
+        "教育系"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "5. 论教育学"
+      ],
+      "displayTitle": "（3）发展途径",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-13",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "师范（1）作用",
+      "text": "教师具有育才与转变教育风气的作用。",
+      "keywords": [
+        "育才",
+        "教育风气"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "6. 论师范教育"
+      ],
+      "displayTitle": "（1）教师作用",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-14",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "师范（2）素养",
+      "text": "提升教师的师德和知识素养。",
+      "keywords": [
+        "师德",
+        "知识素养"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "6. 论师范教育"
+      ],
+      "displayTitle": "（2）教师素养",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-15",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "师范（3）院校",
+      "text": "创建高水平师范院校的设想，缔造俄国女子师范教育。",
+      "keywords": [
+        "高水平师范院校",
+        "女子师范教育"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "6. 论师范教育"
+      ],
+      "displayTitle": "（3）师范院校",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-ushinsky-16",
+      "knowledgeId": "foreign-reviewed-ch24-ushinsky",
+      "title": "（三）评价",
+      "text": "创造性地提出了教育民族化的主张。",
+      "keywords": [
+        "教育民族化"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lenin-0",
+      "knowledgeId": "foreign-reviewed-ch24-lenin",
+      "title": "（一）简介",
+      "text": "原书将列宁介绍为19世纪末20世纪初苏联著名的无产阶级革命家、政治家、教育家。",
+      "keywords": [
+        "列宁",
+        "革命家",
+        "政治家",
+        "教育家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lenin-1",
+      "knowledgeId": "foreign-reviewed-ch24-lenin",
+      "title": "1.文化革命",
+      "text": "改革旧的教育制度，造就新型的知识分子。",
+      "keywords": [
+        "教育制度",
+        "新型知识分子"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 论文化革命",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lenin-2",
+      "knowledgeId": "foreign-reviewed-ch24-lenin",
+      "title": "2.教育与政治",
+      "text": "教育与政治相联系。",
+      "keywords": [
+        "教育",
+        "政治"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 教育与政治相联系",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lenin-3",
+      "knowledgeId": "foreign-reviewed-ch24-lenin",
+      "title": "3.青年教育",
+      "text": "建立青年正确的政治观和劳动观。",
+      "keywords": [
+        "政治观",
+        "劳动观"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 论青年教育",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lenin-4",
+      "knowledgeId": "foreign-reviewed-ch24-lenin",
+      "title": "4.论教师",
+      "text": "改造旧教师，培养新教师，拥护新政权，提高地位和待遇。",
+      "keywords": [
+        "旧教师",
+        "新教师",
+        "新政权",
+        "地位待遇"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 论教师",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-lenin-5",
+      "knowledgeId": "foreign-reviewed-ch24-lenin",
+      "title": "（三）评价",
+      "text": "始终将教育看作无产阶级革命和社会主义建设的重要组成部分。",
+      "keywords": [
+        "无产阶级革命",
+        "社会主义建设"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-krupskaya-0",
+      "knowledgeId": "foreign-reviewed-ch24-krupskaya",
+      "title": "（一）简介",
+      "text": "原书称克鲁普斯卡娅为苏联第一位马克思主义教育家，著有《国民教育和民主主义》。",
+      "keywords": [
+        "马克思主义教育家",
+        "国民教育和民主主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-krupskaya-1",
+      "knowledgeId": "foreign-reviewed-ch24-krupskaya",
+      "title": "1.教育目的和任务",
+      "text": "进行共产主义教育，培养全面发展的人。",
+      "keywords": [
+        "共产主义教育",
+        "全面发展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 教育目的和任务",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-krupskaya-2",
+      "knowledgeId": "foreign-reviewed-ch24-krupskaya",
+      "title": "2.劳动与技术教育",
+      "text": "劳动教育和综合技术教育。",
+      "keywords": [
+        "劳动教育",
+        "综合技术教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 劳动教育和综合技术教育",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-krupskaya-3",
+      "knowledgeId": "foreign-reviewed-ch24-krupskaya",
+      "title": "3.少先队",
+      "text": "少先队组织。",
+      "keywords": [
+        "少先队组织"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 少先队组织",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-krupskaya-4",
+      "knowledgeId": "foreign-reviewed-ch24-krupskaya",
+      "title": "4.学前教育",
+      "text": "重视学前教育。",
+      "keywords": [
+        "学前教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 重视学前教育",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch24-krupskaya-5",
+      "knowledgeId": "foreign-reviewed-ch24-krupskaya",
+      "title": "（三）评价",
+      "text": "她的教育思想对苏联教育理论和教育实践影响重大。",
+      "keywords": [
+        "苏联",
+        "教育理论",
+        "教育实践"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-0",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "（一）简介",
+      "text": "马卡连柯是苏联早期著名的教育家。",
+      "keywords": [
+        "苏联早期",
+        "教育家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-1",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "实践1",
+      "text": "建立高尔基工学团。",
+      "keywords": [
+        "高尔基工学团"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育实践活动"
+      ],
+      "displayTitle": "1. 高尔基工学团",
+      "outline": "（二）教育实践活动"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-2",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "实践2",
+      "text": "领导捷尔仁斯基公社。",
+      "keywords": [
+        "捷尔仁斯基公社"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育实践活动"
+      ],
+      "displayTitle": "2. 捷尔仁斯基公社",
+      "outline": "（二）教育实践活动"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-3",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "实践3",
+      "text": "撰写《教育诗篇》《塔上旗》《父母必读》等教育著作。",
+      "keywords": [
+        "教育诗篇",
+        "塔上旗",
+        "父母必读"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育实践活动"
+      ],
+      "displayTitle": "3. 教育著作",
+      "outline": "（二）教育实践活动"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-4",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "1.教育目的",
+      "text": "培养真正有教养的苏维埃人、劳动者与公民。",
+      "keywords": [
+        "苏维埃人",
+        "劳动者",
+        "公民"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想"
+      ],
+      "displayTitle": "1. 教育目的",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-5",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "2.教育宗旨",
+      "text": "“在集体中、通过集体、为了集体”。",
+      "keywords": [
+        "在集体中",
+        "通过集体",
+        "为了集体"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想"
+      ],
+      "displayTitle": "2. 教育宗旨",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-6",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "方法（1）",
+      "text": "“防止抹杀个性特点”和“防止消极跟随个体”。",
+      "keywords": [
+        "个性特点",
+        "消极跟随个体"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想",
+        "3. 教育方法"
+      ],
+      "displayTitle": "（1）两个防止",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-7",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "方法（2）",
+      "text": "重视集体教育。",
+      "keywords": [
+        "集体教育"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想",
+        "3. 教育方法"
+      ],
+      "displayTitle": "（2）集体教育",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-8",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "方法（3）",
+      "text": "重视劳动教育。",
+      "keywords": [
+        "劳动教育"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想",
+        "3. 教育方法"
+      ],
+      "displayTitle": "（3）劳动教育",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-9",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "原则（1）",
+      "text": "尊重与严格要求相结合原则：“教育要尽可能多地要求一个人，也要尽可能多地尊重一个人。”",
+      "keywords": [
+        "尊重",
+        "严格要求"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想",
+        "4. 教育原则"
+      ],
+      "displayTitle": "（1）尊重与严格要求相结合",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-10",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "原则（2）",
+      "text": "平行教育影响原则：教育设法不与个人发生关系，而只与集体发生关系，以集体为教育对象，通过集体来教育每个个体；教育者对集体和集体中每个成员的教育影响是同时的、平行的。",
+      "keywords": [
+        "平行教育影响",
+        "集体",
+        "个体",
+        "同时平行"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想",
+        "4. 教育原则"
+      ],
+      "displayTitle": "（2）平行教育影响",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-11",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "原则（3）",
+      "text": "前景教育原则：教师向集体提出新的奋斗目标和前景。",
+      "keywords": [
+        "前景",
+        "奋斗目标"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想",
+        "4. 教育原则"
+      ],
+      "displayTitle": "（3）前景教育",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-12",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "原则（4）",
+      "text": "优良的作风和传统。",
+      "keywords": [
+        "作风",
+        "传统"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想",
+        "4. 教育原则"
+      ],
+      "displayTitle": "（4）优良的作风和传统",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-collective-13",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-collective",
+      "title": "原则（5）",
+      "text": "纪律教育。",
+      "keywords": [
+        "纪律教育"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）集体教育思想",
+        "4. 教育原则"
+      ],
+      "displayTitle": "（5）纪律教育",
+      "outline": "（三）集体教育思想"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-0",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "劳动1.重要性",
+      "text": "劳动教育是集体教育中不可缺少的手段。",
+      "keywords": [
+        "集体教育",
+        "不可缺少"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）论劳动教育"
+      ],
+      "displayTitle": "1. 重要性",
+      "outline": "（四）论劳动教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-1",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "劳动方法（1）",
+      "text": "安排复杂的劳动任务，并非单纯消耗体力。",
+      "keywords": [
+        "复杂劳动",
+        "非单纯消耗体力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）论劳动教育",
+        "2. 教育方法"
+      ],
+      "displayTitle": "（1）劳动任务",
+      "outline": "（四）论劳动教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-2",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "劳动方法（2）",
+      "text": "组织学员参加现代化的大工业生产。",
+      "keywords": [
+        "现代化",
+        "大工业生产"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）论劳动教育",
+        "2. 教育方法"
+      ],
+      "displayTitle": "（2）大工业生产",
+      "outline": "（四）论劳动教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-3",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "劳动3.结合",
+      "text": "劳动教育必须与思想政治教育同时进行。",
+      "keywords": [
+        "劳动教育",
+        "思想政治教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）论劳动教育"
+      ],
+      "displayTitle": "3. 与思想政治教育同时进行",
+      "outline": "（四）论劳动教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-4",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "家庭1.重要性",
+      "text": "5岁以前的家庭教育不仅关系到儿童的未来，还关系到国家的未来。",
+      "keywords": [
+        "5岁以前",
+        "儿童未来",
+        "国家未来"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）论家庭教育"
+      ],
+      "displayTitle": "1. 重要性",
+      "outline": "（五）论家庭教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-5",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "家庭2.条件",
+      "text": "要建立一个“完整和团结一致”的家庭集体。",
+      "keywords": [
+        "完整",
+        "团结一致",
+        "家庭集体"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）论家庭教育"
+      ],
+      "displayTitle": "2. 基本条件",
+      "outline": "（五）论家庭教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-6",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "家庭方法（1）",
+      "text": "分寸尺度要中庸。",
+      "keywords": [
+        "分寸尺度",
+        "中庸"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）论家庭教育",
+        "3. 教育方法"
+      ],
+      "displayTitle": "（1）分寸尺度",
+      "outline": "（五）论家庭教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-7",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "家庭方法（2）",
+      "text": "亲近子女有距离。",
+      "keywords": [
+        "亲近",
+        "距离"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）论家庭教育",
+        "3. 教育方法"
+      ],
+      "displayTitle": "（2）亲近子女",
+      "outline": "（五）论家庭教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-8",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "家庭方法（3）",
+      "text": "言传身教重示范。",
+      "keywords": [
+        "言传身教",
+        "示范"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）论家庭教育",
+        "3. 教育方法"
+      ],
+      "displayTitle": "（3）言传身教",
+      "outline": "（五）论家庭教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-9",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "家庭方法（4）",
+      "text": "管理劳动和游戏。",
+      "keywords": [
+        "劳动",
+        "游戏"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）论家庭教育",
+        "3. 教育方法"
+      ],
+      "displayTitle": "（4）劳动和游戏",
+      "outline": "（五）论家庭教育"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-10",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "评价1",
+      "text": "在教育理论上，提出集体教育、劳动教育、家庭教育等独创性的见解。",
+      "keywords": [
+        "教育理论",
+        "独创性"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（六）评价"
+      ],
+      "displayTitle": "1. 教育理论",
+      "outline": "（六）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-11",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "评价2",
+      "text": "在教育传播上，教育著作在世界范围内广泛流传。",
+      "keywords": [
+        "教育著作",
+        "广泛流传"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（六）评价"
+      ],
+      "displayTitle": "2. 教育传播",
+      "outline": "（六）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-makarenko-labor-family-12",
+      "knowledgeId": "foreign-reviewed-ch24-makarenko-labor-family",
+      "title": "评价3",
+      "text": "在教育实践上，教育实践活动是教育工作者纷纷效仿的典范。",
+      "keywords": [
+        "教育实践",
+        "典范"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（六）评价"
+      ],
+      "displayTitle": "3. 教育实践",
+      "outline": "（六）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-0",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "（一）简介",
+      "text": "20世纪70年代，巴班斯基为了克服学生普遍留级、学习成绩不佳的现象，写了《教学过程最优化——一般教学论方面》。",
+      "keywords": [
+        "20世纪70年代",
+        "留级",
+        "教学过程最优化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-1",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "内涵（1）",
+      "text": "教师依据各种教育资源，形成最佳教学方案。",
+      "keywords": [
+        "教育资源",
+        "最佳方案"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学过程最优化理论",
+        "1. 内涵"
+      ],
+      "displayTitle": "（1）最佳教学方案",
+      "outline": "（二）教学过程最优化理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-2",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "内涵（2）",
+      "text": "“最优化”并不是某种特殊的教学方法或方式。",
+      "keywords": [
+        "非特殊教学方法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学过程最优化理论",
+        "1. 内涵"
+      ],
+      "displayTitle": "（2）不是特殊方法",
+      "outline": "（二）教学过程最优化理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-3",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "内涵（3）",
+      "text": "“最优化”这个词并不等同于“理想的”这个词。",
+      "keywords": [
+        "最优化",
+        "不等同理想"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学过程最优化理论",
+        "1. 内涵"
+      ],
+      "displayTitle": "（3）不等同于理想",
+      "outline": "（二）教学过程最优化理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-4",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "标准（1）",
+      "text": "最优化不是片面的（或单方面的）。",
+      "keywords": [
+        "非片面",
+        "非单方面"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学过程最优化理论",
+        "2. 标准"
+      ],
+      "displayTitle": "（1）非片面",
+      "outline": "（二）教学过程最优化理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-5",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "标准（2）",
+      "text": "最优化是具体条件下的最优化。",
+      "keywords": [
+        "具体条件"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学过程最优化理论",
+        "2. 标准"
+      ],
+      "displayTitle": "（2）具体条件",
+      "outline": "（二）教学过程最优化理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-6",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "标准（3）",
+      "text": "最优化是教师工作的一项特殊原则。",
+      "keywords": [
+        "教师工作",
+        "特殊原则"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学过程最优化理论",
+        "2. 标准"
+      ],
+      "displayTitle": "（3）特殊原则",
+      "outline": "（二）教学过程最优化理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-7",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "标准（4）",
+      "text": "最优化要实现最佳的结果。",
+      "keywords": [
+        "最佳结果"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教学过程最优化理论",
+        "2. 标准"
+      ],
+      "displayTitle": "（4）最佳结果",
+      "outline": "（二）教学过程最优化理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-8",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "1.优点",
+      "text": "实践性强。",
+      "keywords": [
+        "实践性"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 优点",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-babansky-9",
+      "knowledgeId": "foreign-reviewed-ch24-babansky",
+      "title": "2.局限",
+      "text": "重复烦琐。",
+      "keywords": [
+        "重复烦琐"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 局限",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-0",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "（一）简介",
+      "text": "赞科夫是20世纪60—70年代苏联最有影响力的教育家，著有《教学与发展》和《和教师的谈话》。他通过“教育与发展关系问题”的实验提出发展性教学理论。",
+      "keywords": [
+        "60—70年代",
+        "教学与发展",
+        "和教师的谈话",
+        "发展性教学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-1",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "1.理论基础",
+      "text": "“最近发展区”。",
+      "keywords": [
+        "最近发展区"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论"
+      ],
+      "displayTitle": "1. 理论基础",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-2",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "含义（1）",
+      "text": "一般发展指儿童心理的一般发展。",
+      "keywords": [
+        "儿童心理",
+        "一般发展"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "2. 一般发展的含义"
+      ],
+      "displayTitle": "（1）心理的一般发展",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-3",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "含义（2）",
+      "text": "一般发展不同于特殊发展。",
+      "keywords": [
+        "一般发展",
+        "特殊发展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "2. 一般发展的含义"
+      ],
+      "displayTitle": "（2）不同于特殊发展",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-4",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "含义（3）",
+      "text": "一般发展不同于全面发展。",
+      "keywords": [
+        "一般发展",
+        "全面发展"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "2. 一般发展的含义"
+      ],
+      "displayTitle": "（3）不同于全面发展",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-5",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "含义（4）",
+      "text": "一般发展有别于智力发展。",
+      "keywords": [
+        "一般发展",
+        "智力发展"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "2. 一般发展的含义"
+      ],
+      "displayTitle": "（4）有别于智力发展",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-6",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "含义（5）",
+      "text": "一般发展的内涵有局限性，实验只局限于学生心理发展。",
+      "keywords": [
+        "内涵局限",
+        "心理发展"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "2. 一般发展的含义"
+      ],
+      "displayTitle": "（5）内涵的局限性",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-7",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "原则（1）",
+      "text": "以高难度进行教学的原则。",
+      "keywords": [
+        "高难度"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "3. 教学原则"
+      ],
+      "displayTitle": "（1）高难度",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-8",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "原则（2）",
+      "text": "以高速度进行教学的原则。",
+      "keywords": [
+        "高速度"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "3. 教学原则"
+      ],
+      "displayTitle": "（2）高速度",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-9",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "原则（3）",
+      "text": "理论知识起主导作用的原则。",
+      "keywords": [
+        "理论知识",
+        "主导作用"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "3. 教学原则"
+      ],
+      "displayTitle": "（3）理论知识起主导作用",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-10",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "原则（4）",
+      "text": "使学生理解学习过程的原则。",
+      "keywords": [
+        "理解学习过程"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "3. 教学原则"
+      ],
+      "displayTitle": "（4）理解学习过程",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-11",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "原则（5）",
+      "text": "使班上全体学生（包括最差的学生）都得到一般发展的原则。",
+      "keywords": [
+        "全体学生",
+        "一般发展"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展性教学理论",
+        "3. 教学原则"
+      ],
+      "displayTitle": "（5）全体学生得到一般发展",
+      "outline": "（二）发展性教学理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-12",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "1.优点",
+      "text": "实验罕见，成果巨大，影响政策。",
+      "keywords": [
+        "实验",
+        "成果",
+        "政策"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 优点",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-zankov-13",
+      "knowledgeId": "foreign-reviewed-ch24-zankov",
+      "title": "2.局限",
+      "text": "局限于研究心理的一般发展。",
+      "keywords": [
+        "心理",
+        "一般发展"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 局限",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-0",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "（一）简介",
+      "text": "苏霍姆林斯基是“二战”后苏联最有影响力的教育家，曾任帕夫雷什中学校长，主要理论是个性全面和谐发展的教育理论，被誉为“教育思想界的泰斗”。代表作有《给教师的100条建议》《帕夫雷什中学》等。",
+      "keywords": [
+        "帕夫雷什中学",
+        "个性全面和谐发展",
+        "给教师的100条建议"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-1",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "内涵（1）个性",
+      "text": "充分发展儿童的个性。",
+      "keywords": [
+        "儿童个性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "1. 内涵"
+      ],
+      "displayTitle": "（1）个性发展",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-2",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "内涵（2）全面",
+      "text": "德、智、体、美、劳各育并举。",
+      "keywords": [
+        "德智体美劳",
+        "各育并举"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "1. 内涵"
+      ],
+      "displayTitle": "（2）全面发展",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-3",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "内涵（3）和谐",
+      "text": "学生认识和理解客观世界的能力、自我表现能力和自我教育能力得到平衡发展。把教育狭隘地理解为考试成绩和知识的增长，不属于和谐发展。",
+      "keywords": [
+        "认识理解",
+        "自我表现",
+        "自我教育",
+        "平衡发展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "1. 内涵"
+      ],
+      "displayTitle": "（3）和谐发展",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-4",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "目的（1）",
+      "text": "创造者。",
+      "keywords": [
+        "创造者"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "2. 目的"
+      ],
+      "displayTitle": "（1）创造者",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-5",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "目的（2）",
+      "text": "享用者。",
+      "keywords": [
+        "享用者"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "2. 目的"
+      ],
+      "displayTitle": "（2）享用者",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-6",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "目的（3）",
+      "text": "鉴赏者、保护者。",
+      "keywords": [
+        "鉴赏者",
+        "保护者"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "2. 目的"
+      ],
+      "displayTitle": "（3）鉴赏者、保护者",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-7",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "目的（4）",
+      "text": "社会活动者、公民。",
+      "keywords": [
+        "社会活动者",
+        "公民"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "2. 目的"
+      ],
+      "displayTitle": "（4）社会活动者、公民",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-8",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "目的（5）",
+      "text": "建立者。",
+      "keywords": [
+        "建立者"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "2. 目的"
+      ],
+      "displayTitle": "（5）建立者",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-9",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "内容（1）德育",
+      "text": "全面和谐发展的核心是高尚的道德，应当及早开始。",
+      "keywords": [
+        "核心",
+        "高尚道德",
+        "及早开始"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "3. 内容"
+      ],
+      "displayTitle": "（1）德育",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-10",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "内容（2）智育",
+      "text": "智育包括科学世界观，发展认识、创造能力等。",
+      "keywords": [
+        "科学世界观",
+        "认识",
+        "创造能力"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "3. 内容"
+      ],
+      "displayTitle": "（2）智育",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-11",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "内容（3）体育",
+      "text": "体育是健康的重要因素、生活活力的源泉。",
+      "keywords": [
+        "健康",
+        "生活活力"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "3. 内容"
+      ],
+      "displayTitle": "（3）体育",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-12",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "内容（4）美育",
+      "text": "美育是感知美、认识美和创造美的能力。",
+      "keywords": [
+        "感知美",
+        "认识美",
+        "创造美"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "3. 内容"
+      ],
+      "displayTitle": "（4）美育",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-13",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "内容（5）劳动教育",
+      "text": "让劳动渗入到学生的精神生活中去。",
+      "keywords": [
+        "劳动",
+        "精神生活"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "3. 内容"
+      ],
+      "displayTitle": "（5）劳动教育",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-14",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "五育关系",
+      "text": "“五育”相互独立、相互渗透，交织为统一整体。",
+      "keywords": [
+        "相互独立",
+        "相互渗透",
+        "统一整体"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）个性全面和谐发展理论",
+        "3. 内容"
+      ],
+      "displayTitle": "原书括注：五育关系",
+      "outline": "（二）个性全面和谐发展理论"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-15",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "评价1",
+      "text": "理论研究与教育教学实践紧密结合。",
+      "keywords": [
+        "理论研究",
+        "教育教学实践"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 理论与实践结合",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-16",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "评价2",
+      "text": "理论研究的同时注意总结历史经验。",
+      "keywords": [
+        "历史经验"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 总结历史经验",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch24-sukhomlinsky-17",
+      "knowledgeId": "foreign-reviewed-ch24-sukhomlinsky",
+      "title": "评价3",
+      "text": "善于运用辩证唯物主义方法论与马列主义基本原理研究教育。",
+      "keywords": [
+        "辩证唯物主义",
+        "马列主义基本原理"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "3. 研究方法",
+      "outline": "（三）评价"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "foreign-ch24-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 8,
+    "knowledge": 20,
+    "steps": 180,
+    "referenceOnly": 4
+  }
+}

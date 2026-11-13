@@ -1,0 +1,29 @@
+{
+  "format": "yibuyibei-learning-package",
+  "schemaVersion": 1,
+  "book": {
+    "id": "example-study-methods-v1",
+    "title": "学习方法 · 原创示例",
+    "subject": "使用演示",
+    "filename": "学习方法示例.pdf",
+    "pages": 2,
+    "offset": 0,
+    "kind": "pdf",
+    "source": {
+      "citation": "一步一背原创使用示例，两页演示材料",
+      "rights": "本项目原创示例，可用于学习与测试"
+    }
+  },
+  "chapters": [
+    {"id":"example-study-methods-v1-ch1","bookId":"example-study-methods-v1","title":"第一章 · 主动回忆","start":1,"end":2,"order":1}
+  ],
+  "knowledge": [
+    {"id":"example-study-methods-v1-k1","bookId":"example-study-methods-v1","chapterId":"example-study-methods-v1-ch1","title":"把阅读变成回忆","refs":[{"page":1}],"confirmed":false,"selected":false,"order":1,"section":"第一节 · 学习动作","reviewNote":"原创使用示例，可用本包要点文字演示核对流程。"},
+    {"id":"example-study-methods-v1-k2","bookId":"example-study-methods-v1","chapterId":"example-study-methods-v1-ch1","title":"把反馈带到下一遍","refs":[{"page":2}],"confirmed":false,"selected":false,"order":2,"section":"第二节 · 自我反馈","reviewNote":"原创使用示例，可用本包要点文字演示核对流程。"}
+  ],
+  "steps": [
+    {"id":"example-study-methods-v1-k1-s1","knowledgeId":"example-study-methods-v1-k1","title":"读懂一个小点","text":"阅读一小段内容，先说清它解决了什么问题，再找出其中的核心意思。","keywords":["问题","核心意思"],"order":1,"version":1,"outlinePath":["主动回忆","准备"]},
+    {"id":"example-study-methods-v1-k1-s2","knowledgeId":"example-study-methods-v1-k1","title":"合上材料再说一遍","text":"暂时合上材料，用自己的话说出核心意思；遗漏的部分留到核对时补上。","keywords":["合上材料","自己的话","核对"],"order":2,"version":1,"outlinePath":["主动回忆","尝试"]},
+    {"id":"example-study-methods-v1-k2-s1","knowledgeId":"example-study-methods-v1-k2","title":"记录真实的回忆结果","text":"核对后，根据实际表现选择独立想起、需要提示或还没记住，让下一次学习从真实情况出发。","keywords":["核对","实际表现"],"order":1,"version":1}
+  ]
+}

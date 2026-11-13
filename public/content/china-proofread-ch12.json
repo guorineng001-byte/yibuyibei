@@ -1,0 +1,4302 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch12-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch12-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "第十二章章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.29,
+            0.31,
+            0.63,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 98279,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（一）简介",
+      "section": "考点一 · 杨贤江与马克思主义教育理论",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.28,
+            0.59,
+            0.64,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 98531,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-nature",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "1.论教育本质（《新教育大纲》）",
+      "section": "考点一 · 杨贤江 · （二）观点",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.38,
+            0.68,
+            0.54,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 98612,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-function",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "2.论教育功能",
+      "section": "考点一 · 杨贤江 · （二）观点",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.23,
+            0.07,
+            0.68,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99063,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-youth-problem",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（1）青年问题概述",
+      "section": "考点一 · 杨贤江 · 3.“全人生的指导”与青年教育（《学生杂志》）",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.38,
+            0.15,
+            0.54,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99135,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（2）“全人生的指导”",
+      "section": "考点一 · 杨贤江 · 3.“全人生的指导”与青年教育（《学生杂志》）",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.38,
+            0.27,
+            0.54,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99243,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（三）评价",
+      "section": "考点一 · 杨贤江与马克思主义教育理论",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.16,
+            0.52,
+            0.76,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99468,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-deepen",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "凯程深化：对当代青年的影响",
+      "section": "考点一 · 杨贤江与马克思主义教育理论",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.13,
+            0.59,
+            0.79,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99531,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（一）简介",
+      "section": "考点二 · 黄炎培的职业教育思想与实践",
+      "refs": [
+        {
+          "page": 100,
+          "rect": [
+            0.17,
+            0.12,
+            0.73,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 100108,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（二）职业教育实践",
+      "section": "考点二 · 黄炎培",
+      "refs": [
+        {
+          "page": 100,
+          "rect": [
+            0.23,
+            0.22,
+            0.68,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 100198,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-system-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "1.作用与2.地位",
+      "section": "考点二 · 黄炎培 · （三）职业教育思想体系",
+      "refs": [
+        {
+          "page": 100,
+          "rect": [
+            0.23,
+            0.51,
+            0.69,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 100459,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-aim-social",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "3.目的与4.社会化方针",
+      "section": "考点二 · 黄炎培 · （三）职业教育思想体系",
+      "refs": [
+        {
+          "page": 100,
+          "rect": [
+            0.23,
+            0.66,
+            0.69,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 100594,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-science",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "4.科学化、5.教学原则、6.职业道德",
+      "section": "考点二 · 黄炎培 · （三）职业教育思想体系",
+      "refs": [
+        {
+          "page": 101,
+          "rect": [
+            0.17,
+            0.07,
+            0.75,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 101063,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（四）评价",
+      "section": "考点二 · 黄炎培",
+      "refs": [
+        {
+          "page": 101,
+          "rect": [
+            0.18,
+            0.26,
+            0.73,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 101234,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-intro-analysis",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（一）简介与（二）定县调查",
+      "section": "考点三 · 晏阳初的乡村教育实验",
+      "refs": [
+        {
+          "page": 101,
+          "rect": [
+            0.17,
+            0.48,
+            0.75,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 101432,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-four",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "1.“四大教育”",
+      "section": "考点三 · 晏阳初 · （三）改革措施",
+      "refs": [
+        {
+          "page": 101,
+          "rect": [
+            0.28,
+            0.69,
+            0.64,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 101621,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-three",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "2.“三大方式”",
+      "section": "考点三 · 晏阳初 · （三）改革措施",
+      "refs": [
+        {
+          "page": 102,
+          "rect": [
+            0.31,
+            0.06,
+            0.61,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 102054,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-two-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "3.“两化”与（四）评价",
+      "section": "考点三 · 晏阳初的乡村教育实验",
+      "refs": [
+        {
+          "page": 102,
+          "rect": [
+            0.28,
+            0.22,
+            0.64,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 102198,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-intro-culture",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（一）简介与文化分析",
+      "section": "考点四 · 梁漱溟的乡村教育建设",
+      "refs": [
+        {
+          "page": 102,
+          "rect": [
+            0.17,
+            0.49,
+            0.75,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 102441,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-road",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "2.乡村建设是唯一道路",
+      "section": "考点四 · 梁漱溟 · （二）乡村建设和乡村教育理论",
+      "refs": [
+        {
+          "page": 102,
+          "rect": [
+            0.28,
+            0.66,
+            0.64,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 102594,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（三）改革措施：开设乡农学校",
+      "section": "考点四 · 梁漱溟的乡村教育建设",
+      "refs": [
+        {
+          "page": 103,
+          "rect": [
+            0.15,
+            0.08,
+            0.77,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 103072,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（四）评价",
+      "section": "考点四 · 梁漱溟的乡村教育建设",
+      "refs": [
+        {
+          "page": 103,
+          "rect": [
+            0.18,
+            0.34,
+            0.73,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 103306,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-liang-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "晏阳初和梁漱溟的思想对比表",
+      "section": "原书深化对照表",
+      "refs": [
+        {
+          "page": 103,
+          "rect": [
+            0.1,
+            0.54,
+            0.79,
+            0.4
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "referenceOnly": true,
+      "order": 103486,
+      "reviewNote": "原书表格按行列整体对照，不拆成脱离表头的散句。"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（一）简介与（二）教育实践",
+      "section": "考点五 · 陈鹤琴的“活教育”探索",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.14,
+            0.1,
+            0.78,
+            0.36
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 104090,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-aim",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "1.目的论",
+      "section": "考点五 · 陈鹤琴 · （三）“活教育”理论体系",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.2,
+            0.47,
+            0.72,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 104423,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-curriculum",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "2.课程论",
+      "section": "考点五 · 陈鹤琴 · （三）“活教育”理论体系",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.2,
+            0.62,
+            0.72,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 104558,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-teaching-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "3.教学论与（四）评价",
+      "section": "考点五 · 陈鹤琴的“活教育”探索",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.2,
+            0.79,
+            0.72,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 104711,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-intro-xiaozhuang",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（一）简介与1.晓庄学校",
+      "section": "考点六 · 陶行知的“生活教育”思想与实践",
+      "refs": [
+        {
+          "page": 105,
+          "rect": [
+            0.17,
+            0.1,
+            0.75,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 105090,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "2.山海工学团、3.“小先生制”、4.育才学校",
+      "section": "考点六 · 陶行知 · （二）“生活教育”实践",
+      "refs": [
+        {
+          "page": 105,
+          "rect": [
+            0.15,
+            0.4,
+            0.77,
+            0.38
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 105360,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-life",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "1.“生活即教育”",
+      "section": "考点六 · 陶行知 · （三）“生活教育”理论体系",
+      "refs": [
+        {
+          "page": 105,
+          "rect": [
+            0.18,
+            0.77,
+            0.74,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 105693,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-society",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "2.“社会即学校”",
+      "section": "考点六 · 陶行知 · （三）“生活教育”理论体系",
+      "refs": [
+        {
+          "page": 106,
+          "rect": [
+            0.17,
+            0.06,
+            0.75,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 106054,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-unity",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "3.“教学做合一”",
+      "section": "考点六 · 陶行知 · （三）“生活教育”理论体系",
+      "refs": [
+        {
+          "page": 106,
+          "rect": [
+            0.17,
+            0.23,
+            0.75,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 106207,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "（四）评价",
+      "section": "考点六 · 陶行知的“生活教育”思想与实践",
+      "refs": [
+        {
+          "page": 106,
+          "rect": [
+            0.12,
+            0.41,
+            0.8,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 106369,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-11",
+      "title": "凯程深化",
+      "section": "考点六 · 陶行知的“生活教育”思想与实践",
+      "refs": [
+        {
+          "page": 106,
+          "rect": [
+            0.12,
+            0.5,
+            0.8,
+            0.42
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 106450,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch12-outline-0",
+      "knowledgeId": "china-reviewed-ch12-outline",
+      "title": "六位教育家",
+      "text": "杨贤江、黄炎培、晏阳初、梁漱溟、陈鹤琴、陶行知。",
+      "keywords": [
+        "杨贤江",
+        "黄炎培",
+        "晏阳初",
+        "梁漱溟",
+        "陈鹤琴",
+        "陶行知"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-intro-0",
+      "knowledgeId": "china-reviewed-ch12-yang-intro",
+      "title": "人物定位",
+      "text": "杨贤江是中国最早的马克思主义教育理论家与青年教育家。",
+      "keywords": [
+        "杨贤江",
+        "马克思主义教育理论家",
+        "青年教育家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-intro-1",
+      "knowledgeId": "china-reviewed-ch12-yang-intro",
+      "title": "《教育史ABC》",
+      "text": "第一部运用历史唯物主义分析世界教育历史的著作。",
+      "keywords": [
+        "教育史ABC",
+        "历史唯物主义"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-intro-2",
+      "knowledgeId": "china-reviewed-ch12-yang-intro",
+      "title": "《新教育大纲》",
+      "text": "第一部运用马克思主义论述教育原理的专著。",
+      "keywords": [
+        "新教育大纲",
+        "教育原理"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-nature-0",
+      "knowledgeId": "china-reviewed-ch12-yang-nature",
+      "title": "（1）①上层建筑",
+      "text": "教育是上层建筑之一，是“观念形态的劳动领域之一”。",
+      "keywords": [
+        "上层建筑",
+        "观念形态的劳动领域"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）总论：教育具有双重属性"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-nature-1",
+      "knowledgeId": "china-reviewed-ch12-yang-nature",
+      "title": "（1）②劳动力再生产",
+      "text": "教育是劳动力再生产的手段。",
+      "keywords": [
+        "劳动力再生产"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）总论：教育具有双重属性"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-nature-2",
+      "knowledgeId": "china-reviewed-ch12-yang-nature",
+      "title": "（1）③关系",
+      "text": "教育的双重属性之间并无冲突。",
+      "keywords": [
+        "双重属性",
+        "并无冲突"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）总论：教育具有双重属性"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-nature-3",
+      "knowledgeId": "china-reviewed-ch12-yang-nature",
+      "title": "（2）①原始社会",
+      "text": "教育是“社会所需要的劳动领域之一”。",
+      "keywords": [
+        "原始社会",
+        "劳动领域"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）分论：教育本质的演变"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-nature-4",
+      "knowledgeId": "china-reviewed-ch12-yang-nature",
+      "title": "（2）②私有制社会",
+      "text": "教育成为“社会的上层建筑之一”。",
+      "keywords": [
+        "私有制社会",
+        "上层建筑"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）分论：教育本质的演变"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-nature-5",
+      "knowledgeId": "china-reviewed-ch12-yang-nature",
+      "title": "（2）③未来社会",
+      "text": "教育仍将是“社会所需要的劳动领域之一”。",
+      "keywords": [
+        "未来社会",
+        "劳动领域"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）分论：教育本质的演变"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-function-0",
+      "knowledgeId": "china-reviewed-ch12-yang-function",
+      "title": "（1）教育万能论",
+      "text": "批判“教育万能”论。",
+      "keywords": [
+        "教育万能论"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-function-1",
+      "knowledgeId": "china-reviewed-ch12-yang-function",
+      "title": "（2）教育救国论",
+      "text": "批判“教育救国”论。",
+      "keywords": [
+        "教育救国论"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-function-2",
+      "knowledgeId": "china-reviewed-ch12-yang-function",
+      "title": "（3）先教育后革命论",
+      "text": "批判“先教育后革命”论。",
+      "keywords": [
+        "先教育后革命论"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-function-3",
+      "knowledgeId": "china-reviewed-ch12-yang-function",
+      "title": "（4）四说",
+      "text": "批判“教育神圣”“教育清高”“教育中正”“教育独立”说。",
+      "keywords": [
+        "教育神圣",
+        "教育清高",
+        "教育中正",
+        "教育独立"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-youth-problem-0",
+      "knowledgeId": "china-reviewed-ch12-yang-youth-problem",
+      "title": "①表现",
+      "text": "“青年生活上所发生的困难与变态”，涉及青年生活方方面面的问题。",
+      "keywords": [
+        "困难与变态",
+        "青年生活"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-youth-problem-1",
+      "knowledgeId": "china-reviewed-ch12-yang-youth-problem",
+      "title": "②原因",
+      "text": "个体身心剧变与社会动荡巨变。",
+      "keywords": [
+        "个体身心剧变",
+        "社会动荡巨变"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-youth-problem-2",
+      "knowledgeId": "china-reviewed-ch12-yang-youth-problem",
+      "title": "③重要性",
+      "text": "解决青年问题能够促进个人发展、促进社会进步。",
+      "keywords": [
+        "个人发展",
+        "社会进步"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life-0",
+      "knowledgeId": "china-reviewed-ch12-yang-whole-life",
+      "title": "①含义",
+      "text": "对青年进行全面的关心、教育和引导，使青年成为一个“完成的人”。",
+      "keywords": [
+        "全面关心教育引导",
+        "完成的人"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life-1",
+      "knowledgeId": "china-reviewed-ch12-yang-whole-life",
+      "title": "②a人生观指导",
+      "text": "指导青年树立正确的人生观，是青年教育思想的核心。",
+      "keywords": [
+        "人生观指导",
+        "核心"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "②内容"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life-2",
+      "knowledgeId": "china-reviewed-ch12-yang-whole-life",
+      "title": "②b学习观指导",
+      "text": "指导青年必须学习，学习是青年的权利与义务。",
+      "keywords": [
+        "学习观指导",
+        "权利与义务"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "②内容"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life-3",
+      "knowledgeId": "china-reviewed-ch12-yang-whole-life",
+      "title": "②c政治观指导",
+      "text": "指导青年要干预政治，投身革命。",
+      "keywords": [
+        "政治观指导",
+        "投身革命"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "②内容"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life-4",
+      "knowledgeId": "china-reviewed-ch12-yang-whole-life",
+      "title": "②d健康生活",
+      "text": "青年要有强健的体魄和精神。",
+      "keywords": [
+        "健康生活",
+        "体育生活"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "②d生活观指导"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life-5",
+      "knowledgeId": "china-reviewed-ch12-yang-whole-life",
+      "title": "②d劳动生活",
+      "text": "青年要有工作的知识和技能。",
+      "keywords": [
+        "劳动生活",
+        "职业生活"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "②d生活观指导"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life-6",
+      "knowledgeId": "china-reviewed-ch12-yang-whole-life",
+      "title": "②d公民生活",
+      "text": "青年要有服务人民群众的理想和才干。",
+      "keywords": [
+        "公民生活",
+        "社会生活"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "②d生活观指导"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-whole-life-7",
+      "knowledgeId": "china-reviewed-ch12-yang-whole-life",
+      "title": "②d文化生活",
+      "text": "青年要有丰富的风尚和习惯。",
+      "keywords": [
+        "文化生活",
+        "学艺生活"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "②d生活观指导"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-evaluation-0",
+      "knowledgeId": "china-reviewed-ch12-yang-evaluation",
+      "title": "1.教育理论",
+      "text": "致力于中国马克思主义教育理论建设。",
+      "keywords": [
+        "马克思主义教育理论建设"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-evaluation-1",
+      "knowledgeId": "china-reviewed-ch12-yang-evaluation",
+      "title": "2.青年教育",
+      "text": "致力于当时一代青年的健康成长。",
+      "keywords": [
+        "青年教育",
+        "健康成长"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-deepen-0",
+      "knowledgeId": "china-reviewed-ch12-yang-deepen",
+      "title": "对教师",
+      "text": "开启“全人生的指导”，使青年的品德得到净化、良知得到唤醒、思想得到引领、生活得到指导。",
+      "keywords": [
+        "全人生的指导",
+        "品德",
+        "良知",
+        "思想",
+        "生活"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yang-deepen-1",
+      "knowledgeId": "china-reviewed-ch12-yang-deepen",
+      "title": "对学生",
+      "text": "追求“全人生发展”，不局限于成绩一个维度，追求身心和谐、个性和全面发展。",
+      "keywords": [
+        "全人生发展",
+        "身心和谐",
+        "个性",
+        "全面发展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-intro-0",
+      "knowledgeId": "china-reviewed-ch12-huang-intro",
+      "title": "人物定位",
+      "text": "黄炎培是中国近现代著名的爱国主义者和民主主义教育家，也是近代职业教育的创始人和理论家，被誉为“职业教育之父”。",
+      "keywords": [
+        "黄炎培",
+        "职业教育之父"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice-0",
+      "knowledgeId": "china-reviewed-ch12-huang-practice",
+      "title": "1.研究普通教育",
+      "text": "1913年发表《学校教育采用实用主义之商榷》，考察“癸卯学制”以来的普通教育，要求加强普通学校与个人生活、社会需要的联系，形成早期实用主义教育思潮。",
+      "keywords": [
+        "1913",
+        "学校教育采用实用主义之商榷",
+        "实用主义教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice-1",
+      "knowledgeId": "china-reviewed-ch12-huang-practice",
+      "title": "（1）实用阶段",
+      "text": "1913年研究普通教育，揭露其缺乏实用性。",
+      "keywords": [
+        "1913",
+        "缺乏实用性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.职业教育的探索"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice-2",
+      "knowledgeId": "china-reviewed-ch12-huang-practice",
+      "title": "（2）酝酿阶段",
+      "text": "1914—1917年开展国内外教育考察，形成职业教育萌芽；思想由实用主义教育向职业教育转化。",
+      "keywords": [
+        "1914—1917",
+        "教育考察",
+        "职业教育萌芽"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.职业教育的探索"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice-3",
+      "knowledgeId": "china-reviewed-ch12-huang-practice",
+      "title": "（3）宣言书",
+      "text": "1917—1926年建立中华职业教育社；发表《中华职业教育社宣言书》，标志职业教育思潮形成。",
+      "keywords": [
+        "1917—1926",
+        "中华职业教育社",
+        "宣言书"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）高潮阶段"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice-4",
+      "knowledgeId": "china-reviewed-ch12-huang-practice",
+      "title": "（3）办学",
+      "text": "创办中华职业学校，以学校教育形式开展职业教育实验。",
+      "keywords": [
+        "中华职业学校",
+        "职业教育实验"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）高潮阶段"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice-5",
+      "knowledgeId": "china-reviewed-ch12-huang-practice",
+      "title": "（3）研究",
+      "text": "设立研究机构并撰写研究论著，形成系统的、中国化的职业教育理论。",
+      "keywords": [
+        "研究机构",
+        "中国化",
+        "职业教育理论"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）高潮阶段"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice-6",
+      "knowledgeId": "china-reviewed-ch12-huang-practice",
+      "title": "（3）杂志",
+      "text": "主办《教育与职业》《生活周刊》等杂志，面向全国宣传职业教育。",
+      "keywords": [
+        "教育与职业",
+        "生活周刊"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）高潮阶段"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-practice-7",
+      "knowledgeId": "china-reviewed-ch12-huang-practice",
+      "title": "（4）成熟阶段",
+      "text": "1926—1931年总结教育经验，形成大职业教育观；联络教育界和职业界，参与全社会活动，探寻职业教育外部环境的适应问题。",
+      "keywords": [
+        "1926—1931",
+        "大职业教育观",
+        "教育界",
+        "职业界"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-system-role-0",
+      "knowledgeId": "china-reviewed-ch12-huang-system-role",
+      "title": "1.（1）四为",
+      "text": "职业教育在于“谋个性之发展，为个人谋生之准备，为个人服务社会之准备，为国家及世界增进生产力之准备”。",
+      "keywords": [
+        "四为",
+        "谋个性",
+        "谋生",
+        "服务社会",
+        "增进生产力"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.作用"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-system-role-1",
+      "knowledgeId": "china-reviewed-ch12-huang-system-role",
+      "title": "1.（2）现实作用",
+      "text": "解决生计，国家安定。",
+      "keywords": [
+        "解决生计",
+        "国家安定"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.作用"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-system-role-2",
+      "knowledgeId": "china-reviewed-ch12-huang-system-role",
+      "title": "2.（1）一贯的",
+      "text": "建立从初级到高级的职业教育系统，贯彻于全部教育过程和全部职业生涯。",
+      "keywords": [
+        "一贯的",
+        "全部教育过程",
+        "职业生涯"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.地位"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-system-role-3",
+      "knowledgeId": "china-reviewed-ch12-huang-system-role",
+      "title": "2.（2）整个的",
+      "text": "学校教育体系中有独立职业教育系统，其他各级各类教育也与职业教育相互沟通。",
+      "keywords": [
+        "整个的",
+        "独立系统",
+        "相互沟通"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.地位"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-system-role-4",
+      "knowledgeId": "china-reviewed-ch12-huang-system-role",
+      "title": "2.（3）正统的",
+      "text": "职业教育与普通教育等量齐观。",
+      "keywords": [
+        "正统的",
+        "等量齐观"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.地位"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-aim-social-0",
+      "knowledgeId": "china-reviewed-ch12-huang-aim-social",
+      "title": "3.目的",
+      "text": "“使无业者有业，使有业者乐业”。",
+      "keywords": [
+        "无业者有业",
+        "有业者乐业"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-aim-social-1",
+      "knowledgeId": "china-reviewed-ch12-huang-aim-social",
+      "title": "社会化总义",
+      "text": "黄炎培视社会化为“职业教育机关唯一的生命”。",
+      "keywords": [
+        "社会化",
+        "唯一的生命"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.（1）社会化"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-aim-social-2",
+      "knowledgeId": "china-reviewed-ch12-huang-aim-social",
+      "title": "①办学宗旨",
+      "text": "以教育为方法，以职业为目的。",
+      "keywords": [
+        "教育为方法",
+        "职业为目的"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.（1）社会化"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-aim-social-3",
+      "knowledgeId": "china-reviewed-ch12-huang-aim-social",
+      "title": "②培养目标",
+      "text": "培养在知识技能和道德方面适合社会生产和社会合作的各行业人才。",
+      "keywords": [
+        "知识技能",
+        "道德",
+        "社会生产合作"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.（1）社会化"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-aim-social-4",
+      "knowledgeId": "china-reviewed-ch12-huang-aim-social",
+      "title": "③办学组织",
+      "text": "根据社会需要和学员的志愿与实际条件。",
+      "keywords": [
+        "社会需要",
+        "学员志愿",
+        "实际条件"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.（1）社会化"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-aim-social-5",
+      "knowledgeId": "china-reviewed-ch12-huang-aim-social",
+      "title": "④办学方式",
+      "text": "充分依靠教育界、职业界的各种力量。",
+      "keywords": [
+        "教育界",
+        "职业界"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.（1）社会化"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-science-0",
+      "knowledgeId": "china-reviewed-ch12-huang-science",
+      "title": "科学化总义",
+      "text": "物质方面和人事方面的工作均需遵循科学原则。",
+      "keywords": [
+        "科学化",
+        "科学原则"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.（2）科学化"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-science-1",
+      "knowledgeId": "china-reviewed-ch12-huang-science",
+      "title": "①物质方面",
+      "text": "事前调查与实验、事后总结与推广；建立职业陶冶—职业指导—职业教育—职业补习和再补习体系。",
+      "keywords": [
+        "调查实验",
+        "总结推广",
+        "职业陶冶",
+        "职业指导",
+        "职业补习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.（2）科学化"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-science-2",
+      "knowledgeId": "china-reviewed-ch12-huang-science",
+      "title": "②人事方面",
+      "text": "把科学管理方法用于职业教育管理；率先以心理测验进行招生和专业选择，并设科学管理研究机构。",
+      "keywords": [
+        "科学管理",
+        "心理测验",
+        "招生",
+        "专业选择"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.（2）科学化"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-science-3",
+      "knowledgeId": "china-reviewed-ch12-huang-science",
+      "title": "5.教学原则",
+      "text": "手脑并用、做学合一、理论与实际并行、知识与技能并重。",
+      "keywords": [
+        "手脑并用",
+        "做学合一",
+        "理论实际",
+        "知识技能"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-science-4",
+      "knowledgeId": "china-reviewed-ch12-huang-science",
+      "title": "6.职业道德",
+      "text": "敬业乐群。",
+      "keywords": [
+        "敬业乐群"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-evaluation-0",
+      "knowledgeId": "china-reviewed-ch12-huang-evaluation",
+      "title": "1.先行者",
+      "text": "中国近现代职业教育的先行者和中国职业教育思想的开创者。",
+      "keywords": [
+        "先行者",
+        "开创者"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-evaluation-1",
+      "knowledgeId": "china-reviewed-ch12-huang-evaluation",
+      "title": "2.中国化",
+      "text": "将职业教育放在中国社会发展的全过程中考察。",
+      "keywords": [
+        "中国化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-evaluation-2",
+      "knowledgeId": "china-reviewed-ch12-huang-evaluation",
+      "title": "3.平民化",
+      "text": "职业教育针对普通民众。",
+      "keywords": [
+        "平民化",
+        "普通民众"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-evaluation-3",
+      "knowledgeId": "china-reviewed-ch12-huang-evaluation",
+      "title": "4.实用化",
+      "text": "强调职业教育与社会实际相结合。",
+      "keywords": [
+        "实用化",
+        "社会实际"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-evaluation-4",
+      "knowledgeId": "china-reviewed-ch12-huang-evaluation",
+      "title": "5.科学化",
+      "text": "将科学方法引入职业教育管理和教学。",
+      "keywords": [
+        "科学化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-huang-evaluation-5",
+      "knowledgeId": "china-reviewed-ch12-huang-evaluation",
+      "title": "6.社会化",
+      "text": "从社会生产和经济发展角度分析职业教育。",
+      "keywords": [
+        "社会化",
+        "社会生产",
+        "经济发展"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-intro-analysis-0",
+      "knowledgeId": "china-reviewed-ch12-yan-intro-analysis",
+      "title": "简介",
+      "text": "晏阳初是中国现代史上著名的教育家、世界平民教育运动与乡村改造运动的倡导者。",
+      "keywords": [
+        "晏阳初",
+        "平民教育",
+        "乡村改造"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-intro-analysis-1",
+      "knowledgeId": "china-reviewed-ch12-yan-intro-analysis",
+      "title": "1.定县实验",
+      "text": "在河北定县进行乡村建设实验，实行“四大教育”“三大方式”和“两化”。",
+      "keywords": [
+        "河北定县",
+        "四大教育",
+        "三大方式",
+        "两化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-intro-analysis-2",
+      "knowledgeId": "china-reviewed-ch12-yan-intro-analysis",
+      "title": "2.定县调查",
+      "text": "李景汉编著《定县社会概况调查》，以西方社会学方法和技术全面调查定县，辅助实验。",
+      "keywords": [
+        "李景汉",
+        "定县社会概况调查",
+        "西方社会学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-intro-analysis-3",
+      "knowledgeId": "china-reviewed-ch12-yan-intro-analysis",
+      "title": "3.农村问题",
+      "text": "中国农村问题是“愚、穷（贫）、弱、私”。",
+      "keywords": [
+        "愚穷弱私"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-four-0",
+      "knowledgeId": "china-reviewed-ch12-yan-four",
+      "title": "（1）文艺教育",
+      "text": "以文艺教育攻愚，培养知识力，是基础；进行文字、艺术、扫盲教育。",
+      "keywords": [
+        "文艺教育",
+        "攻愚",
+        "知识力",
+        "基础"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-four-1",
+      "knowledgeId": "china-reviewed-ch12-yan-four",
+      "title": "（2）生计教育",
+      "text": "以生计教育攻穷，培养生产力，是关键；农业科学助生产、合作方式促经济、改良工艺搞副业。",
+      "keywords": [
+        "生计教育",
+        "攻穷",
+        "生产力",
+        "关键"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-four-2",
+      "knowledgeId": "china-reviewed-ch12-yan-four",
+      "title": "（3）卫生教育",
+      "text": "以卫生教育攻弱，培养强健力，是辅助；卫生和健康、科学治疗、卫生保健制度。",
+      "keywords": [
+        "卫生教育",
+        "攻弱",
+        "强健力",
+        "辅助"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-four-3",
+      "knowledgeId": "china-reviewed-ch12-yan-four",
+      "title": "（4）公民教育",
+      "text": "以公民教育攻私，培养团结力，是根本；公民道德训练是根本内容。",
+      "keywords": [
+        "公民教育",
+        "攻私",
+        "团结力",
+        "根本"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-three-0",
+      "knowledgeId": "china-reviewed-ch12-yan-three",
+      "title": "（1）学校式教育",
+      "text": "重点、主导作用；以青少年为对象，以《公民千字课》为教材，实行导生传习制。",
+      "keywords": [
+        "学校式教育",
+        "青少年",
+        "公民千字课",
+        "导生传习制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-three-1",
+      "knowledgeId": "china-reviewed-ch12-yan-three",
+      "title": "（2）社会式教育",
+      "text": "延伸、推广作用；以群众和有组织的农民团体为对象，开展社会活动。",
+      "keywords": [
+        "社会式教育",
+        "群众",
+        "农民团体"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-three-2",
+      "knowledgeId": "china-reviewed-ch12-yan-three",
+      "title": "（3）家庭式教育",
+      "text": "协调、辅助作用；横向联系家庭中不同地位成员进行教育。",
+      "keywords": [
+        "家庭式教育",
+        "横向联系",
+        "家庭成员"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-two-eval-0",
+      "knowledgeId": "china-reviewed-ch12-yan-two-eval",
+      "title": "（1）农民化",
+      "text": "实施手段；知识分子与村民一起劳动和生活，即“博士下乡”。",
+      "keywords": [
+        "农民化",
+        "博士下乡"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.“化农民”与“农民化”"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-two-eval-1",
+      "knowledgeId": "china-reviewed-ch12-yan-two-eval",
+      "title": "（2）化农民",
+      "text": "教育目的；教化农民，要求“农民科学化，科学简单化”。",
+      "keywords": [
+        "化农民",
+        "农民科学化",
+        "科学简单化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.“化农民”与“农民化”"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-two-eval-2",
+      "knowledgeId": "china-reviewed-ch12-yan-two-eval",
+      "title": "1.（1）改革思路",
+      "text": "引进现代民主意识和西方社会治理模式。",
+      "keywords": [
+        "现代民主意识",
+        "西方社会治理"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（四）评价：进步"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-two-eval-3",
+      "knowledgeId": "china-reviewed-ch12-yan-two-eval",
+      "title": "1.（2）带来实惠",
+      "text": "向乡村传播科学知识，传递生产经验。",
+      "keywords": [
+        "科学知识",
+        "生产经验"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（四）评价：进步"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-two-eval-4",
+      "knowledgeId": "china-reviewed-ch12-yan-two-eval",
+      "title": "1.（3）教育创新",
+      "text": "把乡村建设和乡村教育结合，学校、社会、家庭形成相互促进的系统工程。",
+      "keywords": [
+        "乡村建设",
+        "乡村教育",
+        "学校社会家庭"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（四）评价：进步"
+    },
+    {
+      "id": "china-reviewed-ch12-yan-two-eval-5",
+      "knowledgeId": "china-reviewed-ch12-yan-two-eval",
+      "title": "2.局限",
+      "text": "倒果为因，未认清中国贫穷落后的根本问题，仅靠教育无法解决问题。",
+      "keywords": [
+        "倒果为因",
+        "根本问题",
+        "教育无法解决"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-intro-culture-0",
+      "knowledgeId": "china-reviewed-ch12-liang-intro-culture",
+      "title": "简介",
+      "text": "梁漱溟是中国乡村教育家，基于中国社会和文化特殊性分析乡村教育理论并进行实践。",
+      "keywords": [
+        "梁漱溟",
+        "乡村教育家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-intro-culture-1",
+      "knowledgeId": "china-reviewed-ch12-liang-intro-culture",
+      "title": "①西洋",
+      "text": "崇尚科学方法，发展人的个性与社会性。",
+      "keywords": [
+        "西洋",
+        "科学方法",
+        "个性社会性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）1.（1）文化分析"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-intro-culture-2",
+      "knowledgeId": "china-reviewed-ch12-liang-intro-culture",
+      "title": "②印度",
+      "text": "崇尚宗教情绪，追求人的解脱。",
+      "keywords": [
+        "印度",
+        "宗教情绪",
+        "解脱"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）1.（1）文化分析"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-intro-culture-3",
+      "knowledgeId": "china-reviewed-ch12-liang-intro-culture",
+      "title": "③中国",
+      "text": "追求人与人之间真实妥洽关系的“仁的生活”。",
+      "keywords": [
+        "中国",
+        "仁的生活"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）1.（1）文化分析"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-intro-culture-4",
+      "knowledgeId": "china-reviewed-ch12-liang-intro-culture",
+      "title": "问题症结",
+      "text": "“愚、穷、弱、私”是表象，中国落后的根源是极严重的文化失调，只能从自身固有文化中寻求出路。",
+      "keywords": [
+        "愚穷弱私",
+        "文化失调",
+        "固有文化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-road-0",
+      "knowledgeId": "china-reviewed-ch12-liang-road",
+      "title": "①伦理本位",
+      "text": "中国社会以道德为本位，人际关系尤重宗法与家庭。",
+      "keywords": [
+        "伦理本位",
+        "道德",
+        "宗法家庭"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）从社会历史看"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-road-1",
+      "knowledgeId": "china-reviewed-ch12-liang-road",
+      "title": "②职业分立",
+      "text": "士、农、工、商只是职业不同，不成对立之势，未产生阶级对抗。",
+      "keywords": [
+        "职业分立",
+        "士农工商",
+        "阶级对抗"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）从社会历史看"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-road-2",
+      "knowledgeId": "china-reviewed-ch12-liang-road",
+      "title": "社会现状",
+      "text": "多数人口在乡村、文化的根在乡村、乡村遭遇严重破坏。",
+      "keywords": [
+        "多数人口",
+        "文化的根",
+        "乡村破坏"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）从社会现状看"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-road-3",
+      "knowledgeId": "china-reviewed-ch12-liang-road",
+      "title": "乡村建设",
+      "text": "乡村建设是实现经济改造和社会改良的方式，是目的。",
+      "keywords": [
+        "乡村建设",
+        "经济改造",
+        "社会改良"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.乡村建设与乡村教育"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-road-4",
+      "knowledgeId": "china-reviewed-ch12-liang-road",
+      "title": "乡村教育",
+      "text": "乡村教育是助力乡村建设的手段。",
+      "keywords": [
+        "乡村教育",
+        "手段"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.乡村建设与乡村教育"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-road-5",
+      "knowledgeId": "china-reviewed-ch12-liang-road",
+      "title": "二者关系",
+      "text": "乡村建设以乡村教育为方法，乡村教育以乡村建设为目标。",
+      "keywords": [
+        "方法",
+        "目标"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.乡村建设与乡村教育"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-practice-0",
+      "knowledgeId": "china-reviewed-ch12-liang-practice",
+      "title": "（1）村学",
+      "text": "招收文盲和半文盲，是基础组织。",
+      "keywords": [
+        "村学",
+        "文盲半文盲",
+        "基础组织"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.组织机构"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-practice-1",
+      "knowledgeId": "china-reviewed-ch12-liang-practice",
+      "title": "（2）乡学",
+      "text": "招收识字的成年农民，是上层机构。",
+      "keywords": [
+        "乡学",
+        "成年农民",
+        "上层机构"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.组织机构"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-practice-2",
+      "knowledgeId": "china-reviewed-ch12-liang-practice",
+      "title": "（1）政教养卫合一",
+      "text": "体现“以教统政”。",
+      "keywords": [
+        "政教养卫合一",
+        "以教统政"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.组织原则"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-practice-3",
+      "knowledgeId": "china-reviewed-ch12-liang-practice",
+      "title": "（2）融合归一",
+      "text": "学校式教育与社会式教育“融合归一”。",
+      "keywords": [
+        "学校式教育",
+        "社会式教育",
+        "融合归一"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.组织原则"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-practice-4",
+      "knowledgeId": "china-reviewed-ch12-liang-practice",
+      "title": "3.教学形式",
+      "text": "编写《村学乡学须知》，依据“吕氏乡约”，立足传统道德文化的发扬改造乡村。",
+      "keywords": [
+        "村学乡学须知",
+        "吕氏乡约",
+        "传统道德文化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-practice-5",
+      "knowledgeId": "china-reviewed-ch12-liang-practice",
+      "title": "（1）共有课程",
+      "text": "识字、唱歌和精神讲话。",
+      "keywords": [
+        "识字",
+        "唱歌",
+        "精神讲话"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.教学内容"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-practice-6",
+      "knowledgeId": "china-reviewed-ch12-liang-practice",
+      "title": "（2）特色课程",
+      "text": "各校按生活环境需要设置，如产棉地区学习植棉技术。",
+      "keywords": [
+        "特色课程",
+        "生活环境",
+        "植棉技术"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.教学内容"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-evaluation-0",
+      "knowledgeId": "china-reviewed-ch12-liang-evaluation",
+      "title": "1.（1）改革思路",
+      "text": "立足传统文化改造中国社会。",
+      "keywords": [
+        "传统文化",
+        "改造社会"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.进步"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-evaluation-1",
+      "knowledgeId": "china-reviewed-ch12-liang-evaluation",
+      "title": "1.（2）带来实惠",
+      "text": "传播科学，传递知识。",
+      "keywords": [
+        "传播科学",
+        "传递知识"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.进步"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-evaluation-2",
+      "knowledgeId": "china-reviewed-ch12-liang-evaluation",
+      "title": "1.（3）教育创新",
+      "text": "借鉴古代乡约制度，把乡村教育和乡村建设作为整体思考。",
+      "keywords": [
+        "乡约制度",
+        "乡村教育建设",
+        "整体"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.进步"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-evaluation-3",
+      "knowledgeId": "china-reviewed-ch12-liang-evaluation",
+      "title": "2.（1）第三条道路",
+      "text": "探索拯救中国的“第三条道路”，但依旧失败。",
+      "keywords": [
+        "第三条道路",
+        "失败"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.局限"
+    },
+    {
+      "id": "china-reviewed-ch12-liang-evaluation-4",
+      "knowledgeId": "china-reviewed-ch12-liang-evaluation",
+      "title": "2.（2）问题",
+      "text": "比晏阳初深入，但无视中国社会阶级冲突和阶级斗争的现状，导致失败。",
+      "keywords": [
+        "晏阳初",
+        "阶级冲突",
+        "阶级斗争"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.局限"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-0",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "简介",
+      "text": "陈鹤琴是中国近代学前儿童教育理论和实践的开创者，被誉为中国的“幼儿教育之父”。",
+      "keywords": [
+        "陈鹤琴",
+        "幼儿教育之父"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-1",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（1）1919年",
+      "text": "在南京高等师范学校任教。",
+      "keywords": [
+        "1919",
+        "南京高等师范学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.幼儿与儿童教育探索"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-2",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（2）1920年",
+      "text": "研究长子陈一鸣，写成《儿童心理之研究》。",
+      "keywords": [
+        "1920",
+        "陈一鸣",
+        "儿童心理之研究"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.幼儿与儿童教育探索"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-3",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（3）1923年",
+      "text": "创办鼓楼幼稚园，中国第一所实验幼稚园；开展中国化、科学化实验，形成系统、有民族特色的学前教育思想。",
+      "keywords": [
+        "1923",
+        "鼓楼幼稚园",
+        "第一所实验幼稚园",
+        "中国化科学化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.幼儿与儿童教育探索"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-4",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（4）1929年",
+      "text": "主持拟定《幼稚园暂行课程标准》。",
+      "keywords": [
+        "1929",
+        "幼稚园暂行课程标准"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.幼儿与儿童教育探索"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-5",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（5）1935年后",
+      "text": "提出“活教育”：教师“教活书，活教书，教书活”，学生“读活书，活读书，读书活”。",
+      "keywords": [
+        "1935",
+        "教活书",
+        "读活书"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.幼儿与儿童教育探索"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-6",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（1）1940年",
+      "text": "在江西省筹建省立实验幼稚师范学校，开展“活教育”实验。",
+      "keywords": [
+        "1940",
+        "省立实验幼稚师范学校"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.“活教育”实验"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-7",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（2）1941年",
+      "text": "创办《活教育》杂志，标志理论形成和运动开始。",
+      "keywords": [
+        "1941",
+        "活教育杂志",
+        "理论形成"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.“活教育”实验"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-8",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（3）1943年",
+      "text": "幼师改为国立幼稚师范学校，形成专科部、幼师部、小学部、幼稚园、婴儿园的体系。",
+      "keywords": [
+        "1943",
+        "国立幼稚师范学校",
+        "幼儿教育体系"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.“活教育”实验"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-intro-practice-9",
+      "knowledgeId": "china-reviewed-ch12-chen-intro-practice",
+      "title": "（4）1945年",
+      "text": "幼师专科部改为国立幼稚师范专科学校，迁往上海继续实验。",
+      "keywords": [
+        "1945",
+        "国立幼稚师范专科学校",
+        "上海"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.“活教育”实验"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-aim-0",
+      "knowledgeId": "china-reviewed-ch12-chen-aim",
+      "title": "总目的",
+      "text": "“做人，做中国人，做现代中国人”。",
+      "keywords": [
+        "做人",
+        "做中国人",
+        "现代中国人"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-aim-1",
+      "knowledgeId": "china-reviewed-ch12-chen-aim",
+      "title": "（1）做人",
+      "text": "热爱人类、热爱真理。",
+      "keywords": [
+        "热爱人类",
+        "热爱真理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-aim-2",
+      "knowledgeId": "china-reviewed-ch12-chen-aim",
+      "title": "（2）做中国人",
+      "text": "热爱国家、热爱同胞。",
+      "keywords": [
+        "热爱国家",
+        "热爱同胞"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-aim-3",
+      "knowledgeId": "china-reviewed-ch12-chen-aim",
+      "title": "（3）现代中国人",
+      "text": "有健全身体、建设能力、创造能力，能够合作、服务。",
+      "keywords": [
+        "健全身体",
+        "建设能力",
+        "创造能力",
+        "合作服务"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-aim-4",
+      "knowledgeId": "china-reviewed-ch12-chen-aim",
+      "title": "（4）评价",
+      "text": "从抽象的人到具体的现代中国人，表达对人的发展、教育与社会变革的追求。",
+      "keywords": [
+        "现代中国人",
+        "人的发展",
+        "社会变革"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-curriculum-0",
+      "knowledgeId": "china-reviewed-ch12-chen-curriculum",
+      "title": "总论",
+      "text": "“大自然、大社会都是活教材”。",
+      "keywords": [
+        "大自然",
+        "大社会",
+        "活教材"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-curriculum-1",
+      "knowledgeId": "china-reviewed-ch12-chen-curriculum",
+      "title": "（1）①直接经验",
+      "text": "直接向大自然、大社会学习，在直接接触中获得经验和知识。",
+      "keywords": [
+        "直接经验",
+        "自然社会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）教材"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-curriculum-2",
+      "knowledgeId": "china-reviewed-ch12-chen-curriculum",
+      "title": "（1）②书本知识",
+      "text": "不否定书本知识，只反对把书本看作唯一教育资料。",
+      "keywords": [
+        "书本知识",
+        "唯一资料"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）教材"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-curriculum-3",
+      "knowledgeId": "china-reviewed-ch12-chen-curriculum",
+      "title": "（2）①活动单元",
+      "text": "打破学科中心，采取符合儿童身心发展和生活特点的活动单元课程。",
+      "keywords": [
+        "学科中心",
+        "活动单元课程"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）课程"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-curriculum-4",
+      "knowledgeId": "china-reviewed-ch12-chen-curriculum",
+      "title": "（2）②五指活动",
+      "text": "儿童健康、社会、科学、文学、艺术活动。",
+      "keywords": [
+        "五指活动",
+        "健康社会科学文学艺术"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）课程"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-curriculum-5",
+      "knowledgeId": "china-reviewed-ch12-chen-curriculum",
+      "title": "（3）评价",
+      "text": "追求完整的儿童生活，各要素是相互联系的整体。",
+      "keywords": [
+        "完整儿童生活",
+        "相互联系"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-teaching-eval-0",
+      "knowledgeId": "china-reviewed-ch12-chen-teaching-eval",
+      "title": "总论",
+      "text": "“做中教，做中学，做中求进步”。",
+      "keywords": [
+        "做中教",
+        "做中学",
+        "做中求进步"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-teaching-eval-1",
+      "knowledgeId": "china-reviewed-ch12-chen-teaching-eval",
+      "title": "（1）主体性",
+      "text": "以“做”为基础，确立学生在教学活动中的主体性。",
+      "keywords": [
+        "做",
+        "主体性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-teaching-eval-2",
+      "knowledgeId": "china-reviewed-ch12-chen-teaching-eval",
+      "title": "（2）教师引导",
+      "text": "儿童的“做”带有盲目性，需要教师积极正确引导。",
+      "keywords": [
+        "盲目性",
+        "教师引导"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-teaching-eval-3",
+      "knowledgeId": "china-reviewed-ch12-chen-teaching-eval",
+      "title": "（3）四步骤",
+      "text": "实验观察—阅读思考—创作发表—批评研讨。",
+      "keywords": [
+        "实验观察",
+        "阅读思考",
+        "创作发表",
+        "批评研讨"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-teaching-eval-4",
+      "knowledgeId": "china-reviewed-ch12-chen-teaching-eval",
+      "title": "（4）教学评价",
+      "text": "突出儿童的主体性、经验性和做中学。",
+      "keywords": [
+        "主体性",
+        "经验性",
+        "做中学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-chen-teaching-eval-5",
+      "knowledgeId": "china-reviewed-ch12-chen-teaching-eval",
+      "title": "（四）评价",
+      "text": "吸收实用主义思想，结合国情中国化。",
+      "keywords": [
+        "实用主义",
+        "中国化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-intro-xiaozhuang-0",
+      "knowledgeId": "china-reviewed-ch12-tao-intro-xiaozhuang",
+      "title": "简介",
+      "text": "陶行知是中国现代杰出的人民教育家、思想家，批判旧教育，主张“生活教育”，探索民族教育出路。",
+      "keywords": [
+        "陶行知",
+        "人民教育家",
+        "生活教育",
+        "民族教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-intro-xiaozhuang-1",
+      "knowledgeId": "china-reviewed-ch12-tao-intro-xiaozhuang",
+      "title": "（1）简介",
+      "text": "1927年在南京创办南京市试验乡村师范学校，后改名晓庄学校。",
+      "keywords": [
+        "1927",
+        "南京市试验乡村师范学校",
+        "晓庄学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.晓庄学校"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-intro-xiaozhuang-2",
+      "knowledgeId": "china-reviewed-ch12-tao-intro-xiaozhuang",
+      "title": "①办学目标",
+      "text": "总体目标是“培养乡村人民儿童所敬爱的导师”；具体培养有农夫的身手、科学的头脑、改造社会的精神、健康的体魄、艺术的兴趣的教师。",
+      "keywords": [
+        "乡村人民儿童所敬爱的导师",
+        "农夫身手",
+        "科学头脑",
+        "改造社会"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-intro-xiaozhuang-3",
+      "knowledgeId": "china-reviewed-ch12-tao-intro-xiaozhuang",
+      "title": "②理论体系",
+      "text": "把“社会即学校”“生活即教育”“教学做合一”形成完整“生活教育”理论体系。",
+      "keywords": [
+        "社会即学校",
+        "生活即教育",
+        "教学做合一"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-intro-xiaozhuang-4",
+      "knowledgeId": "china-reviewed-ch12-tao-intro-xiaozhuang",
+      "title": "③艺友制",
+      "text": "与有经验教师交朋友，在实践中学习当教师，边干边学，学习才自然、有效。",
+      "keywords": [
+        "艺友制",
+        "边干边学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-intro-xiaozhuang-5",
+      "knowledgeId": "china-reviewed-ch12-tao-intro-xiaozhuang",
+      "title": "（3）评价",
+      "text": "成为中国现代提倡乡村教育、兴办乡村学校的先行者。",
+      "keywords": [
+        "乡村教育",
+        "先行者"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-0",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "山海工学团简介",
+      "text": "1932年在上海郊区大场创办，提出“工以养生，学以明生，团以保生”。",
+      "keywords": [
+        "1932",
+        "上海大场",
+        "工以养生学以明生团以保生"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.山海工学团"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-1",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "山海工学团内容",
+      "text": "推行“即知即传”的“小先生制”；开展军事、生产、科学、识字、民权、生活六大训练。",
+      "keywords": [
+        "即知即传",
+        "小先生制",
+        "六大训练"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.山海工学团"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-2",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "山海工学团评价",
+      "text": "是对普及教育的探索，体现为劳苦大众服务的思想。",
+      "keywords": [
+        "普及教育",
+        "劳苦大众"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.山海工学团"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-3",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "小先生制简介",
+      "text": "为解决师资缺乏、经费匮乏、女子教育困难而提出。",
+      "keywords": [
+        "师资缺乏",
+        "经费匮乏",
+        "女子教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.“小先生制”"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-4",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "小先生制内容",
+      "text": "人人把认识的字和学到的文化随时随地教给别人，儿童是主要承担者。",
+      "keywords": [
+        "人人即知即传",
+        "儿童"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.“小先生制”"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-5",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "小先生制评价",
+      "text": "是穷国普及教育最重要的钥匙。",
+      "keywords": [
+        "穷国普及教育",
+        "钥匙"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.“小先生制”"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-6",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "育才学校简介",
+      "text": "抗战期间收容流离失所的难童，1939年在重庆创办育才学校。",
+      "keywords": [
+        "1939",
+        "重庆",
+        "育才学校",
+        "难童"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.育才学校"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-7",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "育才学校内容",
+      "text": "培养艺术人才；拒绝国民党“收为国立”的劝诱，坚持独立办学。",
+      "keywords": [
+        "艺术人才",
+        "独立办学"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.育才学校"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-practice-8",
+      "knowledgeId": "china-reviewed-ch12-tao-practice",
+      "title": "育才学校评价",
+      "text": "体现站在人民大众立场思考和解决教育问题。",
+      "keywords": [
+        "人民大众立场"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.育才学校"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-life-0",
+      "knowledgeId": "china-reviewed-ch12-tao-life",
+      "title": "（1）生活有教育意义",
+      "text": "生活每时每刻都含有教育意义，过什么生活就有什么教育。",
+      "keywords": [
+        "生活有教育意义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-life-1",
+      "knowledgeId": "china-reviewed-ch12-tao-life",
+      "title": "（2）生活是中心",
+      "text": "教育联系生活，教育目的、内容、方法都根据生活确定。",
+      "keywords": [
+        "实际生活",
+        "教育中心"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-life-2",
+      "knowledgeId": "china-reviewed-ch12-tao-life",
+      "title": "（3）决定与改造",
+      "text": "生活决定教育，教育改造生活、推动生活进步。",
+      "keywords": [
+        "生活决定教育",
+        "教育改造生活"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-life-3",
+      "knowledgeId": "china-reviewed-ch12-tao-life",
+      "title": "（4）评价",
+      "text": "虽忽视生活与教育的区别和系统知识传授，但对破除教育脱离生活有重要意义。",
+      "keywords": [
+        "系统知识",
+        "教育脱离生活"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-society-0",
+      "knowledgeId": "china-reviewed-ch12-tao-society",
+      "title": "（1）社会含有学校",
+      "text": "整个社会像教育场所；劳苦大众缺乏学校场所，因而在社会中学习。",
+      "keywords": [
+        "社会含有学校",
+        "劳苦大众"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-society-1",
+      "knowledgeId": "china-reviewed-ch12-tao-society",
+      "title": "（2）学校含有社会",
+      "text": "改造传统学校，让学校和工场、农村打成一片。",
+      "keywords": [
+        "学校含有社会",
+        "工场农村"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-society-2",
+      "knowledgeId": "china-reviewed-ch12-tao-society",
+      "title": "（3）评价",
+      "text": "扩大了学校教育内涵和作用，改变传统学校观、教育观，使劳苦大众受到起码教育。",
+      "keywords": [
+        "扩大内涵作用",
+        "学校观教育观",
+        "普及民众教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-unity-0",
+      "knowledgeId": "china-reviewed-ch12-tao-unity",
+      "title": "（1）在劳力上劳心",
+      "text": "“教学做合一”要求“在劳力上劳心”。",
+      "keywords": [
+        "在劳力上劳心"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-unity-1",
+      "knowledgeId": "china-reviewed-ch12-tao-unity",
+      "title": "（2）行是知之始",
+      "text": "“教学做合一”是因为“行是知之始”。",
+      "keywords": [
+        "行是知之始"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-unity-2",
+      "knowledgeId": "china-reviewed-ch12-tao-unity",
+      "title": "（3）方法关系",
+      "text": "“教学做合一”要求教的方法根据学的方法，学的方法根据做的方法；事怎样做便怎样学，怎样学便怎样教。",
+      "keywords": [
+        "教法根据学法",
+        "学法根据做法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-unity-3",
+      "knowledgeId": "china-reviewed-ch12-tao-unity",
+      "title": "（4）反对注入",
+      "text": "“教学做合一”是对注入式教学法的否定。",
+      "keywords": [
+        "注入式教学法"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-unity-4",
+      "knowledgeId": "china-reviewed-ch12-tao-unity",
+      "title": "（5）评价",
+      "text": "旨在破除以学科知识为原则的课程传统和以文字为中心的学用脱节。",
+      "keywords": [
+        "学科知识",
+        "文字中心",
+        "学用脱节"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-evaluation-0",
+      "knowledgeId": "china-reviewed-ch12-tao-evaluation",
+      "title": "（1）大众化",
+      "text": "站在大众、民族立场，为大众办教育。",
+      "keywords": [
+        "大众化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-evaluation-1",
+      "knowledgeId": "china-reviewed-ch12-tao-evaluation",
+      "title": "（2）中国化",
+      "text": "吸收杜威实用主义思想，立足中国国情办教育。",
+      "keywords": [
+        "中国化",
+        "杜威实用主义"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-evaluation-2",
+      "knowledgeId": "china-reviewed-ch12-tao-evaluation",
+      "title": "（3）创新化",
+      "text": "批判传统教育，创造学用结合的新教育。",
+      "keywords": [
+        "创新化",
+        "学用结合"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen-0",
+      "knowledgeId": "china-reviewed-ch12-tao-deepen",
+      "title": "其他思想",
+      "text": "为劳苦大众办普及教育；把“教授法”改为“教学法”；著有《平民千字课》；尊重儿童个性和创造精神。",
+      "keywords": [
+        "普及教育",
+        "教学法",
+        "平民千字课",
+        "儿童个性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen-1",
+      "knowledgeId": "china-reviewed-ch12-tao-deepen",
+      "title": "六大解放",
+      "text": "解放儿童的眼睛、头脑、双手、嘴巴、空间、时间。",
+      "keywords": [
+        "六大解放",
+        "眼睛头脑双手嘴巴空间时间"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen-2",
+      "knowledgeId": "china-reviewed-ch12-tao-deepen",
+      "title": "共同点1",
+      "text": "陶行知与陈鹤琴都受杜威实用主义影响，并结合中国教育实际。",
+      "keywords": [
+        "杜威实用主义",
+        "中国实际"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "陶行知与陈鹤琴共同特点"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen-3",
+      "knowledgeId": "china-reviewed-ch12-tao-deepen",
+      "title": "共同点2",
+      "text": "都反对传统书本教育，但不忽视书本地位。",
+      "keywords": [
+        "书本教育",
+        "书本地位"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "陶行知与陈鹤琴共同特点"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen-4",
+      "knowledgeId": "china-reviewed-ch12-tao-deepen",
+      "title": "共同点3",
+      "text": "都反对课堂中心和学校中心，强调教育联系社会生活和大自然。",
+      "keywords": [
+        "课堂中心",
+        "学校中心",
+        "社会生活大自然"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "陶行知与陈鹤琴共同特点"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen-5",
+      "knowledgeId": "china-reviewed-ch12-tao-deepen",
+      "title": "共同点4",
+      "text": "都重视直接经验，强调“做”在教学中的地位。",
+      "keywords": [
+        "直接经验",
+        "做"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "陶行知与陈鹤琴共同特点"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen-6",
+      "knowledgeId": "china-reviewed-ch12-tao-deepen",
+      "title": "共同点5",
+      "text": "都批判忽视儿童生活和主体性的传统教育，提倡相信、解放、发展儿童。",
+      "keywords": [
+        "儿童生活",
+        "主体性",
+        "相信解放发展儿童"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "陶行知与陈鹤琴共同特点"
+    },
+    {
+      "id": "china-reviewed-ch12-tao-deepen-7",
+      "knowledgeId": "china-reviewed-ch12-tao-deepen",
+      "title": "民国教育家共同特点",
+      "text": "实用化、科学化、民主化、个性化、教育救国。",
+      "keywords": [
+        "实用化",
+        "科学化",
+        "民主化",
+        "个性化",
+        "教育救国"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p098-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "杨贤江与马克思主义教育理论 · 第90页",
+        "section": "",
+        "refs": [
+          {
+            "page": 98,
+            "rect": [
+              0.10948,
+              0.62631,
+              0.76311,
+              0.232
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 98569,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p098-k02-0-s0",
+          "knowledgeId": "china-p098-k02-0",
+          "title": "杨贤江与马克思主义教育理论",
+          "text": "杨贤江与马克思主义教育理论\n（一）简介\n杨贤江是中国最早的马克思主义教育理论家与青年教育家。《教育史\nABC》是第一部运用历史唯物主义分析世界教育历史的著作，《新教\n育大纲》是第一部运用马克思主义论述教育原理的专著。\n（1）总论：教育具有双重属性。",
+          "keywords": [
+            "杨贤江与马克思主义教育理论",
+            "简介",
+            "总论：教育具有双重属性"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p098-k02-0-s1",
+          "knowledgeId": "china-p098-k02-0",
+          "title": "②教育是劳动力再生产的手段",
+          "text": "①教育是上层建筑之一。教育是“观念形态的劳动领域之一\n②教育是劳动力再生产的手段。\n仁观点\n1. 论教育本质\n③二者之间并无冲突。\n(《新教育大纲》)\n（2）分论：对教育本质演变的具体分析。\n①在原始社会，教育是“社会所需要的劳动领域之一”",
+          "keywords": [
+            "②教育是劳动力再生产的手段",
+            "仁观点",
+            "论教育本质"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p098-k02-0-s2",
+          "knowledgeId": "china-p098-k02-0",
+          "title": "原文小步 3",
+          "text": "②在私有制社会，教育成为“社会的上层建筑之一”\n③在未来社会，教育仍将是“社会所需要的劳动领域之一\"",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p099-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "杨贤江与马克思主义教育理论 · 第91页（1）",
+        "section": "",
+        "refs": [
+          {
+            "page": 99,
+            "rect": [
+              0.08534,
+              0.08024,
+              0.83759,
+              0.59927
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 99077,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p099-k00-0-s0",
+          "knowledgeId": "china-p099-k00-0",
+          "title": "批判“教育万能”论",
+          "text": "（1）批判“教育万能”论。\n(2）批判“教育救国”论。\n2.论教育功能\n（3）批判“先教育后革命”论。\n（1）青年问题概述。\n口观点\n①表现：“青年生活上所发生的困难与变态”，涉及青年生活方方面\n面的问题。\n②产生的原因：个体身心剧变+社会动荡巨变。",
+          "keywords": [
+            "批判“教育万能”论",
+            "批判“教育救国”论",
+            "论教育功能"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p099-k00-0-s1",
+          "knowledgeId": "china-p099-k00-0",
+          "title": "“全人生的指导”",
+          "text": "③解决的重要性：促进个人发展+促进社会进步。\n（2）“全人生的指导”。\n杨贤江与马克思主义教育理论\n①含义：就是对青年进行全面的关心、教育和引导，使青年成为\n3.“全人生的指\n一个“完成的人”。\n导”与青年教育\n②内容:\n（《学生杂志》）",
+          "keywords": [
+            "“全人生的指导”",
+            "杨贤江与马克思主义教育理论",
+            "“全人生的指"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p099-k00-0-s2",
+          "knowledgeId": "china-p099-k00-0",
+          "title": "d.生活观指导",
+          "text": "a.人生观指导。指导青年树立正确的人生观是青年教育思想的核心。\nb.学习观指导。指导青年必须学习，学习是青年的权利与义务。\nc.政治观指导。指导青年要干预政治，投身革命。\nd.生活观指导。\n健康生活（体育生活）。青年要有强健的体魄和精神。",
+          "keywords": [
+            "d.生活观指导"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p099-k00-0-s3",
+          "knowledgeId": "china-p099-k00-0",
+          "title": "评价",
+          "text": "劳动生活（职业生活）。青年要有工作的知识和技能。\n公民生活（社会生活）。青年要有服务人民群众的理想和才干。\n文化生活（学艺生活）。青年要有丰富的风尚和习惯。\n在教育理论上，致力于中国马克思主义教育理论建设。\n（三）评价",
+          "keywords": [
+            "评价"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p099-k00-0-s4",
+          "knowledgeId": "china-p099-k00-0",
+          "title": "凯程深化",
+          "text": "2.在青年教育上，致力于当时一代青年的健康成长。\n凯程深化\n杨贤江教育思想对当代青年的影响：\n1.对教师而言，只有开启“全人生的指导”才是真正的教育。\n（1）使青年的品德得到净化；（2）使青年的良知得到唤醒；",
+          "keywords": [
+            "凯程深化"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p099-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "杨贤江与马克思主义教育理论 · 第91页（2）",
+        "section": "",
+        "refs": [
+          {
+            "page": 99,
+            "rect": [
+              0.09431,
+              0.67572,
+              0.81414,
+              0.25277
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 99618,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p099-k00-1-s0",
+          "knowledgeId": "china-p099-k00-1",
+          "title": "知识小贴士",
+          "text": "（3）使青年的思想得到引领；（4）使青年的生活得到指导。\n2.对学生而言，只有追求“全人生发展”才是真正的成长。\n不局限于成绩一个维度的发展，追求人的身心和谐、个性和全面的发展。\n知识小贴士\n没有“全人生指导”的观念存在，可以说是畸形的或脚的教育。\n杨贤江",
+          "keywords": [
+            "知识小贴士",
+            "杨贤江"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p099-k00-1-s1",
+          "knowledgeId": "china-p099-k00-1",
+          "title": "杨贤江",
+          "text": "青年！你们可晓得自己是怎样一种人？你们可觉悟自己该怎样来做人？你们是清\n醒，还是糊涂？是愉快，还是忧郁？是勇敢，还是怯懦？是自由，还是拘束？\n杨贤江",
+          "keywords": [
+            "杨贤江"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p100-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "黄炎培的职业教育思想与实践 · 第92页（1）",
+        "section": "",
+        "refs": [
+          {
+            "page": 100,
+            "rect": [
+              0.10328,
+              0.14133,
+              0.82309,
+              0.4006
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 100132,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p100-k01-0-s0",
+          "knowledgeId": "china-p100-k01-0",
+          "title": "简介",
+          "text": "（一）简介\n黄炎培是中国近现代著名的爱国主义者和民主主义教育家，也是近代\n职业教育的创始人和理论家，被誉为“职业教育之父”。\n1.研究普通教育一提倡“学校采用实用主义”。\n黄炎培于1913年发表《学校教育采用实用主义之商榨》，对“癸卯学制”以来的普通教育做",
+          "keywords": [
+            "简介"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p100-k01-0-s1",
+          "knowledgeId": "china-p100-k01-0",
+          "title": "职业教育的探索",
+          "text": "考察，要求加强普通学校与个人生活和社会需要之间的联系，形成了早期实用主义教育思潮。\n2. 职业教育的探索。\n(1）第一阶段（1913 年），研究普通教育，揭露其缺乏实用性。\n(实用)",
+          "keywords": [
+            "职业教育的探索",
+            "(实用)"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p100-k01-0-s2",
+          "knowledgeId": "china-p100-k01-0",
+          "title": "(酝酿)",
+          "text": "（2）第二阶段（1914一1917年），开展国内外教育考察，形成职业教育萌芽。\n(酝酿)\n二职业教育实践\n黄炎培认为职业教育是改造中国的良方，所以他的思想由实用主义教育向职业教育转化。",
+          "keywords": [
+            "(酝酿)",
+            "职业教育实践"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p100-k01-0-s3",
+          "knowledgeId": "china-p100-k01-0",
+          "title": "(高潮)",
+          "text": "（3）第三阶段（1917一1926年），倾力从事职业教育，建立中华职业教育社\n(高潮)\n黄炎培的职业教育思想与实践\n①宣言书。发表《中华职业教育社宣言书》，标志着以黄炎培为代表的职业教育思潮的形成。\n②办学。创办中华职业学校，以学校教育形式开展职业教育实验。",
+          "keywords": [
+            "(高潮)",
+            "黄炎培的职业教育思想与实践"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p100-k01-0-s4",
+          "knowledgeId": "china-p100-k01-0",
+          "title": "(成熟）",
+          "text": "③研究。设立研究机构，并撰写研究论著，形成系统的、中国化的职业教育理论。\n④杂志。主办《教育与职业》《生活周刊》等杂志，面向全国宣传职业教育。\n（4）第四阶段（1926一1931年），总结当时的教育经验，形成大职业教育观。\n(成熟）",
+          "keywords": [
+            "(成熟）"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p100-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "黄炎培的职业教育思想与实践 · 第92页（2）",
+        "section": "",
+        "refs": [
+          {
+            "page": 100,
+            "rect": [
+              0.17293,
+              0.46474,
+              0.75414,
+              0.3657
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 100428,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p100-k01-1-s0",
+          "knowledgeId": "china-p100-k01-1",
+          "title": "原文小步 6",
+          "text": "办职业教育必须联络和沟通所有教育界和职业界，参与全社会的活动和发展，以更多地\n探寻职业教育外部环境的适应问题。\n1.作用：（1）就理论价值而言一—\n“四为”。职业教育在于“谋个性之发展，为个人谋生之",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p100-k01-1-s1",
+          "knowledgeId": "china-p100-k01-1",
+          "title": "职业教育思想体系",
+          "text": "准备，为个人服务社会之准备，为国家及世界增进生产力之准备”。\n（2）就现实作用而言一解决生计，国家安定。\n2.地位：（1）“一贯的”。应建立起从初级到高级的职业教育系统，并贯彻于全部教育过程\n三职业教育思想体系\n和全部职业生涯。",
+          "keywords": [
+            "职业教育思想体系"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p100-k01-1-s2",
+          "knowledgeId": "china-p100-k01-1",
+          "title": "方针",
+          "text": "（2）“整个的”。不仅在学校教育体系中应有一个独立的职业教育系统，其他各级\n各类教育也要与职业教育相互沟通。\n（3）“正统的”。职业教育的地位应与普通教育等量齐观。\n3.目的：“使无业者有业，使有业者乐业”。\n4.方针:",
+          "keywords": [
+            "方针"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p100-k01-1-s3",
+          "knowledgeId": "china-p100-k01-1",
+          "title": "①办学宗旨的社会化",
+          "text": "（1）社会化。黄炎培视社会化为“职业教育机关唯一的生命”\n①办学宗旨的社会化\n一以教育为方法，以职业为目的。\n②培养目标的社会化\n培养在知识技能和道德方面适合社会生产和社会合作的各行业人才。\n③办学组织的社会化\n一一办学需根据社会需要和学员的志愿与实际条件。",
+          "keywords": [
+            "①办学宗旨的社会化",
+            "②培养目标的社会化",
+            "③办学组织的社会化"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p100-k01-1-s4",
+          "knowledgeId": "china-p100-k01-1",
+          "title": "④办学方式的社会化",
+          "text": "④办学方式的社会化\n一充分依靠教育界、职业界的各种力量。",
+          "keywords": [
+            "④办学方式的社会化"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p101-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "黄炎培的职业教育思想与实践 · 第93页",
+        "section": "",
+        "refs": [
+          {
+            "page": 101,
+            "rect": [
+              0.06603,
+              0.08589,
+              0.82586,
+              0.29588
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 101082,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p101-k00-0-s0",
+          "knowledgeId": "china-p101-k00-0",
+          "title": "职业教育思想体系",
+          "text": "三职业教育思想体系\n（2）科学化。物质方面的工作和人事方面的工作，均需遵循科学原则。\n①物质方面的工作：强调事前调查与实验、事后总结与推广的原则。建立起职业陶冶一职\n业指导一职业教育一职业补习和再补习的体系。\n黄炎培的职业教育思想与实践",
+          "keywords": [
+            "职业教育思想体系",
+            "黄炎培的职业教育思想与实践"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p101-k00-0-s1",
+          "knowledgeId": "china-p101-k00-0",
+          "title": "原文小步 2",
+          "text": "②人事方面的工作：强调把科学管理方法运用于职业教育管理中的原则。率先运用心理测\n验的手段进行职业学校招生和学生专业选择。另外，还要设立专门的科学管理研究机构。\n5.教学原则：（1）手脑并用；（2）做学合一：（3）理论与实际并行；（4）知识与技能并重。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p101-k00-0-s2",
+          "knowledgeId": "china-p101-k00-0",
+          "title": "职业道德教育：敬业乐群",
+          "text": "6.职业道德教育：敬业乐群。\n1.先行者。黄炎培是中国近现代职业教育的先行者，也是中国职业教育思想的开创者。\n2.中国化。黄炎培将职业教育放在中国社会发展的全过程中加以考察。\n四评价\n3.平民化。黄炎培的职业教育是针对普通民众的。",
+          "keywords": [
+            "职业道德教育：敬业乐群",
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p101-k00-0-s3",
+          "knowledgeId": "china-p101-k00-0",
+          "title": "原文小步 4",
+          "text": "4.实用化。黄炎培强调职业教育与社会实际相结合。\n5.科学化。黄炎培将科学方法引入职业教育管理和教学中。\n6.社会化。黄炎培站在社会生产和经济发展的角度来分析职业教育。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p101-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "晏阳初的乡村教育实验 · 第93页",
+        "section": "",
+        "refs": [
+          {
+            "page": 101,
+            "rect": [
+              0.07845,
+              0.46885,
+              0.82172,
+              0.31179
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 101427,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p101-k01-0-s0",
+          "knowledgeId": "china-p101-k01-0",
+          "title": "简介",
+          "text": "（一）简介\n晏阳初是中国现代史上著名的教育家、世界平民教育运动与乡村改造运动的倡导者。\n1.定县调查实验。晏阳初在河北定县进行乡村建设实验，具体实行“四\n晏阳初的乡村教育实验\n大教育”、“三大方式”和“两化”的乡村教育改革措施。\n（二）定县调查与对",
+          "keywords": [
+            "简介",
+            "晏阳初的乡村教育实验",
+            "定县调查与对"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p101-k01-0-s1",
+          "knowledgeId": "china-p101-k01-0",
+          "title": "中国农村问题的分析",
+          "text": "2.定县调查（即《定县社会概况调查》）。李景汉编著此书，以西方社\n中国农村问题的分析\n会学方法与技术对定县进行全方位的调查，辅助定县实验的开展。\n3.对中国农村问题的分析：“愚、穷／贫、弱、私”。\n1.“四大教育”的平民教育内容。",
+          "keywords": [
+            "中国农村问题的分析"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p101-k01-0-s2",
+          "knowledgeId": "china-p101-k01-0",
+          "title": "改革措施",
+          "text": "（1）以文艺教育攻愚，培养知识力-\n基础。进行文字+艺术+扫盲教育。\n（2）以生计教育攻穷，培养生产力一关键。农业科学助生产+合作方式促\n（三）改革措施\n经济+改良工艺搞副业。\n（3）以卫生教育攻弱，培养强健力\n辅助。卫生和健康+科学治疗+卫生\n保健制度。",
+          "keywords": [
+            "改革措施"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p101-k01-0-s3",
+          "knowledgeId": "china-p101-k01-0",
+          "title": "原文小步 4",
+          "text": "（4）以公民教育攻私，培养团结力一根本。公民道德训练+根本内容。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p102-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "晏阳初的乡村教育实验 · 第94页",
+        "section": "",
+        "refs": [
+          {
+            "page": 102,
+            "rect": [
+              0.1081,
+              0.0787,
+              0.81621,
+              0.35389
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 102076,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p102-k00-0-s0",
+          "knowledgeId": "china-p102-k00-0",
+          "title": "改革措施",
+          "text": "2.“三大方式”的平民教育途径。\n（1）学校式教育一重点，主导作用。以青少年为对象，以\n《公民千字课》为教材，实行导生传习制。\n（2）社会式教育一—延伸，推广作用。以群众和有组织的农\n民团体为教育对象，开展各种社会活动。\n（三）改革措施",
+          "keywords": [
+            "改革措施"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p102-k00-0-s1",
+          "knowledgeId": "china-p102-k00-0",
+          "title": "晏阳初的乡村教育实验",
+          "text": "（3）家庭式教育一协调，辅助作用。将各个家庭中不同地\n晏阳初的乡村教育实验\n位的成员用横向联系的方法组织起来进行教育。\n3“化农民”与“农民化”。\n（1）“农民化”——实施手段。知识分子与村民一起劳动和生活，即“博士下乡”。\n(2）“化农民”\n—",
+          "keywords": [
+            "晏阳初的乡村教育实验",
+            "“化农民”与“农民化”",
+            "“化农民”"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p102-k00-0-s2",
+          "knowledgeId": "china-p102-k00-0",
+          "title": "进步",
+          "text": "教育目的。教化农民，要求“农民科学化，科学简单化”。\n1. 进步:\n（1）改革思路：晏阳初引进现代民主意识和西方社会治理模式。\n（2）带来实惠：晏阳初向乡村传播科学知识，传递生产经验。\n（四）评价",
+          "keywords": [
+            "进步",
+            "评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p102-k00-0-s3",
+          "knowledgeId": "china-p102-k00-0",
+          "title": "互促进的系统工程",
+          "text": "（3）教育创新：晏阳初将乡村建设和乡村教育相结合，学校、社会、家庭形成相\n互促进的系统工程。\n2.局限：倒果为因，注定失败。未认清中国贫穷落后的根本问题，仅靠教育无法\n解决问题。",
+          "keywords": [
+            "互促进的系统工程"
+          ],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p102-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "梁漱溟的乡村教育建设 · 第94页",
+        "section": "",
+        "refs": [
+          {
+            "page": 102,
+            "rect": [
+              0.1081,
+              0.51197,
+              0.82449,
+              0.37236
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 102466,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p102-k01-0-s0",
+          "knowledgeId": "china-p102-k01-0",
+          "title": "简介",
+          "text": "（一）简介\n梁漱溟是中国乡村教育家，基于中国社会和文化特殊性分析乡村教\n育理论并进行乡村教育实践。\n梁激溟的乡村教育建设\n1.中国问题的症结一极严重的文化失调。\n(1）文化分析。\n①西洋：崇尚科学方法，发展人的个性与社会性。\n②印度：崇尚宗教情绪，追求人的解脱。",
+          "keywords": [
+            "简介",
+            "梁激溟的乡村教育建设",
+            "文化分析"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p102-k01-0-s1",
+          "knowledgeId": "china-p102-k01-0",
+          "title": "乡村建设和乡村教育理论",
+          "text": "③中国：追求人与人之间真实的妥洽关系的“仁的生活”。\n二乡村建设和乡村教育理论\n(2）问题症结：“愚、穷、弱、私”是表象，中国落后的根源是极严重的文化失调。所以\n中国只能从自身固有的文化中寻求出路。",
+          "keywords": [
+            "乡村建设和乡村教育理论"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p102-k01-0-s2",
+          "knowledgeId": "china-p102-k01-0",
+          "title": "原文小步 3",
+          "text": "2. 如何解决中国的问题一—乡村建设是唯一道路。 原因如下:\n(1）从社会历史看一不存在阶级对立的社会。\n①“伦理本位”：中国社会以道德为本位，人际关系尤重宗法与家庭。\n2“职业分立”：中国社会的士、农、工、商只是职业不同，不成对立之势，未产生阶级对抗。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p102-k01-0-s3",
+          "knowledgeId": "china-p102-k01-0",
+          "title": "乡村建设与乡村教育",
+          "text": "(2）从社会现状看：①多数人口在乡村。②文化的根在乡村。③乡村遭遇严重破坏。\n3. 乡村建设与乡村教育。\n（1）乡村建设一目的。乡村建设是实现经济改造和社会改良的方式。\n（2）乡村教育一—手段。通过乡村教育助力乡村建设。",
+          "keywords": [
+            "乡村建设与乡村教育"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p102-k01-0-s4",
+          "knowledgeId": "china-p102-k01-0",
+          "title": "原文小步 5",
+          "text": "（3） 二者关系。乡村建设以乡村教育为方法，乡村教育以乡村建设为目标。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p103-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "梁漱溟的乡村教育建设 · 第95页（1）",
+        "section": "",
+        "refs": [
+          {
+            "page": 103,
+            "rect": [
+              0.08409,
+              0.07583,
+              0.8187,
+              0.67386
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 103073,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p103-k00-0-s0",
+          "knowledgeId": "china-p103-k00-0",
+          "title": "组织机构",
+          "text": "（1）村学。招收文盲和半文盲\n基础组织。\n1.组织机构\n（2）乡学。招收识字的成年农民一—上层机构。\n三改革措施：乡村教育\n的组织与实施\n(山东邹平、菏泽)\n(1)\n“政教养卫合一”，体现“以教统政”。\n开设乡农学校\n2. 组织原则",
+          "keywords": [
+            "组织机构",
+            "改革措施：乡村教育",
+            "的组织与实施"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p103-k00-0-s1",
+          "knowledgeId": "china-p103-k00-0",
+          "title": "梁漱溴的乡村教育建设",
+          "text": "(2）学校式教育与社会式教育“融合归一”\n3.教学形式：编写《村学乡学须知》。依据“吕氏乡约”编写，立足于传\n统道德文化的发扬改造乡村。\n梁漱溴的乡村教育建设\n（1）共有课程：识字、唱歌和精神讲话。\n4. 教学内容",
+          "keywords": [
+            "梁漱溴的乡村教育建设",
+            "教学内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p103-k00-0-s2",
+          "knowledgeId": "china-p103-k00-0",
+          "title": "进步",
+          "text": "（2）特色课程：各校根据自身生活环境需要而设置的\n课程，如产棉地区学习植棉技术。\n（1）改革思路：立足于传统文化来改造中国社会。\n（2）带来实惠：传播科学+传递知识。\n1. 进步\n（3）教育创新：借鉴古代乡约制度改造乡村，把乡村教育和乡村建设作为\n回评价",
+          "keywords": [
+            "进步",
+            "回评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p103-k00-0-s3",
+          "knowledgeId": "china-p103-k00-0",
+          "title": "局限",
+          "text": "整体进行思考。\n（1）梁漱溟在探索拯救中国的“第三条道路”，但是依旧失败了。\n2. 局限\n（2）与晏阳初相比，他的思想更为深入。与毛主席相比，他无视中国社会\n的阶级冲突和阶级斗争的现状，导致失败。\n凯程深化\n晏阳初和梁漱溴的思想对比表\n维度\n教育实验\n对中国的思考",
+          "keywords": [
+            "局限",
+            "凯程深化"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p103-k00-0-s4",
+          "knowledgeId": "china-p103-k00-0",
+          "title": "原文小步 5",
+          "text": "改革思路\n教育措施\n结果\n立足于西方治\n“四大教育”\n晏阳初\n河北定县实验\n“愚、穷、弱、私”\n理模式的改革\n“三大方式”\n失败\n思路\n“两化”\n“愚、穷、弱、私”\n山东菏泽与邹\n是表象，中国落后\n立足于传统文\n梁漱溟\n开设乡农学校\n失败\n平等地实验\n的根源是极严重的\n化的改革思路\n文化失调",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p103-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "梁漱溟的乡村教育建设 · 第95页（2）",
+        "section": "",
+        "refs": [
+          {
+            "page": 103,
+            "rect": [
+              0.11378,
+              0.76858,
+              0.7607,
+              0.06758
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 103702,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p103-k00-1-s0",
+          "knowledgeId": "china-p103-k00-1",
+          "title": "原文小步 6",
+          "text": "都存在局限，未看\n都是乡村教育\n以乡村建设为目的，乡村教育为\n虽然带来了一定实\n相同点\n到中国社会落后的\n实验\n手段，二者相辅相成\n惠，但都失败了\n根源",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p104-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "陈鹤琴的“活教育”探索 · 第96页（1）",
+        "section": "",
+        "refs": [
+          {
+            "page": 104,
+            "rect": [
+              0.0979,
+              0.13553,
+              0.82492,
+              0.4186
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 104127,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p104-k01-0-s0",
+          "knowledgeId": "china-p104-k01-0",
+          "title": "简介",
+          "text": "(一）简介\n陈鹤琴是中国近代学前儿童教育理论和实践的开创者，被誉为中国的“幼儿教育之父”。\n1.幼儿教育与儿童教育探索。\n（1）1919年，在南京高等师范学校任教。\n（2）1920年，研究长子陈一鸣。写成《儿童心理之研究》一书。",
+          "keywords": [
+            "简介",
+            "幼儿教育与儿童教育探索"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p104-k01-0-s1",
+          "knowledgeId": "china-p104-k01-0",
+          "title": "教育实践",
+          "text": "（3）1923年，创办鼓楼幼稚园。这是中国第一所实验幼稚园，在此进行中国化、\n科学化的幼儿园实验，形成了系统的、有民族特色的学前教育思想。\n二教育实践\n（4）1929年，编写课标。主持拟定了《幼稚园暂行课程标准》。",
+          "keywords": [
+            "教育实践"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p104-k01-0-s2",
+          "knowledgeId": "china-p104-k01-0",
+          "title": "“活教育”实验",
+          "text": "（5）1935年后，提出“活教育”思想。提出教师如何“教活书，活教书，教书活”，\n学生如何“读活书，活读书，读书活”。\n2.“活教育”实验。\n（1）1940年，开始实验。在江西省筹建省立实验幼稚师范学校，开展“活教育”实验。",
+          "keywords": [
+            "“活教育”实验"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p104-k01-0-s3",
+          "knowledgeId": "china-p104-k01-0",
+          "title": "原文小步 4",
+          "text": "（2）1941年，创办杂志。《活教育》杂志标志着“活教育”理论的形成和运动的开始。\n（3）1943年，形成体系。将幼师改为国立幼稚师范学校，“活教育”实验已形成包括专科部、幼师部、\n小学部、幼稚园、婴儿园的幼儿教育体系。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p104-k01-0-s4",
+          "knowledgeId": "china-p104-k01-0",
+          "title": "原文小步 5",
+          "text": "（4）1945年，继续实验。将幼师专科部改为国立幼稚师范专科学校，迁往上海继续实验。\n1.目的论：“做人，做中国人，做现代中国人”。\n（1）做人。热爱人类、热爱真理。\n（2）做中国人。热爱国家、热爱同胞。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p104-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "陈鹤琴的“活教育”探索 · 第96页（2）",
+        "section": "",
+        "refs": [
+          {
+            "page": 104,
+            "rect": [
+              0.09445,
+              0.54624,
+              0.82767,
+              0.38668
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 104502,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p104-k01-1-s0",
+          "knowledgeId": "china-p104-k01-1",
+          "title": "④要能够合作：要服务",
+          "text": "(3） 做现代中国人。①要有健全的身体；②要有建设的能力；③要有创造的能力;\n三教育思想：“活教育”理论体系\n④要能够合作：要服务。\n（4）评价：此目的论从抽象的人到具体的现代中国人，表达了陈鹤琴对人的发展、教育与社会变革\n的追求。",
+          "keywords": [
+            "教育思想：“活教育”理论体系",
+            "④要能够合作：要服务"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p104-k01-1-s1",
+          "knowledgeId": "china-p104-k01-1",
+          "title": "原文小步 7",
+          "text": "2.课程论：“大自然、大社会都是活教材”。\n（1）教材：①直接向大自然、大社会学习。在与自然、社会的直接接触中获取经验和知识。\n②并不否定书本知识。他只反对把书本看作唯一的教育资料。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p104-k01-1-s2",
+          "knowledgeId": "china-p104-k01-1",
+          "title": "②建立“五指活动”课程体系",
+          "text": "（2）课程：①打破惯常的学科中心体系。采取符合儿童身心发展和生活特点的活动单元课程。\n②建立“五指活动”课程体系\n一儿童健康活动、儿童社会活动、儿童科学活动、\n儿童文学活动、儿童艺术活动。",
+          "keywords": [
+            "②建立“五指活动”课程体系"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p104-k01-1-s3",
+          "knowledgeId": "china-p104-k01-1",
+          "title": "原文小步 9",
+          "text": "（3）评价：“五指活动”追求的是完整的儿童生活，“五指活动”的各要素是相互联系的整体。\n3.教学论：“做中教，做中学，做中求进步”。\n（1）强调以“做”为基础。确立学生在教学活动中的主体性。\n（2）儿童的“做”带有盲目性。需要教师积极正确地引导。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p104-k01-1-s4",
+          "knowledgeId": "china-p104-k01-1",
+          "title": "吸收实用主义思想",
+          "text": "（3）“活教育”教学的四个步骤：实验观察一阅读思考一创作发表一批评研讨。\n（4）评价：突出儿童的主体性、经验性和做中学。\n1.吸收实用主义思想。\n（四）评价\n2.结合国情中国化。",
+          "keywords": [
+            "吸收实用主义思想",
+            "评价",
+            "结合国情中国化"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p105-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "陶行知的“生活教育”思想与实践 · 第97页（1）",
+        "section": "",
+        "refs": [
+          {
+            "page": 105,
+            "rect": [
+              0.08328,
+              0.17521,
+              0.82517,
+              0.47658
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 105163,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p105-k01-0-s0",
+          "knowledgeId": "china-p105-k01-0",
+          "title": "简介",
+          "text": "（一）简介\n陶行知是中国现代杰出的人民教育家、思想家，批判旧教育，主张“生活教育”，\n为中国积极探索民族教育的出路。\n（1）简介：1927年，陶行知在南京创办南京市试验乡村师范学校，后改名为晓庄学校。",
+          "keywords": [
+            "简介"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p105-k01-0-s1",
+          "knowledgeId": "china-p105-k01-0",
+          "title": "晓庄学校",
+          "text": "（2）内容：①确定办学目标。总体目标：“培养乡村人民儿童所敬爱的导师”。具体目标：\n造就有“农夫的身手、科学的头脑、改造社会的精神、健康的体魄、艺术的兴\n1晓庄学校\n趣”的教师。\n形成完整的“生活教育”理论体系。",
+          "keywords": [
+            "晓庄学校"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p105-k01-0-s2",
+          "knowledgeId": "china-p105-k01-0",
+          "title": "原文小步 3",
+          "text": "③创建乡村师范教育新模式一“艺友制”。其指与有经验的教师交朋友，在\n实践中学习当教师，方法是边干边学，学习才来的自然、有效。\n（3）评价：陶行知成为中国现代提倡乡村教育、兴办乡村学校的先行者。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p105-k01-0-s3",
+          "knowledgeId": "china-p105-k01-0",
+          "title": "山海工学团",
+          "text": "（1）简介：1932年，陶行知在上海郊区大场创办山海工学团，提出“工以养生，学以明生，\n2山海工学团\n团以保生”的理念。\n生活教育：实践\n（2）内容：①教学形式。推行“即知即传”的“小先生制”。",
+          "keywords": [
+            "山海工学团",
+            "生活教育：实践"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p105-k01-0-s4",
+          "knowledgeId": "china-p105-k01-0",
+          "title": "了“小先生制",
+          "text": "2教学内容。进行军事、生产、科学、识字、民权和生活训练（六大训练）。\n（3）评价：山海工学团是对普及教育的探索，体现了陶行知为劳苦大众服务的思想。\n了“小先生制\n（1）简介：陶行知为解决普及教育中师资缺乏、经费匮乏、女子教育困难等问题而提出的。",
+          "keywords": [
+            "了“小先生制"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p105-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "陶行知的“生活教育”思想与实践 · 第97页（2）",
+        "section": "",
+        "refs": [
+          {
+            "page": 105,
+            "rect": [
+              0.08672,
+              0.58692,
+              0.81897,
+              0.34516
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 105538,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p105-k01-1-s0",
+          "knowledgeId": "china-p105-k01-1",
+          "title": "原文小步 6",
+          "text": "（2）内容：“即知即传”的“小先生制”是指人人都要将自己认识的字和学到的文化随时\n随地教给别人，而儿童是这一传授过程的主要承担者。\n（3）评价：“小先生制”是穷国普及教育最重要的钥匙。",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p105-k01-1-s1",
+          "knowledgeId": "china-p105-k01-1",
+          "title": "育才学校",
+          "text": "（1）简介：抗战期间，为了收容战争中流离失所的难童，陶行知于1939年在重庆创办育\n4育才学校\n才学校。\n（2）内容：①坚持培育人才。培养了一批艺术人才，其中有不少成为新中国的干部。\n②坚持独立办学。拒绝国民党“收为国立”的劝诱，坚持独立办学。",
+          "keywords": [
+            "育才学校"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p105-k01-1-s2",
+          "knowledgeId": "china-p105-k01-1",
+          "title": "生活含有教育的意义",
+          "text": "（3）评价：体现了陶行知站在人民大众的立场上思考和解决他们的教育问题的主张。\n三\n(1）生活含有教育的意义。\n“生活教育”理论体系\n生活每时每刻都含有教育的意义，过什么样的生活就有什么样的教育。\n生活即教育\n（2）实际生活是教育的中心。\n(核心）",
+          "keywords": [
+            "生活含有教育的意义",
+            "“生活教育”理论体系",
+            "生活即教育"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p105-k01-1-s3",
+          "knowledgeId": "china-p105-k01-1",
+          "title": "原文小步 9",
+          "text": "教育联系生活，教育目的、内容、方法都需要根据生活来确定。\n（3）生活决定教育，教育改造生活。\n教育的方方面面都由生活决定；教育又能改造生活，推动生活进步。\n（4）评价：尽管“生活即教育”在生活与教育的区别和系统的知识传授方面有所忽视，",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p106-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "陶行知的“生活教育”思想与实践 · 第98页（1）",
+        "section": "",
+        "refs": [
+          {
+            "page": 106,
+            "rect": [
+              0.095,
+              0.08743,
+              0.82655,
+              0.52226
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 106084,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p106-k00-0-s0",
+          "knowledgeId": "china-p106-k00-0",
+          "title": "社会含有学校的意味",
+          "text": "（1）社会含有学校的意味。\n2“社会即学校”\n整个社会就像一个教育的场所+劳苦大众缺乏学校场所→在社会中学习。\n（具体化）\n（三）\n(2）学校含有社会的意味。\n生活教育理论体系\n陶行知主张改造传统的学校，让学校和工场、农村打成一片。",
+          "keywords": [
+            "社会含有学校的意味",
+            "“社会即学校”",
+            "（具体化）"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p106-k00-0-s1",
+          "knowledgeId": "china-p106-k00-0",
+          "title": "“教学做合",
+          "text": "（3）评价：“社会即学校”扩大了学校教育的内涵和作用，使传统的学校观、教育观有所改变，\n使劳苦大众能够受到起码的教育，贯穿了陶行知普及民众教育的良苦用心。\n(1）“教学做合一”要求“在劳力上劳心”。\n3“教学做合\n(2）“教学做合一”是因为“行是知之始”。",
+          "keywords": [
+            "“教学做合"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p106-k00-0-s2",
+          "knowledgeId": "china-p106-k00-0",
+          "title": "（方法论）",
+          "text": "（方法论）\n，，，一，()\n（4）“教学做合一”是对注入式教学法的否定。\n（5）评价：陶行知想破除以学科知识为原则的课程传统、以文字为中心的学用脱节\n的现象。\n回评价\n（1）大众化。他站在大众的、民族的立场，为大众办教育。",
+          "keywords": [
+            "（方法论）",
+            "，，，一，()",
+            "回评价"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p106-k00-0-s3",
+          "knowledgeId": "china-p106-k00-0",
+          "title": "凯程深化",
+          "text": "（2）中国化。他吸收杜威实用主义的思想，立足中国国情办教育。\n（3）创新化。他批判传统教育，创造学用结合的新教育。\n凯程深化\n1.陶行知的其他教育思想：\n（1）陶行知奉行为劳苦大众办普及教育。\n（2）陶行知将“教授法”改为“教学法”。",
+          "keywords": [
+            "凯程深化"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p106-k00-0-s4",
+          "knowledgeId": "china-p106-k00-0",
+          "title": "原文小步 5",
+          "text": "（3）陶行知也有《平民千字课》。\n（4）陶行知充分尊重儿童个性和创造精神。\n他曾说，“小孩也能做大事”，在所有的老师中，有“两位最伟大的老师”，一是老百姓，二是孩子们。\n（5）陶行知提出“六大解放”。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p106-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-11",
+        "title": "陶行知的“生活教育”思想与实践 · 第98页（2）",
+        "section": "",
+        "refs": [
+          {
+            "page": 106,
+            "rect": [
+              0.11983,
+              0.60796,
+              0.78103,
+              0.23634
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 106557,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p106-k00-1-s0",
+          "knowledgeId": "china-p106-k00-1",
+          "title": "原文小步 6",
+          "text": "解放儿童的眼睛、解放儿童的头脑、解放儿童的双手、解放儿童的嘴巴、解放儿童的空间、解放\n儿童的时间。\n2.陶行知与陈鹤琴教育思想的共同特点：\n（1）两种理论都是受杜威实用主义教育思想影响，并结合中国教育实际而形成的。",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p106-k00-1-s1",
+          "knowledgeId": "china-p106-k00-1",
+          "title": "原文小步 7",
+          "text": "（2）两种理论都反对传统书本教育，但并不忽视书本的地位。\n（3）两种理论都反对课堂中心和学校中心，强调教育与社会生活和大自然的联系。\n（4）两种理论都重视直接经验的价值，强调“做”在教学中的地位。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p106-k00-1-s2",
+          "knowledgeId": "china-p106-k00-1",
+          "title": "原文小步 8",
+          "text": "（5）两种理论都批判传统教育忽视儿童的生活及其主体性，提倡相信儿童、解放儿童、发展儿童。\n3.民国时期教育家的共同特点：\n实用化；科学化；民主化；个性化；教育救国。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 9,
+    "knowledge": 34,
+    "steps": 165,
+    "referenceOnly": 1,
+    "replacedDrafts": 17
+  }
+}

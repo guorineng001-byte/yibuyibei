@@ -1,0 +1,2300 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch21-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch21-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "俄国（苏联）的近现代教育制度：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 152,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.42
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 152117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "彼得一世的改革",
+      "section": "第一节 · 17—18世纪的俄国近代教育概况 · （一）",
+      "refs": [
+        {
+          "page": 152,
+          "rect": [
+            0.07,
+            0.64,
+            0.86,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 152576,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-moscow",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "莫斯科大学",
+      "section": "第一节 · （二）",
+      "refs": [
+        {
+          "page": 152,
+          "rect": [
+            0.07,
+            0.76,
+            0.86,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 152684,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "《俄罗斯帝国国民学校章程》",
+      "section": "第一节 · （三）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 153072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early19",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "19世纪初的教育改革",
+      "section": "第二节 · 19世纪的俄国近代教育概况 · （一）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.07,
+            0.35,
+            0.86,
+            0.125
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 153315,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "19世纪60年代的教育改革",
+      "section": "第二节 · （二）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.07,
+            0.49,
+            0.86,
+            0.31
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 153441,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-admin",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "20世纪10—20年代改革：简介与教育管理",
+      "section": "第三节 · 20世纪上半叶的苏联现代教育制度 · （一）简介、（二）内容1",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 154117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "《统一劳动学校规程》",
+      "section": "第三节 · 20世纪10—20年代改革 · （二）内容2：学校机构",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.07,
+            0.205,
+            0.86,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 154184,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-comprehensive",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "“综合教学大纲”",
+      "section": "第三节 · 20世纪10—20年代改革 · （二）内容3：教学内容",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.07,
+            0.315,
+            0.86,
+            0.078
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 154283,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-labor-method",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "“劳动教学法”",
+      "section": "第三节 · 20世纪10—20年代改革 · （二）内容4：教学方法",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.07,
+            0.399,
+            0.86,
+            0.079
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 154359,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "20世纪10—20年代改革：评价",
+      "section": "第三节 · 20世纪10—20年代改革 · （三）",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.07,
+            0.49,
+            0.86,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 154441,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "《关于小学和中学的决定》",
+      "section": "第三节 · 20世纪30年代的教育改革",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.07,
+            0.679,
+            0.86,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 154611,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "1958年教育改革：简介与普通教育",
+      "section": "第四节 · 20世纪下半叶的苏联与俄罗斯现代教育制度 · 考点一 · （一）简介、（二）内容1",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.07,
+            0.16,
+            0.86,
+            0.205
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 155144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-chart",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "1958年普通教育改革示意图",
+      "section": "第四节 · 考点一 · 1958年教育改革 · 原图",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.5,
+            0.267,
+            0.43,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 155240,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "1958年教育改革：职业教育与高等教育",
+      "section": "第四节 · 考点一 · 1958年教育改革 · （二）内容2—3",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.07,
+            0.365,
+            0.86,
+            0.195
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 155328,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "1958年教育改革：评价",
+      "section": "第四节 · 考点一 · 1958年教育改革 · （三）",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.07,
+            0.563,
+            0.86,
+            0.061
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 155506,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "1966年的教育改革",
+      "section": "第四节 · 考点一 · 第二次世界大战后的教育改革",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.07,
+            0.642,
+            0.86,
+            0.304
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 155577,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "1977年的教育改革",
+      "section": "第四节 · 考点一 · 第二次世界大战后的教育改革",
+      "refs": [
+        {
+          "page": 156,
+          "rect": [
+            0.07,
+            0.085,
+            0.86,
+            0.128
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 156076,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "1984年的教育改革",
+      "section": "第四节 · 考点一 · 第二次世界大战后的教育改革",
+      "refs": [
+        {
+          "page": 156,
+          "rect": [
+            0.07,
+            0.274,
+            0.86,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 156246,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-chart",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "1984年四五二学制图",
+      "section": "第四节 · 考点一 · 1984年教育改革 · 原图",
+      "refs": [
+        {
+          "page": 156,
+          "rect": [
+            0.575,
+            0.317,
+            0.32,
+            0.159
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 156285,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch21-pendulum",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "20世纪苏联教育发展的特点：钟摆现象",
+      "section": "第四节 · 考点一 · 凯程助记",
+      "refs": [
+        {
+          "page": 156,
+          "rect": [
+            0.07,
+            0.543,
+            0.86,
+            0.103
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 156488,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-law",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "《俄罗斯联邦教育法》",
+      "section": "第四节 · 考点二 · 俄罗斯联邦的教育 · （一）",
+      "refs": [
+        {
+          "page": 156,
+          "rect": [
+            0.07,
+            0.722,
+            0.86,
+            0.121
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 156649,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-admin",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "俄罗斯国民教育管理体制",
+      "section": "第四节 · 考点二 · 俄罗斯联邦的教育 · （二）",
+      "refs": [
+        {
+          "page": 156,
+          "rect": [
+            0.07,
+            0.851,
+            0.86,
+            0.043
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 156765,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch21-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-20",
+      "title": "俄国（苏联）的近现代教育制度总结表",
+      "section": "全章总结 · 原表",
+      "refs": [
+        {
+          "page": 157,
+          "rect": [
+            0.07,
+            0.086,
+            0.86,
+            0.43
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 157077,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch21-peter-0",
+      "knowledgeId": "foreign-reviewed-ch21-peter",
+      "title": "简介",
+      "text": "彼得一世拉开了俄国近代化的序幕。",
+      "keywords": [
+        "彼得一世",
+        "近代化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-1",
+      "knowledgeId": "foreign-reviewed-ch21-peter",
+      "title": "内容（1）改善初等教育",
+      "text": "改善初等教育，如开办俄语学校、计算学校。",
+      "keywords": [
+        "初等教育",
+        "俄语学校",
+        "计算学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）改善初等教育",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-2",
+      "knowledgeId": "foreign-reviewed-ch21-peter",
+      "title": "内容（2）创建实科学校",
+      "text": "创建实科学校，如开办军事技术的专门学校和航海学校。",
+      "keywords": [
+        "实科学校",
+        "军事技术",
+        "航海学校"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）创建实科学校",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-3",
+      "knowledgeId": "foreign-reviewed-ch21-peter",
+      "title": "内容（3）科学院设想",
+      "text": "提出创建科学院的设想。",
+      "keywords": [
+        "科学院",
+        "设想"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）科学院设想",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-4",
+      "knowledgeId": "foreign-reviewed-ch21-peter",
+      "title": "评价（1）优点",
+      "text": "促进教育近代化。",
+      "keywords": [
+        "教育近代化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（1）优点",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-5",
+      "knowledgeId": "foreign-reviewed-ch21-peter",
+      "title": "评价（2）局限",
+      "text": "封建贵族势力依然强大，因此阻力很大。",
+      "keywords": [
+        "封建贵族",
+        "阻力"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（2）局限",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-moscow-0",
+      "knowledgeId": "foreign-reviewed-ch21-moscow",
+      "title": "创办与特点",
+      "text": "罗蒙诺索夫建立；世俗化、民主化，不设立神学系。",
+      "keywords": [
+        "罗蒙诺索夫",
+        "世俗化",
+        "民主化",
+        "不设神学系"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "创办与特点"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-0",
+      "knowledgeId": "foreign-reviewed-ch21-catherine",
+      "title": "简介",
+      "text": "叶卡捷琳娜二世颁布了俄国历史上最早的关于国民教育制度的法令。",
+      "keywords": [
+        "叶卡捷琳娜二世",
+        "最早",
+        "国民教育制度"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-1",
+      "knowledgeId": "foreign-reviewed-ch21-catherine",
+      "title": "内容（1）管理",
+      "text": "各地设立国民学校，由当地政府领导。",
+      "keywords": [
+        "国民学校",
+        "当地政府"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）管理",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-2",
+      "knowledgeId": "foreign-reviewed-ch21-catherine",
+      "title": "内容（2）经费",
+      "text": "当地政府、贵族、商人共同承担。",
+      "keywords": [
+        "当地政府",
+        "贵族",
+        "商人"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）经费",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-3",
+      "knowledgeId": "foreign-reviewed-ch21-catherine",
+      "title": "内容（3）学校",
+      "text": "免费初级国民学校在县设置，2年制；免费中心国民学校在省城设置，5年制，也可同时设置初级国民学校。",
+      "keywords": [
+        "免费",
+        "初级2年",
+        "中心5年"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）学校",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-4",
+      "knowledgeId": "foreign-reviewed-ch21-catherine",
+      "title": "内容（4）课程",
+      "text": "前两年为基础知识课程，后三年为实用学科。",
+      "keywords": [
+        "前两年",
+        "基础知识",
+        "后三年",
+        "实用学科"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（4）课程",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-5",
+      "knowledgeId": "foreign-reviewed-ch21-catherine",
+      "title": "内容（5）其他要求",
+      "text": "对师生品德、教学、日常生活及宗教信仰提出严格要求。",
+      "keywords": [
+        "品德",
+        "教学",
+        "日常生活",
+        "宗教信仰"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（5）其他要求",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-6",
+      "knowledgeId": "foreign-reviewed-ch21-catherine",
+      "title": "评价",
+      "text": "奠定了近代俄国国民教育的基础，却并未规定适龄儿童必须入学。",
+      "keywords": [
+        "国民教育基础",
+        "未规定必须入学"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early19-0",
+      "knowledgeId": "foreign-reviewed-ch21-early19",
+      "title": "简介：背景与法案",
+      "text": "在国内资产阶级民主思想和法国大革命的影响下，沙皇亚历山大一世颁布《国民教育暂行条例》（1803年）、《大学附属学校章程》（1804年）。",
+      "keywords": [
+        "亚历山大一世",
+        "1803年",
+        "1804年"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early19-1",
+      "knowledgeId": "foreign-reviewed-ch21-early19",
+      "title": "内容：学校体系与管理",
+      "text": "逐步建立和完善学校体系和管理体制。借鉴法国大学区制，每一学区设立一所大学，大学享有自治权，并承担管理本学区各级普通学校的职责。",
+      "keywords": [
+        "大学区制",
+        "大学自治",
+        "管理普通学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early19-2",
+      "knowledgeId": "foreign-reviewed-ch21-early19",
+      "title": "评价",
+      "text": "两个法案反映了资产阶级经济发展的需要，带有民主色彩，并未得到彻底实施。",
+      "keywords": [
+        "经济发展",
+        "民主色彩",
+        "未彻底实施"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-0",
+      "knowledgeId": "foreign-reviewed-ch21-reform1860",
+      "title": "简介",
+      "text": "19世纪中期，在沙皇废除农奴制的氛围中，俄国的公共教育运动勃然兴起。沙皇亚历山大二世推行了一系列学制改革法令。",
+      "keywords": [
+        "废除农奴制",
+        "公共教育运动",
+        "亚历山大二世"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-1",
+      "knowledgeId": "foreign-reviewed-ch21-reform1860",
+      "title": "内容（1）初等教育",
+      "text": "《初等国民教育章程》（1864年）赋予政府、地方自治机构、社会团体、私人开办学校的权利。招收社会各阶层儿童，实施男女同校，女性可任教。",
+      "keywords": [
+        "1864年",
+        "放开办学权",
+        "男女同校",
+        "女性任教"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）初等教育",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-2",
+      "knowledgeId": "foreign-reviewed-ch21-reform1860",
+      "title": "内容（2）中等教育",
+      "text": "《文科中学和中学预备学校章程》（1864年）规定中学分为古典文科中学和实科中学，采用新型教学方法，反对体罚。",
+      "keywords": [
+        "1864年",
+        "古典文科中学",
+        "实科中学",
+        "反对体罚"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）中等教育",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-3",
+      "knowledgeId": "foreign-reviewed-ch21-reform1860",
+      "title": "内容（3）高等教育",
+      "text": "《俄罗斯帝国大学章程》（1863年）给予大学学术自由和自治权。",
+      "keywords": [
+        "1863年",
+        "学术自由",
+        "自治权"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）高等教育",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-4",
+      "knowledgeId": "foreign-reviewed-ch21-reform1860",
+      "title": "内容（4）女子教育",
+      "text": "《国民教育部女子学校章程》（1860年）；原书记述俄国第一次建立女子学校，推动女子教育发展。",
+      "keywords": [
+        "1860年",
+        "女子学校",
+        "女子教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（4）女子教育",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-5",
+      "knowledgeId": "foreign-reviewed-ch21-reform1860",
+      "title": "评价",
+      "text": "教育虽有发展，但未能使俄国教育发生实质性的改变。19世纪60年代后期，随着俄国封建势力的增强，俄国教育又出现了较大幅度的倒退。",
+      "keywords": [
+        "未实质改变",
+        "60年代后期",
+        "封建势力",
+        "倒退"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-admin-0",
+      "knowledgeId": "foreign-reviewed-ch21-early-soviet-admin",
+      "title": "简介",
+      "text": "1917年，俄国十月革命胜利后，建立了世界上第一个无产阶级专政的社会主义国家，新教育改革随之来临。",
+      "keywords": [
+        "1917年",
+        "十月革命",
+        "社会主义国家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-admin-1",
+      "knowledgeId": "foreign-reviewed-ch21-early-soviet-admin",
+      "title": "教育管理",
+      "text": "成立国家教育委员会，体现了民主化、非宗教化原则。",
+      "keywords": [
+        "国家教育委员会",
+        "民主化",
+        "非宗教化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. 教育管理",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor-0",
+      "knowledgeId": "foreign-reviewed-ch21-unified-labor",
+      "title": "学校机构",
+      "text": "《统一劳动学校规程》建立相互衔接的统一劳动学校。",
+      "keywords": [
+        "相互衔接",
+        "统一劳动学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "学校机构"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor-1",
+      "knowledgeId": "foreign-reviewed-ch21-unified-labor",
+      "title": "两级学制",
+      "text": "第一级学校：5年制（8～13岁）；第二级学校：4年制（13～17岁）。",
+      "keywords": [
+        "第一级5年",
+        "8～13岁",
+        "第二级4年",
+        "13～17岁"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "两级学制"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor-2",
+      "knowledgeId": "foreign-reviewed-ch21-unified-labor",
+      "title": "“统一”的含义",
+      "text": "加强学校衔接，所有儿童进入同一类型的学校。",
+      "keywords": [
+        "学校衔接",
+        "同一类型"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "“统一”的含义"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor-3",
+      "knowledgeId": "foreign-reviewed-ch21-unified-labor",
+      "title": "“劳动”的含义",
+      "text": "学生通过劳动去认识世界。",
+      "keywords": [
+        "劳动",
+        "认识世界"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "“劳动”的含义"
+    },
+    {
+      "id": "foreign-reviewed-ch21-comprehensive-0",
+      "knowledgeId": "foreign-reviewed-ch21-comprehensive",
+      "title": "取消学科，综合编排",
+      "text": "按自然、劳动和社会三方面的综合形式来编排。",
+      "keywords": [
+        "自然",
+        "劳动",
+        "社会",
+        "综合编排"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "取消学科，综合编排"
+    },
+    {
+      "id": "foreign-reviewed-ch21-comprehensive-1",
+      "knowledgeId": "foreign-reviewed-ch21-comprehensive",
+      "title": "劳动中心，单元教学",
+      "text": "以劳动为中心，进行单元教学，如“我们的城市”“我们的乡村”“五一劳动节”等，联系教学与生活。",
+      "keywords": [
+        "劳动中心",
+        "单元教学",
+        "教学与生活"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "劳动中心，单元教学"
+    },
+    {
+      "id": "foreign-reviewed-ch21-labor-method-0",
+      "knowledgeId": "foreign-reviewed-ch21-labor-method",
+      "title": "（1）途径",
+      "text": "在自然环境中，在劳动和其他活动中进行教学。",
+      "keywords": [
+        "自然环境",
+        "劳动",
+        "其他活动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）途径"
+    },
+    {
+      "id": "foreign-reviewed-ch21-labor-method-1",
+      "knowledgeId": "foreign-reviewed-ch21-labor-method",
+      "title": "（2）教材",
+      "text": "废除教科书，广泛推行“工作手册”“杂志课本”等。",
+      "keywords": [
+        "废除教科书",
+        "工作手册",
+        "杂志课本"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）教材"
+    },
+    {
+      "id": "foreign-reviewed-ch21-labor-method-2",
+      "knowledgeId": "foreign-reviewed-ch21-labor-method",
+      "title": "（3）教学组织形式",
+      "text": "取消班级授课制，主张道尔顿制和设计教学等。",
+      "keywords": [
+        "取消班级授课制",
+        "道尔顿制",
+        "设计教学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）教学组织形式"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-evaluation-0",
+      "knowledgeId": "foreign-reviewed-ch21-early-soviet-evaluation",
+      "title": "优点",
+      "text": "原书评价：苏联在世界教育史上第一次贯彻了非宗教的、民主的社会主义的教育原则。其意图是实现教育和生产劳动相结合，加强教育与生活的联系，打破学科界限，促进学生全面发展。",
+      "keywords": [
+        "非宗教",
+        "民主",
+        "教育与生产劳动",
+        "全面发展"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 优点"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-evaluation-1",
+      "knowledgeId": "foreign-reviewed-ch21-early-soviet-evaluation",
+      "title": "局限（1）取消必要制度",
+      "text": "错误地取消了必要合理的教学制度，如取消学科课程与教学计划，废除考试和家庭作业，不正确地解释教师的作用。",
+      "keywords": [
+        "学科课程",
+        "教学计划",
+        "考试",
+        "家庭作业",
+        "教师作用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 局限"
+      ],
+      "displayTitle": "（1）取消必要制度",
+      "outline": "2. 局限"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-evaluation-2",
+      "knowledgeId": "foreign-reviewed-ch21-early-soviet-evaluation",
+      "title": "局限（2）过高估计劳动地位",
+      "text": "用劳动生产代替教学过程，破坏了学科知识的内在逻辑，削弱了对系统知识的学习，导致教学质量下降，对苏联教育产生了深远的负面影响。",
+      "keywords": [
+        "劳动代替教学",
+        "知识内在逻辑",
+        "系统知识",
+        "质量下降"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 局限"
+      ],
+      "displayTitle": "（2）过高估计劳动地位",
+      "outline": "2. 局限"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-0",
+      "knowledgeId": "foreign-reviewed-ch21-decision1931",
+      "title": "简介",
+      "text": "为了纠正20世纪20年代教育偏向劳动的问题，《关于小学和中学的决定》（1931年）成为20世纪30年代苏联教育改革与发展国民教育的纲领性文件。",
+      "keywords": [
+        "1931年",
+        "纠正偏向劳动",
+        "纲领性文件"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-1",
+      "knowledgeId": "foreign-reviewed-ch21-decision1931",
+      "title": "内容（1）知识教学",
+      "text": "恢复知识教学。",
+      "keywords": [
+        "恢复知识教学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. 知识教学",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-2",
+      "knowledgeId": "foreign-reviewed-ch21-decision1931",
+      "title": "内容（2）教学方法",
+      "text": "恢复传统教学方法。",
+      "keywords": [
+        "恢复传统教学方法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "2. 教学方法",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-3",
+      "knowledgeId": "foreign-reviewed-ch21-decision1931",
+      "title": "评价（1）优点",
+      "text": "重视知识和教师的作用，进一步改进学校的教育，提高教学质量。",
+      "keywords": [
+        "知识",
+        "教师",
+        "提高质量"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 优点",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-4",
+      "knowledgeId": "foreign-reviewed-ch21-decision1931",
+      "title": "评价（2）缺点",
+      "text": "过分强调知识教育，忽视劳动教育，走上了另一极端。",
+      "keywords": [
+        "过分强调知识",
+        "忽视劳动",
+        "另一极端"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 缺点",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-0",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-general",
+      "title": "简介",
+      "text": "1958年，苏联颁布《关于加强学校同生活的联系和进一步发展全国国民教育制度的建议》（简称《建议》），标志着一场规模较大的教育改革的序幕正式拉开。",
+      "keywords": [
+        "1958年",
+        "建议",
+        "学校同生活的联系"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-1",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-general",
+      "title": "普通教育（1）办学目标",
+      "text": "参加劳动，走向生活，提高综合技术教育和普通教育水平。",
+      "keywords": [
+        "参加劳动",
+        "走向生活",
+        "综合技术教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 普通教育"
+      ],
+      "displayTitle": "（1）办学目标",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-2",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-general",
+      "title": "普通教育（2）学制体系",
+      "text": "义务教育由7年延长到8年。初等教育4年与不完全中学教育4年构成义务教育；中等教育第二阶段由三种教育机构实施。",
+      "keywords": [
+        "7年延长到8年",
+        "初等4年",
+        "不完全中学4年",
+        "第二阶段三种机构"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 普通教育"
+      ],
+      "displayTitle": "（2）学制体系",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-3",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-general",
+      "title": "普通教育（3）劳动重心",
+      "text": "引导学生广泛参加各种公益劳动。",
+      "keywords": [
+        "公益劳动"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 普通教育"
+      ],
+      "displayTitle": "（3）劳动重心",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-4",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-general",
+      "title": "普通教育（4）扩大规模",
+      "text": "扩大寄宿学校网，增加长日制学校和班级。",
+      "keywords": [
+        "寄宿学校",
+        "长日制学校"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 普通教育"
+      ],
+      "displayTitle": "（4）扩大规模",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-0",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-vocational-higher",
+      "title": "职业教育（1）职业技术学校",
+      "text": "开办职业技术学校。",
+      "keywords": [
+        "职业技术学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 职业教育"
+      ],
+      "displayTitle": "（1）职业技术学校",
+      "outline": "2. 职业教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-1",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-vocational-higher",
+      "title": "职业教育（2）中等专业学校",
+      "text": "开办中等专业学校。",
+      "keywords": [
+        "中等专业学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 职业教育"
+      ],
+      "displayTitle": "（2）中等专业学校",
+      "outline": "2. 职业教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-2",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-vocational-higher",
+      "title": "高等教育（1）科技人才",
+      "text": "培养精通科技知识的人才。",
+      "keywords": [
+        "科技知识",
+        "人才"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 高等教育"
+      ],
+      "displayTitle": "（1）科技人才",
+      "outline": "3. 高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-3",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-vocational-higher",
+      "title": "高等教育（2）录取对象",
+      "text": "高等学校优先录取具有实践工作经历的人入学。",
+      "keywords": [
+        "优先录取",
+        "实践工作经历"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 高等教育"
+      ],
+      "displayTitle": "（2）录取对象",
+      "outline": "3. 高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-4",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-vocational-higher",
+      "title": "高等教育（3）重点大学与学科",
+      "text": "加强重点大学的建设，尤其注重尖端专业的发展。",
+      "keywords": [
+        "重点大学",
+        "尖端专业"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 高等教育"
+      ],
+      "displayTitle": "（3）重点大学与学科",
+      "outline": "3. 高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-5",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-vocational-higher",
+      "title": "高等教育（4）夜校与函授",
+      "text": "所有全日制大学和高等学校都要同时开办夜大学和函授学校。",
+      "keywords": [
+        "全日制大学",
+        "夜大学",
+        "函授学校"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 高等教育"
+      ],
+      "displayTitle": "（4）夜校与函授",
+      "outline": "3. 高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-evaluation-0",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-evaluation",
+      "title": "优点",
+      "text": "教育联系生活；延长义务教育；重视职业教育；发展高等教育。",
+      "keywords": [
+        "联系生活",
+        "延长义务教育",
+        "职业教育",
+        "高等教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 优点"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-evaluation-1",
+      "knowledgeId": "foreign-reviewed-ch21-reform1958-evaluation",
+      "title": "缺点",
+      "text": "削弱知识，偏重劳动；教育质量下降。",
+      "keywords": [
+        "削弱知识",
+        "偏重劳动",
+        "质量下降"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 缺点"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-0",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "简介",
+      "text": "为了纠正20世纪50年代教育偏向劳动的问题，1966年苏联颁布《关于进一步改进普通中学工作的措施》（简称《措施》）。",
+      "keywords": [
+        "1966年",
+        "措施",
+        "纠正偏向劳动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-1",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "内容1：学校任务",
+      "text": "使学生获得科学知识、政治觉悟、职业能力。",
+      "keywords": [
+        "科学知识",
+        "政治觉悟",
+        "职业能力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. 学校任务",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-2",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "内容2（1）时代性",
+      "text": "教学内容要符合科学、技术和文化发展的要求。",
+      "keywords": [
+        "科学",
+        "技术",
+        "文化",
+        "时代性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 教学内容"
+      ],
+      "displayTitle": "（1）时代性",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-3",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "内容2（2）系统性与衔接",
+      "text": "1～10年级科学基础知识编排要有衔接性，讲授要有系统性。",
+      "keywords": [
+        "1～10年级",
+        "衔接性",
+        "系统性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 教学内容"
+      ],
+      "displayTitle": "（2）系统性与衔接",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-4",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "内容2（3）精简教材",
+      "text": "删除教材中过于烦琐和次要的材料，减轻学生负担。",
+      "keywords": [
+        "精简教材",
+        "减轻负担"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 教学内容"
+      ],
+      "displayTitle": "（3）精简教材",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-5",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "内容2（4）学时",
+      "text": "明确规定1～10年级的每周学时。",
+      "keywords": [
+        "1～10年级",
+        "每周学时"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 教学内容"
+      ],
+      "displayTitle": "（4）学时",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-6",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "内容2（5）选修课",
+      "text": "从七年级起开设选修课，发展学生多方面的兴趣和才能。",
+      "keywords": [
+        "七年级",
+        "选修课",
+        "兴趣和才能"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 教学内容"
+      ],
+      "displayTitle": "（5）选修课",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-7",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "评价（1）优点",
+      "text": "强调文化知识，利于提高教育质量。",
+      "keywords": [
+        "文化知识",
+        "教育质量"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 优点",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-8",
+      "knowledgeId": "foreign-reviewed-ch21-reform1966",
+      "title": "评价（2）局限",
+      "text": "轻视劳动教育，就业和升学、精英人才和普通劳动者的培养仍然是两难兼顾。",
+      "keywords": [
+        "轻视劳动",
+        "就业与升学",
+        "精英与普通劳动者"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 局限",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977-0",
+      "knowledgeId": "foreign-reviewed-ch21-reform1977",
+      "title": "简介",
+      "text": "1977年，为纠正学生就业准备不足，苏联颁布《关于进一步完善普通学校学生的教学、教育和劳动训练的决议》。",
+      "keywords": [
+        "1977年",
+        "就业准备不足",
+        "决议"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977-1",
+      "knowledgeId": "foreign-reviewed-ch21-reform1977",
+      "title": "内容（1）学校性质",
+      "text": "确定普通中学是统一的劳动综合技术学校，既掌握科学基础知识，又获得劳动技能。",
+      "keywords": [
+        "统一",
+        "劳动综合技术学校",
+        "科学知识",
+        "劳动技能"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. 学校性质",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977-2",
+      "knowledgeId": "foreign-reviewed-ch21-reform1977",
+      "title": "内容（2）加强劳动教育",
+      "text": "要求改进与加强劳动教育：增加劳动教学时间，加强职业指导，参加公益劳动等。",
+      "keywords": [
+        "劳动教学时间",
+        "职业指导",
+        "公益劳动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "2. 加强劳动教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977-3",
+      "knowledgeId": "foreign-reviewed-ch21-reform1977",
+      "title": "评价",
+      "text": "整体加强劳动教育，但该法案汲取经验教训，在强调劳动教育的同时也注重科学知识。",
+      "keywords": [
+        "加强劳动",
+        "注重科学知识"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-0",
+      "knowledgeId": "foreign-reviewed-ch21-reform1984",
+      "title": "简介",
+      "text": "1984年，苏联通过《普通学校和职业学校改革的基本方针》，主要针对普通学校和职业学校两种教育，提出要使学生全面和谐发展。",
+      "keywords": [
+        "1984年",
+        "基本方针",
+        "普通学校",
+        "职业学校",
+        "全面和谐发展"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-1",
+      "knowledgeId": "foreign-reviewed-ch21-reform1984",
+      "title": "内容1（1）提高教育质量",
+      "text": "两类学校都要提高教育质量，牢固科学知识，开展全面和谐发展教育。",
+      "keywords": [
+        "提高质量",
+        "科学知识",
+        "全面和谐发展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 完成两个任务"
+      ],
+      "displayTitle": "（1）提高教育质量",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-2",
+      "knowledgeId": "foreign-reviewed-ch21-reform1984",
+      "title": "内容1（2）加强劳动与职业教育",
+      "text": "两类学校都对青年实施完全的普通教育、劳动训练和职业训练。",
+      "keywords": [
+        "普通教育",
+        "劳动训练",
+        "职业训练"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 完成两个任务"
+      ],
+      "displayTitle": "（2）加强劳动与职业教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-3",
+      "knowledgeId": "foreign-reviewed-ch21-reform1984",
+      "title": "内容2：四五二学制",
+      "text": "小学4年，不完全中学5年，中等学校2年；中等学校包括普通中学、中等职业技术学校和中等专业学校。",
+      "keywords": [
+        "四五二",
+        "小学4年",
+        "不完全中学5年",
+        "中等学校2年"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "2. 四五二学制",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-4",
+      "knowledgeId": "foreign-reviewed-ch21-reform1984",
+      "title": "评价",
+      "text": "该法案促使普通教育和职业教育互相渗透、互相结合、相互接近，朝着综合统一的方向发展。",
+      "keywords": [
+        "普通教育",
+        "职业教育",
+        "综合统一"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-pendulum-0",
+      "knowledgeId": "foreign-reviewed-ch21-pendulum",
+      "title": "钟摆现象：“劳知劳知劳融合”",
+      "text": "20年代偏向劳动，30年代偏向知识；50年代偏向劳动，60年代偏向知识，70年代加强劳动教育，80年代走向融合。原图同时标注40年代为“二战”，90年代为苏联解体。",
+      "keywords": [
+        "20年代劳动",
+        "30年代知识",
+        "50年代劳动",
+        "60年代知识",
+        "70年代劳动",
+        "80年代融合"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "钟摆现象：“劳知劳知劳融合”"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-law-0",
+      "knowledgeId": "foreign-reviewed-ch21-federation-law",
+      "title": "第一版《教育法》：体制与办学",
+      "text": "重新构建国民教育体制，确立多元化办学模式，扩大管理自主权。",
+      "keywords": [
+        "重构体制",
+        "多元化办学",
+        "管理自主权"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 第一版《教育法》"
+      ],
+      "displayTitle": "体制与办学",
+      "outline": "1. 第一版《教育法》"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-law-1",
+      "knowledgeId": "foreign-reviewed-ch21-federation-law",
+      "title": "第一版《教育法》：教育分类",
+      "text": "把原来苏联的普通教育、中等专业教育、职业技术教育和高等教育四部分重新划分，归并为普通教育和职业教育。",
+      "keywords": [
+        "四部分",
+        "普通教育",
+        "职业教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 第一版《教育法》"
+      ],
+      "displayTitle": "教育分类",
+      "outline": "1. 第一版《教育法》"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-law-2",
+      "knowledgeId": "foreign-reviewed-ch21-federation-law",
+      "title": "新版《教育法》",
+      "text": "突出民主、开放、教育权责明确、教育信息化等特点。",
+      "keywords": [
+        "民主",
+        "开放",
+        "权责明确",
+        "教育信息化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 新版《教育法》"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-admin-0",
+      "knowledgeId": "foreign-reviewed-ch21-federation-admin",
+      "title": "三级管理与分权",
+      "text": "联邦中央、联邦主体、地方三级管理体制。俄罗斯的教育管理从苏俄、苏联的中央集权转变为地方分权制。",
+      "keywords": [
+        "联邦中央",
+        "联邦主体",
+        "地方",
+        "地方分权"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "三级管理与分权"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "foreign-ch21-source-tree-v1",
+  "outlineBaseline": [
+    {
+      "id": "foreign-reviewed-ch21-peter-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-1",
+      "title": "内容（1）改善初等教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-2",
+      "title": "内容（2）创建实科学校",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-3",
+      "title": "内容（3）科学院设想",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-4",
+      "title": "评价（1）优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-peter-5",
+      "title": "评价（2）局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-moscow-0",
+      "title": "创办与特点"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-1",
+      "title": "内容（1）管理",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-2",
+      "title": "内容（2）经费",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-3",
+      "title": "内容（3）学校",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-4",
+      "title": "内容（4）课程",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-5",
+      "title": "内容（5）其他要求",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-catherine-6",
+      "title": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early19-0",
+      "title": "简介：背景与法案"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early19-1",
+      "title": "内容：学校体系与管理"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early19-2",
+      "title": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-1",
+      "title": "内容（1）初等教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-2",
+      "title": "内容（2）中等教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-3",
+      "title": "内容（3）高等教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-4",
+      "title": "内容（4）女子教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1860-5",
+      "title": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-admin-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-admin-1",
+      "title": "教育管理"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor-0",
+      "title": "学校机构"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor-1",
+      "title": "两级学制"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor-2",
+      "title": "“统一”的含义"
+    },
+    {
+      "id": "foreign-reviewed-ch21-unified-labor-3",
+      "title": "“劳动”的含义"
+    },
+    {
+      "id": "foreign-reviewed-ch21-comprehensive-0",
+      "title": "取消学科，综合编排"
+    },
+    {
+      "id": "foreign-reviewed-ch21-comprehensive-1",
+      "title": "劳动中心，单元教学"
+    },
+    {
+      "id": "foreign-reviewed-ch21-labor-method-0",
+      "title": "（1）途径"
+    },
+    {
+      "id": "foreign-reviewed-ch21-labor-method-1",
+      "title": "（2）教材"
+    },
+    {
+      "id": "foreign-reviewed-ch21-labor-method-2",
+      "title": "（3）教学组织形式"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-evaluation-0",
+      "title": "优点"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-evaluation-1",
+      "title": "局限（1）取消必要制度",
+      "outline": "局限"
+    },
+    {
+      "id": "foreign-reviewed-ch21-early-soviet-evaluation-2",
+      "title": "局限（2）过高估计劳动地位",
+      "outline": "局限"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-1",
+      "title": "内容（1）知识教学",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-2",
+      "title": "内容（2）教学方法",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-3",
+      "title": "评价（1）优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-decision1931-4",
+      "title": "评价（2）缺点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-1",
+      "title": "普通教育（1）办学目标",
+      "outline": "普通教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-2",
+      "title": "普通教育（2）学制体系",
+      "outline": "普通教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-3",
+      "title": "普通教育（3）劳动重心",
+      "outline": "普通教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-general-4",
+      "title": "普通教育（4）扩大规模",
+      "outline": "普通教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-0",
+      "title": "职业教育（1）职业技术学校",
+      "outline": "职业教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-1",
+      "title": "职业教育（2）中等专业学校",
+      "outline": "职业教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-2",
+      "title": "高等教育（1）科技人才",
+      "outline": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-3",
+      "title": "高等教育（2）录取对象",
+      "outline": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-4",
+      "title": "高等教育（3）重点大学与学科",
+      "outline": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-vocational-higher-5",
+      "title": "高等教育（4）夜校与函授",
+      "outline": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-evaluation-0",
+      "title": "优点"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1958-evaluation-1",
+      "title": "缺点"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-1",
+      "title": "内容1：学校任务",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-2",
+      "title": "内容2（1）时代性",
+      "outline": "教学内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-3",
+      "title": "内容2（2）系统性与衔接",
+      "outline": "教学内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-4",
+      "title": "内容2（3）精简教材",
+      "outline": "教学内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-5",
+      "title": "内容2（4）学时",
+      "outline": "教学内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-6",
+      "title": "内容2（5）选修课",
+      "outline": "教学内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-7",
+      "title": "评价（1）优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1966-8",
+      "title": "评价（2）局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977-1",
+      "title": "内容（1）学校性质",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977-2",
+      "title": "内容（2）加强劳动教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1977-3",
+      "title": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-1",
+      "title": "内容1（1）提高教育质量",
+      "outline": "完成两个任务"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-2",
+      "title": "内容1（2）加强劳动与职业教育",
+      "outline": "完成两个任务"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-3",
+      "title": "内容2：四五二学制",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch21-reform1984-4",
+      "title": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch21-pendulum-0",
+      "title": "钟摆现象：“劳知劳知劳融合”"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-law-0",
+      "title": "第一版《教育法》：体制与办学"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-law-1",
+      "title": "第一版《教育法》：教育分类"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-law-2",
+      "title": "新版《教育法》"
+    },
+    {
+      "id": "foreign-reviewed-ch21-federation-admin-0",
+      "title": "三级管理与分权"
+    }
+  ],
+  "stats": {
+    "pages": 6,
+    "knowledge": 24,
+    "steps": 78,
+    "referenceOnly": 4
+  }
+}

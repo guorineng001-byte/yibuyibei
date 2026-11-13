@@ -1,0 +1,17 @@
+export type Rating = 'independent' | 'hint' | 'again';
+export type SourceRef = {page: number; rect?: [number,number,number,number]};
+export type BookSource = {citation:string;rights:string};
+export type Book = {id:string; title:string; subject:string; filename:string; pages:number; offset:number; kind:'pdf'|'docx'; source?:BookSource;sourceUrl?:string; missing?:boolean;pageLabels?:Record<string,string>;pageRotations?:Record<string,number>};
+export type Chapter = {id:string; bookId:string; title:string; start:number; end:number; order:number};
+export type Knowledge = {id:string; bookId:string; chapterId:string; title:string; refs:SourceRef[]; confirmed:boolean; selected:boolean; order:number;section?:string;referenceOnly?:boolean;reviewNote?:string};
+export type Step = {id:string; knowledgeId:string; title:string; text:string; keywords:string[]; order:number; version:number;studyMode?:'memorize'|'read';outline?:string;subsection?:string;displayTitle?:string;outlinePath?:string[]};
+export type Progress = {reads:number; independentDates:string[]; level:number; due:string|null; lastRating?:Rating; firstStudied?:string; attempts:number};
+export type ReviewEvent = {id:string; stepId:string; version:number; at:string; day:string; rating:Rating; usedHelp:boolean};
+export type Session = {id:string; mode:'new'|'review'; queue:string[]; initialIds:string[]; cursor:number; phase:'overview'|'read'|'hint'|'recall'|'compare'|'feedback'|'summary'; usedHelp:boolean; feedback?:string; lastRating?:Rating; retries:Record<string,number>; completed:string[]; startDay:string; seconds:number; assembled:string[];skipped?:string[];readOnlyDone?:string[];remainingIds?:string[];continuationMode?:'new'|'review'};
+export type OcrPage = {bookId:string; page:number; text:string; status:'done'|'error'; error?:string; blocks?:{text:string;box:[number,number,number,number];confidence:number}[]};
+export type Question = {id:string;title:string;answer:string;knowledgeIds:string[]};
+export type EssayQuestion = {id:string;order:number;title:string;sourceType:'past'|'sample'|'practice';source:string;pages:number[];material:string;tasks:string;answers:{label:string;text:string}[]};
+export type EssayPracticeRecord = {draft:string;status:'draft'|'practiced';lastPracticed?:string};
+export type ExamType = '333'|'311';
+export type StudySettings = {dailyNew:number; roundSize:number; encouragement:'full'|'brief'; intervals:number[]; examType?:ExamType; targetSchool?:string};
+export type AppState = {schemaVersion:1; books:Book[]; chapters:Chapter[]; knowledge:Knowledge[]; steps:Step[]; progress:Record<string,Progress>; events:ReviewEvent[]; session:Session|null; settings:StudySettings; ocr:Record<string,OcrPage>; assemblies:{knowledgeId:string;at:string;missing:string[]}[];questions:Question[];essayPractice?:Record<string,EssayPracticeRecord>;installedContentPacks?:string[];appliedMigrations?:string[]};

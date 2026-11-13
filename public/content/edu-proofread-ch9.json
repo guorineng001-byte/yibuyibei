@@ -1,0 +1,2991 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch9-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch9-subject-framework",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育学原理：总学科框架",
+      "section": "总学科框架",
+      "refs": [
+        {
+          "page": 81,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.345
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 81072,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch9-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育及其产生与发展：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 81,
+          "rect": [
+            0.05,
+            0.44,
+            0.92,
+            0.49
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 81396,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch9-meaning-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "关于教育含义的类型（谢弗勒）",
+      "section": "第一节 · 教育的概念 · 考点一",
+      "refs": [
+        {
+          "page": 82,
+          "rect": [
+            0.05,
+            0.15,
+            0.92,
+            0.39
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 82135,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-definition-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育定义分类：知识速练原图",
+      "section": "第一节 · 教育的概念 · 考点一 · 知识速练",
+      "refs": [
+        {
+          "page": 82,
+          "rect": [
+            0.05,
+            0.56,
+            0.92,
+            0.125
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 82504,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch9-education-concept",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育的概念与本质",
+      "section": "第一节 · 教育的概念 · 考点二 · 教育概述 · （一）教育的概念、（二）教育的本质",
+      "refs": [
+        {
+          "page": 82,
+          "rect": [
+            0.05,
+            0.73,
+            0.92,
+            0.175
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 82657,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-intension-extension",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育的内涵与外延",
+      "section": "第一节 · 教育的概念 · 考点二 · 教育概述 · （三）",
+      "refs": [
+        {
+          "page": 83,
+          "rect": [
+            0.05,
+            0.1,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 83090,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "正式教育（制度化教育）：含义、分类与评价",
+      "section": "第一节 · 教育的概念 · 考点二 · 教育概述 · （四）与教育相关的概念（分类1） · 1. 正式教育（制度化教育）",
+      "refs": [
+        {
+          "page": 83,
+          "rect": [
+            0.05,
+            0.23,
+            0.92,
+            0.405
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 83207,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-informal-education",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "非正式教育（非制度化教育）",
+      "section": "第一节 · 教育的概念 · 考点二 · 教育概述 · （四）与教育相关的概念（分类1） · 2. 非正式教育（非制度化教育）",
+      "refs": [
+        {
+          "page": 83,
+          "rect": [
+            0.05,
+            0.645,
+            0.92,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 83580,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-family-education",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "家庭教育",
+      "section": "第一节 · 教育的概念 · 考点二 · 教育概述 · （四）与教育相关的概念（分类2） · 1. 家庭教育",
+      "refs": [
+        {
+          "page": 83,
+          "rect": [
+            0.05,
+            0.745,
+            0.92,
+            0.175
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 83670,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-school-education",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "学校教育",
+      "section": "第一节 · 教育的概念 · 考点二 · 教育概述 · （四）与教育相关的概念（分类2） · 2. 学校教育",
+      "refs": [
+        {
+          "page": 84,
+          "rect": [
+            0.05,
+            0.075,
+            0.92,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 84067,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-social-education",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "社会教育",
+      "section": "第一节 · 教育的概念 · 考点二 · 教育概述 · （四）与教育相关的概念（分类2） · 3. 社会教育",
+      "refs": [
+        {
+          "page": 84,
+          "rect": [
+            0.05,
+            0.245,
+            0.92,
+            0.275
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 84220,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育与家庭教育范畴：知识速练原图",
+      "section": "第一节 · 教育的概念 · 考点二 · 知识速练",
+      "refs": [
+        {
+          "page": 84,
+          "rect": [
+            0.05,
+            0.55,
+            0.92,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 84495,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育的结构",
+      "section": "第二节 · 教育的结构与功能 · 考点一",
+      "refs": [
+        {
+          "page": 85,
+          "rect": [
+            0.05,
+            0.14,
+            0.92,
+            0.45
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 85126,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育的功能（可相互组合）",
+      "section": "第二节 · 教育的结构与功能 · 考点二",
+      "refs": [
+        {
+          "page": 85,
+          "rect": [
+            0.05,
+            0.635,
+            0.92,
+            0.295
+          ]
+        },
+        {
+          "page": 86,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 85571,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-function-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育功能：知识速练原图",
+      "section": "第二节 · 教育的结构与功能 · 考点二 · 知识速练",
+      "refs": [
+        {
+          "page": 86,
+          "rect": [
+            0.05,
+            0.255,
+            0.92,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 86229,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育的起源：三种起源说",
+      "section": "第三节 · 教育的起源与发展 · （一）教育的起源",
+      "refs": [
+        {
+          "page": 86,
+          "rect": [
+            0.05,
+            0.42,
+            0.92,
+            0.41
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 86378,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-origin-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "教育的起源：人物、观点与评价对照表原图",
+      "section": "第三节 · 教育的起源与发展 · （一）教育的起源 · 对照表",
+      "refs": [
+        {
+          "page": 86,
+          "rect": [
+            0.05,
+            0.42,
+            0.92,
+            0.41
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 86378,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch9-ancient-features",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "古代教育的特点：十性两分离",
+      "section": "第三节 · 教育的起源与发展 · （二）",
+      "refs": [
+        {
+          "page": 86,
+          "rect": [
+            0.05,
+            0.84,
+            0.92,
+            0.055
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 86756,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-recent-features",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "近代教育的特点：五化两结合",
+      "section": "第三节 · 教育的起源与发展 · （三）",
+      "refs": [
+        {
+          "page": 87,
+          "rect": [
+            0.05,
+            0.065,
+            0.92,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 87058,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-modern-features",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "现代教育的特点：七化三结合",
+      "section": "第三节 · 教育的起源与发展 · （四）",
+      "refs": [
+        {
+          "page": 87,
+          "rect": [
+            0.05,
+            0.145,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 87130,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "当代教育发展与改革：改革成就",
+      "section": "第三节 · 教育的起源与发展 · （五）当代特点：中国特色社会主义教育发展与改革 · 1. 改革成就",
+      "refs": [
+        {
+          "page": 87,
+          "rect": [
+            0.05,
+            0.22,
+            0.92,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 87198,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-difficulties",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "当代教育发展与改革：改革难点",
+      "section": "第三节 · 教育的起源与发展 · （五）当代特点：中国特色社会主义教育发展与改革 · 2. 改革难点",
+      "refs": [
+        {
+          "page": 87,
+          "rect": [
+            0.05,
+            0.47,
+            0.92,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 87423,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-path",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "当代教育发展与改革：改革依旧在路上",
+      "section": "第三节 · 教育的起源与发展 · （五）当代特点：中国特色社会主义教育发展与改革 · 3. 改革依旧在路上",
+      "refs": [
+        {
+          "page": 87,
+          "rect": [
+            0.05,
+            0.615,
+            0.92,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 87553,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-deschooling",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "“非学校化运动”或“学校消亡论”",
+      "section": "知识小贴士 · 学校教育争论的补充说明",
+      "refs": [
+        {
+          "page": 88,
+          "rect": [
+            0.05,
+            0.11,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 88099,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-homeschooling",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "“家庭学校”或“在家上学”（homeschooling）",
+      "section": "知识小贴士 · 学校教育争论的补充说明",
+      "refs": [
+        {
+          "page": 88,
+          "rect": [
+            0.05,
+            0.24,
+            0.92,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 88216,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch9-school-debate-tips",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "非学校化运动与家庭学校：知识小贴士原图",
+      "section": "知识小贴士 · 学校教育争论的补充说明",
+      "refs": [
+        {
+          "page": 88,
+          "rect": [
+            0.05,
+            0.09,
+            0.92,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 88081,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch9-school-debate-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-8",
+      "title": "非学校化运动与在家上学：知识速练原图",
+      "section": "知识速练 · 教育功能与非制度化教育分析",
+      "refs": [
+        {
+          "page": 88,
+          "rect": [
+            0.05,
+            0.345,
+            0.92,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 88310,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch9-meaning-types-0",
+      "knowledgeId": "edu-reviewed-ch9-meaning-types",
+      "title": "教育定义含义",
+      "text": "教育定义（教育术语）一般具有清晰的含义及较为明确的规定。如本章教育的定义。",
+      "keywords": [
+        "教育术语",
+        "清晰含义",
+        "明确规定"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按陈述方式分类",
+        "1. 教育定义（教育术语）"
+      ],
+      "displayTitle": "含义",
+      "outline": "（一）按陈述方式分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-meaning-types-1",
+      "knowledgeId": "edu-reviewed-ch9-meaning-types",
+      "title": "教育定义分类",
+      "text": "谢弗勒认为教育定义包括描述性定义、纲领性定义、规定性定义。",
+      "keywords": [
+        "描述性",
+        "纲领性",
+        "规定性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按陈述方式分类",
+        "1. 教育定义（教育术语）"
+      ],
+      "displayTitle": "谢弗勒的分类",
+      "outline": "（一）按陈述方式分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-meaning-types-2",
+      "knowledgeId": "edu-reviewed-ch9-meaning-types",
+      "title": "教育口号",
+      "text": "富有宣传和鼓励作用的公共言语，具有简约性、情境性和导向性等特征。原书举例：“再穷不能穷教育，再苦不能苦孩子。”",
+      "keywords": [
+        "公共言语",
+        "宣传鼓励",
+        "简约情境导向"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按陈述方式分类"
+      ],
+      "displayTitle": "2. 教育口号",
+      "outline": "（一）按陈述方式分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-meaning-types-3",
+      "knowledgeId": "edu-reviewed-ch9-meaning-types",
+      "title": "教育隐喻",
+      "text": "人们运用比喻方式来解释教育事实、描述教育理想。原书举例：“教育是既见树木又见森林的过程。”“教师是园丁，教师不是木匠。”",
+      "keywords": [
+        "比喻",
+        "教育事实",
+        "教育理想"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按陈述方式分类"
+      ],
+      "displayTitle": "3. 教育隐喻",
+      "outline": "（一）按陈述方式分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-meaning-types-4",
+      "knowledgeId": "edu-reviewed-ch9-meaning-types",
+      "title": "描述性定义",
+      "text": "解释说明。如“教育是一种培养人的社会活动”。",
+      "keywords": [
+        "解释说明",
+        "培养人"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按教育定义分类"
+      ],
+      "displayTitle": "1. 描述性定义",
+      "outline": "（二）按教育定义分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-meaning-types-5",
+      "knowledgeId": "edu-reviewed-ch9-meaning-types",
+      "title": "纲领性定义",
+      "text": "“应该是”的价值或道德规范的说明。如“教育即生活，教育即生长，教育即经验的改造”。",
+      "keywords": [
+        "应该是",
+        "价值道德规范",
+        "教育即生活"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按教育定义分类"
+      ],
+      "displayTitle": "2. 纲领性定义",
+      "outline": "（二）按教育定义分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-meaning-types-6",
+      "knowledgeId": "edu-reviewed-ch9-meaning-types",
+      "title": "规定性定义",
+      "text": "在作者某种话语语境中始终统一的说明。如“教育是迷恋他人成长的学问”。",
+      "keywords": [
+        "话语语境",
+        "始终统一"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按教育定义分类"
+      ],
+      "displayTitle": "3. 规定性定义",
+      "outline": "（二）按教育定义分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-concept-0",
+      "knowledgeId": "edu-reviewed-ch9-education-concept",
+      "title": "广义教育",
+      "text": "凡是有目的地（对受教育者的德、智、体、美、个性等）施加影响，不论是否有组织、计划、系统，都是教育，包括家庭、社会和学校教育，或制度化教育与非制度化教育。",
+      "keywords": [
+        "有目的",
+        "施加影响",
+        "组织计划系统不限"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）教育的概念"
+      ],
+      "displayTitle": "1. 广义",
+      "outline": "（一）教育的概念"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-concept-1",
+      "knowledgeId": "edu-reviewed-ch9-education-concept",
+      "title": "狭义教育",
+      "text": "专门组织的教育，具有制度化、系统化、规范化的特点。如学校教育。",
+      "keywords": [
+        "专门组织",
+        "制度化系统化规范化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）教育的概念"
+      ],
+      "displayTitle": "2. 狭义",
+      "outline": "（一）教育的概念"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-concept-2",
+      "knowledgeId": "edu-reviewed-ch9-education-concept",
+      "title": "培养人的社会活动",
+      "text": "教育是有目的地培养人的社会活动。",
+      "keywords": [
+        "有目的",
+        "培养人",
+        "社会活动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育的本质",
+        "1. 观点"
+      ],
+      "displayTitle": "①有目的地培养人",
+      "outline": "（二）教育的本质"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-concept-3",
+      "knowledgeId": "edu-reviewed-ch9-education-concept",
+      "title": "个性化社会化",
+      "text": "教育是促进个体个性化和个体社会化的实践活动。",
+      "keywords": [
+        "个体个性化",
+        "个体社会化",
+        "实践"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育的本质",
+        "1. 观点"
+      ],
+      "displayTitle": "②促进个体个性化和个体社会化",
+      "outline": "（二）教育的本质"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-concept-4",
+      "knowledgeId": "edu-reviewed-ch9-education-concept",
+      "title": "教育的特性",
+      "text": "目的性、耦合性、动力性、主导性、主体性、实践性、社会性（社会性＋历史性＋文化性）。",
+      "keywords": [
+        "目的耦合动力",
+        "主导主体实践",
+        "社会历史文化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育的本质"
+      ],
+      "displayTitle": "2. 特性",
+      "outline": "（二）教育的本质"
+    },
+    {
+      "id": "edu-reviewed-ch9-intension-extension-0",
+      "knowledgeId": "edu-reviewed-ch9-intension-extension",
+      "title": "教育的内涵",
+      "text": "反映的是教育的本质。教育是有目的地培养人的社会活动，这是教育活动与其他社会活动的根本区别。",
+      "keywords": [
+        "本质",
+        "有目的培养人",
+        "根本区别"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 教育的内涵"
+    },
+    {
+      "id": "edu-reviewed-ch9-intension-extension-1",
+      "knowledgeId": "edu-reviewed-ch9-intension-extension",
+      "title": "教育的外延",
+      "text": "教育概念所反映的本质属性的全部对象，包括家庭、社会和学校教育，或制度化教育与非制度化教育。",
+      "keywords": [
+        "本质属性",
+        "全部对象"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 教育的外延"
+    },
+    {
+      "id": "edu-reviewed-ch9-intension-extension-2",
+      "knowledgeId": "edu-reviewed-ch9-intension-extension",
+      "title": "内涵外延关系",
+      "text": "教育概念的内涵与外延有着十分密切的关系，教育概念的内涵越丰富，则外延越小，反之则越大。",
+      "keywords": [
+        "内涵丰富",
+        "外延越小"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 关系"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-0",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "正式教育含义",
+      "text": "由专门的教育人员、机构以及运行制度所构成的教育形态。",
+      "keywords": [
+        "专门人员",
+        "机构",
+        "运行制度"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）含义"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-1",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "正式教育优点",
+      "text": "计划性、制度性、组织性强，教学效率高、教学质量高。",
+      "keywords": [
+        "计划制度组织",
+        "效率质量高"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）优点"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-2",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "正式教育缺点",
+      "text": "高度组织化妨碍人们自主学习，扼杀创造性和求知欲，加剧社会分层。",
+      "keywords": [
+        "妨碍自主",
+        "创造求知",
+        "社会分层"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）缺点"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-3",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "正规教育含义",
+      "text": "国家教育部门认可的教育机构（学校）所提供的有目的、有组织、有计划、由专职人员承担的，以促进学生的身心发展为直接目标的全面系统的教育活动。如各级各类学校教育。",
+      "keywords": [
+        "国家认可",
+        "专职人员",
+        "身心发展",
+        "全面系统"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "①正规教育"
+      ],
+      "displayTitle": "含义",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-4",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "正规教育特点",
+      "text": "统一性、连续性、标准化、制度化。",
+      "keywords": [
+        "统一",
+        "连续",
+        "标准",
+        "制度"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "①正规教育"
+      ],
+      "displayTitle": "特点",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-5",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "正规教育意义",
+      "text": "提高教育效率，极大地推动了人类文明的进步。",
+      "keywords": [
+        "教育效率",
+        "人类文明"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "①正规教育"
+      ],
+      "displayTitle": "意义",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-6",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "非正规教育含义",
+      "text": "在正规教育系统外进行的有组织、有计划的教育活动。如培训机构、专题讲座等。",
+      "keywords": [
+        "正规系统外",
+        "有组织有计划",
+        "培训讲座"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "②非正规教育"
+      ],
+      "displayTitle": "含义",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-7",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "未充分制度化",
+      "text": "有组织的活动，但未充分制度化。",
+      "keywords": [
+        "有组织",
+        "未充分制度化"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "②非正规教育",
+        "特点"
+      ],
+      "displayTitle": "a. 未充分制度化",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-8",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "不注册不发文凭学位",
+      "text": "一般不需要注册，不发文凭，不授学位。",
+      "keywords": [
+        "一般不注册",
+        "不发文凭",
+        "不授学位"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "②非正规教育",
+        "特点"
+      ],
+      "displayTitle": "b. 注册、文凭与学位",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-9",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "未完全常规化",
+      "text": "是组织性的教育，但未完全常规化。",
+      "keywords": [
+        "组织性",
+        "未完全常规化"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "②非正规教育",
+        "特点"
+      ],
+      "displayTitle": "c. 未完全常规化",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-10",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "结构组织灵活",
+      "text": "结构松散、组织灵活。",
+      "keywords": [
+        "结构松散",
+        "组织灵活"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "②非正规教育",
+        "特点"
+      ],
+      "displayTitle": "d. 结构与组织",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-11",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "满足学习和社会需要",
+      "text": "可以满足人们各种各样的学习需要，满足社会均衡发展的需要。",
+      "keywords": [
+        "学习需要",
+        "社会均衡发展"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "②非正规教育",
+        "意义"
+      ],
+      "displayTitle": "a. 满足学习与社会发展需要",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-12",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "终身学习支柱",
+      "text": "是终身学习的支柱，在学习化社会起核心作用。",
+      "keywords": [
+        "终身学习支柱",
+        "学习化社会核心"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "②非正规教育",
+        "意义"
+      ],
+      "displayTitle": "b. 终身学习与学习化社会",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-formal-education-13",
+      "knowledgeId": "edu-reviewed-ch9-formal-education",
+      "title": "经济发展晴雨表",
+      "text": "是判断任何一个社会或国家经济发展水平的有效“晴雨表”。",
+      "keywords": [
+        "经济发展",
+        "晴雨表"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）分类",
+        "②非正规教育",
+        "意义"
+      ],
+      "displayTitle": "c. 经济发展水平的“晴雨表”",
+      "outline": "（4）分类"
+    },
+    {
+      "id": "edu-reviewed-ch9-informal-education-0",
+      "knowledgeId": "edu-reviewed-ch9-informal-education",
+      "title": "非正式教育含义",
+      "text": "在日常生活、工作中进行的不具有结构性或组织性的自主、偶发性学习活动。",
+      "keywords": [
+        "日常生活工作",
+        "非结构组织",
+        "自主偶发"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）含义"
+    },
+    {
+      "id": "edu-reviewed-ch9-informal-education-1",
+      "knowledgeId": "edu-reviewed-ch9-informal-education",
+      "title": "非正式教育优点",
+      "text": "自主、灵活、范围广、时间长、弥补正式教育的不足。",
+      "keywords": [
+        "自主灵活",
+        "范围广时间长",
+        "弥补正式"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）优点"
+    },
+    {
+      "id": "edu-reviewed-ch9-informal-education-2",
+      "knowledgeId": "edu-reviewed-ch9-informal-education",
+      "title": "非正式教育缺点",
+      "text": "制度化程度低，教学效率低，教学质量差。",
+      "keywords": [
+        "制度化低",
+        "效率低",
+        "质量差"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）缺点"
+    },
+    {
+      "id": "edu-reviewed-ch9-family-education-0",
+      "knowledgeId": "edu-reviewed-ch9-family-education",
+      "title": "家庭教育含义",
+      "text": "以家庭为单位，父母或主要监护人对子女在家庭里自觉地、有目的地、有意识地进行的教育活动。",
+      "keywords": [
+        "家庭单位",
+        "父母监护人",
+        "自觉有目的有意识"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）含义"
+    },
+    {
+      "id": "edu-reviewed-ch9-family-education-1",
+      "knowledgeId": "edu-reviewed-ch9-family-education",
+      "title": "深刻持久",
+      "text": "家庭对受教育者的思想品德和行为习惯的影响深刻、持久。",
+      "keywords": [
+        "思想品德行为习惯",
+        "深刻持久"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）特点"
+      ],
+      "displayTitle": "①影响深刻、持久",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "edu-reviewed-ch9-family-education-2",
+      "knowledgeId": "edu-reviewed-ch9-family-education",
+      "title": "婚姻血缘",
+      "text": "家庭教育以婚姻为纽带，以血缘为基础。",
+      "keywords": [
+        "婚姻纽带",
+        "血缘基础"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）特点"
+      ],
+      "displayTitle": "②婚姻与血缘",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "edu-reviewed-ch9-family-education-3",
+      "knowledgeId": "edu-reviewed-ch9-family-education",
+      "title": "家长素养",
+      "text": "家长本身的素养直接影响家庭教育效果，而绝大多数家长都没有接受过教育学的培训。",
+      "keywords": [
+        "家长素养",
+        "直接影响",
+        "缺少培训"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）特点"
+      ],
+      "displayTitle": "③家长本身的素养",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "edu-reviewed-ch9-family-education-4",
+      "knowledgeId": "edu-reviewed-ch9-family-education",
+      "title": "相机而教",
+      "text": "家庭教育没有确定的教育目的和教育内容，一般“相机而教，遇物而诲”。",
+      "keywords": [
+        "不确定目的内容",
+        "相机而教",
+        "遇物而诲"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）特点"
+      ],
+      "displayTitle": "④相机而教，遇物而诲",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "edu-reviewed-ch9-family-education-5",
+      "knowledgeId": "edu-reviewed-ch9-family-education",
+      "title": "家庭教育趋势",
+      "text": "为了增强家庭教育的效果，急需对家长进行正确的引导。原书列举《家庭教育促进法》（2021年）作为对家庭教育实施的重要相关法案。",
+      "keywords": [
+        "正确引导家长",
+        "家庭教育促进法",
+        "2021"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）趋势"
+    },
+    {
+      "id": "edu-reviewed-ch9-school-education-0",
+      "knowledgeId": "edu-reviewed-ch9-school-education",
+      "title": "学校教育含义",
+      "text": "以学校为单位，由专业人员实施的有目的、有计划、有组织、有系统（“四有”）的教育，属于正规教育。",
+      "keywords": [
+        "学校单位",
+        "专业人员",
+        "四有",
+        "正规教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）含义"
+    },
+    {
+      "id": "edu-reviewed-ch9-school-education-1",
+      "knowledgeId": "edu-reviewed-ch9-school-education",
+      "title": "学校教育作用",
+      "text": "学校教育对人的发展具有主导性作用。",
+      "keywords": [
+        "人的发展",
+        "主导作用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）作用"
+    },
+    {
+      "id": "edu-reviewed-ch9-school-education-2",
+      "knowledgeId": "edu-reviewed-ch9-school-education",
+      "title": "学校教育优点",
+      "text": "同制度化教育的优点：计划性、制度性、组织性强，教学效率高、教学质量高。",
+      "keywords": [
+        "计划制度组织",
+        "效率质量高"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）优点"
+    },
+    {
+      "id": "edu-reviewed-ch9-school-education-3",
+      "knowledgeId": "edu-reviewed-ch9-school-education",
+      "title": "学校教育缺点",
+      "text": "同制度化教育的缺点：高度组织化妨碍人们自主学习，扼杀创造性和求知欲，加剧社会分层。",
+      "keywords": [
+        "自主学习",
+        "创造求知",
+        "社会分层"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（4）缺点"
+    },
+    {
+      "id": "edu-reviewed-ch9-school-education-4",
+      "knowledgeId": "edu-reviewed-ch9-school-education",
+      "title": "学校教育争论",
+      "text": "伊里奇主张“非学校化运动”；还有人主张“学校消亡论”及“在家上学”。由此看出，促进学校变革，将会成为我们新时代思考的主要问题之一。原书认为，一所好学校应该成为每个学生都能找到自己成长机会的博物馆。",
+      "keywords": [
+        "伊里奇",
+        "非学校化",
+        "在家上学",
+        "学校变革"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（5）争论"
+    },
+    {
+      "id": "edu-reviewed-ch9-social-education-0",
+      "knowledgeId": "edu-reviewed-ch9-social-education",
+      "title": "社会教育含义",
+      "text": "社会教育是指在广泛的社会生活和生产过程中所进行的教育活动。",
+      "keywords": [
+        "社会生活",
+        "生产过程"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）含义"
+    },
+    {
+      "id": "edu-reviewed-ch9-social-education-1",
+      "knowledgeId": "edu-reviewed-ch9-social-education",
+      "title": "社会传统教育",
+      "text": "社会的传统风尚对个体有一种不言而喻的教育性。如“国民性”。",
+      "keywords": [
+        "传统风尚",
+        "国民性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）表现"
+      ],
+      "displayTitle": "①社会传统的教育",
+      "outline": "（2）表现"
+    },
+    {
+      "id": "edu-reviewed-ch9-social-education-2",
+      "knowledgeId": "edu-reviewed-ch9-social-education",
+      "title": "社会制度教育",
+      "text": "社会政治、经济、文化等方面的制度对个体的态度、行为、信念的塑造作用。如“社会公德”。",
+      "keywords": [
+        "政治经济文化制度",
+        "态度行为信念"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）表现"
+      ],
+      "displayTitle": "②社会制度的教育",
+      "outline": "（2）表现"
+    },
+    {
+      "id": "edu-reviewed-ch9-social-education-3",
+      "knowledgeId": "edu-reviewed-ch9-social-education",
+      "title": "社会活动教育",
+      "text": "个体在各种各样的社会活动和事件中所获得的教育。如组织学生观看火箭发射的直播来增强爱国情感。",
+      "keywords": [
+        "社会活动事件",
+        "火箭直播"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）表现"
+      ],
+      "displayTitle": "③社会活动的教育",
+      "outline": "（2）表现"
+    },
+    {
+      "id": "edu-reviewed-ch9-social-education-4",
+      "knowledgeId": "edu-reviewed-ch9-social-education",
+      "title": "社会教育优点",
+      "text": "社会教育多数是非正式的，它能够拓展学生的学习领域与思维，无时无刻不潜移默化地影响着个体的发展。",
+      "keywords": [
+        "多数非正式",
+        "拓展领域思维",
+        "潜移默化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）优点"
+    },
+    {
+      "id": "edu-reviewed-ch9-social-education-5",
+      "knowledgeId": "edu-reviewed-ch9-social-education",
+      "title": "社会教育缺点",
+      "text": "社会教育由于缺乏制度与规范，组织性和计划性都很薄弱，教育不成体系和规模，因此不利于教育普及。",
+      "keywords": [
+        "制度规范",
+        "组织计划薄弱",
+        "不成体系规模"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（4）缺点"
+    },
+    {
+      "id": "edu-reviewed-ch9-social-education-6",
+      "knowledgeId": "edu-reviewed-ch9-social-education",
+      "title": "社会教育趋势",
+      "text": "充分挖掘社会教育的意义，向着终身教育的方向发展，并与家庭教育、学校教育紧密配合，发挥各自的优势。",
+      "keywords": [
+        "终身教育",
+        "家庭学校配合"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（5）趋势"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-0",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "教育系统的结构",
+      "text": "教育作为社会的子系统，与政治、经济、文化等其他子系统共同构成的社会结构。",
+      "keywords": [
+        "社会子系统",
+        "政治经济文化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）教育系统的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-1",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "教育者含义",
+      "text": "对受教育者施加积极影响的人或专业人员，如教师。",
+      "keywords": [
+        "积极影响",
+        "专业人员",
+        "教师"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "1. 教育者"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-2",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "教育者地位",
+      "text": "主导地位。",
+      "keywords": [
+        "主导地位"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "1. 教育者"
+      ],
+      "displayTitle": "（2）地位",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-3",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "教育者作用",
+      "text": "促进学生全面发展和个性发展。",
+      "keywords": [
+        "全面发展",
+        "个性发展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "1. 教育者"
+      ],
+      "displayTitle": "（3）作用",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-4",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "受教育者含义",
+      "text": "在教师引导下，积极主动地吸收知识、促进自我发展的人，也叫学习者。",
+      "keywords": [
+        "教师引导",
+        "积极主动",
+        "自我发展"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "2. 受教育者"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-5",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "受教育者地位",
+      "text": "主体地位。",
+      "keywords": [
+        "主体地位"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "2. 受教育者"
+      ],
+      "displayTitle": "（2）地位",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-6",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "受教育者作用",
+      "text": "学习者积极发挥自主自动的作用吸收知识和思想。",
+      "keywords": [
+        "自主自动",
+        "吸收知识思想"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "2. 受教育者"
+      ],
+      "displayTitle": "（3）作用",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-7",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "教育内容含义",
+      "text": "教育者引导受教育者学习的前人积累的经验，主要指课程、教育材料或教科书。",
+      "keywords": [
+        "前人经验",
+        "课程材料教科书"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "3. 教育内容"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-8",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "教育内容地位",
+      "text": "教育内容是沟通教育者与受教育者的中介桥梁，是师生传承的精神客体。",
+      "keywords": [
+        "中介桥梁",
+        "精神客体"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "3. 教育内容"
+      ],
+      "displayTitle": "（2）地位",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-9",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "教育内容作用",
+      "text": "它是师生教学互动共同操作的对象，是引导青少年学习与发展成人的精神资源。",
+      "keywords": [
+        "共同操作对象",
+        "精神资源"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "3. 教育内容"
+      ],
+      "displayTitle": "（3）作用",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-10",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "活动方式含义",
+      "text": "教育者引导受教育者学习教育内容所选用的交互活动方式。主要指教育手段、教育方法和教育组织形式等。",
+      "keywords": [
+        "交互活动",
+        "手段方法组织形式"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "4. 教育活动方式"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-11",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "活动方式地位",
+      "text": "教育活动方式也是沟通教育者与受教育者的中介桥梁。",
+      "keywords": [
+        "中介桥梁"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "4. 教育活动方式"
+      ],
+      "displayTitle": "（2）地位",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-12",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "活动方式作用",
+      "text": "教育活动方式直接影响着学生学习的主动性和理解程度，也影响着学生的发展水平。",
+      "keywords": [
+        "主动性",
+        "理解程度",
+        "发展水平"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构",
+        "4. 教育活动方式"
+      ],
+      "displayTitle": "（3）作用",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-13",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "教育中介系统",
+      "text": "教育内容和教育活动方式合称教育中介系统，指置于教育者和受教育者之间的一切中介总和。",
+      "keywords": [
+        "教育内容",
+        "活动方式",
+        "中介总和"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）教育活动的结构"
+      ],
+      "displayTitle": "注：教育中介系统",
+      "outline": "（二）教育活动的结构"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-structure-14",
+      "knowledgeId": "edu-reviewed-ch9-education-structure",
+      "title": "要素关系",
+      "text": "构成教育活动的要素相互独立、相互联系，形成完整系统。",
+      "keywords": [
+        "相互独立",
+        "相互联系",
+        "完整系统"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "要素关系"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-0",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "个体功能含义",
+      "text": "教育对个体发展产生的作用和影响。个体发展功能又称本体功能。",
+      "keywords": [
+        "个体发展",
+        "本体功能"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按教育作用的对象划分",
+        "1. 个体发展功能（本体功能）"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（一）按教育作用的对象划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-1",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "个体功能表现",
+      "text": "个体社会化、个体个性化、谋生功能和享用功能。",
+      "keywords": [
+        "社会化",
+        "个性化",
+        "谋生",
+        "享用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按教育作用的对象划分",
+        "1. 个体发展功能（本体功能）"
+      ],
+      "displayTitle": "（2）表现",
+      "outline": "（一）按教育作用的对象划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-2",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "个体功能条件",
+      "text": "教育活动必须符合个体身心发展规律；符合社会发展的方向和要求；必须有效地组织教育活动；必须发挥教师的引导作用，培养学生的自主能动性。",
+      "keywords": [
+        "身心规律",
+        "社会要求",
+        "有效组织",
+        "引导自主"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按教育作用的对象划分",
+        "1. 个体发展功能（本体功能）"
+      ],
+      "displayTitle": "（3）条件",
+      "outline": "（一）按教育作用的对象划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-3",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "社会功能含义",
+      "text": "教育对社会发展产生的作用和影响。社会发展功能又称衍生释放功能。",
+      "keywords": [
+        "社会发展",
+        "衍生释放功能"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按教育作用的对象划分",
+        "2. 社会发展功能（衍生释放功能）"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（一）按教育作用的对象划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-4",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "社会功能表现",
+      "text": "政治、经济、文化、生态、科技、人口等功能。",
+      "keywords": [
+        "政治经济文化",
+        "生态科技人口"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按教育作用的对象划分",
+        "2. 社会发展功能（衍生释放功能）"
+      ],
+      "displayTitle": "（2）表现",
+      "outline": "（一）按教育作用的对象划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-5",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "社会功能条件",
+      "text": "通过教育本体功能，发挥衍生释放功能。",
+      "keywords": [
+        "本体功能",
+        "衍生释放"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按教育作用的对象划分",
+        "2. 社会发展功能（衍生释放功能）"
+      ],
+      "displayTitle": "（3）条件",
+      "outline": "（一）按教育作用的对象划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-6",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "个体社会功能关系",
+      "text": "个体发展功能与社会发展功能相互联系、相辅相成。",
+      "keywords": [
+        "相互联系",
+        "相辅相成"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）按教育作用的对象划分"
+      ],
+      "displayTitle": "两类功能的关系",
+      "outline": "（一）按教育作用的对象划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-7",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "正向功能含义",
+      "text": "教育有助于社会进步和个体发展的积极影响和作用。",
+      "keywords": [
+        "社会进步",
+        "个体发展",
+        "积极"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按教育作用的方向划分",
+        "1. 正向功能"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）按教育作用的方向划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-8",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "正向功能表现",
+      "text": "个体正向功能和社会正向功能。",
+      "keywords": [
+        "个体正向",
+        "社会正向"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按教育作用的方向划分",
+        "1. 正向功能"
+      ],
+      "displayTitle": "（2）表现",
+      "outline": "（二）按教育作用的方向划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-9",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "负向功能含义",
+      "text": "教育对社会和个体发展的消极的、阻碍的影响和作用。",
+      "keywords": [
+        "社会个体",
+        "消极阻碍"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按教育作用的方向划分",
+        "2. 负向功能"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）按教育作用的方向划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-10",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "负向功能表现",
+      "text": "个体负向功能和社会负向功能。",
+      "keywords": [
+        "个体负向",
+        "社会负向"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按教育作用的方向划分",
+        "2. 负向功能"
+      ],
+      "displayTitle": "（2）表现",
+      "outline": "（二）按教育作用的方向划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-11",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "正负功能关系",
+      "text": "原书指出：正向功能存在的同时必然带有负向功能。",
+      "keywords": [
+        "正向",
+        "负向",
+        "同时"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）按教育作用的方向划分"
+      ],
+      "displayTitle": "两类功能的关系",
+      "outline": "（二）按教育作用的方向划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-12",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "显性功能",
+      "text": "依照教育的目的、任务和价值期待，教育在实际运行中所出现的与之相符合的功能。具有预期性的特点。",
+      "keywords": [
+        "目的任务价值期待",
+        "预期性"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）按教育的呈现方式划分"
+      ],
+      "displayTitle": "1. 显性功能",
+      "outline": "（三）按教育的呈现方式划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-13",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "隐性功能",
+      "text": "伴随显性教育功能所出现的非预期的且具有较大隐藏性的功能，这种结果既非事先筹划，也很难被察觉到。具有非预期性、间接性的特点。",
+      "keywords": [
+        "非预期",
+        "隐藏",
+        "非事先筹划",
+        "间接"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）按教育的呈现方式划分"
+      ],
+      "displayTitle": "2. 隐性功能",
+      "outline": "（三）按教育的呈现方式划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-functions-14",
+      "knowledgeId": "edu-reviewed-ch9-education-functions",
+      "title": "显隐功能关系",
+      "text": "显性功能与隐性功能相互转化。",
+      "keywords": [
+        "显性",
+        "隐性",
+        "相互转化"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）按教育的呈现方式划分"
+      ],
+      "displayTitle": "两类功能的关系",
+      "outline": "（三）按教育的呈现方式划分"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-0",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "生物说人物",
+      "text": "勒图尔诺、桑代克、沛西·能。",
+      "keywords": [
+        "勒图尔诺",
+        "桑代克",
+        "沛西能"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生物起源说"
+      ],
+      "displayTitle": "人物",
+      "outline": "生物起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-1",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "生物说观点",
+      "text": "动物本能，种族延续的需要。",
+      "keywords": [
+        "动物本能",
+        "种族延续"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生物起源说"
+      ],
+      "displayTitle": "观点",
+      "outline": "生物起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-2",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "首个较科学起源论",
+      "text": "第一个较为科学的起源论。",
+      "keywords": [
+        "第一个",
+        "较为科学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生物起源说",
+        "评价"
+      ],
+      "displayTitle": "1. 进步性",
+      "outline": "生物起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-3",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "混淆教育养育",
+      "text": "没有区别人的教育与动物的养育。",
+      "keywords": [
+        "人的教育",
+        "动物养育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生物起源说",
+        "评价"
+      ],
+      "displayTitle": "2. 局限性",
+      "outline": "生物起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-4",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "心理说人物",
+      "text": "孟禄。",
+      "keywords": [
+        "孟禄"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "心理起源说"
+      ],
+      "displayTitle": "人物",
+      "outline": "心理起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-5",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "心理说观点",
+      "text": "儿童对成人的无意识的模仿。",
+      "keywords": [
+        "儿童",
+        "成人",
+        "无意识模仿"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "心理起源说"
+      ],
+      "displayTitle": "观点",
+      "outline": "心理起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-6",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "涉及心理层面",
+      "text": "进步性，涉及心理层面。",
+      "keywords": [
+        "心理层面",
+        "进步性"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "心理起源说",
+        "评价"
+      ],
+      "displayTitle": "1. 进步性",
+      "outline": "心理起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-7",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "未区分人与动物",
+      "text": "本质上没有区别人与动物的教育。",
+      "keywords": [
+        "人与动物",
+        "教育区别"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "心理起源说",
+        "评价"
+      ],
+      "displayTitle": "2. 未区别人与动物的教育",
+      "outline": "心理起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-8",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "忽视社会历史文化",
+      "text": "忽视教育的社会性、历史性和文化性。",
+      "keywords": [
+        "社会性",
+        "历史性",
+        "文化性"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "心理起源说",
+        "评价"
+      ],
+      "displayTitle": "3. 忽视社会性、历史性和文化性",
+      "outline": "心理起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-9",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "忽视有意识性",
+      "text": "没有看到人的教育的有意识性。",
+      "keywords": [
+        "人的教育",
+        "有意识性"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "心理起源说",
+        "评价"
+      ],
+      "displayTitle": "4. 未看到有意识性",
+      "outline": "心理起源说"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-10",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "劳动说人物",
+      "text": "麦丁斯基、杨贤江。劳动起源说又称社会起源说。",
+      "keywords": [
+        "麦丁斯基",
+        "杨贤江",
+        "社会起源说"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳动起源说（社会起源说）"
+      ],
+      "displayTitle": "人物",
+      "outline": "劳动起源说（社会起源说）"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-11",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "生产劳动生活需要",
+      "text": "教育起源于生产劳动与生活的需要。",
+      "keywords": [
+        "生产劳动",
+        "生活需要"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳动起源说（社会起源说）",
+        "观点"
+      ],
+      "displayTitle": "1. 起源于生产劳动与生活的需要",
+      "outline": "劳动起源说（社会起源说）"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-12",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "传递劳动生活经验",
+      "text": "教育传递劳动生活经验。",
+      "keywords": [
+        "传递",
+        "劳动生活经验"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳动起源说（社会起源说）",
+        "观点"
+      ],
+      "displayTitle": "2. 传递劳动生活经验",
+      "outline": "劳动起源说（社会起源说）"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-13",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "语言意识条件",
+      "text": "教育以语言和意识为条件。",
+      "keywords": [
+        "语言",
+        "意识"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳动起源说（社会起源说）",
+        "观点"
+      ],
+      "displayTitle": "3. 以语言和意识为条件",
+      "outline": "劳动起源说（社会起源说）"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-14",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "人类特有社会活动",
+      "text": "教育是人类特有的一种社会活动。",
+      "keywords": [
+        "人类特有",
+        "社会活动"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳动起源说（社会起源说）",
+        "观点"
+      ],
+      "displayTitle": "4. 人类特有的社会活动",
+      "outline": "劳动起源说（社会起源说）"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-15",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "历史文化社会性",
+      "text": "教育具有历史性、文化性、社会性，原书也表述为历史性与阶级性的统一。",
+      "keywords": [
+        "历史性",
+        "文化性",
+        "社会性",
+        "阶级性"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳动起源说（社会起源说）",
+        "观点"
+      ],
+      "displayTitle": "5. 历史性、文化性、社会性",
+      "outline": "劳动起源说（社会起源说）"
+    },
+    {
+      "id": "edu-reviewed-ch9-education-origin-16",
+      "knowledgeId": "edu-reviewed-ch9-education-origin",
+      "title": "劳动说评价",
+      "text": "符合马克思主义的历史唯物论、辩证法，科学、合理。",
+      "keywords": [
+        "历史唯物论",
+        "辩证法",
+        "科学合理"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳动起源说（社会起源说）"
+      ],
+      "displayTitle": "评价",
+      "outline": "劳动起源说（社会起源说）"
+    },
+    {
+      "id": "edu-reviewed-ch9-ancient-features-0",
+      "knowledgeId": "edu-reviewed-ch9-ancient-features",
+      "title": "十性",
+      "text": "原书助记：“阶级等级象征性，内容狭隘宗教性，道统刻板保守性，系统理论性较弱。”",
+      "keywords": [
+        "阶级等级象征",
+        "狭隘宗教",
+        "道统刻板保守",
+        "系统理论弱"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 十性"
+    },
+    {
+      "id": "edu-reviewed-ch9-ancient-features-1",
+      "knowledgeId": "edu-reviewed-ch9-ancient-features",
+      "title": "两分离",
+      "text": "教育与生产劳动分离，教育与实际生活分离。",
+      "keywords": [
+        "生产劳动分离",
+        "实际生活分离"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 两分离"
+    },
+    {
+      "id": "edu-reviewed-ch9-recent-features-0",
+      "knowledgeId": "edu-reviewed-ch9-recent-features",
+      "title": "世俗化",
+      "text": "近代教育走向世俗化。",
+      "keywords": [
+        "世俗化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "世俗化"
+    },
+    {
+      "id": "edu-reviewed-ch9-recent-features-1",
+      "knowledgeId": "edu-reviewed-ch9-recent-features",
+      "title": "管理三化",
+      "text": "管理上：国家化→义务化→法制化。",
+      "keywords": [
+        "国家化",
+        "义务化",
+        "法制化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "管理上"
+    },
+    {
+      "id": "edu-reviewed-ch9-recent-features-2",
+      "knowledgeId": "edu-reviewed-ch9-recent-features",
+      "title": "内容丰富与两结合",
+      "text": "内容上：丰富化（也可以说科学化）→教育与生产劳动相结合、教育与实际生活相结合。",
+      "keywords": [
+        "丰富化科学化",
+        "劳动结合",
+        "生活结合"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内容上"
+    },
+    {
+      "id": "edu-reviewed-ch9-modern-features-0",
+      "knowledgeId": "edu-reviewed-ch9-modern-features",
+      "title": "七化",
+      "text": "民主化、全民化、终身化、现代化、信息化、制度化、国际化。",
+      "keywords": [
+        "民主全民终身",
+        "现代信息制度国际"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 七化"
+    },
+    {
+      "id": "edu-reviewed-ch9-modern-features-1",
+      "knowledgeId": "edu-reviewed-ch9-modern-features",
+      "title": "三结合",
+      "text": "科学精神与人文精神相结合；教育与生产劳动相结合；教育与实际生活相结合。",
+      "keywords": [
+        "科学人文",
+        "生产劳动",
+        "实际生活"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 三结合"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-0",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "教育战略",
+      "text": "采用优先发展教育战略，重视教育的地位。",
+      "keywords": [
+        "优先发展",
+        "教育地位"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）教育战略"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-1",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "指导理论",
+      "text": "坚持社会主义性质和马克思主义关于人的全面发展观。",
+      "keywords": [
+        "社会主义性质",
+        "人的全面发展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）指导理论"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-2",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "普及教育",
+      "text": "在普及教育方面，不断提升教育普及水平。",
+      "keywords": [
+        "普及水平"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）努力创办公平的教育"
+      ],
+      "displayTitle": "①普及教育",
+      "outline": "（3）努力创办公平的教育"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-3",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "贫富差距",
+      "text": "在贫富差距方面，不断增进教育公平。",
+      "keywords": [
+        "贫富差距",
+        "教育公平"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）努力创办公平的教育"
+      ],
+      "displayTitle": "②贫富差距",
+      "outline": "（3）努力创办公平的教育"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-4",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "招生制度",
+      "text": "在招生制度方面，实现公平竞争。",
+      "keywords": [
+        "招生制度",
+        "公平竞争"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）努力创办公平的教育"
+      ],
+      "displayTitle": "③招生制度",
+      "outline": "（3）努力创办公平的教育"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-5",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "学校自身",
+      "text": "在学校自身上，课程质量和教学质量是核心。",
+      "keywords": [
+        "课程质量",
+        "教学质量"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育质量获得新提升"
+      ],
+      "displayTitle": "①学校自身",
+      "outline": "（4）教育质量获得新提升"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-6",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "考试制度",
+      "text": "在考试制度上，改变考试重记忆轻能力的做法。",
+      "keywords": [
+        "重记忆轻能力",
+        "改变"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育质量获得新提升"
+      ],
+      "displayTitle": "②考试制度",
+      "outline": "（4）教育质量获得新提升"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-7",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "教育体制",
+      "text": "在教育体制上，建立职业教育与普通教育并重互通的教育结构。",
+      "keywords": [
+        "职业普通",
+        "并重互通"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育质量获得新提升"
+      ],
+      "displayTitle": "③教育体制",
+      "outline": "（4）教育质量获得新提升"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-8",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "教育科研",
+      "text": "在教育科研上，教育服务国家发展取得新突破。",
+      "keywords": [
+        "科研",
+        "服务国家发展"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育质量获得新提升"
+      ],
+      "displayTitle": "④教育科研",
+      "outline": "（4）教育质量获得新提升"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-achievements-9",
+      "knowledgeId": "edu-reviewed-ch9-reform-achievements",
+      "title": "综合改革",
+      "text": "在教育综合改革上，通过“双减”政策激发教育新活力，丰富学校新职能。",
+      "keywords": [
+        "双减",
+        "活力",
+        "学校新职能"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育质量获得新提升"
+      ],
+      "displayTitle": "⑤教育综合改革",
+      "outline": "（4）教育质量获得新提升"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-difficulties-0",
+      "knowledgeId": "edu-reviewed-ch9-reform-difficulties",
+      "title": "城乡差异",
+      "text": "需要进一步缩小城乡学校差距，努力提升农村教育教学质量。",
+      "keywords": [
+        "城乡学校",
+        "农村质量"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）增进教育公平中面临的问题"
+      ],
+      "displayTitle": "①城乡差异",
+      "outline": "（1）增进教育公平中面临的问题"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-difficulties-1",
+      "knowledgeId": "edu-reviewed-ch9-reform-difficulties",
+      "title": "区域差异",
+      "text": "需要缩小东西部差距，促使区域间教育的不平衡程度降低。",
+      "keywords": [
+        "东西部差距",
+        "区域不平衡"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）增进教育公平中面临的问题"
+      ],
+      "displayTitle": "②区域差异",
+      "outline": "（1）增进教育公平中面临的问题"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-difficulties-2",
+      "knowledgeId": "edu-reviewed-ch9-reform-difficulties",
+      "title": "校际差异",
+      "text": "在同一城市里，需要进一步缩小校际差距，实现各校的均衡化发展。",
+      "keywords": [
+        "同一城市",
+        "校际差距",
+        "均衡"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）增进教育公平中面临的问题"
+      ],
+      "displayTitle": "③同一城市",
+      "outline": "（1）增进教育公平中面临的问题"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-difficulties-3",
+      "knowledgeId": "edu-reviewed-ch9-reform-difficulties",
+      "title": "学业负担",
+      "text": "在应试教育背景下，中国学生学业负担重。",
+      "keywords": [
+        "应试教育",
+        "学业负担重"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）提高教育质量中面临的问题"
+      ],
+      "displayTitle": "①应试教育背景",
+      "outline": "（2）提高教育质量中面临的问题"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-difficulties-4",
+      "knowledgeId": "edu-reviewed-ch9-reform-difficulties",
+      "title": "背离全面发展",
+      "text": "在教育目的上，过于重视智育中的考试内容，背离全面发展观。",
+      "keywords": [
+        "智育考试",
+        "背离全面发展"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）提高教育质量中面临的问题"
+      ],
+      "displayTitle": "②教育目的",
+      "outline": "（2）提高教育质量中面临的问题"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-path-0",
+      "knowledgeId": "edu-reviewed-ch9-reform-path",
+      "title": "乡村教师队伍",
+      "text": "在城乡差异上，进一步推动教育扶贫，努力建设一支稳定的、专业的、高水平的乡村教师队伍。",
+      "keywords": [
+        "教育扶贫",
+        "稳定专业高水平",
+        "乡村教师"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）采用宏观调控，继续推进教育公平"
+      ],
+      "displayTitle": "①城乡差异",
+      "outline": "（1）采用宏观调控，继续推进教育公平"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-path-1",
+      "knowledgeId": "edu-reviewed-ch9-reform-path",
+      "title": "同城招生教师流动",
+      "text": "在同一城市里，进一步实行公民同招，电脑随机分派入学，限制超级中学，试行“教师流动制”。",
+      "keywords": [
+        "公民同招",
+        "电脑随机",
+        "超级中学",
+        "教师流动"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）采用宏观调控，继续推进教育公平"
+      ],
+      "displayTitle": "②同一城市",
+      "outline": "（1）采用宏观调控，继续推进教育公平"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-path-2",
+      "knowledgeId": "edu-reviewed-ch9-reform-path",
+      "title": "资源政策倾斜",
+      "text": "在区域差异上，做好教育资源配置优化和政策倾斜。",
+      "keywords": [
+        "资源配置优化",
+        "政策倾斜"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）采用宏观调控，继续推进教育公平"
+      ],
+      "displayTitle": "③区域差异",
+      "outline": "（1）采用宏观调控，继续推进教育公平"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-path-3",
+      "knowledgeId": "edu-reviewed-ch9-reform-path",
+      "title": "校内外减负",
+      "text": "以“双减”政策扭转学业压力大的应试教育，校内外同时减负，实现全面发展。",
+      "keywords": [
+        "双减",
+        "校内外减负",
+        "全面发展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）采用“双减”政策，继续提高教育质量"
+      ],
+      "displayTitle": "①校内外同时减负",
+      "outline": "（2）采用“双减”政策，继续提高教育质量"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-path-4",
+      "knowledgeId": "edu-reviewed-ch9-reform-path",
+      "title": "回归全面发展",
+      "text": "加强德育、体育、美育、劳动教育，调整智育，努力回归“全面发展观”。",
+      "keywords": [
+        "德体美劳",
+        "调整智育",
+        "全面发展"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）采用“双减”政策，继续提高教育质量"
+      ],
+      "displayTitle": "②回归全面发展观",
+      "outline": "（2）采用“双减”政策，继续提高教育质量"
+    },
+    {
+      "id": "edu-reviewed-ch9-reform-path-5",
+      "knowledgeId": "edu-reviewed-ch9-reform-path",
+      "title": "改革目标",
+      "text": "原书总结：“办公平而有质量的教育”“办让人民满意的教育”。",
+      "keywords": [
+        "公平质量",
+        "人民满意"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "综上所述"
+    },
+    {
+      "id": "edu-reviewed-ch9-deschooling-0",
+      "knowledgeId": "edu-reviewed-ch9-deschooling",
+      "title": "伊里奇来源",
+      "text": "这一概念来自美国教育家伊里奇的《非学校化社会》一书。",
+      "keywords": [
+        "伊里奇",
+        "非学校化社会"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "来源"
+    },
+    {
+      "id": "edu-reviewed-ch9-deschooling-1",
+      "knowledgeId": "edu-reviewed-ch9-deschooling",
+      "title": "反对传统学校教育",
+      "text": "反对传统组织化、制度化的学校教育（具有压制性、同质性和破坏性），认为真正的教育应该是创造性的、自由的、对生活充满热爱的。",
+      "keywords": [
+        "组织制度化",
+        "压制同质破坏",
+        "创造自由热爱生活"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主张"
+    },
+    {
+      "id": "edu-reviewed-ch9-deschooling-2",
+      "knowledgeId": "edu-reviewed-ch9-deschooling",
+      "title": "教育网络",
+      "text": "主张颠覆制度化的学校教育，建立新式的“教育网络”。这里的“教育网络”不是互联网的网络，而是一种开放性的、多元化的、生活化的教育系统，是对制度化学校教育的一种超越。",
+      "keywords": [
+        "非互联网",
+        "开放多元生活化",
+        "超越制度化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "“教育网络”的含义"
+    },
+    {
+      "id": "edu-reviewed-ch9-homeschooling-0",
+      "knowledgeId": "edu-reviewed-ch9-homeschooling",
+      "title": "家庭学校含义",
+      "text": "建立在家庭基础上的教育和学习，或以家庭和社区为导向的学习，即用家庭的教育完全取代学校的教育。原书在此小贴士中用“家庭教育”指称这种形式。",
+      "keywords": [
+        "家庭社区导向",
+        "完全取代学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch9-homeschooling-1",
+      "knowledgeId": "edu-reviewed-ch9-homeschooling",
+      "title": "区别通常家庭教育",
+      "text": "跟通常意义上的家庭教育作为学校教育的补充完全不同。",
+      "keywords": [
+        "完全取代",
+        "学校教育补充"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "与通常意义上的家庭教育的区别"
+    },
+    {
+      "id": "edu-reviewed-ch9-homeschooling-2",
+      "knowledgeId": "edu-reviewed-ch9-homeschooling",
+      "title": "家庭学校魅力",
+      "text": "家庭学校最大的魅力就是自由，可以根据每个家庭的价值观、信仰和生活的哲学灵活安排各项活动。",
+      "keywords": [
+        "自由",
+        "价值观信仰生活哲学",
+        "灵活安排"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "特点"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch9-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 8,
+    "knowledge": 27,
+    "steps": 131,
+    "referenceOnly": 8
+  }
+}

@@ -1,0 +1,2211 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch5-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch5-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "技能的形成：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 57,
+          "rect": [
+            0.07,
+            0.12,
+            0.86,
+            0.205
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 57108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-overview",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "技能概述",
+      "section": "第一节 · 技能及其作用 · 考点一",
+      "refs": [
+        {
+          "page": 57,
+          "rect": [
+            0.07,
+            0.435,
+            0.86,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 57391,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "技能的类型：操作技能与心智技能",
+      "section": "第一节 · 技能及其作用 · 考点二",
+      "refs": [
+        {
+          "page": 57,
+          "rect": [
+            0.07,
+            0.67,
+            0.86,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 57603,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "操作技能与心智技能六维比较原表",
+      "section": "第一节 · 技能及其作用 · 考点二",
+      "refs": [
+        {
+          "page": 57,
+          "rect": [
+            0.07,
+            0.67,
+            0.86,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 57603,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "心智技能的主要类型（加涅的智慧技能学习层级）",
+      "section": "第二节 · 心智技能的形成与培养 · 考点一",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.07,
+            0.165,
+            0.86,
+            0.285
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 58148,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "加涅智慧技能五层级及例子原表",
+      "section": "第二节 · 心智技能的形成与培养 · 考点一",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.07,
+            0.165,
+            0.86,
+            0.285
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 58148,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "心智技能的形成过程（心智技能的自动化）",
+      "section": "第二节 · 心智技能的形成与培养 · 考点二",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.07,
+            0.51,
+            0.86,
+            0.225
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 58459,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "加里培林五阶段、冯忠良与安德森三阶段对照原表",
+      "section": "第二节 · 心智技能的形成与培养 · 考点二",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.07,
+            0.51,
+            0.86,
+            0.225
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 58459,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-stage-mnemonics",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "心智技能三家阶段凯程助记",
+      "section": "第二节 · 心智技能的形成与培养 · 考点二 · 凯程助记",
+      "refs": [
+        {
+          "page": 58,
+          "rect": [
+            0.07,
+            0.75,
+            0.86,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 58675,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-cultivation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "心智技能的培养方法",
+      "section": "第二节 · 心智技能的形成与培养 · 考点三",
+      "refs": [
+        {
+          "page": 59,
+          "rect": [
+            0.07,
+            0.12,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 59108,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "操作技能的主要类型",
+      "section": "第三节 · 操作技能的形成与训练 · 考点一",
+      "refs": [
+        {
+          "page": 59,
+          "rect": [
+            0.07,
+            0.4,
+            0.86,
+            0.39
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 59360,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-types-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "操作技能三种分类依据与六种类型原表",
+      "section": "第三节 · 操作技能的形成与训练 · 考点一",
+      "refs": [
+        {
+          "page": 59,
+          "rect": [
+            0.07,
+            0.4,
+            0.86,
+            0.39
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 59360,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "操作技能的形成过程",
+      "section": "第三节 · 操作技能的形成与训练 · 考点二",
+      "refs": [
+        {
+          "page": 60,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 60117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "菲茨、波斯纳三阶段与冯忠良四阶段对应原表",
+      "section": "第三节 · 操作技能的形成与训练 · 考点二",
+      "refs": [
+        {
+          "page": 60,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 60117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-stage-mnemonics",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "操作技能两家阶段凯程助记",
+      "section": "第三节 · 操作技能的形成与训练 · 考点二 · 凯程助记",
+      "refs": [
+        {
+          "page": 60,
+          "rect": [
+            0.07,
+            0.35,
+            0.86,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 60315,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "操作技能的训练要求",
+      "section": "第三节 · 操作技能的形成与训练 · 考点三 · 操作技能的训练要求",
+      "refs": [
+        {
+          "page": 60,
+          "rect": [
+            0.07,
+            0.505,
+            0.86,
+            0.29
+          ]
+        },
+        {
+          "page": 61,
+          "rect": [
+            0.07,
+            0.085,
+            0.86,
+            0.505
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 60454,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "练习规律：练习曲线、高原与起伏现象",
+      "section": "第三节 · 操作技能的形成与训练 · 考点三 · 操作技能的训练要求 · （二）必要而适当的练习 · 4. 练习曲线 · 凯程深化",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.07,
+            0.085,
+            0.86,
+            0.505
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 61076,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-curves",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "练习次数与工作量、所用时间、错误数量三种原曲线",
+      "section": "第三节 · 操作技能的形成与训练 · 考点三 · 操作技能的训练要求 · 凯程深化 · （一）练习曲线",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.14,
+            0.14,
+            0.67,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 61126,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-plateau-curve",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "高原现象原曲线",
+      "section": "第三节 · 操作技能的形成与训练 · 考点三 · 操作技能的训练要求 · 凯程深化 · （二）规律 · 2. 高原现象",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.7,
+            0.29,
+            0.19,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 61261,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-fluctuation-curve",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "起伏现象原曲线",
+      "section": "第三节 · 操作技能的形成与训练 · 考点三 · 操作技能的训练要求 · 凯程深化 · （二）规律 · 3. 起伏现象",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.7,
+            0.45,
+            0.19,
+            0.07
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 61405,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-source",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-4",
+      "title": "练习规律凯程深化整页原图",
+      "section": "第三节 · 操作技能的形成与训练 · 考点三 · 操作技能的训练要求 · （二）必要而适当的练习 · 4. 练习曲线 · 凯程深化",
+      "refs": [
+        {
+          "page": 61,
+          "rect": [
+            0.07,
+            0.085,
+            0.86,
+            0.505
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 61076,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch5-skill-overview-0",
+      "knowledgeId": "edu-reviewed-ch5-skill-overview",
+      "title": "技能含义",
+      "text": "通过练习形成的合乎规则或程序的身体活动或认知活动的动作方式。",
+      "keywords": [
+        "练习形成",
+        "规则程序",
+        "身体认知",
+        "动作方式"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-overview-1",
+      "knowledgeId": "edu-reviewed-ch5-skill-overview",
+      "title": "练习形成",
+      "text": "练习形成，不同于本能。",
+      "keywords": [
+        "练习形成",
+        "不同于本能"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "1. 练习形成",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-overview-2",
+      "knowledgeId": "edu-reviewed-ch5-skill-overview",
+      "title": "实际活动",
+      "text": "表现为身体或认知动作，不通过言语表述，而是实际活动。",
+      "keywords": [
+        "身体认知动作",
+        "实际活动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "2. 表现为身体或认知动作",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-overview-3",
+      "knowledgeId": "edu-reviewed-ch5-skill-overview",
+      "title": "规则程序",
+      "text": "合乎规则或程序是前提，区别于随意行为。",
+      "keywords": [
+        "规则程序",
+        "前提",
+        "区别随意"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）特点"
+      ],
+      "displayTitle": "3. 合乎规则或程序（前提）",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-overview-4",
+      "knowledgeId": "edu-reviewed-ch5-skill-overview",
+      "title": "控制执行",
+      "text": "调节控制动作的执行。",
+      "keywords": [
+        "调节控制",
+        "动作执行"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）作用"
+      ],
+      "displayTitle": "1. 调节控制动作的执行",
+      "outline": "（三）作用"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-overview-5",
+      "knowledgeId": "edu-reviewed-ch5-skill-overview",
+      "title": "提高效率",
+      "text": "提高学习效率。",
+      "keywords": [
+        "学习效率"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）作用"
+      ],
+      "displayTitle": "2. 提高学习效率",
+      "outline": "（三）作用"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-overview-6",
+      "knowledgeId": "edu-reviewed-ch5-skill-overview",
+      "title": "掌握知识",
+      "text": "有利于对知识的掌握。",
+      "keywords": [
+        "知识掌握"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）作用"
+      ],
+      "displayTitle": "3. 有利于对知识的掌握",
+      "outline": "（三）作用"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-overview-7",
+      "knowledgeId": "edu-reviewed-ch5-skill-overview",
+      "title": "智力能力",
+      "text": "有利于智力和能力的发展。",
+      "keywords": [
+        "智力",
+        "能力发展"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）作用"
+      ],
+      "displayTitle": "4. 有利于智力和能力的发展",
+      "outline": "（三）作用"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-0",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "操作含义",
+      "text": "操作技能是一系列外部动作以合理的程序组成的操作活动方式。",
+      "keywords": [
+        "外部动作",
+        "合理程序",
+        "操作活动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "操作技能",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-1",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "心智含义",
+      "text": "心智技能是借助于内部语言在人脑中进行的认知活动方式。",
+      "keywords": [
+        "内部语言",
+        "人脑",
+        "认知活动"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "心智技能",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-2",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "操作对象",
+      "text": "操作技能的动作对象具有物质性，如肌肉、物质。",
+      "keywords": [
+        "物质性",
+        "肌肉物质"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "动作对象"
+      ],
+      "displayTitle": "操作技能",
+      "outline": "动作对象"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-3",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "心智对象",
+      "text": "心智技能的动作对象具有观念性，如思维。",
+      "keywords": [
+        "观念性",
+        "思维"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "动作对象"
+      ],
+      "displayTitle": "心智技能",
+      "outline": "动作对象"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-4",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "操作执行",
+      "text": "操作技能的动作执行具有外显性，即外显性肌肉运动。",
+      "keywords": [
+        "外显性",
+        "肌肉运动"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "动作执行"
+      ],
+      "displayTitle": "操作技能",
+      "outline": "动作执行"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-5",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "心智执行",
+      "text": "心智技能的动作执行具有内潜性，即内潜思维。",
+      "keywords": [
+        "内潜性",
+        "思维"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "动作执行"
+      ],
+      "displayTitle": "心智技能",
+      "outline": "动作执行"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-6",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "操作结构",
+      "text": "操作技能的动作结构具有展开性，不可合并。",
+      "keywords": [
+        "展开性",
+        "不可合并"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "动作结构"
+      ],
+      "displayTitle": "操作技能",
+      "outline": "动作结构"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-7",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "心智结构",
+      "text": "心智技能的动作结构具有简缩性，可合并。",
+      "keywords": [
+        "简缩性",
+        "可合并"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "动作结构"
+      ],
+      "displayTitle": "心智技能",
+      "outline": "动作结构"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-8",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "操作例子",
+      "text": "写字、打字、绘画、书法、吹拉弹唱等。",
+      "keywords": [
+        "写字打字",
+        "绘画书法",
+        "吹拉弹唱"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "举例"
+      ],
+      "displayTitle": "操作技能",
+      "outline": "举例"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-9",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "具体心智",
+      "text": "具体的心智技能：默读、阅读、写作、打腹稿、计算、心算、口译等。",
+      "keywords": [
+        "默读阅读写作",
+        "计算心算口译"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "举例",
+        "心智技能"
+      ],
+      "displayTitle": "具体的心智技能",
+      "outline": "举例"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-10",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "一般心智",
+      "text": "一般的心智技能：观察、分析、综合、比较等。",
+      "keywords": [
+        "观察",
+        "分析",
+        "综合",
+        "比较"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "举例",
+        "心智技能"
+      ],
+      "displayTitle": "一般的心智技能",
+      "outline": "举例"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-11",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "相互关系",
+      "text": "相辅相成、互相制约、互相促进。",
+      "keywords": [
+        "相辅相成",
+        "互相制约",
+        "互相促进"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "联系"
+      ],
+      "displayTitle": "相互关系",
+      "outline": "联系"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-12",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "操作为依据",
+      "text": "操作技能是心智技能形成的最初依据和外部体现的标志。",
+      "keywords": [
+        "最初依据",
+        "外部体现标志"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "联系"
+      ],
+      "displayTitle": "1. 操作技能是心智技能形成的依据和标志",
+      "outline": "联系"
+    },
+    {
+      "id": "edu-reviewed-ch5-skill-types-13",
+      "knowledgeId": "edu-reviewed-ch5-skill-types",
+      "title": "心智调节",
+      "text": "心智技能是操作技能的调节者和必要的组成部分。",
+      "keywords": [
+        "调节者",
+        "必要组成"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "联系"
+      ],
+      "displayTitle": "2. 心智技能是操作技能的调节者和组成部分",
+      "outline": "联系"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-0",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "辨别含义",
+      "text": "能区分刺激物的特征，发现事物之间的差异。",
+      "keywords": [
+        "刺激特征",
+        "区分差异"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "辨别学习"
+      ],
+      "displayTitle": "含义",
+      "outline": "辨别学习"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-1",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "辨别例子",
+      "text": "学习驾驶汽车时，通过声音区分转向灯的嘀嗒声和车门未关的警报声。",
+      "keywords": [
+        "转向灯",
+        "警报声",
+        "声音区分"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "辨别学习"
+      ],
+      "displayTitle": "举例",
+      "outline": "辨别学习"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-2",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "具体概念含义",
+      "text": "能列举事物的名称。",
+      "keywords": [
+        "列举名称"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "具体概念学习"
+      ],
+      "displayTitle": "含义",
+      "outline": "具体概念学习"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-3",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "具体概念例子",
+      "text": "认识车上每个具体物品的名称，如后视镜、方向盘等。",
+      "keywords": [
+        "后视镜",
+        "方向盘",
+        "名称"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "具体概念学习"
+      ],
+      "displayTitle": "举例",
+      "outline": "具体概念学习"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-4",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "定义概念含义",
+      "text": "能理解以命题或公式表达的事物的本质属性。",
+      "keywords": [
+        "命题公式",
+        "本质属性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "定义概念学习"
+      ],
+      "displayTitle": "含义",
+      "outline": "定义概念学习"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-5",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "定义概念例子",
+      "text": "掌握驾驶时会理解一些抽象概念，如速度、超速等。",
+      "keywords": [
+        "抽象概念",
+        "速度超速"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "定义概念学习"
+      ],
+      "displayTitle": "举例",
+      "outline": "定义概念学习"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-6",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "规则含义",
+      "text": "能按规则进行操作，做出正确的反应。",
+      "keywords": [
+        "规则操作",
+        "正确反应"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规则学习（原理学习）"
+      ],
+      "displayTitle": "含义",
+      "outline": "规则学习（原理学习）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-7",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "规则例子",
+      "text": "开车时学到了启动规则、跟车规则、转向规则等。",
+      "keywords": [
+        "启动",
+        "跟车",
+        "转向"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "规则学习（原理学习）"
+      ],
+      "displayTitle": "举例",
+      "outline": "规则学习（原理学习）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-8",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "高级规则含义",
+      "text": "能用简单规则解决较复杂的问题。",
+      "keywords": [
+        "简单规则",
+        "复杂问题"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "高级规则学习（问题解决学习）"
+      ],
+      "displayTitle": "含义",
+      "outline": "高级规则学习（问题解决学习）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-types-9",
+      "knowledgeId": "edu-reviewed-ch5-mental-types",
+      "title": "高级规则例子",
+      "text": "依据路况综合运用多项开车规则，才能自如开车。",
+      "keywords": [
+        "路况",
+        "综合多项规则"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "高级规则学习（问题解决学习）"
+      ],
+      "displayTitle": "举例",
+      "outline": "高级规则学习（问题解决学习）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-0",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "加里定向特点",
+      "text": "形成活动程序和活动结果的映象。",
+      "keywords": [
+        "活动程序",
+        "活动结果",
+        "映象"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "活动定向阶段"
+      ],
+      "displayTitle": "特点",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-1",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "加里定向例子",
+      "text": "剪辑视频活动。",
+      "keywords": [
+        "剪辑视频"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "活动定向阶段"
+      ],
+      "displayTitle": "举例",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-2",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "物质活动特点",
+      "text": "实物、模型，将动作展开。",
+      "keywords": [
+        "实物模型",
+        "动作展开"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "物质活动或物质化活动阶段"
+      ],
+      "displayTitle": "特点",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-3",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "物质活动例子",
+      "text": "教师一步步教如何剪辑。",
+      "keywords": [
+        "教师",
+        "一步步剪辑"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "物质活动或物质化活动阶段"
+      ],
+      "displayTitle": "举例",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-4",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "有声言语特点",
+      "text": "用言语确切地表达各步实际动作。",
+      "keywords": [
+        "言语表达",
+        "各步实际动作"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "有声的外部言语活动阶段"
+      ],
+      "displayTitle": "特点",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-5",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "有声言语例子",
+      "text": "用语言说明剪辑过程或看剪辑指导书，不需要自己操作一遍。",
+      "keywords": [
+        "语言说明",
+        "指导书",
+        "不需要操作"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "有声的外部言语活动阶段"
+      ],
+      "displayTitle": "举例",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-6",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "无声言语特点",
+      "text": "外→内，将动作逐步简化。",
+      "keywords": [
+        "外到内",
+        "动作简化"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "无声的外部言语活动阶段"
+      ],
+      "displayTitle": "特点",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-7",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "无声言语例子",
+      "text": "心里边说边剪辑，动作简化。",
+      "keywords": [
+        "心里边说",
+        "动作简化"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "无声的外部言语活动阶段"
+      ],
+      "displayTitle": "举例",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-8",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "内部言语特点",
+      "text": "简练，内部言语。",
+      "keywords": [
+        "简练",
+        "内部言语"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "内部言语活动阶段"
+      ],
+      "displayTitle": "特点",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-9",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "内部言语例子",
+      "text": "不需要多少注意力，自如灵活地剪辑。",
+      "keywords": [
+        "较少注意",
+        "自如灵活"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "加里培林（理论基础：维果茨基的内化论）",
+        "内部言语活动阶段"
+      ],
+      "displayTitle": "举例",
+      "outline": "加里培林（理论基础：维果茨基的内化论）"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-10",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "冯心智定向",
+      "text": "原型定向阶段，对应加里培林的活动定向阶段。",
+      "keywords": [
+        "原型定向",
+        "活动定向"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "冯忠良"
+      ],
+      "displayTitle": "原型定向阶段",
+      "outline": "冯忠良"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-11",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "冯心智操作",
+      "text": "原型操作阶段，对应加里培林的物质活动或物质化活动阶段、有声的外部言语活动阶段。",
+      "keywords": [
+        "原型操作",
+        "物质活动",
+        "有声外部言语"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "冯忠良"
+      ],
+      "displayTitle": "原型操作阶段",
+      "outline": "冯忠良"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-12",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "冯心智内化",
+      "text": "原型内化阶段，对应加里培林的无声的外部言语活动阶段、内部言语活动阶段。",
+      "keywords": [
+        "原型内化",
+        "无声外部言语",
+        "内部言语"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "冯忠良"
+      ],
+      "displayTitle": "原型内化阶段",
+      "outline": "冯忠良"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-13",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "安认知",
+      "text": "认知阶段，对应加里培林的活动定向阶段。",
+      "keywords": [
+        "认知",
+        "活动定向"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "安德森"
+      ],
+      "displayTitle": "认知阶段",
+      "outline": "安德森"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-14",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "安联结",
+      "text": "联结阶段，对应加里培林的物质活动或物质化活动阶段、有声的外部言语活动阶段。",
+      "keywords": [
+        "联结",
+        "物质活动",
+        "有声外部言语"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "安德森"
+      ],
+      "displayTitle": "联结阶段",
+      "outline": "安德森"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-formation-15",
+      "knowledgeId": "edu-reviewed-ch5-mental-formation",
+      "title": "安自动化",
+      "text": "自动化阶段，对应加里培林的无声的外部言语活动阶段、内部言语活动阶段。",
+      "keywords": [
+        "自动化",
+        "无声外部言语",
+        "内部言语"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "安德森"
+      ],
+      "displayTitle": "自动化阶段",
+      "outline": "安德森"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-cultivation-0",
+      "knowledgeId": "edu-reviewed-ch5-mental-cultivation",
+      "title": "条件化知识",
+      "text": "形成条件化知识，即“如果……那么……”产生式。",
+      "keywords": [
+        "条件化知识",
+        "如果那么",
+        "产生式"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）形成条件化知识"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-cultivation-1",
+      "knowledgeId": "edu-reviewed-ch5-mental-cultivation",
+      "title": "产生式自动化",
+      "text": "促进产生式知识的自动化：深加工和协调，加强变式练习。",
+      "keywords": [
+        "自动化",
+        "深加工协调",
+        "变式练习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）促进产生式知识的自动化"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-cultivation-2",
+      "knowledgeId": "edu-reviewed-ch5-mental-cultivation",
+      "title": "言语表达",
+      "text": "加强学生的言语表达训练。",
+      "keywords": [
+        "言语表达训练"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）加强学生的言语表达训练"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-cultivation-3",
+      "knowledgeId": "edu-reviewed-ch5-mental-cultivation",
+      "title": "正反例",
+      "text": "运用正例与反例：正例传递概括的信息，反例传递辨别的信息。",
+      "keywords": [
+        "正例概括",
+        "反例辨别"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（四）运用正例与反例"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-cultivation-4",
+      "knowledgeId": "edu-reviewed-ch5-mental-cultivation",
+      "title": "科学练习",
+      "text": "科学地进行练习：适合学生认知发展水平，从易到难，从简单到复杂。",
+      "keywords": [
+        "认知发展水平",
+        "易到难",
+        "简单复杂"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（五）科学地进行练习"
+    },
+    {
+      "id": "edu-reviewed-ch5-mental-cultivation-5",
+      "knowledgeId": "edu-reviewed-ch5-mental-cultivation",
+      "title": "分阶段培养",
+      "text": "分阶段进行培养。",
+      "keywords": [
+        "分阶段",
+        "培养"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（六）分阶段进行培养"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-types-0",
+      "knowledgeId": "edu-reviewed-ch5-motor-types",
+      "title": "精细技能",
+      "text": "运动幅度小，运用小肌肉群。举例：手指运动——穿针引线、写字、弹钢琴等，以及声带使用、摆动耳朵等。",
+      "keywords": [
+        "小幅度",
+        "小肌肉",
+        "手指声带"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "按照与动作有关的肌肉数量的不同"
+      ],
+      "displayTitle": "精细技能",
+      "outline": "按照与动作有关的肌肉数量的不同"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-types-1",
+      "knowledgeId": "edu-reviewed-ch5-motor-types",
+      "title": "粗大技能",
+      "text": "运用大肌肉群，并且经常要涉及整个身体的技能。举例：游泳、打球、跑步等。",
+      "keywords": [
+        "大肌肉",
+        "整个身体"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "按照与动作有关的肌肉数量的不同"
+      ],
+      "displayTitle": "粗大技能",
+      "outline": "按照与动作有关的肌肉数量的不同"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-types-2",
+      "knowledgeId": "edu-reviewed-ch5-motor-types",
+      "title": "连贯技能",
+      "text": "以连续、不间断的方式完成一系列动作，动作之间没有明显的起点和终点。举例：说话、打字、唱歌等。",
+      "keywords": [
+        "连续不间断",
+        "无明显起终点"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "按照操作连续性的不同"
+      ],
+      "displayTitle": "连贯技能",
+      "outline": "按照操作连续性的不同"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-types-3",
+      "knowledgeId": "edu-reviewed-ch5-motor-types",
+      "title": "不连贯技能",
+      "text": "对特定的外部刺激做出特定的不连续的运动，具有可以直接感知的起点和终点。举例：挪动棋子、倒水等。",
+      "keywords": [
+        "不连续",
+        "直接感知起终点"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "按照操作连续性的不同"
+      ],
+      "displayTitle": "不连贯技能",
+      "outline": "按照操作连续性的不同"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-types-4",
+      "knowledgeId": "edu-reviewed-ch5-motor-types",
+      "title": "封闭性技能",
+      "text": "完全依赖内部肌肉反馈作为刺激指导的技能。举例：体操、舞蹈等。",
+      "keywords": [
+        "内部肌肉反馈"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "按照动作对环境依赖程度的不同"
+      ],
+      "displayTitle": "封闭性技能",
+      "outline": "按照动作对环境依赖程度的不同"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-types-5",
+      "knowledgeId": "edu-reviewed-ch5-motor-types",
+      "title": "开放性技能",
+      "text": "依赖周围环境提供的信息，正确地感知周围环境成为运动调节的重要因素。举例：打篮球等。",
+      "keywords": [
+        "周围环境信息",
+        "运动调节"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "按照动作对环境依赖程度的不同"
+      ],
+      "displayTitle": "开放性技能",
+      "outline": "按照动作对环境依赖程度的不同"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation-0",
+      "knowledgeId": "edu-reviewed-ch5-motor-formation",
+      "title": "菲认知",
+      "text": "认知阶段：学习有关知识，包括程序性知识、陈述性知识，形成动作映象；映象以外显的形式表现出来。原表对应冯忠良的操作定向与操作模仿两个阶段。",
+      "keywords": [
+        "认知",
+        "知识",
+        "映象",
+        "定向模仿"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "菲茨、波斯纳"
+      ],
+      "displayTitle": "认知阶段",
+      "outline": "菲茨、波斯纳"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation-1",
+      "knowledgeId": "edu-reviewed-ch5-motor-formation",
+      "title": "菲联系",
+      "text": "联系阶段：将独立步骤进行合并，形成动作之间的连锁反应。原表对应冯忠良的操作整合阶段。",
+      "keywords": [
+        "联系",
+        "步骤合并",
+        "连锁反应",
+        "整合"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "菲茨、波斯纳"
+      ],
+      "displayTitle": "联系阶段",
+      "outline": "菲茨、波斯纳"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation-2",
+      "knowledgeId": "edu-reviewed-ch5-motor-formation",
+      "title": "菲自动化",
+      "text": "自动化阶段：不需要意识控制。原表对应冯忠良的操作熟练阶段。",
+      "keywords": [
+        "自动化",
+        "不需要意识",
+        "熟练"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "菲茨、波斯纳"
+      ],
+      "displayTitle": "自动化阶段",
+      "outline": "菲茨、波斯纳"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation-3",
+      "knowledgeId": "edu-reviewed-ch5-motor-formation",
+      "title": "冯操作定向",
+      "text": "操作的定向阶段：示范、观察、尝试，形成正确动作映象。",
+      "keywords": [
+        "示范观察尝试",
+        "动作映象"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "冯忠良"
+      ],
+      "displayTitle": "操作的定向阶段",
+      "outline": "冯忠良"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation-4",
+      "knowledgeId": "edu-reviewed-ch5-motor-formation",
+      "title": "冯操作模仿",
+      "text": "操作的模仿阶段：视觉控制，不连贯。",
+      "keywords": [
+        "视觉控制",
+        "不连贯"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "冯忠良"
+      ],
+      "displayTitle": "操作的模仿阶段",
+      "outline": "冯忠良"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation-5",
+      "knowledgeId": "edu-reviewed-ch5-motor-formation",
+      "title": "冯操作整合",
+      "text": "操作的整合阶段：动觉控制，认知负荷较大，动作之间易停顿，随着深入紧张感降低。",
+      "keywords": [
+        "动觉控制",
+        "负荷较大",
+        "易停顿",
+        "紧张降低"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "冯忠良"
+      ],
+      "displayTitle": "操作的整合阶段",
+      "outline": "冯忠良"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-formation-6",
+      "knowledgeId": "edu-reviewed-ch5-motor-formation",
+      "title": "冯操作熟练",
+      "text": "操作的熟练阶段：需要大量的练习。",
+      "keywords": [
+        "大量练习"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "冯忠良"
+      ],
+      "displayTitle": "操作的熟练阶段",
+      "outline": "冯忠良"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-0",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "相关知识",
+      "text": "掌握相关知识：认识技能间的区别，避免干扰，编口诀。",
+      "keywords": [
+        "技能区别",
+        "避免干扰",
+        "口诀"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）指导和示范"
+      ],
+      "displayTitle": "1. 掌握相关知识",
+      "outline": "（一）指导和示范"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-1",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "目的要求",
+      "text": "明确练习的目的和要求。",
+      "keywords": [
+        "练习目的",
+        "要求"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）指导和示范"
+      ],
+      "displayTitle": "2. 明确练习的目的和要求",
+      "outline": "（一）指导和示范"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-2",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "动作映象",
+      "text": "形成正确动作映象：充分、准确地示范，与言语解释相结合。",
+      "keywords": [
+        "正确映象",
+        "准确示范",
+        "言语解释"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）指导和示范"
+      ],
+      "displayTitle": "3. 形成正确动作映象",
+      "outline": "（一）指导和示范"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-3",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "学习策略",
+      "text": "获得一定学习策略：自我生成＋教师指导。",
+      "keywords": [
+        "自我生成",
+        "教师指导"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）指导和示范"
+      ],
+      "displayTitle": "4. 获得一定学习策略",
+      "outline": "（一）指导和示范"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-4",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "练习量",
+      "text": "练习量：过度练习（1.5倍）。",
+      "keywords": [
+        "练习量",
+        "过度练习",
+        "1.5倍"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）必要而适当的练习"
+      ],
+      "displayTitle": "1. 练习量",
+      "outline": "（二）必要而适当的练习"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-5",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "练习方式",
+      "text": "练习方式：身体练习和心理练习相结合。",
+      "keywords": [
+        "身体练习",
+        "心理练习"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）必要而适当的练习"
+      ],
+      "displayTitle": "2. 练习方式",
+      "outline": "（二）必要而适当的练习"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-6",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "练习时间",
+      "text": "练习时间：集中练习和分散练习相结合，整体练习和部分练习相结合。",
+      "keywords": [
+        "集中分散",
+        "整体部分"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）必要而适当的练习"
+      ],
+      "displayTitle": "3. 练习时间",
+      "outline": "（二）必要而适当的练习"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-7",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "练习曲线要求",
+      "text": "练习曲线：符合练习规律，注意练习过程中的高原现象和起伏现象，注意因材施教。原书转引下一页凯程深化。",
+      "keywords": [
+        "练习规律",
+        "高原",
+        "起伏",
+        "因材施教"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）必要而适当的练习"
+      ],
+      "displayTitle": "4. 练习曲线",
+      "outline": "（二）必要而适当的练习"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-8",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "结果反馈",
+      "text": "结果反馈：了解自己的练习结果。",
+      "keywords": [
+        "结果反馈",
+        "练习结果"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）充分而有效的反馈"
+      ],
+      "displayTitle": "1. 结果反馈",
+      "outline": "（三）充分而有效的反馈"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-9",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "情境反馈",
+      "text": "情境反馈：提供技能使用的具体情境。",
+      "keywords": [
+        "情境反馈",
+        "具体情境"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）充分而有效的反馈"
+      ],
+      "displayTitle": "2. 情境反馈",
+      "outline": "（三）充分而有效的反馈"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-10",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "分情况反馈",
+      "text": "分情况反馈：练习初期，教师反馈；练习后期，指导学生自我反馈。",
+      "keywords": [
+        "初期教师",
+        "后期自我"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）充分而有效的反馈"
+      ],
+      "displayTitle": "3. 分情况反馈",
+      "outline": "（三）充分而有效的反馈"
+    },
+    {
+      "id": "edu-reviewed-ch5-motor-training-11",
+      "knowledgeId": "edu-reviewed-ch5-motor-training",
+      "title": "动觉反馈",
+      "text": "内在的动觉反馈：建立运动与肌肉之间的联系，动觉控制逐渐替代视觉控制。",
+      "keywords": [
+        "运动肌肉",
+        "动觉替代视觉"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）充分而有效的反馈"
+      ],
+      "displayTitle": "4. 内在的动觉反馈",
+      "outline": "（三）充分而有效的反馈"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-0",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "工作量曲线",
+      "text": "原图：横轴是练习次数，纵轴是工作量；随练习次数增加，工作量上升。",
+      "keywords": [
+        "练习次数",
+        "工作量上升"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）练习曲线"
+      ],
+      "displayTitle": "工作量",
+      "outline": "（一）练习曲线"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-1",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "所用时间曲线",
+      "text": "原图：横轴是练习次数，纵轴是所用时间；随练习次数增加，所用时间下降。",
+      "keywords": [
+        "练习次数",
+        "所用时间下降"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）练习曲线"
+      ],
+      "displayTitle": "所用时间",
+      "outline": "（一）练习曲线"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-2",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "错误数量曲线",
+      "text": "原图：横轴是练习次数，纵轴是错误数量；随练习次数增加，错误数量下降。",
+      "keywords": [
+        "练习次数",
+        "错误数量下降"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）练习曲线"
+      ],
+      "displayTitle": "错误数量",
+      "outline": "（一）练习曲线"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-3",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "先快后慢",
+      "text": "进步先快后慢，对应简单、兴趣。",
+      "keywords": [
+        "先快后慢",
+        "简单",
+        "兴趣"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "1. 练习成绩逐步提高"
+      ],
+      "displayTitle": "先快后慢",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-4",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "先慢后快",
+      "text": "进步先慢后快，对应初期不够熟练。",
+      "keywords": [
+        "先慢后快",
+        "初期不熟练"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "1. 练习成绩逐步提高"
+      ],
+      "displayTitle": "先慢后快",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-5",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "先后一致",
+      "text": "进步先后比较一致，属于个别情况。",
+      "keywords": [
+        "比较一致",
+        "个别情况"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "1. 练习成绩逐步提高"
+      ],
+      "displayTitle": "先后比较一致",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-6",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "高原含义",
+      "text": "练习到一定阶段出现的进步暂时停顿的现象。",
+      "keywords": [
+        "一定阶段",
+        "进步暂时停顿"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "2. 高原现象"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-7",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "高原表现",
+      "text": "练习曲线保持一定水平不再上升，甚至有所下降，但在高原期后，又有所上升。",
+      "keywords": [
+        "保持水平",
+        "甚至下降",
+        "之后上升"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "2. 高原现象"
+      ],
+      "displayTitle": "（2）表现",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-8",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "活动方式改变",
+      "text": "练习达到一定水平后，继续进步需改变原有的活动结构和活动方式。",
+      "keywords": [
+        "一定水平",
+        "改变结构方式"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "2. 高原现象",
+        "（3）原因"
+      ],
+      "displayTitle": "①改变活动结构和活动方式",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-9",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "兴趣下降",
+      "text": "兴趣下降。",
+      "keywords": [
+        "兴趣下降"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "2. 高原现象",
+        "（3）原因"
+      ],
+      "displayTitle": "②兴趣下降",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-10",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "起伏含义",
+      "text": "成绩时而提高，时而下降，时而停顿。",
+      "keywords": [
+        "提高",
+        "下降",
+        "停顿"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "3. 起伏现象"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-11",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "起伏主观原因",
+      "text": "主观原因：兴趣、动机。",
+      "keywords": [
+        "兴趣",
+        "动机"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "3. 起伏现象",
+        "（2）原因"
+      ],
+      "displayTitle": "①主观",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-12",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "起伏客观原因",
+      "text": "客观原因：环境、工具、教师。",
+      "keywords": [
+        "环境",
+        "工具",
+        "教师"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律",
+        "3. 起伏现象",
+        "（2）原因"
+      ],
+      "displayTitle": "②客观",
+      "outline": "（二）规律"
+    },
+    {
+      "id": "edu-reviewed-ch5-practice-laws-13",
+      "knowledgeId": "edu-reviewed-ch5-practice-laws",
+      "title": "个别差异",
+      "text": "练习有个别差异。",
+      "keywords": [
+        "练习",
+        "个别差异"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）规律"
+      ],
+      "displayTitle": "4. 练习有个别差异",
+      "outline": "（二）规律"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch5-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 5,
+    "knowledge": 21,
+    "steps": 93,
+    "referenceOnly": 12
+  }
+}

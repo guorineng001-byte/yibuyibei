@@ -1,0 +1,3698 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch22-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch22-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "美国的近现代教育制度：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 158,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.51
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 158117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-north",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "17世纪北部殖民地的教育",
+      "section": "第一节 · 17—18世纪的美国近代教育概况 · （一）1",
+      "refs": [
+        {
+          "page": 158,
+          "rect": [
+            0.07,
+            0.754,
+            0.86,
+            0.065
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 158678,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "17世纪中部、南部殖民地的教育",
+      "section": "第一节 · （一）2—3",
+      "refs": [
+        {
+          "page": 158,
+          "rect": [
+            0.07,
+            0.82,
+            0.86,
+            0.085
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 158738,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "18世纪的教育",
+      "section": "第一节 · （二）",
+      "refs": [
+        {
+          "page": 159,
+          "rect": [
+            0.07,
+            0.087,
+            0.86,
+            0.171
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 159078,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-administration19",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "19世纪教育管理体制的变迁",
+      "section": "第二节 · 19世纪的美国近代教育概况 · （一）",
+      "refs": [
+        {
+          "page": 159,
+          "rect": [
+            0.07,
+            0.37,
+            0.86,
+            0.061
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 159333,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "公立学校运动",
+      "section": "第二节 · （二）初等教育",
+      "refs": [
+        {
+          "page": 159,
+          "rect": [
+            0.07,
+            0.455,
+            0.86,
+            0.153
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 159409,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-secondary19",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "19世纪的中等教育",
+      "section": "第二节 · （三）",
+      "refs": [
+        {
+          "page": 159,
+          "rect": [
+            0.07,
+            0.626,
+            0.86,
+            0.038
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 159563,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "19世纪高等教育发展的特点",
+      "section": "第二节 · （四）高等教育 · 1",
+      "refs": [
+        {
+          "page": 159,
+          "rect": [
+            0.07,
+            0.668,
+            0.86,
+            0.159
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 159601,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "《莫雷尔法案》",
+      "section": "第二节 · （四）高等教育 · 2",
+      "refs": [
+        {
+          "page": 160,
+          "rect": [
+            0.07,
+            0.085,
+            0.86,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 160076,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "《中等教育的基本原则》（1918年）",
+      "section": "第三节 · 20世纪上半叶的美国现代教育制度 · 考点一 · 中等教育的改革和发展",
+      "refs": [
+        {
+          "page": 160,
+          "rect": [
+            0.07,
+            0.448,
+            0.86,
+            0.302
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 160403,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-system633",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "“六三三学制”示意图",
+      "section": "第三节 · 考点一 · 《中等教育的基本原则》原图",
+      "refs": [
+        {
+          "page": 160,
+          "rect": [
+            0.655,
+            0.505,
+            0.24,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 160454,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "“八年研究”",
+      "section": "第三节 · 考点一 · 中等教育的改革和发展",
+      "refs": [
+        {
+          "page": 160,
+          "rect": [
+            0.07,
+            0.797,
+            0.86,
+            0.113
+          ]
+        },
+        {
+          "page": 161,
+          "rect": [
+            0.07,
+            0.085,
+            0.86,
+            0.315
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 160717,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "初级学院运动：简介、内涵与发展",
+      "section": "第三节 · 考点二 · 高等教育 · （一）—（三）",
+      "refs": [
+        {
+          "page": 161,
+          "rect": [
+            0.07,
+            0.465,
+            0.86,
+            0.218
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 161418,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "初级学院运动：特色与评价",
+      "section": "第三节 · 考点二 · 高等教育 · （四）—（五）",
+      "refs": [
+        {
+          "page": 161,
+          "rect": [
+            0.07,
+            0.698,
+            0.86,
+            0.214
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 161628,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-vocational-society",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "全国职业教育促进会",
+      "section": "第三节 · 考点三 · 职业技术教育的发展 · （一）",
+      "refs": [
+        {
+          "page": 162,
+          "rect": [
+            0.07,
+            0.115,
+            0.86,
+            0.025
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 162103,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "《史密斯—休斯法案》",
+      "section": "第三节 · 考点三 · 职业技术教育的发展 · （二）",
+      "refs": [
+        {
+          "page": 162,
+          "rect": [
+            0.07,
+            0.144,
+            0.86,
+            0.256
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 162129,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "《国防教育法》",
+      "section": "第四节 · 20世纪下半叶的美国现代教育制度 · 考点一 · 20世纪50年代的教育改革",
+      "refs": [
+        {
+          "page": 162,
+          "rect": [
+            0.07,
+            0.493,
+            0.86,
+            0.146
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 162443,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "结构主义课程改革",
+      "section": "第四节 · 考点二 · 20世纪60年代的教育改革 · （一）中小学课程方面",
+      "refs": [
+        {
+          "page": 162,
+          "rect": [
+            0.07,
+            0.693,
+            0.86,
+            0.175
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 162623,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-equality1960",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "20世纪60年代改革：教育平等",
+      "section": "第四节 · 考点二 · （二）教育平等方面",
+      "refs": [
+        {
+          "page": 162,
+          "rect": [
+            0.07,
+            0.876,
+            0.86,
+            0.032
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 162788,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "20世纪60年代改革：高等教育",
+      "section": "第四节 · 考点二 · （三）高等教育方面",
+      "refs": [
+        {
+          "page": 163,
+          "rect": [
+            0.07,
+            0.094,
+            0.86,
+            0.181
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 163084,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-chart",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "20世纪60年代高等教育改革助记图",
+      "section": "第四节 · 考点二 · 高等教育 · 凯程助记原图",
+      "refs": [
+        {
+          "page": 163,
+          "rect": [
+            0.55,
+            0.14,
+            0.37,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 163126,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch22-career-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "生计教育",
+      "section": "第四节 · 考点三 · 20世纪70年代的教育改革 · （一）",
+      "refs": [
+        {
+          "page": 163,
+          "rect": [
+            0.07,
+            0.355,
+            0.86,
+            0.027
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 163319,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "“返回基础”教育运动",
+      "section": "第四节 · 考点三 · 20世纪70年代的教育改革 · （二）",
+      "refs": [
+        {
+          "page": 163,
+          "rect": [
+            0.07,
+            0.397,
+            0.86,
+            0.277
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 163357,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "《国家处在危险之中：教育改革势在必行》",
+      "section": "第四节 · 考点四 · 20世纪80年代的教育改革",
+      "refs": [
+        {
+          "page": 163,
+          "rect": [
+            0.07,
+            0.749,
+            0.86,
+            0.191
+          ]
+        },
+        {
+          "page": 164,
+          "rect": [
+            0.07,
+            0.086,
+            0.86,
+            0.217
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 163674,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-chart",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "20世纪80年代教育改革评价助记图",
+      "section": "第四节 · 考点四 · 凯程助记原图",
+      "refs": [
+        {
+          "page": 164,
+          "rect": [
+            0.07,
+            0.325,
+            0.86,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 164292,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "《美国2000年教育战略》",
+      "section": "第四节 · 考点五 · 20世纪90年代的教育改革 · （一）",
+      "refs": [
+        {
+          "page": 164,
+          "rect": [
+            0.07,
+            0.494,
+            0.86,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 164444,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "《2000年目标：美国教育法》",
+      "section": "第四节 · 考点五 · 20世纪90年代的教育改革 · （二）",
+      "refs": [
+        {
+          "page": 164,
+          "rect": [
+            0.07,
+            0.747,
+            0.86,
+            0.158
+          ]
+        },
+        {
+          "page": 165,
+          "rect": [
+            0.792,
+            0.246,
+            0.13,
+            0.231
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 164672,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch22-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-21",
+      "title": "美国的近现代教育制度总结表",
+      "section": "全章总结 · 原表",
+      "refs": [
+        {
+          "page": 165,
+          "rect": [
+            0.07,
+            0.087,
+            0.86,
+            0.563
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 165078,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch22-colonies-north-0",
+      "knowledgeId": "foreign-reviewed-ch22-colonies-north",
+      "title": "初等教育",
+      "text": "马萨诸塞州兴办强迫性的义务教育，出现了乡镇学校。",
+      "keywords": [
+        "马萨诸塞州",
+        "义务教育",
+        "乡镇学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "初等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-north-1",
+      "knowledgeId": "foreign-reviewed-ch22-colonies-north",
+      "title": "中等教育",
+      "text": "建立拉丁文法学校，后来成为哈佛学院的预备学校。",
+      "keywords": [
+        "拉丁文法学校",
+        "哈佛学院",
+        "预备学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "中等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-north-2",
+      "knowledgeId": "foreign-reviewed-ch22-colonies-north",
+      "title": "高等教育",
+      "text": "马萨诸塞州开办哈佛学院；原书称其为美洲第一所高等学府。",
+      "keywords": [
+        "马萨诸塞州",
+        "哈佛学院"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south-0",
+      "knowledgeId": "foreign-reviewed-ch22-colonies-middle-south",
+      "title": "中部殖民地：初等教育",
+      "text": "主要是面向贫民的堂区学校。",
+      "keywords": [
+        "贫民",
+        "堂区学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 中部殖民地"
+      ],
+      "displayTitle": "初等教育",
+      "outline": "2. 中部殖民地"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south-1",
+      "knowledgeId": "foreign-reviewed-ch22-colonies-middle-south",
+      "title": "南部殖民地：初等教育",
+      "text": "主要是家庭教育，不热衷兴办教育。",
+      "keywords": [
+        "家庭教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 南部殖民地"
+      ],
+      "displayTitle": "初等教育",
+      "outline": "3. 南部殖民地"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south-2",
+      "knowledgeId": "foreign-reviewed-ch22-colonies-middle-south",
+      "title": "南部殖民地：中等教育",
+      "text": "大多由家庭教师完成。",
+      "keywords": [
+        "家庭教师"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 南部殖民地"
+      ],
+      "displayTitle": "中等教育",
+      "outline": "3. 南部殖民地"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south-3",
+      "knowledgeId": "foreign-reviewed-ch22-colonies-middle-south",
+      "title": "南部殖民地：高等教育",
+      "text": "威廉—玛丽学院。",
+      "keywords": [
+        "威廉—玛丽学院"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 南部殖民地"
+      ],
+      "displayTitle": "高等教育",
+      "outline": "3. 南部殖民地"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-0",
+      "knowledgeId": "foreign-reviewed-ch22-eighteenth-century",
+      "title": "建国前：北部和中部的初等教育",
+      "text": "马萨诸塞州建立巡回学校，是学区制的前身。",
+      "keywords": [
+        "巡回学校",
+        "学区制前身"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 建国前",
+        "（1）北部和中部殖民地"
+      ],
+      "displayTitle": "①初等教育",
+      "outline": "1. 建国前"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-1",
+      "knowledgeId": "foreign-reviewed-ch22-eighteenth-century",
+      "title": "建国前：北部和中部的中等教育",
+      "text": "富兰克林创办文实中学。",
+      "keywords": [
+        "富兰克林",
+        "文实中学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 建国前",
+        "（1）北部和中部殖民地"
+      ],
+      "displayTitle": "②中等教育",
+      "outline": "1. 建国前"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-2",
+      "knowledgeId": "foreign-reviewed-ch22-eighteenth-century",
+      "title": "建国前：北部和中部的高等教育",
+      "text": "大学数量迅速增加。",
+      "keywords": [
+        "大学数量增加"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 建国前",
+        "（1）北部和中部殖民地"
+      ],
+      "displayTitle": "③高等教育",
+      "outline": "1. 建国前"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-3",
+      "knowledgeId": "foreign-reviewed-ch22-eighteenth-century",
+      "title": "建国前：南部殖民地",
+      "text": "发展较慢。",
+      "keywords": [
+        "南部殖民地",
+        "发展较慢"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 建国前"
+      ],
+      "displayTitle": "（2）南部殖民地",
+      "outline": "1. 建国前"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-4",
+      "knowledgeId": "foreign-reviewed-ch22-eighteenth-century",
+      "title": "建国后：教育法案",
+      "text": "美国于1776年建国；建国后，杰斐逊提议《知识普及法案》。",
+      "keywords": [
+        "1776年建国",
+        "杰斐逊",
+        "知识普及法案"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 建国后（1776年）"
+      ],
+      "displayTitle": "（1）教育法案",
+      "outline": "2. 建国后（1776年）"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-5",
+      "knowledgeId": "foreign-reviewed-ch22-eighteenth-century",
+      "title": "建国后：法案意义",
+      "text": "这是18世纪美国普及教育和公共教育制度的典型法案，成为19世纪公立学校运动的先声。",
+      "keywords": [
+        "普及教育",
+        "公共教育制度",
+        "公立学校运动先声"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 建国后（1776年）"
+      ],
+      "displayTitle": "（2）法案意义",
+      "outline": "2. 建国后（1776年）"
+    },
+    {
+      "id": "foreign-reviewed-ch22-administration19-0",
+      "knowledgeId": "foreign-reviewed-ch22-administration19",
+      "title": "州教育领导体制",
+      "text": "美国实行地方分权制，建立州教育领导体制取代学区制，贺拉斯·曼被称为州教育领导体制的开创者。",
+      "keywords": [
+        "地方分权",
+        "州教育领导体制",
+        "贺拉斯·曼"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "州教育领导体制"
+    },
+    {
+      "id": "foreign-reviewed-ch22-administration19-1",
+      "knowledgeId": "foreign-reviewed-ch22-administration19",
+      "title": "联邦教育署",
+      "text": "联邦政府设教育署，多实行调研之职，无实权。",
+      "keywords": [
+        "教育署",
+        "调研",
+        "无实权"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "联邦教育署"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-0",
+      "knowledgeId": "foreign-reviewed-ch22-public-schools",
+      "title": "简介",
+      "text": "19世纪初，为了促进初等教育的发展，贺拉斯·曼与巴纳德等人倡导开展公立学校运动，也称公立教育运动。",
+      "keywords": [
+        "19世纪初",
+        "贺拉斯·曼",
+        "巴纳德",
+        "公立教育运动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-1",
+      "knowledgeId": "foreign-reviewed-ch22-public-schools",
+      "title": "内容：“三公一免”",
+      "text": "公共税收维持、公共教育机关管理、面向所有公众、免费的义务教育。",
+      "keywords": [
+        "公共税收",
+        "公共机关",
+        "所有公众",
+        "免费义务教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "“三公一免”",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-2",
+      "knowledgeId": "foreign-reviewed-ch22-public-schools",
+      "title": "内容：实施措施",
+      "text": "建立地方税收制度，教育立法强迫入学，建设公立学校，采用免费手段。",
+      "keywords": [
+        "地方税收",
+        "强迫入学",
+        "公立学校",
+        "免费"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "实施措施",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-3",
+      "knowledgeId": "foreign-reviewed-ch22-public-schools",
+      "title": "评价：个人",
+      "text": "贺拉斯·曼被誉为“美国公立学校之父”。",
+      "keywords": [
+        "贺拉斯·曼",
+        "公立学校之父"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "个人",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-4",
+      "knowledgeId": "foreign-reviewed-ch22-public-schools",
+      "title": "评价：美国",
+      "text": "推动美国公共教育制度的形成。",
+      "keywords": [
+        "公共教育制度"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "美国",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-secondary19-0",
+      "knowledgeId": "foreign-reviewed-ch22-secondary19",
+      "title": "主要机构",
+      "text": "文实中学与公立中学是实施中等教育的主要机构。",
+      "keywords": [
+        "文实中学",
+        "公立中学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主要机构"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-0",
+      "knowledgeId": "foreign-reviewed-ch22-higher19",
+      "title": "（1）办学形式",
+      "text": "以私立为主体，公私并重。",
+      "keywords": [
+        "私立为主体",
+        "公私并重"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）办学形式"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-1",
+      "knowledgeId": "foreign-reviewed-ch22-higher19",
+      "title": "（2）办学规模",
+      "text": "高等院校数量增加，但规模较小。",
+      "keywords": [
+        "数量增加",
+        "规模较小"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）办学规模"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-2",
+      "knowledgeId": "foreign-reviewed-ch22-higher19",
+      "title": "（3）学校类型",
+      "text": "发展新兴农工学院。新兴农工学院的发展得益于《莫雷尔法案》。",
+      "keywords": [
+        "农工学院",
+        "莫雷尔法案"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）学校类型"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-3",
+      "knowledgeId": "foreign-reviewed-ch22-higher19",
+      "title": "（4）大学建立",
+      "text": "吸取德国经验，建立研究型大学。原书以霍普金斯大学为例，称其为美国第一所学术型大学。",
+      "keywords": [
+        "德国经验",
+        "研究型大学",
+        "霍普金斯大学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（4）大学建立"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-4",
+      "knowledgeId": "foreign-reviewed-ch22-higher19",
+      "title": "（5）入学对象",
+      "text": "女子可以进入高等院校。",
+      "keywords": [
+        "女子",
+        "高等院校"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（5）入学对象"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-5",
+      "knowledgeId": "foreign-reviewed-ch22-higher19",
+      "title": "（6）大学理念",
+      "text": "增加为社会服务的大学职能。康奈尔计划：加强农业科学，向社会提供服务；威斯康星思想：高校为社会服务。",
+      "keywords": [
+        "社会服务",
+        "康奈尔计划",
+        "威斯康星思想"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（6）大学理念"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-0",
+      "knowledgeId": "foreign-reviewed-ch22-morrill",
+      "title": "简介",
+      "text": "南北战争时，为了创办工商业发展需要的农业和工艺学院，美国总统林肯于1862年颁布《莫雷尔法案》，也称《赠地法案》。",
+      "keywords": [
+        "林肯",
+        "1862年",
+        "赠地法案"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-1",
+      "knowledgeId": "foreign-reviewed-ch22-morrill",
+      "title": "内容（1）拨地",
+      "text": "联邦政府按各州在国会的议员人数，拨给每位议员三万英亩土地。各州应将赠地收入用来开办或资助农业和机械工艺学院，又称赠地学院。",
+      "keywords": [
+        "议员人数",
+        "三万英亩",
+        "赠地收入",
+        "赠地学院"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）内容"
+      ],
+      "displayTitle": "①拨地",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-2",
+      "knowledgeId": "foreign-reviewed-ch22-morrill",
+      "title": "内容（2）建校",
+      "text": "利用这笔拨赠，大多数州专门创办农业或机械工艺学院，有的州则在已有大学内附设农业或机械工艺学院。",
+      "keywords": [
+        "专门创办",
+        "大学内附设"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）内容"
+      ],
+      "displayTitle": "②建校",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-3",
+      "knowledgeId": "foreign-reviewed-ch22-morrill",
+      "title": "评价（1）农工发展",
+      "text": "促进美国工农业现代化，提高农业与机械工艺知识在高等学校里的地位，开创高等教育为工农业生产服务的方向。",
+      "keywords": [
+        "工农业现代化",
+        "工农业生产服务"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）评价"
+      ],
+      "displayTitle": "①农工发展",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-4",
+      "knowledgeId": "foreign-reviewed-ch22-morrill",
+      "title": "评价（2）高等教育",
+      "text": "促进高等教育大众化和民主化。",
+      "keywords": [
+        "大众化",
+        "民主化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）评价"
+      ],
+      "displayTitle": "②高等教育",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-5",
+      "knowledgeId": "foreign-reviewed-ch22-morrill",
+      "title": "评价（3）高校管理",
+      "text": "打破联邦政府不过问高等教育的传统。",
+      "keywords": [
+        "联邦政府",
+        "高等教育"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）评价"
+      ],
+      "displayTitle": "③高校管理",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-0",
+      "knowledgeId": "foreign-reviewed-ch22-principles1918",
+      "title": "简介",
+      "text": "20世纪以来，美国民众反对中学教育只为学生升学做准备，认为这很难适应快速发展的美国对职业人才的要求。改组中等教育的呼声日益高涨，1918年《中等教育的基本原则》报告应运而生。",
+      "keywords": [
+        "1918年",
+        "职业人才",
+        "改组中等教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-1",
+      "knowledgeId": "foreign-reviewed-ch22-principles1918",
+      "title": "内容1：教育原则",
+      "text": "民主原则。",
+      "keywords": [
+        "民主原则"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. 教育原则",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-2",
+      "knowledgeId": "foreign-reviewed-ch22-principles1918",
+      "title": "内容2：七项目标",
+      "text": "道德品格、公民资格、掌握基本的方法、职业、健康、适宜地使用闲暇、高尚的家庭成员。原书将公民资格、职业、高尚的家庭成员标为主要目标。",
+      "keywords": [
+        "七项目标",
+        "公民资格",
+        "职业",
+        "高尚的家庭成员"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "2. 七项目标",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-3",
+      "knowledgeId": "foreign-reviewed-ch22-principles1918",
+      "title": "内容3：改组学制",
+      "text": "改组“六三三学制”：初等教育6年（6～12岁），初级中学3年（12～15岁），高级中学3年（15～18岁），再衔接本科院校。",
+      "keywords": [
+        "六三三",
+        "初等6年",
+        "初中3年",
+        "高中3年"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "3. 改组学制",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-4",
+      "knowledgeId": "foreign-reviewed-ch22-principles1918",
+      "title": "内容4：课程",
+      "text": "必修和选修的结合，课程统一性和多样性的结合。",
+      "keywords": [
+        "必修与选修",
+        "统一性与多样性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "4. 课程",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-5",
+      "knowledgeId": "foreign-reviewed-ch22-principles1918",
+      "title": "内容5：机构",
+      "text": "综合中学。",
+      "keywords": [
+        "综合中学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "5. 机构",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-6",
+      "knowledgeId": "foreign-reviewed-ch22-principles1918",
+      "title": "评价（1）学制和机构",
+      "text": "肯定了美国的“六三三学制”和综合中学的地位。",
+      "keywords": [
+        "六三三学制",
+        "综合中学"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 学制和机构",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-7",
+      "knowledgeId": "foreign-reviewed-ch22-principles1918",
+      "title": "评价（2）中学职责",
+      "text": "提出中学是面向所有学生并为社会服务的机构的思想。",
+      "keywords": [
+        "所有学生",
+        "为社会服务"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 中学职责",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-0",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "（一）简介",
+      "text": "“八年研究”亦称“三十校实验”，是进步教育协会在中等教育方面开展的、旨在对比进步教育方式和传统教育方式的研究。",
+      "keywords": [
+        "三十校实验",
+        "进步教育协会",
+        "进步与传统"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-1",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "（二）过程",
+      "text": "1933—1941年，调查团在30所中学和300所大学的合作下，对1475对大学生做追踪研究。每对包括一个进步主义学校的毕业生和一个传统学校的毕业生，每对学生具有相似性，主要对比学生在大学的成绩与其他表现。",
+      "keywords": [
+        "1933—1941年",
+        "30所中学",
+        "300所大学",
+        "1475对",
+        "追踪研究"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）过程"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-2",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "（三）结论",
+      "text": "该研究认为，进步主义教育思想下的中学教育既能完成中学为大学培养人才的传统职责，又能促进中学生多方面能力发展。研究鼓励中学摆脱传统课程模式的约束，走向进步主义教育改革。",
+      "keywords": [
+        "大学培养人才",
+        "多方面能力",
+        "进步主义改革"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）结论"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-3",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "（四）特点1",
+      "text": "参与面广，有代表性。",
+      "keywords": [
+        "参与面广",
+        "代表性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）特点"
+      ],
+      "displayTitle": "1. 参与面广，有代表性",
+      "outline": "（四）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-4",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "（四）特点2",
+      "text": "以进步主义为指导。",
+      "keywords": [
+        "进步主义"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）特点"
+      ],
+      "displayTitle": "2. 以进步主义为指导",
+      "outline": "（四）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-5",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "（四）特点3",
+      "text": "实验学校有办学自主性。",
+      "keywords": [
+        "办学自主性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）特点"
+      ],
+      "displayTitle": "3. 学校有办学自主性",
+      "outline": "（四）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-6",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "（五）优点概述",
+      "text": "肯定和促进了进步教育思想的发展。",
+      "keywords": [
+        "进步教育思想"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "总体评价",
+      "outline": "（五）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-7",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "优点（1）研究方法新颖",
+      "text": "原书评价：“八年研究”是美国课程研究方面规模最大的一次研究，其首创的追踪研究方法以及教育目标系统分析和教育评估理论，对美国课程研究产生了深远影响。",
+      "keywords": [
+        "追踪研究",
+        "教育目标系统分析",
+        "教育评估理论"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（1）研究方法新颖",
+      "outline": "（五）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-8",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "优点（2）办学自主权",
+      "text": "促进高中与大学的衔接，允许中学在制定课程计划时有更大的自主权和灵活性。",
+      "keywords": [
+        "高中大学衔接",
+        "课程计划",
+        "自主权",
+        "灵活性"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（2）办学自主权",
+      "outline": "（五）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-9",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "优点（3）改革思路",
+      "text": "在教育目的、教育管理、课程教学和方法、评估工作等问题上，为中学发展提供有益思路。",
+      "keywords": [
+        "教育目的",
+        "教育管理",
+        "课程教学",
+        "评估"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（3）改革思路",
+      "outline": "（五）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-10",
+      "knowledgeId": "foreign-reviewed-ch22-eight-year",
+      "title": "（五）局限",
+      "text": "研究者几乎都是进步教育家，研究者的中立性和研究结果都被质疑。",
+      "keywords": [
+        "进步教育家",
+        "中立性",
+        "研究结果"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）评价"
+      ],
+      "displayTitle": "2. 局限",
+      "outline": "（五）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-0",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-development",
+      "title": "（一）简介",
+      "text": "20世纪初，为促进高等教育普及，芝加哥大学率先建立全新的高等教育形式。",
+      "keywords": [
+        "20世纪初",
+        "高等教育普及",
+        "芝加哥大学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-1",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-development",
+      "title": "（二）内涵",
+      "text": "初级学院是中等教育向高等教育过渡的一种形式。",
+      "keywords": [
+        "中等教育",
+        "高等教育",
+        "过渡"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）内涵"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-2",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-development",
+      "title": "（三）发展1：开始",
+      "text": "芝加哥大学提出把4年制大学分为“初级学院”和“高级学院”两个阶段；加利福尼亚大学规定学生完成第一阶段学习并取得“初级证书”后，才能进入第二阶段学习。",
+      "keywords": [
+        "芝加哥大学",
+        "两个阶段",
+        "加利福尼亚大学",
+        "初级证书"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）发展"
+      ],
+      "displayTitle": "1. 开始",
+      "outline": "（三）发展"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-3",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-development",
+      "title": "（三）发展2：扩展途径",
+      "text": "一些州建立新的初级学院；一些大学改为初级学院；一些中学、师范学校和职业技术学校改为初级学院。",
+      "keywords": [
+        "州新建",
+        "大学改建",
+        "中学师范职校改建"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）发展"
+      ],
+      "displayTitle": "2. 扩展途径",
+      "outline": "（三）发展"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-4",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-development",
+      "title": "（三）发展3：成熟",
+      "text": "美国成立“美国初级学院协会”；“二战”后，公立初级学院改称社区学院，面向地方经济发展的需要。",
+      "keywords": [
+        "初级学院协会",
+        "二战后",
+        "社区学院",
+        "地方经济"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）发展"
+      ],
+      "displayTitle": "3. 成熟",
+      "outline": "（三）发展"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-0",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-features",
+      "title": "特色1：办学主体",
+      "text": "私人、教会、地方社区办学，不收费或收费较低。",
+      "keywords": [
+        "私人",
+        "教会",
+        "地方社区",
+        "收费低"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）特色"
+      ],
+      "displayTitle": "1. 办学主体",
+      "outline": "（四）特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-1",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-features",
+      "title": "特色2：招生要求",
+      "text": "招收高中毕业生，学制2年。",
+      "keywords": [
+        "高中毕业生",
+        "2年"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）特色"
+      ],
+      "displayTitle": "2. 招生要求",
+      "outline": "（四）特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-2",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-features",
+      "title": "特色3：课程内容",
+      "text": "普通教育知识与职业教育知识相结合，课程设置灵活多样。",
+      "keywords": [
+        "普通教育",
+        "职业教育",
+        "灵活多样"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）特色"
+      ],
+      "displayTitle": "3. 课程内容",
+      "outline": "（四）特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-3",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-features",
+      "title": "特色4：求学过程",
+      "text": "就近入学，走读制，无年龄限制，无入学考试。",
+      "keywords": [
+        "就近入学",
+        "走读制",
+        "无年龄限制",
+        "无入学考试"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）特色"
+      ],
+      "displayTitle": "4. 求学过程",
+      "outline": "（四）特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-4",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-features",
+      "title": "特色5：就业升学",
+      "text": "办学形式灵活，学生可以直接就业，也可以升入大学三年级继续学习。",
+      "keywords": [
+        "直接就业",
+        "大学三年级"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）特色"
+      ],
+      "displayTitle": "5. 就业升学",
+      "outline": "（四）特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-5",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-features",
+      "title": "评价1：美国",
+      "text": "初级学院成为美国高等教育的重要组成部分，推动美国高等教育大众化、民主化的发展进程。",
+      "keywords": [
+        "重要组成部分",
+        "大众化",
+        "民主化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）评价"
+      ],
+      "displayTitle": "1. 美国",
+      "outline": "（五）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-6",
+      "knowledgeId": "foreign-reviewed-ch22-junior-college-features",
+      "title": "评价2：国际",
+      "text": "初级学院从美国推广到其他国家，推动世界高等教育的普及与发展。",
+      "keywords": [
+        "推广",
+        "普及与发展"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）评价"
+      ],
+      "displayTitle": "2. 国际",
+      "outline": "（五）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-vocational-society-0",
+      "knowledgeId": "foreign-reviewed-ch22-vocational-society",
+      "title": "成立与作用",
+      "text": "1906年成立。美国草拟提供财政补助的职业教育法案，促进职业教育的发展。",
+      "keywords": [
+        "1906年",
+        "财政补助",
+        "职业教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "成立与作用"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-0",
+      "knowledgeId": "foreign-reviewed-ch22-smith-hughes",
+      "title": "简介",
+      "text": "为了提高工人的技术水平，更好地推动职业技术教育发展，1917年美国颁布《史密斯—休斯法案》。",
+      "keywords": [
+        "1917年",
+        "工人技术水平",
+        "职业技术教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-1",
+      "knowledgeId": "foreign-reviewed-ch22-smith-hughes",
+      "title": "内容（1）拨款先行",
+      "text": "联邦政府拨款给各州发展大学程度以下的职业教育。",
+      "keywords": [
+        "联邦拨款",
+        "各州",
+        "大学程度以下"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）拨款先行",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-2",
+      "knowledgeId": "foreign-reviewed-ch22-smith-hughes",
+      "title": "内容（2）培训师资",
+      "text": "联邦政府与州合作提供各种职业的师资训练。",
+      "keywords": [
+        "联邦与州合作",
+        "师资训练"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）培训师资",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-3",
+      "knowledgeId": "foreign-reviewed-ch22-smith-hughes",
+      "title": "内容（3）综合中学",
+      "text": "公立学校成立职业科，开设选修的职业课程，将传统以升学为主的学校改为兼顾就业与升学的综合中学。",
+      "keywords": [
+        "职业科",
+        "选修职业课程",
+        "就业与升学",
+        "综合中学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）综合中学",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-4",
+      "knowledgeId": "foreign-reviewed-ch22-smith-hughes",
+      "title": "内容（4）管理机构",
+      "text": "联邦政府设立联邦职业教育委员会，各州成立职业教育管理机构。",
+      "keywords": [
+        "联邦职业教育委员会",
+        "各州管理机构"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（4）管理机构",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-5",
+      "knowledgeId": "foreign-reviewed-ch22-smith-hughes",
+      "title": "评价（1）政府行为",
+      "text": "职业教育不再是行业的自发行为，而是联邦与州合作共建的政府行为，国家促进职业教育发展。",
+      "keywords": [
+        "行业自发",
+        "政府行为",
+        "联邦与州"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（1）政府行为",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-6",
+      "knowledgeId": "foreign-reviewed-ch22-smith-hughes",
+      "title": "评价（2）制度化",
+      "text": "形成了由中央到地方的全国性职业教育系统，促进职业教育制度化。",
+      "keywords": [
+        "中央到地方",
+        "全国性系统",
+        "制度化"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（2）制度化",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-7",
+      "knowledgeId": "foreign-reviewed-ch22-smith-hughes",
+      "title": "评价（3）综合中学",
+      "text": "使普通教育开始由单一的升学目标转向升学和就业的双重目标。",
+      "keywords": [
+        "升学",
+        "就业",
+        "双重目标"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（3）综合中学",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-0",
+      "knowledgeId": "foreign-reviewed-ch22-national-defense",
+      "title": "简介1：国内原因",
+      "text": "批评进步教育运动下的学校教育质量低下的问题。",
+      "keywords": [
+        "进步教育",
+        "教育质量低下"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）简介"
+      ],
+      "displayTitle": "1. 国内原因",
+      "outline": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-1",
+      "knowledgeId": "foreign-reviewed-ch22-national-defense",
+      "title": "简介2：国际原因",
+      "text": "1957年，苏联卫星发射成功，使美国有危机感。",
+      "keywords": [
+        "1957年",
+        "苏联卫星",
+        "危机感"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）简介"
+      ],
+      "displayTitle": "2. 国际原因",
+      "outline": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-2",
+      "knowledgeId": "foreign-reviewed-ch22-national-defense",
+      "title": "内容1：“新三艺”",
+      "text": "加强普通教育中“新三艺”（数学、外语、自然科学）知识的学习。",
+      "keywords": [
+        "新三艺",
+        "数学",
+        "外语",
+        "自然科学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. “新三艺”",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-3",
+      "knowledgeId": "foreign-reviewed-ch22-national-defense",
+      "title": "内容2：职业教育",
+      "text": "加强职业技术教育。",
+      "keywords": [
+        "职业技术教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "2. 职业教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-4",
+      "knowledgeId": "foreign-reviewed-ch22-national-defense",
+      "title": "内容3：天才教育",
+      "text": "强调“天才教育”，即精英教育。",
+      "keywords": [
+        "天才教育",
+        "精英教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "3. 天才教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-5",
+      "knowledgeId": "foreign-reviewed-ch22-national-defense",
+      "title": "内容4：教育经费",
+      "text": "增拨大量教育经费，作为对各级学校的财政援助。",
+      "keywords": [
+        "教育经费",
+        "财政援助"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "4. 教育经费",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-6",
+      "knowledgeId": "foreign-reviewed-ch22-national-defense",
+      "title": "评价",
+      "text": "有利于提高教育质量，培养科技人才。",
+      "keywords": [
+        "教育质量",
+        "科技人才"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-0",
+      "knowledgeId": "foreign-reviewed-ch22-structural-curriculum",
+      "title": "简介",
+      "text": "为了加强基础教育质量，布鲁纳发表《教育过程》，并引领结构主义课程改革。",
+      "keywords": [
+        "布鲁纳",
+        "教育过程",
+        "基础教育质量"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-1",
+      "knowledgeId": "foreign-reviewed-ch22-structural-curriculum",
+      "title": "内容（1）早期教育",
+      "text": "重视早期教育。",
+      "keywords": [
+        "早期教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）早期教育",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-2",
+      "knowledgeId": "foreign-reviewed-ch22-structural-curriculum",
+      "title": "内容（2）课程下放",
+      "text": "逐级下放科学技术课程。",
+      "keywords": [
+        "逐级下放",
+        "科学技术课程"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）课程下放",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-3",
+      "knowledgeId": "foreign-reviewed-ch22-structural-curriculum",
+      "title": "内容（3）教材编制",
+      "text": "以结构主义教育思想为指导编制教材。",
+      "keywords": [
+        "结构主义",
+        "编制教材"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）教材编制",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-4",
+      "knowledgeId": "foreign-reviewed-ch22-structural-curriculum",
+      "title": "内容（4）教学方法",
+      "text": "教学采用发现法。",
+      "keywords": [
+        "发现法"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（4）教学方法",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-5",
+      "knowledgeId": "foreign-reviewed-ch22-structural-curriculum",
+      "title": "评价（1）优点",
+      "text": "知识结构观和发现法传播更广。",
+      "keywords": [
+        "知识结构观",
+        "发现法"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（1）优点",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-6",
+      "knowledgeId": "foreign-reviewed-ch22-structural-curriculum",
+      "title": "评价（2）局限",
+      "text": "原书评价：改革10年，以失败告终。原因是知识难度加大，难以发挥教师主导性，发现法难以设计，多数学生难以接受。",
+      "keywords": [
+        "知识难度",
+        "教师主导性",
+        "发现法设计",
+        "学生接受"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（2）局限",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-equality1960-0",
+      "knowledgeId": "foreign-reviewed-ch22-equality1960",
+      "title": "教育平等方面",
+      "text": "黑白人合校。",
+      "keywords": [
+        "黑白人合校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "教育平等方面"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-0",
+      "knowledgeId": "foreign-reviewed-ch22-higher1960",
+      "title": "简介",
+      "text": "《高等教育设施法》《高等教育法》和《高等教育法修正案》等一系列法案旨在提升教育质量。",
+      "keywords": [
+        "高等教育设施法",
+        "高等教育法",
+        "修正案",
+        "教育质量"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-1",
+      "knowledgeId": "foreign-reviewed-ch22-higher1960",
+      "title": "内容（1）人才",
+      "text": "培养科技人才。",
+      "keywords": [
+        "科技人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）人才",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-2",
+      "knowledgeId": "foreign-reviewed-ch22-higher1960",
+      "title": "内容（2）拨款",
+      "text": "增加教育拨款。",
+      "keywords": [
+        "教育拨款"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）拨款",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-3",
+      "knowledgeId": "foreign-reviewed-ch22-higher1960",
+      "title": "内容（3）设施",
+      "text": "更新科研设施。",
+      "keywords": [
+        "科研设施"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）设施",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-4",
+      "knowledgeId": "foreign-reviewed-ch22-higher1960",
+      "title": "内容（4）资助",
+      "text": "提高贷款和奖学金。",
+      "keywords": [
+        "贷款",
+        "奖学金"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（4）资助",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-5",
+      "knowledgeId": "foreign-reviewed-ch22-higher1960",
+      "title": "内容（5）教学",
+      "text": "改革课程教学。",
+      "keywords": [
+        "课程教学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（5）教学",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-6",
+      "knowledgeId": "foreign-reviewed-ch22-higher1960",
+      "title": "评价",
+      "text": "提升美国高等教育质量，促进美国科学技术发展，增强国防能力。",
+      "keywords": [
+        "教育质量",
+        "科学技术",
+        "国防能力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-career-education-0",
+      "knowledgeId": "foreign-reviewed-ch22-career-education",
+      "title": "生计教育",
+      "text": "在普通学校加强职业教育和劳动教育。",
+      "keywords": [
+        "普通学校",
+        "职业教育",
+        "劳动教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "生计教育"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-0",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "简介",
+      "text": "由于公众对公立学校的教育质量普遍不满，美国掀起“返回基础”教育运动。",
+      "keywords": [
+        "公立学校",
+        "教育质量",
+        "返回基础"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-1",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "内容（1）小学阶段",
+      "text": "强调读、写和算，强化基本知识和基本技能。",
+      "keywords": [
+        "读写算",
+        "基本知识",
+        "基本技能"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）小学阶段",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-2",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "内容（2）中学阶段",
+      "text": "重视英语、自然科学、数学和历史等科目。",
+      "keywords": [
+        "英语",
+        "自然科学",
+        "数学",
+        "历史"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）中学阶段",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-3",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "内容（3）教师作用",
+      "text": "教师应当起主导作用。",
+      "keywords": [
+        "教师主导"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）教师作用",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-4",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "内容（4）教学方法",
+      "text": "加强练习、背诵、日常家庭作业以及经常性测验等。",
+      "keywords": [
+        "练习",
+        "背诵",
+        "家庭作业",
+        "经常性测验"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（4）教学方法",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-5",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "内容（5）考试制度",
+      "text": "考试合格方可升级或毕业。",
+      "keywords": [
+        "考试合格",
+        "升级毕业"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（5）考试制度",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-6",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "内容（6）课程设置",
+      "text": "取消选修课，增加必修课。",
+      "keywords": [
+        "取消选修",
+        "增加必修"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（6）课程设置",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-7",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "内容（7）班级管理",
+      "text": "严明纪律。",
+      "keywords": [
+        "严明纪律"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（7）班级管理",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-8",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "评价（1）优点",
+      "text": "原书评价：该运动提升了教育质量，否定进步教育，实际上是美国的一种恢复传统教育的思潮。",
+      "keywords": [
+        "教育质量",
+        "恢复传统教育"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（1）优点",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-9",
+      "knowledgeId": "foreign-reviewed-ch22-back-to-basics",
+      "title": "评价（2）局限",
+      "text": "因过分强调教师的管控，忽视学生的主体性和创造性而遭受批评，于20世纪80年代逐渐消沉。",
+      "keywords": [
+        "教师管控",
+        "主体性",
+        "创造性",
+        "80年代"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（2）局限",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-0",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（一）简介",
+      "text": "美国中小学教育质量问题成为社会关注的中心。1983年，美国颁布《国家处在危险之中：教育改革势在必行》这一调查报告。",
+      "keywords": [
+        "1983年",
+        "中小学教育质量",
+        "调查报告"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-1",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（二）内容1：课程",
+      "text": "加强中学五门“新基础课”的教育。数学、英语、自然科学、社会科学、计算机课程是现代课程的核心。",
+      "keywords": [
+        "五门新基础课",
+        "数学",
+        "英语",
+        "自然科学",
+        "社会科学",
+        "计算机"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. 课程",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-2",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（二）内容2：标准",
+      "text": "提高教育标准和要求，对学生的学业成绩和行为表现采取更严格的、可测量的标准。",
+      "keywords": [
+        "学业成绩",
+        "行为表现",
+        "严格",
+        "可测量"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "2. 标准",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-3",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（二）内容3：师资",
+      "text": "改进师资培养，提升教师的专业素质、社会地位和物质待遇。",
+      "keywords": [
+        "师资培养",
+        "专业素质",
+        "社会地位",
+        "物质待遇"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "3. 师资",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-4",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（二）内容4：管理",
+      "text": "各级政府加强对教育改革的领导和实施，领导教改并提供财政资助。",
+      "keywords": [
+        "各级政府",
+        "领导教改",
+        "财政资助"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "4. 管理",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-5",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（三）优点1：教育质量",
+      "text": "报告以提高美国教育质量为中心，是20世纪80年代重要的纲领性文件。",
+      "keywords": [
+        "教育质量",
+        "80年代",
+        "纲领性文件"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（1）教育质量",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-6",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（三）优点2：课程设置",
+      "text": "加强课程统一性，恢复与确立学术性课程地位。",
+      "keywords": [
+        "课程统一性",
+        "学术性课程"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（2）课程设置",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-7",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（三）优点3：学生",
+      "text": "提高对学生的标准和要求。",
+      "keywords": [
+        "标准和要求"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（3）学生",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-8",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（三）优点4：公众",
+      "text": "增强公众对教育的信心。",
+      "keywords": [
+        "公众信心"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（4）公众",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-9",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（三）优点5：教育管理",
+      "text": "联邦政府加强对教育的管理。",
+      "keywords": [
+        "联邦政府",
+        "教育管理"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（5）教育管理",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-10",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（三）局限1：测试成绩",
+      "text": "过分强调标准化的测试成绩，导致忽视学生个性的培养。",
+      "keywords": [
+        "标准化测试",
+        "忽视个性"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "2. 局限（三个过分强调）"
+      ],
+      "displayTitle": "（1）测试成绩",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-11",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（三）局限2：教学统一性",
+      "text": "过分强调教学统一性，导致缺乏灵活性。",
+      "keywords": [
+        "教学统一性",
+        "缺乏灵活性"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "2. 局限（三个过分强调）"
+      ],
+      "displayTitle": "（2）教学统一性",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-12",
+      "knowledgeId": "foreign-reviewed-ch22-nation-at-risk",
+      "title": "（三）局限3：标准和要求",
+      "text": "过分强调提高教育的标准和要求，导致潜在的辍学人数迅速增加。",
+      "keywords": [
+        "标准和要求",
+        "潜在辍学"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "2. 局限（三个过分强调）"
+      ],
+      "displayTitle": "（3）标准和要求",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-0",
+      "knowledgeId": "foreign-reviewed-ch22-america2000",
+      "title": "简介",
+      "text": "1991年，美国颁布《美国2000年教育战略》，指出未来美国教育改革的基本目标。",
+      "keywords": [
+        "1991年",
+        "未来改革",
+        "基本目标"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-1",
+      "knowledgeId": "foreign-reviewed-ch22-america2000",
+      "title": "目标（1）乐学",
+      "text": "所有美国儿童入学时乐意学习。",
+      "keywords": [
+        "入学",
+        "乐意学习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 目标"
+      ],
+      "displayTitle": "（1）乐学",
+      "outline": "2. 目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-2",
+      "knowledgeId": "foreign-reviewed-ch22-america2000",
+      "title": "目标（2）毕业率",
+      "text": "中学毕业率将至少提高到90%。",
+      "keywords": [
+        "中学毕业率",
+        "至少90%"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 目标"
+      ],
+      "displayTitle": "（2）毕业率",
+      "outline": "2. 目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-3",
+      "knowledgeId": "foreign-reviewed-ch22-america2000",
+      "title": "目标（3）能力",
+      "text": "培养所有学生的挑战能力、创造力，合理用脑，成为有责任感的公民。",
+      "keywords": [
+        "挑战能力",
+        "创造力",
+        "合理用脑",
+        "责任感"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 目标"
+      ],
+      "displayTitle": "（3）能力",
+      "outline": "2. 目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-4",
+      "knowledgeId": "foreign-reviewed-ch22-america2000",
+      "title": "目标（4）成绩",
+      "text": "美国学生在自然科学和数学方面的成绩要在世界上名列前茅。",
+      "keywords": [
+        "自然科学",
+        "数学",
+        "名列前茅"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 目标"
+      ],
+      "displayTitle": "（4）成绩",
+      "outline": "2. 目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-5",
+      "knowledgeId": "foreign-reviewed-ch22-america2000",
+      "title": "目标（5）竞争",
+      "text": "每个成年人会读书识字，有参与全球竞争的能力。",
+      "keywords": [
+        "成年人",
+        "读书识字",
+        "全球竞争"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 目标"
+      ],
+      "displayTitle": "（5）竞争",
+      "outline": "2. 目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-6",
+      "knowledgeId": "foreign-reviewed-ch22-america2000",
+      "title": "目标（6）环境",
+      "text": "每所学校将杜绝毒品和暴力，提供良好的学习环境。",
+      "keywords": [
+        "杜绝毒品和暴力",
+        "学习环境"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 目标"
+      ],
+      "displayTitle": "（6）环境",
+      "outline": "2. 目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-7",
+      "knowledgeId": "foreign-reviewed-ch22-america2000",
+      "title": "评价",
+      "text": "新世纪教育发展的纲领性文件。",
+      "keywords": [
+        "新世纪",
+        "纲领性文件"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-0",
+      "knowledgeId": "foreign-reviewed-ch22-goals2000",
+      "title": "简介",
+      "text": "原书总结表标注为1994年。确立从国家到州的各项教育标准，以提升学校教育质量。",
+      "keywords": [
+        "1994年",
+        "国家到州",
+        "教育标准"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-1",
+      "knowledgeId": "foreign-reviewed-ch22-goals2000",
+      "title": "内容（1）课程标准确立",
+      "text": "确立全国性的中小学课程标准，并引导确立核心学科。",
+      "keywords": [
+        "全国性",
+        "中小学课程标准",
+        "核心学科"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）课程标准确立",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-2",
+      "knowledgeId": "foreign-reviewed-ch22-goals2000",
+      "title": "内容（2）按层次分类",
+      "text": "国家教育标准和州教育标准。",
+      "keywords": [
+        "国家教育标准",
+        "州教育标准"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容",
+        "（2）课程标准分类"
+      ],
+      "displayTitle": "从层次上分",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-3",
+      "knowledgeId": "foreign-reviewed-ch22-goals2000",
+      "title": "内容（2）按内涵分类",
+      "text": "课程内容标准和学生操作绩效标准。",
+      "keywords": [
+        "课程内容标准",
+        "学生操作绩效标准"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容",
+        "（2）课程标准分类"
+      ],
+      "displayTitle": "从内涵上分",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-4",
+      "knowledgeId": "foreign-reviewed-ch22-goals2000",
+      "title": "评价（1）",
+      "text": "政府主导。",
+      "keywords": [
+        "政府主导"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（1）政府主导",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-5",
+      "knowledgeId": "foreign-reviewed-ch22-goals2000",
+      "title": "评价（2）",
+      "text": "标准成熟。",
+      "keywords": [
+        "标准成熟"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（2）标准成熟",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-6",
+      "knowledgeId": "foreign-reviewed-ch22-goals2000",
+      "title": "评价（3）",
+      "text": "建立体系。",
+      "keywords": [
+        "建立体系"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（3）建立体系",
+      "outline": "3. 评价"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "foreign-ch22-source-tree-v1",
+  "outlineBaseline": [
+    {
+      "id": "foreign-reviewed-ch22-colonies-north-0",
+      "title": "初等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-north-1",
+      "title": "中等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-north-2",
+      "title": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south-0",
+      "title": "中部殖民地：初等教育",
+      "outline": "中部殖民地"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south-1",
+      "title": "南部殖民地：初等教育",
+      "outline": "南部殖民地"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south-2",
+      "title": "南部殖民地：中等教育",
+      "outline": "南部殖民地"
+    },
+    {
+      "id": "foreign-reviewed-ch22-colonies-middle-south-3",
+      "title": "南部殖民地：高等教育",
+      "outline": "南部殖民地"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-0",
+      "title": "建国前：北部和中部的初等教育",
+      "outline": "建国前"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-1",
+      "title": "建国前：北部和中部的中等教育",
+      "outline": "建国前"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-2",
+      "title": "建国前：北部和中部的高等教育",
+      "outline": "建国前"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-3",
+      "title": "建国前：南部殖民地",
+      "outline": "建国前"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-4",
+      "title": "建国后：教育法案",
+      "outline": "建国后"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eighteenth-century-5",
+      "title": "建国后：法案意义",
+      "outline": "建国后"
+    },
+    {
+      "id": "foreign-reviewed-ch22-administration19-0",
+      "title": "州教育领导体制"
+    },
+    {
+      "id": "foreign-reviewed-ch22-administration19-1",
+      "title": "联邦教育署"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-1",
+      "title": "内容：“三公一免”"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-2",
+      "title": "内容：实施措施"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-3",
+      "title": "评价：个人",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-public-schools-4",
+      "title": "评价：美国",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-secondary19-0",
+      "title": "主要机构"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-0",
+      "title": "（1）办学形式"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-1",
+      "title": "（2）办学规模"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-2",
+      "title": "（3）学校类型"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-3",
+      "title": "（4）大学建立"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-4",
+      "title": "（5）入学对象"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher19-5",
+      "title": "（6）大学理念"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-1",
+      "title": "内容（1）拨地",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-2",
+      "title": "内容（2）建校",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-3",
+      "title": "评价（1）农工发展",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-4",
+      "title": "评价（2）高等教育",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-morrill-5",
+      "title": "评价（3）高校管理",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-1",
+      "title": "内容1：教育原则",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-2",
+      "title": "内容2：七项目标",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-3",
+      "title": "内容3：改组学制",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-4",
+      "title": "内容4：课程",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-5",
+      "title": "内容5：机构",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-6",
+      "title": "评价（1）学制和机构",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-principles1918-7",
+      "title": "评价（2）中学职责",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-0",
+      "title": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-1",
+      "title": "（二）过程"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-2",
+      "title": "（三）结论"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-3",
+      "title": "（四）特点1",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-4",
+      "title": "（四）特点2",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-5",
+      "title": "（四）特点3",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-6",
+      "title": "（五）优点概述",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-7",
+      "title": "优点（1）研究方法新颖",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-8",
+      "title": "优点（2）办学自主权",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-9",
+      "title": "优点（3）改革思路",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-eight-year-10",
+      "title": "（五）局限",
+      "outline": "评价：局限"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-0",
+      "title": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-1",
+      "title": "（二）内涵"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-2",
+      "title": "（三）发展1：开始",
+      "outline": "发展"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-3",
+      "title": "（三）发展2：扩展途径",
+      "outline": "发展"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-development-4",
+      "title": "（三）发展3：成熟",
+      "outline": "发展"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-0",
+      "title": "特色1：办学主体",
+      "outline": "特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-1",
+      "title": "特色2：招生要求",
+      "outline": "特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-2",
+      "title": "特色3：课程内容",
+      "outline": "特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-3",
+      "title": "特色4：求学过程",
+      "outline": "特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-4",
+      "title": "特色5：就业升学",
+      "outline": "特色"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-5",
+      "title": "评价1：美国",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-junior-college-features-6",
+      "title": "评价2：国际",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-vocational-society-0",
+      "title": "成立与作用"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-1",
+      "title": "内容（1）拨款先行",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-2",
+      "title": "内容（2）培训师资",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-3",
+      "title": "内容（3）综合中学",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-4",
+      "title": "内容（4）管理机构",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-5",
+      "title": "评价（1）政府行为",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-6",
+      "title": "评价（2）制度化",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-smith-hughes-7",
+      "title": "评价（3）综合中学",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-0",
+      "title": "简介1：国内原因",
+      "outline": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-1",
+      "title": "简介2：国际原因",
+      "outline": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-2",
+      "title": "内容1：“新三艺”",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-3",
+      "title": "内容2：职业教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-4",
+      "title": "内容3：天才教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-5",
+      "title": "内容4：教育经费",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-national-defense-6",
+      "title": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-1",
+      "title": "内容（1）早期教育",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-2",
+      "title": "内容（2）课程下放",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-3",
+      "title": "内容（3）教材编制",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-4",
+      "title": "内容（4）教学方法",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-5",
+      "title": "评价（1）优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-structural-curriculum-6",
+      "title": "评价（2）局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-equality1960-0",
+      "title": "教育平等方面"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-1",
+      "title": "内容（1）人才",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-2",
+      "title": "内容（2）拨款",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-3",
+      "title": "内容（3）设施",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-4",
+      "title": "内容（4）资助",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-5",
+      "title": "内容（5）教学",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-higher1960-6",
+      "title": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-career-education-0",
+      "title": "生计教育"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-1",
+      "title": "内容（1）小学阶段",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-2",
+      "title": "内容（2）中学阶段",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-3",
+      "title": "内容（3）教师作用",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-4",
+      "title": "内容（4）教学方法",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-5",
+      "title": "内容（5）考试制度",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-6",
+      "title": "内容（6）课程设置",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-7",
+      "title": "内容（7）班级管理",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-8",
+      "title": "评价（1）优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-back-to-basics-9",
+      "title": "评价（2）局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-0",
+      "title": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-1",
+      "title": "（二）内容1：课程",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-2",
+      "title": "（二）内容2：标准",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-3",
+      "title": "（二）内容3：师资",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-4",
+      "title": "（二）内容4：管理",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-5",
+      "title": "（三）优点1：教育质量",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-6",
+      "title": "（三）优点2：课程设置",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-7",
+      "title": "（三）优点3：学生",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-8",
+      "title": "（三）优点4：公众",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-9",
+      "title": "（三）优点5：教育管理",
+      "outline": "评价：优点"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-10",
+      "title": "（三）局限1：测试成绩",
+      "outline": "评价：三个过分强调"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-11",
+      "title": "（三）局限2：教学统一性",
+      "outline": "评价：三个过分强调"
+    },
+    {
+      "id": "foreign-reviewed-ch22-nation-at-risk-12",
+      "title": "（三）局限3：标准和要求",
+      "outline": "评价：三个过分强调"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-1",
+      "title": "目标（1）乐学",
+      "outline": "六项目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-2",
+      "title": "目标（2）毕业率",
+      "outline": "六项目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-3",
+      "title": "目标（3）能力",
+      "outline": "六项目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-4",
+      "title": "目标（4）成绩",
+      "outline": "六项目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-5",
+      "title": "目标（5）竞争",
+      "outline": "六项目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-6",
+      "title": "目标（6）环境",
+      "outline": "六项目标"
+    },
+    {
+      "id": "foreign-reviewed-ch22-america2000-7",
+      "title": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-0",
+      "title": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-1",
+      "title": "内容（1）课程标准确立",
+      "outline": "内容"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-2",
+      "title": "内容（2）按层次分类",
+      "outline": "课程标准分类"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-3",
+      "title": "内容（2）按内涵分类",
+      "outline": "课程标准分类"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-4",
+      "title": "评价（1）",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-5",
+      "title": "评价（2）",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch22-goals2000-6",
+      "title": "评价（3）",
+      "outline": "评价"
+    }
+  ],
+  "stats": {
+    "pages": 8,
+    "knowledge": 28,
+    "steps": 134,
+    "referenceOnly": 5
+  }
+}

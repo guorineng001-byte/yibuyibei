@@ -1,0 +1,44 @@
+.goal-tag{display:inline-flex;align-items:center;gap:6px;border:1px solid #e8d8d8;border-radius:20px;padding:5px 10px;background:#fcf5f3;color:#914451;font-size:11px;white-space:nowrap}
+.sidebar-note.goal-sidebar{margin:28px 8px 0;padding-top:21px;color:#914451}
+.goal-sidebar .goal-sidebar-label{display:flex;align-items:center;gap:7px;margin:0;color:#8e6c6b;font-size:10px;letter-spacing:1px}
+.goal-sidebar>strong{display:block;margin-top:13px;font-family:"Noto Serif SC","Songti SC",SimSun,serif;font-size:21px;font-weight:600;letter-spacing:2px;color:#85414b}
+.goal-sidebar p{margin-top:10px;font-size:11px;line-height:2;color:#74816b}
+.goal-sidebar .goal-sidebar-destination{display:flex;align-items:center;justify-content:space-between;gap:5px;margin-top:15px;font-size:10px;letter-spacing:0;color:#8d6467}
+.focus-shell .sidebar-note.goal-sidebar{opacity:1}
+.goal-card{margin:0 0 27px;border:1px solid #e6ded4;border-radius:14px;background:#fcfaf5;overflow:hidden;color:#344d3b;box-shadow:0 4px 18px #584d3303}
+.goal-card-heading{display:flex;justify-content:space-between;align-items:center;gap:15px;margin:0 26px;padding:17px 0;border-bottom:1px solid #eae4d9;font-size:10px;color:#8d8b79}
+.goal-card-heading>span:first-child{display:flex;align-items:center;gap:8px;font-size:12px;color:#914451;font-weight:600;letter-spacing:1px}
+.goal-card-body{display:grid;grid-template-columns:minmax(195px,.8fr) minmax(0,2fr);gap:30px;padding:24px 26px}
+.goal-intention{position:relative;padding-right:24px;border-right:1px solid #eae4d9}
+.goal-intention-icon{display:inline-flex;color:#9a5960;margin-bottom:10px}
+.goal-intention h2{font-family:"Noto Serif SC","Songti SC",SimSun,serif;font-size:27px;font-weight:600;color:#85414b;letter-spacing:2px;line-height:1.5}
+.goal-intention p{margin-top:10px;font-size:11px;line-height:2;color:#7e8773}
+.goal-intention-line{display:block;width:32px;height:2px;background:#b98f81;margin-top:17px}
+.goal-application{min-width:0;align-self:center}
+.goal-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 22px;margin:0}
+.goal-facts>div{min-width:0}
+.goal-facts dt{font-size:10px;color:#8c907e;margin-bottom:5px}
+.goal-facts dd{margin:0;font-size:12px;font-weight:500;line-height:1.8;overflow-wrap:anywhere}
+.goal-plan{display:flex;flex-wrap:wrap;gap:7px 13px;margin-top:18px;font-size:10px;line-height:1.8;color:#7c856e}
+.goal-plan>span{border-left:1px solid #dcded0;padding-left:13px}
+.goal-subjects{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;padding:0 26px 22px}
+.goal-subjects>div{display:flex;align-items:center;gap:10px;border:1px solid #e5e7dc;border-radius:7px;padding:11px 12px;background:#f4f5ed;min-width:0}
+.goal-subjects span{font-size:13px;color:#9b5660;font-variant-numeric:tabular-nums;letter-spacing:1px}
+.goal-subjects strong{font-size:11px;font-weight:500;line-height:1.7}
+.goal-card-footer{display:flex;justify-content:space-between;align-items:center;gap:12px;border-top:1px solid #eae4d9;padding:12px 26px;background:#f8f5ee;line-height:1.8}
+.goal-card-footer>span{font-size:9px;color:#93917e}
+.goal-card-footer>p{font-size:11px;color:#8c5b60}
+.goal-study-reminder{display:flex;align-items:baseline;gap:12px;border-left:2px solid #bd8c90;padding:6px 0 6px 12px;margin:0 auto 20px;max-width:1130px;font-size:11px;line-height:1.9}
+.goal-study-reminder>span{display:inline-flex;align-items:center;gap:6px;color:#914451;flex-shrink:0;font-weight:500}
+.goal-study-reminder p{color:#7b886f}
+.goal-summary{display:flex;align-items:center;gap:15px;text-align:left;background:#fbf7f2;border:1px solid #e9dfd5;border-radius:10px;padding:18px 22px;margin:24px 0;color:#914451}
+.goal-summary>svg{flex-shrink:0}
+.goal-summary strong{font-family:"Noto Serif SC","Songti SC",SimSun,serif;font-size:17px;font-weight:600;line-height:1.8}
+.goal-summary p{font-size:11px;color:#7c876f;line-height:1.9;margin-top:5px}
+@media(max-width:1200px){.goal-card-body{grid-template-columns:minmax(180px,.8fr) minmax(0,2fr);gap:22px}.goal-subjects>div{gap:7px;padding:10px}.goal-subjects strong{font-size:10px}.goal-intention h2{font-size:24px}.goal-sidebar>strong{font-size:19px;letter-spacing:1px}}
+@media(min-width:721px) and (max-height:800px){.sidebar .sidebar-caption{margin-top:25px}.sidebar-note.goal-sidebar{margin-top:20px;padding-top:17px}.goal-sidebar>strong{margin-top:9px}.goal-sidebar p{margin-top:7px}.sidebar-bottom{padding-top:23px}}
+@media(min-width:721px) and (max-height:670px){.sidebar{overflow-y:auto}.sidebar-note.goal-sidebar{margin-top:15px}.goal-sidebar p{display:none}.goal-sidebar .goal-sidebar-destination{margin-top:8px}.sidebar-bottom{padding-top:18px}}
+@media(max-width:1000px){.goal-subjects{grid-template-columns:repeat(2,minmax(0,1fr))}.goal-facts{gap:14px 18px}.goal-card-footer{align-items:flex-start;flex-direction:column;gap:3px}.goal-sidebar>strong{font-size:17px}.goal-sidebar .goal-sidebar-destination{font-size:9px}}
+@media(max-width:720px){.sidebar-note.goal-sidebar{display:none}.topbar .offline-tag{display:none}.goal-tag{font-size:10px;padding:5px 9px}.goal-card{margin-bottom:22px;border-radius:12px}.goal-card-heading{margin:0 18px;padding:15px 0;gap:8px}.goal-card-heading>span:first-child{font-size:11px;letter-spacing:0}.goal-card-heading>span:last-child{font-size:9px}.goal-card-body{display:block;padding:19px 18px}.goal-intention{border:0;border-bottom:1px solid #eae4d9;padding:0 0 17px;margin-bottom:18px}.goal-intention-icon{float:right;margin:4px 3px 0}.goal-intention h2{font-size:25px}.goal-intention p{margin-top:6px;font-size:11px}.goal-intention p br{display:none}.goal-intention-line{display:none}.goal-facts{gap:15px 14px}.goal-facts dt{font-size:10px}.goal-facts dd{font-size:11px}.goal-plan{margin-top:15px}.goal-subjects{padding:0 18px 18px;gap:8px}.goal-subjects>div{padding:10px;gap:8px}.goal-subjects strong{font-size:10px}.goal-card-footer{padding:11px 18px}.goal-card-footer>p{font-size:10px}.goal-study-reminder{display:block;margin-bottom:18px;font-size:11px}.goal-study-reminder>span{margin-bottom:3px}.goal-summary{padding:16px;gap:12px}.goal-summary strong{font-size:16px}}
+
+.coverage-note{font-size:12px;line-height:1.9;margin-top:12px;color:#64765a}.pending-subject{color:#8b6840;font-weight:600}.goal-tag{max-width:260px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.goal-intention h2,.goal-sidebar>strong{overflow-wrap:anywhere}.goal-subjects>div{flex-wrap:wrap}.goal-subjects>div>span{font-size:10px}.goal-study-reminder>span{overflow-wrap:anywhere;white-space:normal}@media(max-width:720px){.goal-tag{max-width:160px}}

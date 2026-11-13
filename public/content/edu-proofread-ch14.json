@@ -1,0 +1,7698 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch14-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch14-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 111,
+          "rect": [
+            0.05,
+            0.12,
+            0.92,
+            0.73
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 111108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-definition",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程的定义",
+      "section": "第一节 · 课程的概念 · （一）",
+      "refs": [
+        {
+          "page": 112,
+          "rect": [
+            0.05,
+            0.16,
+            0.92,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 112144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-goodlad",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "古德莱德的课程分类",
+      "section": "第一节 · 课程的概念 · （二）",
+      "refs": [
+        {
+          "page": 112,
+          "rect": [
+            0.05,
+            0.405,
+            0.92,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 112364,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-teaching",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程与教学的关系",
+      "section": "第一节 · 课程的概念 · （三）",
+      "refs": [
+        {
+          "page": 112,
+          "rect": [
+            0.05,
+            0.57,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 112513,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-concept-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "古德莱德分类：知识速练原图",
+      "section": "第一节 · 课程的概念 · 知识速练",
+      "refs": [
+        {
+          "page": 112,
+          "rect": [
+            0.05,
+            0.71,
+            0.92,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 112639,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "知识中心课程理论",
+      "section": "第二节 · 课程理论及其主要流派 · 知识中心",
+      "refs": [
+        {
+          "page": 113,
+          "rect": [
+            0.05,
+            0.14,
+            0.92,
+            0.64
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 113126,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "学习者中心课程理论",
+      "section": "第二节 · 课程理论及其主要流派 · 学习者中心",
+      "refs": [
+        {
+          "page": 113,
+          "rect": [
+            0.05,
+            0.15,
+            0.92,
+            0.63
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 113135,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "社会中心课程理论",
+      "section": "第二节 · 课程理论及其主要流派 · 社会中心",
+      "refs": [
+        {
+          "page": 113,
+          "rect": [
+            0.05,
+            0.16,
+            0.92,
+            0.62
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 113144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-theories-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "三种课程理论：完整对照表及知识速练原图",
+      "section": "第二节 · 课程理论及其主要流派 · 原书对照表",
+      "refs": [
+        {
+          "page": 113,
+          "rect": [
+            0.05,
+            0.09,
+            0.92,
+            0.83
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 113081,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "学科课程（分科课程）",
+      "section": "第三节 · 课程类型 · 考点一 · 第一对",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.05,
+            0.15,
+            0.92,
+            0.41
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114135,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "活动课程（经验课程、儿童中心课程）",
+      "section": "第三节 · 课程类型 · 考点一 · 第一对",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.05,
+            0.16,
+            0.92,
+            0.4
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-activity-relation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "学科课程与活动课程的评价",
+      "section": "第三节 · 课程类型 · 考点一 · 第一对 · 评价",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.05,
+            0.565,
+            0.92,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114508,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-activity-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "学科课程与活动课程：原书对照表",
+      "section": "第三节 · 课程类型 · 考点一 · 原书对照表",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.05,
+            0.14,
+            0.92,
+            0.6
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 114126,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-science-structure",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "小学科学课程结构图：知识小贴士原图",
+      "section": "第三节 · 课程类型 · 考点一 · 知识小贴士",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.05,
+            0.75,
+            0.92,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 114675,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-curriculum",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "分科课程：含义、优缺点与分类",
+      "section": "第三节 · 课程类型 · 考点二 · 第二对",
+      "refs": [
+        {
+          "page": 115,
+          "rect": [
+            0.05,
+            0.115,
+            0.92,
+            0.41
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 115103,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "综合课程",
+      "section": "第三节 · 课程类型 · 考点二 · 第二对",
+      "refs": [
+        {
+          "page": 115,
+          "rect": [
+            0.05,
+            0.125,
+            0.92,
+            0.4
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 115112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-integrated-relation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "分科课程与综合课程的评价",
+      "section": "第三节 · 课程类型 · 考点二 · 第二对 · 评价",
+      "refs": [
+        {
+          "page": 115,
+          "rect": [
+            0.05,
+            0.535,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 115481,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-integrated-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "分科与综合课程：原书对照表",
+      "section": "第三节 · 课程类型 · 考点二 · 原书对照表",
+      "refs": [
+        {
+          "page": 115,
+          "rect": [
+            0.05,
+            0.11,
+            0.92,
+            0.55
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 115099,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-required-elective",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "必修课程与选修课程",
+      "section": "第三节 · 课程类型 · 考点三 · 第三对",
+      "refs": [
+        {
+          "page": 115,
+          "rect": [
+            0.05,
+            0.68,
+            0.92,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 115612,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "显性课程与隐性课程",
+      "section": "第三节 · 课程类型 · 考点四 · 第四对",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.05,
+            0.11,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116099,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-basic-extended-research",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "基础型、拓展型与研究型课程",
+      "section": "第三节 · 课程类型 · 考点五 · 第五对",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.05,
+            0.395,
+            0.92,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116355,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-national-local",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "国家课程与地方课程",
+      "section": "第三节 · 课程类型 · 考点六 · 第六对",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.05,
+            0.55,
+            0.92,
+            0.065
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116495,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "校本课程",
+      "section": "第三节 · 课程类型 · 考点六 · 第六对 · （三）",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.05,
+            0.615,
+            0.92,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116553,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-types-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程类型：知识速练原图",
+      "section": "第三节 · 课程类型 · 知识速练",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.05,
+            0.845,
+            0.92,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 116760,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-development-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程开发：模式、产品、过程框架原图",
+      "section": "第四节 · 课程开发 · 框架",
+      "refs": [
+        {
+          "page": 117,
+          "rect": [
+            0.05,
+            0.09,
+            0.92,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 117081,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程开发：泰勒的目标模式",
+      "section": "第四节 · 课程开发 · 考点一 · 目标模式",
+      "refs": [
+        {
+          "page": 117,
+          "rect": [
+            0.05,
+            0.38,
+            0.92,
+            0.54
+          ]
+        },
+        {
+          "page": 118,
+          "rect": [
+            0.05,
+            0.1,
+            0.92,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 117342,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程开发：斯腾豪斯的过程模式",
+      "section": "第四节 · 课程开发 · 考点一 · 过程模式",
+      "refs": [
+        {
+          "page": 117,
+          "rect": [
+            0.05,
+            0.39,
+            0.92,
+            0.53
+          ]
+        },
+        {
+          "page": 118,
+          "rect": [
+            0.05,
+            0.1,
+            0.92,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 117351,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程开发：施瓦布的实践模式",
+      "section": "第四节 · 课程开发 · 考点一 · 实践模式",
+      "refs": [
+        {
+          "page": 117,
+          "rect": [
+            0.05,
+            0.4,
+            0.92,
+            0.52
+          ]
+        },
+        {
+          "page": 118,
+          "rect": [
+            0.05,
+            0.1,
+            0.92,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 117360,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-development-models-tables",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "三种课程开发模式：主表与深化比较表原图",
+      "section": "第四节 · 课程开发 · 考点一 · 原书对照表",
+      "refs": [
+        {
+          "page": 117,
+          "rect": [
+            0.05,
+            0.36,
+            0.92,
+            0.57
+          ]
+        },
+        {
+          "page": 118,
+          "rect": [
+            0.05,
+            0.09,
+            0.92,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 117324,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-plan",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程计划（课程方案）",
+      "section": "第四节 · 课程开发 · 考点二 · （一）",
+      "refs": [
+        {
+          "page": 118,
+          "rect": [
+            0.05,
+            0.315,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 118283,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-standard",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程标准",
+      "section": "第四节 · 课程开发 · 考点二 · （二）",
+      "refs": [
+        {
+          "page": 118,
+          "rect": [
+            0.05,
+            0.44,
+            0.92,
+            0.265
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 118396,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-textbook",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "教材",
+      "section": "第四节 · 课程开发 · 考点二 · （三）",
+      "refs": [
+        {
+          "page": 118,
+          "rect": [
+            0.05,
+            0.71,
+            0.92,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 118639,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-textbook-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "教师如何使用教材：知识速练原图",
+      "section": "第四节 · 课程开发 · 考点二 · 知识速练",
+      "refs": [
+        {
+          "page": 118,
+          "rect": [
+            0.05,
+            0.89,
+            0.92,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 118801,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-course-goals",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "确定课程目标：含义、依据与关系",
+      "section": "第四节 · 课程开发 · 考点三 · （一）",
+      "refs": [
+        {
+          "page": 119,
+          "rect": [
+            0.05,
+            0.125,
+            0.92,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 119112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "布卢姆教育目标分类学（新版）",
+      "section": "第四节 · 课程开发 · 考点三 · （一）4.",
+      "refs": [
+        {
+          "page": 119,
+          "rect": [
+            0.05,
+            0.31,
+            0.92,
+            0.36
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 119279,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-matrix",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "布卢姆分类学：知识与认知二维辅助表、知识速练原图",
+      "section": "第四节 · 课程开发 · 考点三 · 知识小贴士",
+      "refs": [
+        {
+          "page": 120,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 120076,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-china-goal-evolution",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "我国中小学课程目标及其演变",
+      "section": "第四节 · 课程开发 · 考点三 · （一）5.",
+      "refs": [
+        {
+          "page": 119,
+          "rect": [
+            0.05,
+            0.675,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 119607,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-select-content",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "选择课程内容",
+      "section": "第四节 · 课程开发 · 考点三 · （二）",
+      "refs": [
+        {
+          "page": 120,
+          "rect": [
+            0.05,
+            0.36,
+            0.92,
+            0.04
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 120324,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "组织课程内容",
+      "section": "第四节 · 课程开发 · 考点三 · （三）",
+      "refs": [
+        {
+          "page": 120,
+          "rect": [
+            0.05,
+            0.445,
+            0.92,
+            0.47
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 120400,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-development-evaluation-link",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "进行课程评价：原书指向第六节",
+      "section": "第四节 · 课程开发 · 考点三 · （四）",
+      "refs": [
+        {
+          "page": 120,
+          "rect": [
+            0.05,
+            0.92,
+            0.92,
+            0.035
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 120828,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-development-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程组织与目标层级：知识速练原图",
+      "section": "第四节 · 课程开发 · 知识速练",
+      "refs": [
+        {
+          "page": 121,
+          "rect": [
+            0.05,
+            0.09,
+            0.92,
+            0.31
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 121081,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-implementation-orientations",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程实施的取向",
+      "section": "第五节 · 课程实施 · （一）",
+      "refs": [
+        {
+          "page": 121,
+          "rect": [
+            0.05,
+            0.475,
+            0.92,
+            0.065
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 121427,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-implementation-factors",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "影响课程实施的因素",
+      "section": "第五节 · 课程实施 · （二）",
+      "refs": [
+        {
+          "page": 121,
+          "rect": [
+            0.05,
+            0.56,
+            0.92,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 121504,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-resources",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程资源的开发与利用",
+      "section": "第五节 · 课程实施 · （三）",
+      "refs": [
+        {
+          "page": 121,
+          "rect": [
+            0.05,
+            0.715,
+            0.92,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 121643,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-teacher-curriculum",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "教师与课程",
+      "section": "第五节 · 课程实施 · （四）",
+      "refs": [
+        {
+          "page": 121,
+          "rect": [
+            0.05,
+            0.81,
+            0.92,
+            0.085
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 121729,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-overview",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程评价：含义、功能及分类",
+      "section": "第六节 · 课程评价 · （一）（二）（三）",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.125,
+            0.92,
+            0.175
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-scope",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程评价的范围",
+      "section": "第六节 · 课程评价 · （四）",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.31,
+            0.92,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122279,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-scope-figure",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程评价范围与时间分类关系原图",
+      "section": "第六节 · 课程评价 · （四）· 原书关系图",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.31,
+            0.92,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 122279,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-goal-attainment",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "目标达成模式（泰勒）",
+      "section": "第六节 · 课程评价 · （三）模式 · 原表展开",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.57,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122513,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-goal-free",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "目标游离模式（斯克里文）",
+      "section": "第六节 · 课程评价 · （三）模式 · 原表展开",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.615,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122553,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-responsive",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "应答模式（斯塔克）",
+      "section": "第六节 · 课程评价 · （三）模式 · 原表展开",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.655,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122589,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-cipp",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "CIPP模式（斯塔弗尔比姆）",
+      "section": "第六节 · 课程评价 · （三）模式 · 原表展开",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.7,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122630,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-adversary",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "反对者模式（欧文斯）",
+      "section": "第六节 · 课程评价 · （三）模式 · 原表展开",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.745,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122670,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-cse",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "CSE评价模式",
+      "section": "第六节 · 课程评价 · （三）模式 · 原表展开",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.79,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122711,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-connoisseurship",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "鉴赏评价模式（艾斯纳）",
+      "section": "第六节 · 课程评价 · （三）模式 · 原表展开",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.84,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122756,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-models-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "七种课程评价模式：完整对照表原图",
+      "section": "第六节 · 课程评价 · （三）模式 · 原书对照表",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.05,
+            0.525,
+            0.92,
+            0.37
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 122472,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "目标游离模式：知识速练原图",
+      "section": "第六节 · 课程评价 · 知识速练",
+      "refs": [
+        {
+          "page": 123,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 123076,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "影响课程改革的主要因素",
+      "section": "第七节 · 课程改革 · 考点一",
+      "refs": [
+        {
+          "page": 123,
+          "rect": [
+            0.05,
+            0.295,
+            0.92,
+            0.31
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 123265,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-foreign-reform-trends",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "20世纪60年代以来国外课程改革趋势",
+      "section": "第七节 · 课程改革 · 考点二 · （二）",
+      "refs": [
+        {
+          "page": 123,
+          "rect": [
+            0.05,
+            0.7,
+            0.92,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 123630,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-foreign-reform-omission",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "典型国家课程改革：原书略项说明",
+      "section": "第七节 · 课程改革 · 考点二 · （一）",
+      "refs": [
+        {
+          "page": 123,
+          "rect": [
+            0.05,
+            0.62,
+            0.92,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 123558,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-china-reform-core",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "我国第八次基础教育课程改革：核心理念",
+      "section": "第七节 · 课程改革 · 考点三 · （一）",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.05,
+            0.12,
+            0.92,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124108,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-goals",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程目标：三维目标观",
+      "section": "第七节 · 课程改革 · 考点三 · （二）具体目标",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.05,
+            0.17,
+            0.92,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124153,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程结构：综合课程观",
+      "section": "第七节 · 课程改革 · 考点三 · （二）具体目标",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.05,
+            0.25,
+            0.92,
+            0.055
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124225,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程内容：学生生活观",
+      "section": "第七节 · 课程改革 · 考点三 · （二）具体目标",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.05,
+            0.31,
+            0.92,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124279,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程实施：自主学习观",
+      "section": "第七节 · 课程改革 · 考点三 · （二）具体目标",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.05,
+            0.395,
+            0.92,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124355,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程评价：发展评价观",
+      "section": "第七节 · 课程改革 · 考点三 · （二）具体目标",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.05,
+            0.475,
+            0.92,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124427,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-management",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程管理：校本发展观",
+      "section": "第七节 · 课程改革 · 考点三 · （二）具体目标",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.05,
+            0.555,
+            0.92,
+            0.055
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124499,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-2001-grid",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "2001年义务教育课程方案原表",
+      "section": "第七节 · 课程改革 · 考点三 · 知识小贴士",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.05,
+            0.615,
+            0.92,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 124553,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-goals-extension",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程目标改革：早期与后期延伸",
+      "section": "第七节 · 课程改革 · 考点三 · 具体内容总结表",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.05,
+            0.135,
+            0.92,
+            0.025
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 125121,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-extension",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "综合课程观：早期与后期延伸",
+      "section": "第七节 · 课程改革 · 考点三 · 具体内容总结表",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.05,
+            0.16,
+            0.92,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 125144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-extension",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "内容生活观：早期与后期延伸",
+      "section": "第七节 · 课程改革 · 考点三 · 具体内容总结表",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.05,
+            0.26,
+            0.92,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 125234,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-extension",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "自主学习观：早期与后期延伸",
+      "section": "第七节 · 课程改革 · 考点三 · 具体内容总结表",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.05,
+            0.395,
+            0.92,
+            0.115
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 125355,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation-extension",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "发展评价观：早期与后期延伸",
+      "section": "第七节 · 课程改革 · 考点三 · 具体内容总结表",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.05,
+            0.515,
+            0.92,
+            0.065
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 125463,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-management-extension",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "校本发展观：早期与后期延伸",
+      "section": "第七节 · 课程改革 · 考点三 · 具体内容总结表",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.05,
+            0.58,
+            0.92,
+            0.035
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 125522,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-summary-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "课程改革具体内容：早期与后期完整对照表",
+      "section": "第七节 · 课程改革 · 考点三 · 原书对照表",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.05,
+            0.095,
+            0.92,
+            0.515
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 125085,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-2022-grid",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "2022年义务教育课程方案：科目安排、课时比例及续表",
+      "section": "第七节 · 课程改革 · 考点三 · 知识小贴士",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.05,
+            0.62,
+            0.92,
+            0.315
+          ]
+        },
+        {
+          "page": 126,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.325
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 125558,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch14-core-literacy",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "核心素养：含义与实质",
+      "section": "第七节 · 课程改革 · 凯程深化",
+      "refs": [
+        {
+          "page": 126,
+          "rect": [
+            0.05,
+            0.44,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 126396,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-comprehensive-practice",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "综合实践活动课程",
+      "section": "第七节 · 课程改革 · 凯程深化",
+      "refs": [
+        {
+          "page": 126,
+          "rect": [
+            0.05,
+            0.575,
+            0.92,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 126517,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-literacy-domains",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "核心素养图：全面发展的人",
+      "section": "第七节 · 课程改革 · 凯程深化 · 原图文字",
+      "refs": [
+        {
+          "page": 126,
+          "rect": [
+            0.05,
+            0.72,
+            0.92,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 126648,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch14-literacy-domains-figure",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-13",
+      "title": "全面发展的人：核心素养三大领域六方面原图",
+      "section": "第七节 · 课程改革 · 凯程深化 · 原图",
+      "refs": [
+        {
+          "page": 126,
+          "rect": [
+            0.05,
+            0.715,
+            0.92,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 126643,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch14-definition-0",
+      "knowledgeId": "edu-reviewed-ch14-definition",
+      "title": "教学科目说",
+      "text": "课程即教学科目：学校的各个学科及活动的总称，或指某个课程、某个学科。",
+      "keywords": [
+        "教学科目",
+        "学科活动总称"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 各种学说"
+      ],
+      "displayTitle": "（1）课程即教学科目",
+      "outline": "1. 各种学说"
+    },
+    {
+      "id": "edu-reviewed-ch14-definition-1",
+      "knowledgeId": "edu-reviewed-ch14-definition",
+      "title": "学习经验说",
+      "text": "杜威：课程即学习经验，即在教师指导下，学生获得的经验（体验）。",
+      "keywords": [
+        "杜威",
+        "教师指导",
+        "学生经验"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 各种学说"
+      ],
+      "displayTitle": "（2）课程即学习经验",
+      "outline": "1. 各种学说"
+    },
+    {
+      "id": "edu-reviewed-ch14-definition-2",
+      "knowledgeId": "edu-reviewed-ch14-definition",
+      "title": "文化再生产说",
+      "text": "鲍尔斯：课程即文化再生产，即在一定社会文化中选择的教育材料。",
+      "keywords": [
+        "鲍尔斯",
+        "社会文化",
+        "教育材料"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 各种学说"
+      ],
+      "displayTitle": "（3）课程即文化再生产",
+      "outline": "1. 各种学说"
+    },
+    {
+      "id": "edu-reviewed-ch14-definition-3",
+      "knowledgeId": "edu-reviewed-ch14-definition",
+      "title": "社会改造说",
+      "text": "弗莱雷：课程即社会改造的过程，即培养具有社会改造能力和意识的人。",
+      "keywords": [
+        "弗莱雷",
+        "改造能力意识"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 各种学说"
+      ],
+      "displayTitle": "（4）课程即社会改造的过程",
+      "outline": "1. 各种学说"
+    },
+    {
+      "id": "edu-reviewed-ch14-definition-4",
+      "knowledgeId": "edu-reviewed-ch14-definition",
+      "title": "课程含义",
+      "text": "课程是实现各级各类学校的教育目标而规定的学科及其目的、内容、范围、进程的总和，包括为学生全面发展所营造的全部内容。",
+      "keywords": [
+        "学校目标",
+        "学科目的内容范围进程",
+        "全面发展"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 总结"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "2. 总结"
+    },
+    {
+      "id": "edu-reviewed-ch14-definition-5",
+      "knowledgeId": "edu-reviewed-ch14-definition",
+      "title": "课程产品",
+      "text": "课程计划、课程标准、教材。",
+      "keywords": [
+        "计划标准教材"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 总结"
+      ],
+      "displayTitle": "（2）产品",
+      "outline": "2. 总结"
+    },
+    {
+      "id": "edu-reviewed-ch14-goodlad-0",
+      "knowledgeId": "edu-reviewed-ch14-goodlad",
+      "title": "理想课程",
+      "text": "专家构想的课程。",
+      "keywords": [
+        "专家构想"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 理想的课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-goodlad-1",
+      "knowledgeId": "edu-reviewed-ch14-goodlad",
+      "title": "正式课程",
+      "text": "教育行政部门颁布实施的课程。",
+      "keywords": [
+        "行政颁布实施"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 正式的课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-goodlad-2",
+      "knowledgeId": "edu-reviewed-ch14-goodlad",
+      "title": "领悟课程",
+      "text": "教师理解的课程。",
+      "keywords": [
+        "教师理解"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 领悟的课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-goodlad-3",
+      "knowledgeId": "edu-reviewed-ch14-goodlad",
+      "title": "实行课程",
+      "text": "也叫运作课程，是教师实际开展的课程。",
+      "keywords": [
+        "运作",
+        "教师实际开展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 实行的课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-goodlad-4",
+      "knowledgeId": "edu-reviewed-ch14-goodlad",
+      "title": "经验课程",
+      "text": "学生实际体会到的课程。",
+      "keywords": [
+        "学生实际体会"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "5. 经验的课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-teaching-0",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-teaching",
+      "title": "大教学小课程",
+      "text": "说法一：大教学、小课程。",
+      "keywords": [
+        "大教学小课程"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "说法一"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-teaching-1",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-teaching",
+      "title": "大课程小教学",
+      "text": "说法二：大课程、小教学。",
+      "keywords": [
+        "大课程小教学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "说法二"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-teaching-2",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-teaching",
+      "title": "课程目的",
+      "text": "目的与手段的关系：课程回答“教什么”，课程被比喻为图纸、乐谱、设计方案。",
+      "keywords": [
+        "教什么",
+        "图纸乐谱设计方案"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "说法三：目的与手段的关系"
+      ],
+      "displayTitle": "课程",
+      "outline": "说法三：目的与手段的关系"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-teaching-3",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-teaching",
+      "title": "教学手段",
+      "text": "教学回答“怎么教”，教学被比喻为施工、演奏过程。",
+      "keywords": [
+        "怎么教",
+        "施工演奏"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "说法三：目的与手段的关系"
+      ],
+      "displayTitle": "教学",
+      "outline": "说法三：目的与手段的关系"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-0",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "知识中心人物",
+      "text": "斯宾塞、赫尔巴特、布鲁纳、巴格莱（要素主义）、赫钦斯（永恒主义）。",
+      "keywords": [
+        "斯宾塞赫尔巴特布鲁纳",
+        "巴格莱要素",
+        "赫钦斯永恒"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "代表人物"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-1",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "知识核心",
+      "text": "知识。",
+      "keywords": [
+        "知识"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "核心",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-2",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "知识基础",
+      "text": "学科逻辑。",
+      "keywords": [
+        "学科逻辑"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "基础",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-3",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "知识教学",
+      "text": "分科教学，重视知识体系，教师主导。",
+      "keywords": [
+        "分科知识体系",
+        "教师主导"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "教学",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-4",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "知识开发出发点",
+      "text": "专家的需要。",
+      "keywords": [
+        "专家需要"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "开发人／出发点",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-5",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "知识评价",
+      "text": "终结性评价。",
+      "keywords": [
+        "终结性评价"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "评价",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-6",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "重视知识体系",
+      "text": "重视知识体系（间接经验）。",
+      "keywords": [
+        "知识体系",
+        "间接经验"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "1. 重视知识体系",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-7",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "易编教学习评价",
+      "text": "易编、易教、易学、易评价。",
+      "keywords": [
+        "易编易教易学易评价"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "2. 易编教学习评价",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-8",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "发挥教师作用",
+      "text": "易发挥教师作用。",
+      "keywords": [
+        "教师作用"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "3. 发挥教师作用",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-9",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "学习效率高",
+      "text": "短时间内高效率学习。",
+      "keywords": [
+        "短时高效"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "4. 学习效率高",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-10",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "保证教育质量",
+      "text": "保证教育质量。",
+      "keywords": [
+        "教育质量"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "5. 保证教育质量",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-11",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "忽视学生主体",
+      "text": "忽视学生五点与主体性。",
+      "keywords": [
+        "学生五点",
+        "主体性"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "1. 忽视学生主体",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-12",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "忽视实用性",
+      "text": "忽视知识实用性。",
+      "keywords": [
+        "知识实用性"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "2. 忽视实用性",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-13",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "忽视直接经验",
+      "text": "忽视直接经验与实践。",
+      "keywords": [
+        "直接经验实践"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "3. 忽视直接经验",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-14",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "学习枯燥",
+      "text": "教学与学习容易枯燥。",
+      "keywords": [
+        "教学学习枯燥"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "4. 学习枯燥",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-knowledge-theory-15",
+      "knowledgeId": "edu-reviewed-ch14-knowledge-theory",
+      "title": "知识割裂",
+      "text": "分科过细，加深知识割裂。",
+      "keywords": [
+        "分科过细",
+        "知识割裂"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "5. 知识割裂",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-0",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "学习者人物",
+      "text": "杜威（经验主义）。",
+      "keywords": [
+        "杜威",
+        "经验主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "代表人物"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-1",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "学习者核心",
+      "text": "学生。",
+      "keywords": [
+        "学生"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "核心",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-2",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "学习者基础",
+      "text": "学生五点。",
+      "keywords": [
+        "学生五点"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "基础",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-3",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "学习者教学",
+      "text": "活动、问题、自学、反省思维，弱化教师的作用。",
+      "keywords": [
+        "活动问题自学反省",
+        "弱化教师"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "教学",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-4",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "学习者开发出发点",
+      "text": "学生的需要。",
+      "keywords": [
+        "学生需要"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "开发人／出发点",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-5",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "学习者评价",
+      "text": "过程性评价。",
+      "keywords": [
+        "过程性评价"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "评价",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-6",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "尊重学生主体",
+      "text": "尊重学生五点与主体性。",
+      "keywords": [
+        "学生五点",
+        "主体性"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "1. 尊重学生主体",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-7",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "重视实用性",
+      "text": "重视知识实用性。",
+      "keywords": [
+        "知识实用性"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "2. 重视实用性",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-8",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "重视直接经验",
+      "text": "重视直接经验与实践。",
+      "keywords": [
+        "直接经验实践"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "3. 重视直接经验",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-9",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "学习乐趣创造",
+      "text": "重视学习的乐趣与创造性培养。",
+      "keywords": [
+        "乐趣创造"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "4. 学习乐趣创造",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-10",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "忽视知识体系",
+      "text": "忽视知识体系性。",
+      "keywords": [
+        "知识体系性"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "1. 忽视知识体系",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-11",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "难编教学习评价",
+      "text": "不易编、教、学、评价。",
+      "keywords": [
+        "编教学评价"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "2. 难编教学习评价",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-12",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "弱化教师作用",
+      "text": "放纵学生，弱化教师作用。",
+      "keywords": [
+        "放纵学生",
+        "弱化教师"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "3. 弱化教师作用",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-13",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "效率低下",
+      "text": "耗时耗力，效率低下。",
+      "keywords": [
+        "耗时耗力低效"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "4. 效率低下",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-learner-theory-14",
+      "knowledgeId": "edu-reviewed-ch14-learner-theory",
+      "title": "质量难保",
+      "text": "教育质量难以保证。",
+      "keywords": [
+        "质量难保"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "5. 质量难保",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-0",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "社会中心人物",
+      "text": "弗莱雷、布拉梅尔德（改造主义）。",
+      "keywords": [
+        "弗莱雷",
+        "布拉梅尔德改造"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "代表人物"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-1",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "社会中心核心",
+      "text": "社会问题。",
+      "keywords": [
+        "社会问题"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "核心",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-2",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "社会中心基础",
+      "text": "以解决实际社会问题的逻辑为基础。",
+      "keywords": [
+        "实际社会问题逻辑"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "基础",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-3",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "社会中心教学",
+      "text": "教师教学主要围绕社会问题展开，如讨论、参与社会活动。",
+      "keywords": [
+        "社会问题",
+        "讨论参与"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "教学",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-4",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "社会开发出发点",
+      "text": "社会的需要。",
+      "keywords": [
+        "社会需要"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "开发人／出发点",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-5",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "社会评价",
+      "text": "过程性评价。",
+      "keywords": [
+        "过程性评价"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "评价",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-6",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "社会联系优势",
+      "text": "加强教育与社会联系，满足社会需要。",
+      "keywords": [
+        "教育社会联系",
+        "社会需要"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "1. 联系社会",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-7",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "各科综合优势",
+      "text": "重视各科综合学习，有利于学生掌握问题解决的方法。",
+      "keywords": [
+        "各科综合",
+        "解决问题"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "优势"
+      ],
+      "displayTitle": "2. 综合与问题解决",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-8",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "忽视系统知识",
+      "text": "不重视系统知识的学习。",
+      "keywords": [
+        "系统知识"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "1. 忽视系统知识",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-9",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "忽视学生特点",
+      "text": "不重视学生自身的特点。",
+      "keywords": [
+        "学生自身特点"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "2. 忽视学生特点",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-social-theory-10",
+      "knowledgeId": "edu-reviewed-ch14-social-theory",
+      "title": "夸大社会作用",
+      "text": "片面强调社会需要，夸大教育的社会作用。",
+      "keywords": [
+        "社会需要",
+        "夸大作用"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价",
+        "局限"
+      ],
+      "displayTitle": "3. 片面强调社会需要",
+      "outline": "评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-0",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "选择学科知识",
+      "text": "有条不紊地从各学科中选择知识。",
+      "keywords": [
+        "各学科",
+        "选择知识"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "1. 从各学科选择知识",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-1",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "学科逻辑组织",
+      "text": "按照学科的逻辑组织学习内容。",
+      "keywords": [
+        "学科逻辑"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "2. 按学科逻辑组织",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-2",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "学科课程特点",
+      "text": "结构性、系统性、简约性。",
+      "keywords": [
+        "结构系统简约"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "3. 特点",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-3",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "突出知识体系",
+      "text": "突出知识体系。",
+      "keywords": [
+        "知识体系"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "1. 突出知识体系",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-4",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "易编教学习评价",
+      "text": "易编、易教、易学、易评价。",
+      "keywords": [
+        "易编易教易学易评价"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "2. 易编教学习评价",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-5",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "发挥教师作用",
+      "text": "易发挥教师作用。",
+      "keywords": [
+        "教师作用"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "3. 发挥教师作用",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-6",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "学习效率高",
+      "text": "短时间内高效率学习。",
+      "keywords": [
+        "短时高效"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "4. 学习效率高",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-7",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "保证教育质量",
+      "text": "保证教育质量。",
+      "keywords": [
+        "教育质量"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "5. 保证教育质量",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-8",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "忽视学生主体",
+      "text": "忽视学生五点与主体性。",
+      "keywords": [
+        "学生五点",
+        "主体性"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "1. 忽视学生主体",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-9",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "忽视实用性",
+      "text": "忽视知识实用性。",
+      "keywords": [
+        "知识实用性"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "2. 忽视实用性",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-10",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "忽视直接经验",
+      "text": "忽视直接经验与实践。",
+      "keywords": [
+        "直接经验实践"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "3. 忽视直接经验",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-11",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "枯燥与填鸭",
+      "text": "教学与学习容易枯燥，填鸭式教学。",
+      "keywords": [
+        "枯燥",
+        "填鸭式"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "4. 枯燥与填鸭",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-curriculum-12",
+      "knowledgeId": "edu-reviewed-ch14-subject-curriculum",
+      "title": "知识割裂",
+      "text": "分科过细，加深知识割裂。",
+      "keywords": [
+        "分科过细",
+        "知识割裂"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "5. 知识割裂",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-0",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "活动课程基础",
+      "text": "以学生的兴趣、需要、经验为基础。",
+      "keywords": [
+        "兴趣需要经验"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "1. 基础",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-1",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "活动课程编制",
+      "text": "通过分析学生感兴趣的活动而编制。",
+      "keywords": [
+        "感兴趣的活动"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "2. 编制",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-2",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "活动课程特点",
+      "text": "生活性、实用性、开放性。",
+      "keywords": [
+        "生活实用开放"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "3. 特点",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-3",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "活动课程类型",
+      "text": "类型繁多，如探究学习、实地考察、社会实践与社会服务等；我国新课改也开始活动课程探索，如综合实践活动课程。",
+      "keywords": [
+        "探究实地社会实践服务",
+        "综合实践"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "4. 类型与例子",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-4",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "尊重学生主体",
+      "text": "尊重学生主体性。",
+      "keywords": [
+        "学生主体性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "1. 尊重学生主体",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-5",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "重视实用性",
+      "text": "重视知识实用性。",
+      "keywords": [
+        "知识实用性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "2. 重视实用性",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-6",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "重视直接经验",
+      "text": "重视直接经验与实践。",
+      "keywords": [
+        "直接经验实践"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "3. 重视直接经验",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-7",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "学习乐趣创造",
+      "text": "重视学习的乐趣与创造性培养。",
+      "keywords": [
+        "乐趣创造"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "4. 学习乐趣创造",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-8",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "忽视知识体系",
+      "text": "忽视知识体系性。",
+      "keywords": [
+        "知识体系性"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "1. 忽视知识体系",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-9",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "难编教学习评价",
+      "text": "不易编、教、学、评价。",
+      "keywords": [
+        "编教学评价"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "2. 难编教学习评价",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-10",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "弱化教师作用",
+      "text": "放纵学生，弱化教师作用。",
+      "keywords": [
+        "放纵学生",
+        "弱化教师"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "3. 弱化教师作用",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-11",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "效率低下",
+      "text": "耗时耗力，效率低下。",
+      "keywords": [
+        "耗时耗力低效"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "4. 效率低下",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-activity-curriculum-12",
+      "knowledgeId": "edu-reviewed-ch14-activity-curriculum",
+      "title": "质量难保",
+      "text": "教育质量难以保证。",
+      "keywords": [
+        "质量难保"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "5. 质量难保",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-activity-relation-0",
+      "knowledgeId": "edu-reviewed-ch14-subject-activity-relation",
+      "title": "两种基本类型",
+      "text": "学科课程与活动课程是现代学校教育课程的两种基本类型，各有特点和不足，既相互对立，又相互补充。",
+      "keywords": [
+        "两种基本类型",
+        "对立互补"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "总体关系"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-activity-relation-1",
+      "knowledgeId": "edu-reviewed-ch14-subject-activity-relation",
+      "title": "目的比较",
+      "text": "学科课程侧重知识体系的丰富；活动课程侧重直接经验的积累。",
+      "keywords": [
+        "知识体系",
+        "直接经验"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "课程目的"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-activity-relation-2",
+      "knowledgeId": "edu-reviewed-ch14-subject-activity-relation",
+      "title": "组织比较",
+      "text": "学科课程侧重知识逻辑；活动课程侧重心理逻辑。",
+      "keywords": [
+        "知识逻辑",
+        "心理逻辑"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-activity-relation-3",
+      "knowledgeId": "edu-reviewed-ch14-subject-activity-relation",
+      "title": "教学方式比较",
+      "text": "学科课程侧重教师主导的认识活动；活动课程侧重学生自主的实践活动。",
+      "keywords": [
+        "教师主导认识",
+        "学生自主实践"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "教学方式"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-activity-relation-4",
+      "knowledgeId": "edu-reviewed-ch14-subject-activity-relation",
+      "title": "评价比较",
+      "text": "学科课程侧重终结性评价；活动课程侧重过程性评价。",
+      "keywords": [
+        "终结性",
+        "过程性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "教学评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-subject-activity-relation-5",
+      "knowledgeId": "edu-reviewed-ch14-subject-activity-relation",
+      "title": "兼长补短",
+      "text": "兼顾二者之长，弥补各自之短，相辅相成，更好发挥现代课程应有的整体功能。",
+      "keywords": [
+        "兼长补短",
+        "整体功能"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "结论"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-curriculum-0",
+      "knowledgeId": "edu-reviewed-ch14-separate-curriculum",
+      "title": "分科含义",
+      "text": "同学科课程：从各学科选择知识，按学科逻辑组织学习内容，具有结构性、系统性、简约性。",
+      "keywords": [
+        "学科知识逻辑",
+        "结构系统简约"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-curriculum-1",
+      "knowledgeId": "edu-reviewed-ch14-separate-curriculum",
+      "title": "分科优点",
+      "text": "同知识中心课程理论／学科课程：突出知识体系；易编、易教、易学、易评价；易发挥教师作用；短时间内高效率学习；保证教育质量。",
+      "keywords": [
+        "体系",
+        "编教学评价",
+        "教师",
+        "高效",
+        "质量"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "优点（原书“同”项展开）"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-curriculum-2",
+      "knowledgeId": "edu-reviewed-ch14-separate-curriculum",
+      "title": "分科缺点",
+      "text": "同知识中心课程理论／学科课程：忽视学生五点与主体性、知识实用性、直接经验与实践；教学与学习易枯燥；分科过细加深知识割裂。",
+      "keywords": [
+        "主体实用实践",
+        "枯燥",
+        "割裂"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "缺点（原书“同”项展开）"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-curriculum-3",
+      "knowledgeId": "edu-reviewed-ch14-separate-curriculum",
+      "title": "分科分类",
+      "text": "语文、数学、物理等。",
+      "keywords": [
+        "语文数学物理"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "分类"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-0",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "综合含义",
+      "text": "打破传统学科课程界限，组合相邻领域的学科构成一个新学科，根本目的是克服学科课程分科过细的问题。",
+      "keywords": [
+        "打破界限",
+        "相邻领域",
+        "克服过细"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-1",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "整体把握世界",
+      "text": "整体把握世界。",
+      "keywords": [
+        "整体世界"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "1. 整体把握世界",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-2",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "促进知识迁移",
+      "text": "促进知识迁移。",
+      "keywords": [
+        "知识迁移"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "2. 促进知识迁移",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-3",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "培养各种能力",
+      "text": "培养各种能力。",
+      "keywords": [
+        "各种能力"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "3. 培养各种能力",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-4",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "利于学生就业",
+      "text": "利于学生就业。",
+      "keywords": [
+        "就业"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "4. 利于学生就业",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-5",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "贴近现实生活",
+      "text": "贴近现实生活。",
+      "keywords": [
+        "现实生活"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "5. 贴近现实生活",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-6",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "忽视学科逻辑",
+      "text": "忽视每门学科自身的逻辑结构。",
+      "keywords": [
+        "学科逻辑结构"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "1. 忽视学科逻辑",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-7",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "教材编写困难",
+      "text": "教材编写困难。",
+      "keywords": [
+        "教材编写"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "2. 教材编写困难",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-8",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "师资培养困难",
+      "text": "培养师资困难。",
+      "keywords": [
+        "师资培养"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "3. 师资培养困难",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-9",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "相关课程",
+      "text": "不打破学科各自界限，寻找各学科联结点组成课程。",
+      "keywords": [
+        "不打破界限",
+        "联结点"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "分类"
+      ],
+      "displayTitle": "1. 相关课程",
+      "outline": "分类"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-10",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "融合课程",
+      "text": "打破学科界限，由相关学科组合成新学科，如把动物学、植物学、微生物学、遗传学融合为生物学。",
+      "keywords": [
+        "打破界限",
+        "相关学科",
+        "生物学"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "分类"
+      ],
+      "displayTitle": "2. 融合课程",
+      "outline": "分类"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-11",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "广域课程",
+      "text": "相邻学科归入同一领域，可在同一领域开发更多样的学科课程与活动课程，如高中社会科学领域、自然科学领域。",
+      "keywords": [
+        "同一领域",
+        "更多样课程",
+        "社会自然科学"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "分类"
+      ],
+      "displayTitle": "3. 广域课程",
+      "outline": "分类"
+    },
+    {
+      "id": "edu-reviewed-ch14-integrated-curriculum-12",
+      "knowledgeId": "edu-reviewed-ch14-integrated-curriculum",
+      "title": "核心课程",
+      "text": "也叫问题课程、轮形课程，以问题为核心，把解决该问题的各科知识融合，突出综合应用知识和解决问题的学习过程。",
+      "keywords": [
+        "问题轮形",
+        "问题核心",
+        "综合应用解决"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "分类"
+      ],
+      "displayTitle": "4. 核心课程",
+      "outline": "分类"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-integrated-relation-0",
+      "knowledgeId": "edu-reviewed-ch14-separate-integrated-relation",
+      "title": "分综共同关系",
+      "text": "都重视学习知识，既相互对立，又相互补充。",
+      "keywords": [
+        "学习知识",
+        "对立互补"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "总体关系"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-integrated-relation-1",
+      "knowledgeId": "edu-reviewed-ch14-separate-integrated-relation",
+      "title": "分综目的",
+      "text": "分科课程侧重获得某一学科内的知识；综合课程侧重不同学科知识的综合应用。",
+      "keywords": [
+        "学科内知识",
+        "跨学科应用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "课程目的"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-integrated-relation-2",
+      "knowledgeId": "edu-reviewed-ch14-separate-integrated-relation",
+      "title": "分综组织",
+      "text": "分科课程侧重本学科的知识逻辑；综合课程可在学科内进行跨学科学习，也可另设综合性课程。",
+      "keywords": [
+        "本学科逻辑",
+        "跨学科学习另设综合"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-separate-integrated-relation-3",
+      "knowledgeId": "edu-reviewed-ch14-separate-integrated-relation",
+      "title": "分综结论",
+      "text": "兼顾二者之长，弥补各自之短，相辅相成，更好发挥现代课程应有的整体功能。",
+      "keywords": [
+        "兼长补短",
+        "整体功能"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "结论"
+    },
+    {
+      "id": "edu-reviewed-ch14-required-elective-0",
+      "knowledgeId": "edu-reviewed-ch14-required-elective",
+      "title": "必修课程",
+      "text": "必须学，即必须学习的文化知识。",
+      "keywords": [
+        "必须学",
+        "文化知识"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）必修课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-required-elective-1",
+      "knowledgeId": "edu-reviewed-ch14-required-elective",
+      "title": "选修学生主体",
+      "text": "通过选择性充分体现学生主体性，包括兴趣与需要、特长、个性、自由等。",
+      "keywords": [
+        "选择性",
+        "主体兴趣需要特长个性自由"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）选修课程"
+      ],
+      "displayTitle": "学生主体性",
+      "outline": "（二）选修课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-required-elective-2",
+      "knowledgeId": "edu-reviewed-ch14-required-elective",
+      "title": "选修地方学校",
+      "text": "通过选择性体现地方特色或学校特色。",
+      "keywords": [
+        "地方特色",
+        "学校特色"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）选修课程"
+      ],
+      "displayTitle": "地方或学校特色",
+      "outline": "（二）选修课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-required-elective-3",
+      "knowledgeId": "edu-reviewed-ch14-required-elective",
+      "title": "必修选修结合",
+      "text": "既需要必修课程，也需要选修课程；加强课程的选择性，满足学生个性需求。",
+      "keywords": [
+        "必修选修",
+        "选择性",
+        "个性需求"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "二者关系"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-0",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "显性课程",
+      "text": "官方要求正式实施的课程。",
+      "keywords": [
+        "官方正式"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）显性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-1",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "隐性含义",
+      "text": "官方未正式实施，但伴随显性课程实施而实际存在的课程。",
+      "keywords": [
+        "非正式",
+        "伴随显性",
+        "实际存在"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）隐性课程"
+      ],
+      "displayTitle": "1. 含义",
+      "outline": "（二）隐性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-2",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "观念隐性",
+      "text": "观念性隐性课程，如校风、校训。",
+      "keywords": [
+        "校风校训"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）隐性课程",
+        "2. 分类"
+      ],
+      "displayTitle": "（1）观念性",
+      "outline": "（二）隐性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-3",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "物质隐性",
+      "text": "物质性隐性课程，如校园环境。",
+      "keywords": [
+        "校园环境"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）隐性课程",
+        "2. 分类"
+      ],
+      "displayTitle": "（2）物质性",
+      "outline": "（二）隐性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-4",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "制度隐性",
+      "text": "制度性隐性课程，如学生守则、班级管理方式。",
+      "keywords": [
+        "学生守则",
+        "班级管理"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）隐性课程",
+        "2. 分类"
+      ],
+      "displayTitle": "（3）制度性",
+      "outline": "（二）隐性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-5",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "心理隐性",
+      "text": "心理性隐性课程，如师生关系。",
+      "keywords": [
+        "师生关系"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）隐性课程",
+        "2. 分类"
+      ],
+      "displayTitle": "（4）心理性",
+      "outline": "（二）隐性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-6",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "隐性无意识",
+      "text": "内隐性、无意识性。",
+      "keywords": [
+        "内隐无意识"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）隐性课程",
+        "3. 特点"
+      ],
+      "displayTitle": "（1）内隐、无意识",
+      "outline": "（二）隐性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-7",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "伴随显性",
+      "text": "伴随显性课程出现。",
+      "keywords": [
+        "伴随显性"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）隐性课程",
+        "3. 特点"
+      ],
+      "displayTitle": "（2）伴随性",
+      "outline": "（二）隐性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-8",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "隐性转化影响",
+      "text": "可转化为显性课程；既有积极影响，也有消极影响。",
+      "keywords": [
+        "转显",
+        "积极消极"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）隐性课程",
+        "3. 特点"
+      ],
+      "displayTitle": "（3）转化及双重影响",
+      "outline": "（二）隐性课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-explicit-hidden-9",
+      "knowledgeId": "edu-reviewed-ch14-explicit-hidden",
+      "title": "显隐关系",
+      "text": "显性课程与隐性课程相互影响、相互补充、相互转化。",
+      "keywords": [
+        "影响补充转化"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "二者关系"
+    },
+    {
+      "id": "edu-reviewed-ch14-basic-extended-research-0",
+      "knowledgeId": "edu-reviewed-ch14-basic-extended-research",
+      "title": "基础型课程",
+      "text": "注重培养学生基础学力的课程形态，是中小学课程的主要组成部分。",
+      "keywords": [
+        "基础学力",
+        "中小学主要"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）基础型课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-basic-extended-research-1",
+      "knowledgeId": "edu-reviewed-ch14-basic-extended-research",
+      "title": "拓展型课程",
+      "text": "注重拓展学生知识、能力的课程形态。",
+      "keywords": [
+        "知识能力拓展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）拓展型课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-basic-extended-research-2",
+      "knowledgeId": "edu-reviewed-ch14-basic-extended-research",
+      "title": "研究型课程",
+      "text": "注重培养学生探究态度和能力的课程形态。",
+      "keywords": [
+        "探究态度能力"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）研究型课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-basic-extended-research-3",
+      "knowledgeId": "edu-reviewed-ch14-basic-extended-research",
+      "title": "三型课程关系",
+      "text": "相互结合，共存互助。",
+      "keywords": [
+        "结合",
+        "共存互助"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "三者关系"
+    },
+    {
+      "id": "edu-reviewed-ch14-national-local-0",
+      "knowledgeId": "edu-reviewed-ch14-national-local",
+      "title": "国家课程",
+      "text": "全国实施的课程，具有权威性、强制性。",
+      "keywords": [
+        "全国",
+        "权威强制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）国家课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-national-local-1",
+      "knowledgeId": "edu-reviewed-ch14-national-local",
+      "title": "地方课程",
+      "text": "地方实施的课程，由地方政府组织编写，体现地方特色。",
+      "keywords": [
+        "地方政府编写",
+        "地方特色"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）地方课程"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-0",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本课程含义",
+      "text": "以学校为课程编制主体，自主研发与实施的一种课程。",
+      "keywords": [
+        "学校主体",
+        "自主研发实施"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-1",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本开发流程",
+      "text": "成立团队→环境分析→制定目标→方案拟订→组织与实施→评价与修订。",
+      "keywords": [
+        "团队环境目标方案实施评修"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 开发流程"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-2",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本国家意义",
+      "text": "体现国家政策的灵活性，可以因地制宜。",
+      "keywords": [
+        "灵活",
+        "因地制宜"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 意义"
+      ],
+      "displayTitle": "（1）国家",
+      "outline": "3. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-3",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本学校意义",
+      "text": "提高学校的办学水平。",
+      "keywords": [
+        "办学水平"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 意义"
+      ],
+      "displayTitle": "（2）学校",
+      "outline": "3. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-4",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本教师意义",
+      "text": "促进教师专业化发展。",
+      "keywords": [
+        "教师专业化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 意义"
+      ],
+      "displayTitle": "（3）教师",
+      "outline": "3. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-5",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本学生意义",
+      "text": "满足和适应学生的需要。",
+      "keywords": [
+        "学生需要"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 意义"
+      ],
+      "displayTitle": "（4）学生",
+      "outline": "3. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-6",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本要求高",
+      "text": "对教师的专业精神、专业知识、专业技能要求很高。",
+      "keywords": [
+        "专业精神知识技能"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 问题"
+      ],
+      "displayTitle": "（1）要求高",
+      "outline": "4. 问题"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-7",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本差距大",
+      "text": "开发校本课程可能加剧学校之间教育质量的不平衡。",
+      "keywords": [
+        "校际质量不平衡"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 问题"
+      ],
+      "displayTitle": "（2）差距大",
+      "outline": "4. 问题"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-8",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本花费多",
+      "text": "需要大量资金和人力物力保障。",
+      "keywords": [
+        "资金人力物力"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 问题"
+      ],
+      "displayTitle": "（3）花费多",
+      "outline": "4. 问题"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-9",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本难评价",
+      "text": "难以对这种多样化课程的质量进行评价和控制。",
+      "keywords": [
+        "多样化",
+        "质量评价控制"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 问题"
+      ],
+      "displayTitle": "（4）难评价",
+      "outline": "4. 问题"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-10",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本外部原因",
+      "text": "考试制度、应试教育、政府集权导致教师缺乏灵活性。",
+      "keywords": [
+        "考试应试集权",
+        "灵活性"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "5. 原因"
+      ],
+      "displayTitle": "（1）外部因素",
+      "outline": "5. 原因"
+    },
+    {
+      "id": "edu-reviewed-ch14-school-based-11",
+      "knowledgeId": "edu-reviewed-ch14-school-based",
+      "title": "校本内部原因",
+      "text": "教师能力不足；教师动力不足。",
+      "keywords": [
+        "能力动力不足"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "5. 原因"
+      ],
+      "displayTitle": "（2）内部因素",
+      "outline": "5. 原因"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-0",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "泰勒确定目标",
+      "text": "确定教育目标：学校应该试图达到哪些教育目标？",
+      "keywords": [
+        "确定目标",
+        "达到哪些"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点：四步走"
+      ],
+      "displayTitle": "1. 确定教育目标",
+      "outline": "观点：四步走"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-1",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "泰勒选择经验",
+      "text": "选择教育经验：提供什么样的教育经验可以达到这些目标？",
+      "keywords": [
+        "选择经验",
+        "达到目标"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点：四步走"
+      ],
+      "displayTitle": "2. 选择教育经验",
+      "outline": "观点：四步走"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-2",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "泰勒组织经验",
+      "text": "组织教育经验：怎样有效组织这些经验？",
+      "keywords": [
+        "有效组织经验"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点：四步走"
+      ],
+      "displayTitle": "3. 组织教育经验",
+      "outline": "观点：四步走"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-3",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "泰勒评价计划",
+      "text": "评价教育计划：如何确定这些目标正在得以实现？",
+      "keywords": [
+        "评价计划",
+        "目标实现"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点：四步走"
+      ],
+      "displayTitle": "4. 评价教育计划",
+      "outline": "观点：四步走"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-4",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "经典性",
+      "text": "具有经典性。",
+      "keywords": [
+        "经典"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "1. 经典性",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-5",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "可行性强",
+      "text": "可行性强，适用范围广。",
+      "keywords": [
+        "可行广泛"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "2. 可行性强",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-6",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "重视目标",
+      "text": "强调目标的作用。",
+      "keywords": [
+        "目标"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "3. 重视目标",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-7",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "重视评价",
+      "text": "强调评价的作用。",
+      "keywords": [
+        "评价"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "4. 重视评价",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-8",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "连续与系统",
+      "text": "强调知识的连续性和系统性。",
+      "keywords": [
+        "连续系统"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "5. 连续与系统",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-9",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "教师主导",
+      "text": "突出教师教学的主导性。",
+      "keywords": [
+        "教师主导"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "6. 教师主导",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-10",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "目标模式缺点",
+      "text": "简单化、机械化。",
+      "keywords": [
+        "简单机械"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-tyler-development-11",
+      "knowledgeId": "edu-reviewed-ch14-tyler-development",
+      "title": "目标模式补充",
+      "text": "比较表补充：核心是课程与教学目标；从原理、目标出发；开发人为专家；评价为终结性评价；操作性强，但有机械、被动的局限。",
+      "keywords": [
+        "核心目标",
+        "原理目标",
+        "专家",
+        "终结",
+        "机械被动"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "深化比较表补充"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-0",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "过程模式核心",
+      "text": "批判泰勒的目标模式，主张在过程中开发课程。",
+      "keywords": [
+        "批判泰勒",
+        "过程中开发"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "1. 核心",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-1",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "过程模式依据",
+      "text": "知识与活动的内在价值。",
+      "keywords": [
+        "知识活动内在价值"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "2. 依据",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-2",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "过程模式标准",
+      "text": "发挥学生的主动性。",
+      "keywords": [
+        "学生主动性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "3. 标准",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-3",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "过程模式评价",
+      "text": "强调形成性评价。",
+      "keywords": [
+        "形成性评价"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "4. 评价",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-4",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "追求内在价值",
+      "text": "追求课程内容的内在价值。",
+      "keywords": [
+        "内在价值"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "1. 追求内在价值",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-5",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "学生主动参与",
+      "text": "强调学生的主动参与。",
+      "keywords": [
+        "主动参与"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "2. 学生主动参与",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-6",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "教育作为过程",
+      "text": "强调教育是一种过程而非结果。",
+      "keywords": [
+        "过程而非结果"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "3. 教育作为过程",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-7",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "改变教师角色",
+      "text": "改变传统教师角色，如教师是主导者、提供者、咨询者等。",
+      "keywords": [
+        "主导提供咨询"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "4. 改变教师角色",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-8",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "方案不明确",
+      "text": "可行性差，没有明确的方案。",
+      "keywords": [
+        "可行性差",
+        "无明确方案"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "1. 方案不明确",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-9",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "否定目标价值",
+      "text": "否定教育目标的价值。",
+      "keywords": [
+        "教育目标价值"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "2. 否定目标价值",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-10",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "教师要求高",
+      "text": "对教师要求高，实践起来困难重重。",
+      "keywords": [
+        "教师要求高",
+        "实践难"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "3. 教师要求高",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-stenhouse-development-11",
+      "knowledgeId": "edu-reviewed-ch14-stenhouse-development",
+      "title": "过程模式补充",
+      "text": "比较表补充：核心为教学过程；出发点为内在价值；开发人为教师；过程是十二条标准（学生主动性）；评价为过程性评价。原书未展开十二条标准。",
+      "keywords": [
+        "教学过程",
+        "内在价值",
+        "教师",
+        "十二条标准",
+        "过程性"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "深化比较表补充"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-0",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "实践模式追求",
+      "text": "追求课程的实践性，批判泰勒的目标模式。",
+      "keywords": [
+        "实践性",
+        "批判泰勒"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "1. 追求实践性",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-1",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "实践模式开发者",
+      "text": "教师和学生。",
+      "keywords": [
+        "教师学生"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "2. 课程开发者",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-2",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "实践模式过程",
+      "text": "集体审议（六步骤）。原书未逐条展开六步骤。",
+      "keywords": [
+        "集体审议",
+        "六步骤"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "3. 课程开发过程",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-3",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "实践模式方法论",
+      "text": "行动研究。",
+      "keywords": [
+        "行动研究"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "4. 方法论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-4",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "一线教师开发",
+      "text": "重视一线教师开发课程的作用。",
+      "keywords": [
+        "一线教师"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "1. 一线教师开发",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-5",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "师生主体地位",
+      "text": "重视教师和学生的主体地位。",
+      "keywords": [
+        "师生主体"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "2. 师生主体地位",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-6",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "转向实践研究",
+      "text": "从重视理论研究转向重视实践研究。",
+      "keywords": [
+        "理论转实践"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "3. 转向实践研究",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-7",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "可行性差",
+      "text": "可行性差。",
+      "keywords": [
+        "可行性差"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "1. 可行性差",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-8",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "忽视理论",
+      "text": "忽视理论的价值。",
+      "keywords": [
+        "理论价值"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "缺点"
+      ],
+      "displayTitle": "2. 忽视理论",
+      "outline": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-schwab-development-9",
+      "knowledgeId": "edu-reviewed-ch14-schwab-development",
+      "title": "实践模式补充",
+      "text": "比较表补充：核心为教学实践；从实际问题出发，不从原理出发；评价为过程性评价。",
+      "keywords": [
+        "教学实践",
+        "实际问题",
+        "非原理",
+        "过程性"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "深化比较表补充"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-plan-0",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-plan",
+      "title": "课程计划含义",
+      "text": "也称课程方案，是课程设置的整体规划，即由国家教育主管部门制定的有关课程设置与课程管理等方面的指导性文件。",
+      "keywords": [
+        "整体规划",
+        "国家主管部门",
+        "设置管理"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-plan-1",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-plan",
+      "title": "课程计划内容",
+      "text": "学校培养目标、学科设置（课程计划的核心问题）、学科顺序、课时分配、学年编制和周学时安排等。",
+      "keywords": [
+        "培养目标",
+        "学科设置核心",
+        "顺序课时学年周"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-plan-2",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-plan",
+      "title": "课程计划意义",
+      "text": "国家实施课程的指导性文件，体现国家对学校的统一要求，是组织学校活动的基本纲领和重要依据。",
+      "keywords": [
+        "统一要求",
+        "基本纲领依据"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-standard-0",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-standard",
+      "title": "课程标准含义",
+      "text": "在一定课程理论指导下，依据培养目标和课程方案，每门学科以纲要形式编制的有关课程开发与实施等方面的指导性文件；编写课程标准是课程开发的重要步骤。",
+      "keywords": [
+        "课程理论",
+        "培养目标方案",
+        "学科纲要",
+        "开发实施"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-standard-1",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-standard",
+      "title": "课程定位",
+      "text": "包括课程性质、课程基本理念、课程设计思路。",
+      "keywords": [
+        "性质理念设计"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）课程定位",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-standard-2",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-standard",
+      "title": "课程目标内容",
+      "text": "包括核心素养内涵、总目标、学段目标。",
+      "keywords": [
+        "核心素养",
+        "总目标学段"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）课程目标",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-standard-3",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-standard",
+      "title": "内容标准",
+      "text": "课程内容标准。",
+      "keywords": [
+        "内容标准"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）课程内容标准",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-standard-4",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-standard",
+      "title": "学业质量",
+      "text": "学业质量。",
+      "keywords": [
+        "学业质量"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（4）学业质量",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-standard-5",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-standard",
+      "title": "实施建议",
+      "text": "包括教学建议、教材编写建议、评价建议等。",
+      "keywords": [
+        "教学教材评价"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（5）实施建议",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-standard-6",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-standard",
+      "title": "课程标准意义",
+      "text": "整体上规定某门课程的性质及其在课程体系中的地位，是教材编写、教学、评估的依据，是国家管理和评价课程的基础；正确设计对教材编制、课程实施与评价具有决定性作用。",
+      "keywords": [
+        "性质地位",
+        "教材教学评估依据",
+        "管理评价基础"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-textbook-0",
+      "knowledgeId": "edu-reviewed-ch14-textbook",
+      "title": "教材含义",
+      "text": "又称教科书或课本，依据课程标准和学生接受能力编写，系统反映学科内容。为一定年级学生掌握某门学科基本知识而编写，通常按学年或学期分册，划分单元或章节。",
+      "keywords": [
+        "标准接受能力",
+        "系统学科",
+        "年级学年学期单元"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-textbook-1",
+      "knowledgeId": "edu-reviewed-ch14-textbook",
+      "title": "教材内容",
+      "text": "目录、课文、习题、实验、图表、注释、附录等，课文是主要部分。",
+      "keywords": [
+        "目录课文习题实验图表注释附录",
+        "课文主要"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-textbook-2",
+      "knowledgeId": "edu-reviewed-ch14-textbook",
+      "title": "教材意义",
+      "text": "学生在学校获得系统基础知识、循序渐进学习的主要资源和工具，也是教师教学的主要依据。",
+      "keywords": [
+        "系统基础知识",
+        "循序渐进",
+        "资源工具",
+        "教学依据"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-course-goals-0",
+      "knowledgeId": "edu-reviewed-ch14-course-goals",
+      "title": "课程目标含义",
+      "text": "课程本身要实现的具体目标和意图，是学生针对各科课程学习一段时间后要求达到的标准。",
+      "keywords": [
+        "课程本身",
+        "具体目标意图",
+        "学习后标准"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-course-goals-1",
+      "knowledgeId": "edu-reviewed-ch14-course-goals",
+      "title": "课程社会依据",
+      "text": "社会的需要。",
+      "keywords": [
+        "社会需要"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 来源／依据"
+      ],
+      "displayTitle": "（1）社会的需要",
+      "outline": "2. 来源／依据"
+    },
+    {
+      "id": "edu-reviewed-ch14-course-goals-2",
+      "knowledgeId": "edu-reviewed-ch14-course-goals",
+      "title": "课程人的依据",
+      "text": "人的需要。",
+      "keywords": [
+        "人的需要"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 来源／依据"
+      ],
+      "displayTitle": "（2）人的需要",
+      "outline": "2. 来源／依据"
+    },
+    {
+      "id": "edu-reviewed-ch14-course-goals-3",
+      "knowledgeId": "edu-reviewed-ch14-course-goals",
+      "title": "课程教育内部依据",
+      "text": "专家的建议；学科的逻辑性；教育目的、培养目标。",
+      "keywords": [
+        "专家建议",
+        "学科逻辑",
+        "目的培养"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 来源／依据"
+      ],
+      "displayTitle": "（3）教育内部的需要",
+      "outline": "2. 来源／依据"
+    },
+    {
+      "id": "edu-reviewed-ch14-course-goals-4",
+      "knowledgeId": "edu-reviewed-ch14-course-goals",
+      "title": "四层目标关系",
+      "text": "教育目的→培养目标→课程目标→教学目标；是一般与特殊、依据与具体化的关系。",
+      "keywords": [
+        "目的培养课程教学",
+        "一般特殊依据具体化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 关系"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-0",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "新版认知过程",
+      "text": "认知领域：记忆→理解→应用→分析→评价→创造。（新版，2001年）",
+      "keywords": [
+        "记忆理解应用分析评价创造"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）内容",
+        "①从认知过程分"
+      ],
+      "displayTitle": "a. 认知领域（新版）",
+      "outline": "（1）内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-1",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "旧版认知过程",
+      "text": "知识→领会→运用→分析→综合→评价。（旧版，20世纪50年代）",
+      "keywords": [
+        "知识领会运用分析综合评价"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）内容",
+        "①从认知过程分"
+      ],
+      "displayTitle": "a. 认知领域（旧版对照）",
+      "outline": "（1）内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-2",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "技能目标",
+      "text": "技能领域：知觉→定势→模仿→操作→准确→连贯→习惯化。（辛普森）",
+      "keywords": [
+        "知觉定势模仿操作准确连贯习惯化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）内容",
+        "①从认知过程分"
+      ],
+      "displayTitle": "b. 技能领域",
+      "outline": "（1）内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-3",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "情感目标",
+      "text": "情感领域：接受→反应→价值化→组织→价值体系个性化。（20世纪60年代）",
+      "keywords": [
+        "接受反应价值化组织个性化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）内容",
+        "①从认知过程分"
+      ],
+      "displayTitle": "c. 情感领域",
+      "outline": "（1）内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-4",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "知识维度",
+      "text": "事实性知识、概念性知识、程序性知识、元认知知识。",
+      "keywords": [
+        "事实概念程序元认知"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）内容"
+      ],
+      "displayTitle": "②从知识维度分",
+      "outline": "（1）内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-5",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "分类学特点",
+      "text": "可测量化、结构层次化。",
+      "keywords": [
+        "可测量",
+        "结构层次"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）特点"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-6",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "值得学习什么",
+      "text": "学习问题：在有限的学校和课堂教学时间内，什么值得学生学习？",
+      "keywords": [
+        "有限时间",
+        "值得学习"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）关注问题"
+      ],
+      "displayTitle": "①学习问题",
+      "outline": "（3）关注问题"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-7",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "如何促进高层学习",
+      "text": "教学问题：如何设计和进行教学才能使大部分学生在高层次上学习？",
+      "keywords": [
+        "设计教学",
+        "大部分",
+        "高层次"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）关注问题"
+      ],
+      "displayTitle": "②教学问题",
+      "outline": "（3）关注问题"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-8",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "测评如何准确",
+      "text": "测评问题：如何选择或设计测评工具和程序，才能提供学生学习情况的准确信息？",
+      "keywords": [
+        "工具程序",
+        "准确信息"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）关注问题"
+      ],
+      "displayTitle": "③测评问题",
+      "outline": "（3）关注问题"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-9",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "如何保持一致",
+      "text": "一致性问题：如何确保目标、教学和测评彼此一致？",
+      "keywords": [
+        "目标教学测评一致"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）关注问题"
+      ],
+      "displayTitle": "④一致性问题",
+      "outline": "（3）关注问题"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-10",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "分类学经典性",
+      "text": "确定了教育目标的设计思路，重视目标作用。",
+      "keywords": [
+        "目标设计思路",
+        "目标作用"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）评价",
+        "①优点"
+      ],
+      "displayTitle": "a. 经典性",
+      "outline": "（4）评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-11",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "分类学可行性",
+      "text": "突出知识的连续性和系统性、教师的主导性，任何学科均可使用。",
+      "keywords": [
+        "连续系统",
+        "教师主导",
+        "任何学科"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）评价",
+        "①优点"
+      ],
+      "displayTitle": "b. 可行性",
+      "outline": "（4）评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-12",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "分类学简单机械",
+      "text": "简单化、机械化，不易发挥教师的灵活性。",
+      "keywords": [
+        "简单机械",
+        "教师灵活性"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）评价",
+        "②缺点"
+      ],
+      "displayTitle": "a. 简单化、机械化",
+      "outline": "（4）评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-bloom-taxonomy-13",
+      "knowledgeId": "edu-reviewed-ch14-bloom-taxonomy",
+      "title": "分类学破坏整体",
+      "text": "破坏目标的整体性。",
+      "keywords": [
+        "目标整体性"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）评价",
+        "②缺点"
+      ],
+      "displayTitle": "b. 破坏整体性",
+      "outline": "（4）评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-china-goal-evolution-0",
+      "knowledgeId": "edu-reviewed-ch14-china-goal-evolution",
+      "title": "双基目标",
+      "text": "基础知识、基本技能。",
+      "keywords": [
+        "基础知识基本技能"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）演变：双基→三维目标→核心素养"
+      ],
+      "displayTitle": "①“双基”",
+      "outline": "（1）演变：双基→三维目标→核心素养"
+    },
+    {
+      "id": "edu-reviewed-ch14-china-goal-evolution-1",
+      "knowledgeId": "edu-reviewed-ch14-china-goal-evolution",
+      "title": "三维目标",
+      "text": "知识与技能、过程与方法、情感态度与价值观。",
+      "keywords": [
+        "知识技能",
+        "过程方法",
+        "情感态度价值观"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）演变：双基→三维目标→核心素养"
+      ],
+      "displayTitle": "②“三维目标”",
+      "outline": "（1）演变：双基→三维目标→核心素养"
+    },
+    {
+      "id": "edu-reviewed-ch14-china-goal-evolution-2",
+      "knowledgeId": "edu-reviewed-ch14-china-goal-evolution",
+      "title": "核心素养目标",
+      "text": "学生应具备的适应终身发展和社会发展需要的正确价值观、必备品格和关键能力。",
+      "keywords": [
+        "终身社会发展",
+        "正确价值观品格能力"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）演变：双基→三维目标→核心素养"
+      ],
+      "displayTitle": "③“核心素养”",
+      "outline": "（1）演变：双基→三维目标→核心素养"
+    },
+    {
+      "id": "edu-reviewed-ch14-china-goal-evolution-3",
+      "knowledgeId": "edu-reviewed-ch14-china-goal-evolution",
+      "title": "目标演变规律",
+      "text": "整体性、阶段性、持续性、层次性、递进性。",
+      "keywords": [
+        "整体阶段持续层次递进"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）规律性"
+    },
+    {
+      "id": "edu-reviewed-ch14-select-content-0",
+      "knowledgeId": "edu-reviewed-ch14-select-content",
+      "title": "课程范围",
+      "text": "包含课程所有内容：课程计划、课程标准、教材。",
+      "keywords": [
+        "计划标准教材"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 课程范围"
+    },
+    {
+      "id": "edu-reviewed-ch14-select-content-1",
+      "knowledgeId": "edu-reviewed-ch14-select-content",
+      "title": "课程内容",
+      "text": "直接经验和间接经验。",
+      "keywords": [
+        "直接间接经验"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 课程内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-0",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "课程结构",
+      "text": "宏观结构（体系结构）、中观结构（科目间的结构）和微观结构（科目内的结构）。",
+      "keywords": [
+        "宏观体系",
+        "中观科目间",
+        "微观科目内"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 课程结构"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-1",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "逻辑顺序",
+      "text": "根据学科本身的体系和知识内在联系组织课程内容，指向学科课程。",
+      "keywords": [
+        "学科体系",
+        "内在联系",
+        "学科课程"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第1对"
+      ],
+      "displayTitle": "（1）逻辑顺序",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-2",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "心理顺序",
+      "text": "按照学生心理发展的特点组织课程内容，指向活动课程。",
+      "keywords": [
+        "心理发展",
+        "活动课程"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第1对"
+      ],
+      "displayTitle": "（2）心理顺序",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-3",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "直线式含义",
+      "text": "把课程内容组织成一条在学科知识逻辑上前后联系的“直线”，知识不重复，课程内容从易到难罗列。",
+      "keywords": [
+        "前后联系",
+        "不重复",
+        "易到难"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第2对",
+        "（1）直线式"
+      ],
+      "displayTitle": "①含义",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-4",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "直线式依据",
+      "text": "科学知识本身的内在逻辑直线前进，这种组织方式效率很高。",
+      "keywords": [
+        "知识内在逻辑直线",
+        "高效率"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第2对",
+        "（1）直线式"
+      ],
+      "displayTitle": "②依据",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-5",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "直线式适用",
+      "text": "适用于数学等工具性、应用性学科。",
+      "keywords": [
+        "数学",
+        "工具应用"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第2对",
+        "（1）直线式"
+      ],
+      "displayTitle": "③适用",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-6",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "螺旋式含义",
+      "text": "内容在不同单元或阶段乃至不同课程门类中重复出现，逐渐扩大知识面、加深知识难度，层层递进、螺旋上升。",
+      "keywords": [
+        "重复出现",
+        "扩大知识面加深难度",
+        "螺旋"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第2对",
+        "（2）螺旋式"
+      ],
+      "displayTitle": "①含义",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-7",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "螺旋式依据",
+      "text": "人的心理发展过程由易到难、由低到高，螺旋上升、稳步前进。",
+      "keywords": [
+        "心理发展",
+        "易难低高"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第2对",
+        "（2）螺旋式"
+      ],
+      "displayTitle": "②依据",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-8",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "螺旋式适用",
+      "text": "适用于语文、历史、政治等理论性强的内容，也适用于低年级学生。",
+      "keywords": [
+        "语文历史政治",
+        "理论性强",
+        "低年级"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第2对",
+        "（2）螺旋式"
+      ],
+      "displayTitle": "③适用",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-9",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "纵向组织含义",
+      "text": "教材内容按照学科知识的逻辑序列，从已知到未知、从简到繁、从具体到抽象等先后顺序组织编排。",
+      "keywords": [
+        "学科逻辑",
+        "已知未知简繁具体抽象"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第3对",
+        "（1）纵向组织"
+      ],
+      "displayTitle": "①含义",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-10",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "纵向组织强调",
+      "text": "强调学科理论和学术性、课程内容的独立性和知识深度。",
+      "keywords": [
+        "理论学术",
+        "独立深度"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第3对",
+        "（1）纵向组织"
+      ],
+      "displayTitle": "②强调",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-11",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "横向组织含义",
+      "text": "打破学科知识界限和传统知识体系，以学生发展阶段需要探索的、社会最为关心的问题为依据，组织成相对独立的专题，具体表现为分科内容的整合。",
+      "keywords": [
+        "打破界限",
+        "学生社会问题",
+        "专题整合"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第3对",
+        "（2）横向组织"
+      ],
+      "displayTitle": "①含义",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-organize-content-12",
+      "knowledgeId": "edu-reviewed-ch14-organize-content",
+      "title": "横向组织强调",
+      "text": "强调课程内容在实际生活中的实用性和综合性，也强调知识广度。",
+      "keywords": [
+        "实用综合",
+        "广度"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 课程组织",
+        "第3对",
+        "（2）横向组织"
+      ],
+      "displayTitle": "②强调",
+      "outline": "2. 课程组织"
+    },
+    {
+      "id": "edu-reviewed-ch14-implementation-orientations-0",
+      "knowledgeId": "edu-reviewed-ch14-implementation-orientations",
+      "title": "忠实取向",
+      "text": "教师忠实地执行教材。",
+      "keywords": [
+        "忠实执行教材"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 忠实取向"
+    },
+    {
+      "id": "edu-reviewed-ch14-implementation-orientations-1",
+      "knowledgeId": "edu-reviewed-ch14-implementation-orientations",
+      "title": "相互适应取向",
+      "text": "教师将教材与其他教育资源相互调整和结合。",
+      "keywords": [
+        "教材其他资源",
+        "调整结合"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 相互适应取向"
+    },
+    {
+      "id": "edu-reviewed-ch14-implementation-orientations-2",
+      "knowledgeId": "edu-reviewed-ch14-implementation-orientations",
+      "title": "创生取向",
+      "text": "教师创新。",
+      "keywords": [
+        "教师创新"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 创生取向"
+    },
+    {
+      "id": "edu-reviewed-ch14-implementation-factors-0",
+      "knowledgeId": "edu-reviewed-ch14-implementation-factors",
+      "title": "课程自身因素",
+      "text": "课程方案的合理性；课程实施的理论依据。",
+      "keywords": [
+        "方案合理",
+        "理论依据"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 课程本身"
+    },
+    {
+      "id": "edu-reviewed-ch14-implementation-factors-1",
+      "knowledgeId": "edu-reviewed-ch14-implementation-factors",
+      "title": "实施人员因素",
+      "text": "课程实施中的交流与合作；课程实施的管理和领导；教师实施课程的能力和素质。",
+      "keywords": [
+        "交流合作",
+        "管理领导",
+        "教师能力素质"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 相关人员"
+    },
+    {
+      "id": "edu-reviewed-ch14-implementation-factors-2",
+      "knowledgeId": "edu-reviewed-ch14-implementation-factors",
+      "title": "实施环境制度",
+      "text": "评价（考试）体系改革的滞后；各种外部因素的支持，特别是文化背景因素。",
+      "keywords": [
+        "考试评价滞后",
+        "外部支持文化背景"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 环境与制度"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-resources-0",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-resources",
+      "title": "学生立场",
+      "text": "基于学生立场进行课程资源开发。",
+      "keywords": [
+        "学生立场"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 学生立场"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-resources-1",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-resources",
+      "title": "师资条件",
+      "text": "基于师资条件进行课程资源开发。",
+      "keywords": [
+        "师资条件"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 师资条件"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-resources-2",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-resources",
+      "title": "学校实际",
+      "text": "基于学校实际进行课程资源开发。",
+      "keywords": [
+        "学校实际"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 学校实际"
+    },
+    {
+      "id": "edu-reviewed-ch14-curriculum-resources-3",
+      "knowledgeId": "edu-reviewed-ch14-curriculum-resources",
+      "title": "社会需要",
+      "text": "基于社会需要进行课程资源开发。",
+      "keywords": [
+        "社会需要"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 社会需要"
+    },
+    {
+      "id": "edu-reviewed-ch14-teacher-curriculum-0",
+      "knowledgeId": "edu-reviewed-ch14-teacher-curriculum",
+      "title": "课程研究者",
+      "text": "教师是课程主要的研究者。",
+      "keywords": [
+        "研究者"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 课程研究者"
+    },
+    {
+      "id": "edu-reviewed-ch14-teacher-curriculum-1",
+      "knowledgeId": "edu-reviewed-ch14-teacher-curriculum",
+      "title": "课程设计者",
+      "text": "教师是课程主要的设计者。",
+      "keywords": [
+        "设计者"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 课程设计者"
+    },
+    {
+      "id": "edu-reviewed-ch14-teacher-curriculum-2",
+      "knowledgeId": "edu-reviewed-ch14-teacher-curriculum",
+      "title": "课程实施者",
+      "text": "教师是课程主要的实施者。",
+      "keywords": [
+        "实施者"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 课程实施者"
+    },
+    {
+      "id": "edu-reviewed-ch14-teacher-curriculum-3",
+      "knowledgeId": "edu-reviewed-ch14-teacher-curriculum",
+      "title": "课程评价者",
+      "text": "教师是课程主要的评价者。",
+      "keywords": [
+        "评价者"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 课程评价者"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-overview-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-overview",
+      "title": "课程评价含义",
+      "text": "对课程计划、实施过程及其结果进行测量、分析和评定的过程，包括学生学业评价、教学评价和课程本身评价。",
+      "keywords": [
+        "计划实施结果",
+        "测量分析评定",
+        "学业教学课程"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-overview-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-overview",
+      "title": "课程评价功能",
+      "text": "导向、诊断、调控、激励、修正、决策功能。",
+      "keywords": [
+        "导向诊断调控激励修正决策"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）功能"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-overview-2",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-overview",
+      "title": "七种评价模式",
+      "text": "泰勒目标达成模式、斯克里文目标游离模式、斯塔克应答模式、斯塔弗尔比姆CIPP模式、欧文斯反对者模式、CSE评价模式、艾斯纳鉴赏评价模式。",
+      "keywords": [
+        "目标达成游离应答CIPP反对者CSE鉴赏"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）模式"
+      ],
+      "displayTitle": "分类1：七种模式",
+      "outline": "（三）模式"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-overview-3",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-overview",
+      "title": "两种评价观",
+      "text": "科学—实证主义课程评价观（量化）与人文—自然主义课程评价观（质性）。",
+      "keywords": [
+        "科学实证量化",
+        "人文自然质性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）模式"
+      ],
+      "displayTitle": "分类2：两种评价观",
+      "outline": "（三）模式"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-scope-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-scope",
+      "title": "按研发过程评价",
+      "text": "课程理念、课程目标、课程开发和教材、课程实施和课程效果的评价。",
+      "keywords": [
+        "理念目标开发教材实施效果"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 根据课程研发过程"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-scope-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-scope",
+      "title": "按课程类型评价",
+      "text": "国家课程评价、地方课程评价和校本课程评价。",
+      "keywords": [
+        "国家地方校本"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 根据课程类型"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-scope-2",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-scope",
+      "title": "按评价时间评价",
+      "text": "诊断性评价、形成性评价、终结性评价（布卢姆）。",
+      "keywords": [
+        "诊断形成终结",
+        "布卢姆"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 根据评价时间"
+      ],
+      "displayTitle": "三种评价",
+      "outline": "3. 根据评价时间"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-scope-3",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-scope",
+      "title": "过程全程关系",
+      "text": "原图将诊断性评价、形成性评价归于过程性评价；过程性评价与终结性评价合为全程性评价。",
+      "keywords": [
+        "诊断形成过程",
+        "过程终结全程"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 根据评价时间"
+      ],
+      "displayTitle": "原图的过程性与全程性关系",
+      "outline": "3. 根据评价时间"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-goal-attainment-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-goal-attainment",
+      "title": "主要观点",
+      "text": "教学结果是否达到预先设定的目标。",
+      "keywords": [
+        "预设目标",
+        "操作广泛",
+        "僵化机械"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-goal-attainment-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-goal-attainment",
+      "title": "优点",
+      "text": "操作性强，适用性广。",
+      "keywords": [
+        "预设目标",
+        "操作广泛",
+        "僵化机械"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-goal-attainment-2",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-goal-attainment",
+      "title": "缺点",
+      "text": "容易僵化、机械，不灵活。",
+      "keywords": [
+        "预设目标",
+        "操作广泛",
+        "僵化机械"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-goal-free-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-goal-free",
+      "title": "主要观点",
+      "text": "从预期效果转向实际结果。",
+      "keywords": [
+        "预期转实际",
+        "形成终结结合",
+        "操作难"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-goal-free-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-goal-free",
+      "title": "优点",
+      "text": "重视形成性评价与终结性评价的结合。",
+      "keywords": [
+        "预期转实际",
+        "形成终结结合",
+        "操作难"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-goal-free-2",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-goal-free",
+      "title": "缺点",
+      "text": "操作比较困难。",
+      "keywords": [
+        "预期转实际",
+        "形成终结结合",
+        "操作难"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-responsive-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-responsive",
+      "title": "主要观点",
+      "text": "“全景色的观察”。",
+      "keywords": [
+        "全景色观察",
+        "民主",
+        "操作难"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-responsive-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-responsive",
+      "title": "优点",
+      "text": "强调评价的民主性。",
+      "keywords": [
+        "全景色观察",
+        "民主",
+        "操作难"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-responsive-2",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-responsive",
+      "title": "缺点",
+      "text": "操作比较困难。",
+      "keywords": [
+        "全景色观察",
+        "民主",
+        "操作难"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-cipp-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-cipp",
+      "title": "主要观点",
+      "text": "“背景—输入—过程—结果”评价。",
+      "keywords": [
+        "背景输入过程结果",
+        "形成综合",
+        "价值判断"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-cipp-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-cipp",
+      "title": "优点",
+      "text": "突出形成性评价和综合性评价的功能。",
+      "keywords": [
+        "背景输入过程结果",
+        "形成综合",
+        "价值判断"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-cipp-2",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-cipp",
+      "title": "缺点",
+      "text": "缺乏价值判断。",
+      "keywords": [
+        "背景输入过程结果",
+        "形成综合",
+        "价值判断"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-adversary-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-adversary",
+      "title": "主要观点",
+      "text": "重视反对者的意见。",
+      "keywords": [
+        "反对意见",
+        "多元价值",
+        "高耗低效"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-adversary-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-adversary",
+      "title": "优点",
+      "text": "重视多元价值观。",
+      "keywords": [
+        "反对意见",
+        "多元价值",
+        "高耗低效"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-adversary-2",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-adversary",
+      "title": "缺点",
+      "text": "花费高、效率低。",
+      "keywords": [
+        "反对意见",
+        "多元价值",
+        "高耗低效"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-cse-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-cse",
+      "title": "主要观点",
+      "text": "需要评定→方案计划→形成性评价→总结性评价。",
+      "keywords": [
+        "需要方案形成总结",
+        "全程评价"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-cse-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-cse",
+      "title": "优点",
+      "text": "强调全程性评价。",
+      "keywords": [
+        "需要方案形成总结",
+        "全程评价"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-connoisseurship-0",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-connoisseurship",
+      "title": "主要观点",
+      "text": "像鉴赏艺术品一样进行整体评价。",
+      "keywords": [
+        "艺术鉴赏整体",
+        "严谨",
+        "主观难推广"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-connoisseurship-1",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-connoisseurship",
+      "title": "优点",
+      "text": "严谨。",
+      "keywords": [
+        "艺术鉴赏整体",
+        "严谨",
+        "主观难推广"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch14-evaluation-connoisseurship-2",
+      "knowledgeId": "edu-reviewed-ch14-evaluation-connoisseurship",
+      "title": "缺点",
+      "text": "难以推广，主观性强。",
+      "keywords": [
+        "艺术鉴赏整体",
+        "严谨",
+        "主观难推广"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "缺点"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "目标厘定",
+      "text": "政治制约课程目标的厘定。",
+      "keywords": [
+        "政治",
+        "目标"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）政治"
+      ],
+      "displayTitle": "1. 目标厘定",
+      "outline": "（一）政治"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "内容选择",
+      "text": "政治制约课程改革的内容选择。",
+      "keywords": [
+        "政治",
+        "内容"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）政治"
+      ],
+      "displayTitle": "2. 内容选择",
+      "outline": "（一）政治"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-2",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "编制过程",
+      "text": "政治制约课程编制过程。",
+      "keywords": [
+        "政治",
+        "编制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）政治"
+      ],
+      "displayTitle": "3. 编制过程",
+      "outline": "（一）政治"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-3",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "劳动力要求",
+      "text": "劳动力素质提高的要求制约课程目标。",
+      "keywords": [
+        "劳动力素质",
+        "目标"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）经济"
+      ],
+      "displayTitle": "1. 劳动力要求",
+      "outline": "（二）经济"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-4",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "地区差异",
+      "text": "经济的地区差异性制约课程改革。",
+      "keywords": [
+        "经济地区差异"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）经济"
+      ],
+      "displayTitle": "2. 地区差异",
+      "outline": "（二）经济"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-5",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "市场经济",
+      "text": "市场经济影响课程改革。",
+      "keywords": [
+        "市场经济"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）经济"
+      ],
+      "displayTitle": "3. 市场经济",
+      "outline": "（二）经济"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-6",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "文化模式",
+      "text": "文化模式影响课程改革。",
+      "keywords": [
+        "文化模式"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）文化"
+      ],
+      "displayTitle": "1. 文化模式",
+      "outline": "（三）文化"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-7",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "文化变迁",
+      "text": "文化变迁影响课程改革。",
+      "keywords": [
+        "文化变迁"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）文化"
+      ],
+      "displayTitle": "2. 文化变迁",
+      "outline": "（三）文化"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-8",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "文化多元",
+      "text": "文化多元影响课程改革。",
+      "keywords": [
+        "文化多元"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）文化"
+      ],
+      "displayTitle": "3. 文化多元",
+      "outline": "（三）文化"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-9",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "改革目标",
+      "text": "科技革新制约课程改革的目标。",
+      "keywords": [
+        "科技",
+        "目标"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）科技"
+      ],
+      "displayTitle": "1. 改革目标",
+      "outline": "（四）科技"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-10",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "课程结构",
+      "text": "科技革新推动课程结构改革。",
+      "keywords": [
+        "科技",
+        "结构"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）科技"
+      ],
+      "displayTitle": "2. 课程结构",
+      "outline": "（四）科技"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-11",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "改革速度",
+      "text": "科技革新影响课程改革的速度。",
+      "keywords": [
+        "科技",
+        "速度"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）科技"
+      ],
+      "displayTitle": "3. 改革速度",
+      "outline": "（四）科技"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-12",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "身心发展特征",
+      "text": "学生身心发展的特征影响课程改革。",
+      "keywords": [
+        "身心特征"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）学生"
+      ],
+      "displayTitle": "1. 身心发展特征",
+      "outline": "（五）学生"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-13",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "身心发展需要",
+      "text": "学生身心发展的需要影响课程改革。",
+      "keywords": [
+        "身心需要"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）学生"
+      ],
+      "displayTitle": "2. 身心发展需要",
+      "outline": "（五）学生"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-factors-14",
+      "knowledgeId": "edu-reviewed-ch14-reform-factors",
+      "title": "最近发展区",
+      "text": "课程改革的着眼点是学生的最近发展区。",
+      "keywords": [
+        "着眼点",
+        "最近发展区"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）学生"
+      ],
+      "displayTitle": "3. 最近发展区",
+      "outline": "（五）学生"
+    },
+    {
+      "id": "edu-reviewed-ch14-foreign-reform-trends-0",
+      "knowledgeId": "edu-reviewed-ch14-foreign-reform-trends",
+      "title": "国外课程政策",
+      "text": "目标的整体性，管理的灵活性。",
+      "keywords": [
+        "目标整体",
+        "管理灵活"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 课程政策"
+    },
+    {
+      "id": "edu-reviewed-ch14-foreign-reform-trends-1",
+      "knowledgeId": "edu-reviewed-ch14-foreign-reform-trends",
+      "title": "国外课程结构",
+      "text": "均衡性、选择性、综合性。",
+      "keywords": [
+        "均衡选择综合"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 课程结构"
+    },
+    {
+      "id": "edu-reviewed-ch14-foreign-reform-trends-2",
+      "knowledgeId": "edu-reviewed-ch14-foreign-reform-trends",
+      "title": "国外课程内容",
+      "text": "基础性、时代性。",
+      "keywords": [
+        "基础时代"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 课程内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-foreign-reform-trends-3",
+      "knowledgeId": "edu-reviewed-ch14-foreign-reform-trends",
+      "title": "国外课程实施",
+      "text": "新取向、弹性化、信息化、多样化。",
+      "keywords": [
+        "新取向弹性信息多样"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 课程实施"
+    },
+    {
+      "id": "edu-reviewed-ch14-foreign-reform-trends-4",
+      "knowledgeId": "edu-reviewed-ch14-foreign-reform-trends",
+      "title": "国外课程评价",
+      "text": "过程性、主体性、多元性。",
+      "keywords": [
+        "过程主体多元"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "5. 课程评价"
+    },
+    {
+      "id": "edu-reviewed-ch14-china-reform-core-0",
+      "knowledgeId": "edu-reviewed-ch14-china-reform-core",
+      "title": "改革核心理念",
+      "text": "以人为本、以学生发展为本；为了学生的终身发展是本次课程改革的根本理念；为了每位学生的发展、学生的全面发展、学生的个性发展。原书将第八次改革标注为“1999年至今”。",
+      "keywords": [
+        "以人为本学生发展",
+        "终身每位全面个性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "核心理念"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-goals-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-goals",
+      "title": "原有问题",
+      "text": "改变传统课程过于注重知识传授的倾向。",
+      "keywords": [
+        "知识传授",
+        "态度双基学会学习价值观核心素养"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改变的倾向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-goals-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-goals",
+      "title": "改革方向",
+      "text": "强调形成积极主动的学习态度，使学生在获得基础知识和基本技能的同时学会学习、形成正确价值观、发展核心素养。",
+      "keywords": [
+        "知识传授",
+        "态度双基学会学习价值观核心素养"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改革的方向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure",
+      "title": "原有问题",
+      "text": "改变过于注重学科本位、科目过多和缺乏整合的状况。",
+      "keywords": [
+        "学科本位科目多缺整合",
+        "均衡综合选择"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改变的倾向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure",
+      "title": "改革方向",
+      "text": "一体化设计，体现课程的均衡性、综合性和选择性。",
+      "keywords": [
+        "学科本位科目多缺整合",
+        "均衡综合选择"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改革的方向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-content",
+      "title": "原有问题",
+      "text": "改变课程内容“繁、难、偏、旧”和注重书本知识的现状。",
+      "keywords": [
+        "繁难偏旧书本",
+        "生活社会技术",
+        "兴趣经验",
+        "终身双基"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改变的倾向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-content",
+      "title": "改革方向",
+      "text": "加强课程内容与学生生活、现代社会及现代技术发展的联系，关注学生学习兴趣和经验，精选终身学习必备的基础知识和技能。",
+      "keywords": [
+        "繁难偏旧书本",
+        "生活社会技术",
+        "兴趣经验",
+        "终身双基"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改革的方向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation",
+      "title": "原有问题",
+      "text": "改变强调接受学习、死记硬背和机械训练的现状。",
+      "keywords": [
+        "接受死记机械",
+        "主动动手",
+        "信息新知问题交流合作"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改变的倾向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation",
+      "title": "改革方向",
+      "text": "倡导学生主动参与、勤于动手，培养收集和处理信息、获取新知识、分析和解决问题、交流与合作的能力。",
+      "keywords": [
+        "接受死记机械",
+        "主动动手",
+        "信息新知问题交流合作"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改革的方向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-evaluation",
+      "title": "原有问题",
+      "text": "改变课程评价过于强调甄别与选拔的功能。",
+      "keywords": [
+        "甄别选拔",
+        "学生教师教学",
+        "终结发展形成"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改变的倾向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-evaluation",
+      "title": "改革方向",
+      "text": "发挥评价促进学生发展、教师发展和改进教学实践的功能；课程评价从终结性评价转为与发展性评价、形成性评价相结合。",
+      "keywords": [
+        "甄别选拔",
+        "学生教师教学",
+        "终结发展形成"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改革的方向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-management-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-management",
+      "title": "原有问题",
+      "text": "改变课程管理权限过于集中的弊端。",
+      "keywords": [
+        "权限集中",
+        "国家地方学校",
+        "校本研发实施"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改变的倾向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-management-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-management",
+      "title": "改革方向",
+      "text": "实行国家、地方和学校三级管理，继续推进校本课程的研发与实施。",
+      "keywords": [
+        "权限集中",
+        "国家地方学校",
+        "校本研发实施"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "改革的方向"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-goals-extension-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-goals-extension",
+      "title": "早期目标改革",
+      "text": "三维目标。",
+      "keywords": [
+        "三维目标"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-goals-extension-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-goals-extension",
+      "title": "后期目标改革",
+      "text": "核心素养。",
+      "keywords": [
+        "核心素养"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-extension-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure-extension",
+      "title": "小学综合",
+      "text": "小学阶段以综合课程为主。",
+      "keywords": [
+        "小学综合"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "1. 小学阶段",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-extension-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure-extension",
+      "title": "初中分综",
+      "text": "初中阶段设置分科与综合相结合的课程。",
+      "keywords": [
+        "初中分科综合"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "2. 初中阶段",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-extension-2",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure-extension",
+      "title": "高中分科",
+      "text": "高中以分科课程为主。",
+      "keywords": [
+        "高中分科"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "3. 高中阶段",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-extension-3",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure-extension",
+      "title": "综合实践必修",
+      "text": "从小学至高中设置综合实践活动并作为必修课程。",
+      "keywords": [
+        "小学至高中",
+        "综合实践必修"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "4. 综合实践活动",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-extension-4",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure-extension",
+      "title": "选课学分",
+      "text": "推进高中选课制与学分制。",
+      "keywords": [
+        "选课制学分制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "1. 选课与学分",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-extension-5",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure-extension",
+      "title": "劳动信息独立",
+      "text": "劳动教育与信息技术从综合实践活动课程中脱离，成为必修课。",
+      "keywords": [
+        "劳动信息",
+        "独立必修"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "2. 劳动与信息技术",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-structure-extension-6",
+      "knowledgeId": "edu-reviewed-ch14-reform-structure-extension",
+      "title": "艺术综合选择",
+      "text": "艺术课程更突出综合性和选择性。",
+      "keywords": [
+        "艺术",
+        "综合选择"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "3. 艺术课程",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-extension-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-content-extension",
+      "title": "早期内容改革",
+      "text": "新编课程标准、新编教材、教师培训。",
+      "keywords": [
+        "新标准教材培训"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-extension-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-content-extension",
+      "title": "育人导向",
+      "text": "强化课程育人导向，突出核心素养。",
+      "keywords": [
+        "育人核心素养"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "1. 育人导向",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-extension-2",
+      "knowledgeId": "edu-reviewed-ch14-reform-content-extension",
+      "title": "内容结构",
+      "text": "优化课程内容结构，突出综合性。",
+      "keywords": [
+        "内容结构综合"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "2. 内容结构",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-extension-3",
+      "knowledgeId": "edu-reviewed-ch14-reform-content-extension",
+      "title": "学业质量标准",
+      "text": "研制学业质量标准。",
+      "keywords": [
+        "学业质量"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "3. 学业质量标准",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-extension-4",
+      "knowledgeId": "edu-reviewed-ch14-reform-content-extension",
+      "title": "增强指导性",
+      "text": "说明为什么教、教什么、怎么教、教到什么程度。",
+      "keywords": [
+        "为什么什么怎么程度"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "4. 增强指导性",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-extension-5",
+      "knowledgeId": "edu-reviewed-ch14-reform-content-extension",
+      "title": "学段衔接",
+      "text": "加强学段衔接，尤其幼小衔接。",
+      "keywords": [
+        "学段幼小"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "5. 学段衔接",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-content-extension-6",
+      "knowledgeId": "edu-reviewed-ch14-reform-content-extension",
+      "title": "实践跨学科",
+      "text": "注重加强学科实践和跨学科主题学习。",
+      "keywords": [
+        "学科实践跨学科主题"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "6. 实践跨学科",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-extension-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation-extension",
+      "title": "自主学习",
+      "text": "发挥自我能动性和创造性的学习方式。",
+      "keywords": [
+        "能动创造"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "1. 自主学习",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-extension-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation-extension",
+      "title": "研究性学习",
+      "text": "锻炼问题解决和研究能力的学习方式。",
+      "keywords": [
+        "问题解决研究"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "2. 研究性学习",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-extension-2",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation-extension",
+      "title": "合作学习",
+      "text": "在异质小组中彼此互助，共同完成学习任务。",
+      "keywords": [
+        "异质小组",
+        "互助共同任务"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "3. 合作学习",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-extension-3",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation-extension",
+      "title": "多种教学模式",
+      "text": "多种教学模式综合使用，如STEM教育、项目教育等。",
+      "keywords": [
+        "STEM项目",
+        "多模式"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "1. 多种教学模式",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-extension-4",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation-extension",
+      "title": "多种组织形式",
+      "text": "多种教学组织形式协同使用，如走班制、线上教学。",
+      "keywords": [
+        "走班线上",
+        "多组织"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "2. 多种组织形式",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-extension-5",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation-extension",
+      "title": "多种教学方法",
+      "text": "多种教学方法综合使用，如讨论、实验等。",
+      "keywords": [
+        "讨论实验",
+        "多方法"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "3. 多种教学方法",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-implementation-extension-6",
+      "knowledgeId": "edu-reviewed-ch14-reform-implementation-extension",
+      "title": "革新教师观念",
+      "text": "革新教师教学观、师生观和学生观，改进教学水平。",
+      "keywords": [
+        "教学师生学生观",
+        "教学水平"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "后期改革延伸"
+      ],
+      "displayTitle": "4. 革新教师观念",
+      "outline": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation-extension-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-evaluation-extension",
+      "title": "学生评价体系",
+      "text": "建立学生评价体系。",
+      "keywords": [
+        "学生评价"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "1. 学生评价体系",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation-extension-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-evaluation-extension",
+      "title": "教师评价体系",
+      "text": "建立教师评价体系。",
+      "keywords": [
+        "教师评价"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "2. 教师评价体系",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation-extension-2",
+      "knowledgeId": "edu-reviewed-ch14-reform-evaluation-extension",
+      "title": "课程评价体系",
+      "text": "建立课程评价体系。",
+      "keywords": [
+        "课程评价"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "3. 课程评价体系",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation-extension-3",
+      "knowledgeId": "edu-reviewed-ch14-reform-evaluation-extension",
+      "title": "完善考试制度",
+      "text": "完善考试制度。",
+      "keywords": [
+        "考试制度"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "早期改革内容"
+      ],
+      "displayTitle": "4. 考试制度",
+      "outline": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-evaluation-extension-4",
+      "knowledgeId": "edu-reviewed-ch14-reform-evaluation-extension",
+      "title": "新高考改革",
+      "text": "新高考改革。",
+      "keywords": [
+        "新高考"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-management-extension-0",
+      "knowledgeId": "edu-reviewed-ch14-reform-management-extension",
+      "title": "早期管理改革",
+      "text": "国家、地方和学校的三级课程管理，倡导校本课程。",
+      "keywords": [
+        "三级管理",
+        "校本课程"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "早期改革内容"
+    },
+    {
+      "id": "edu-reviewed-ch14-reform-management-extension-1",
+      "knowledgeId": "edu-reviewed-ch14-reform-management-extension",
+      "title": "后期管理改革",
+      "text": "继续倡导校本课程。",
+      "keywords": [
+        "继续校本"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "后期改革延伸"
+    },
+    {
+      "id": "edu-reviewed-ch14-core-literacy-0",
+      "knowledgeId": "edu-reviewed-ch14-core-literacy",
+      "title": "核心素养含义",
+      "text": "学生为了适应社会发展和终身发展所形成的正确价值观、必备品格和关键能力。",
+      "keywords": [
+        "社会终身发展",
+        "正确价值观品格能力"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch14-core-literacy-1",
+      "knowledgeId": "edu-reviewed-ch14-core-literacy",
+      "title": "三种教育实质",
+      "text": "全面发展教育、综合素质教育和核心素养教育并不矛盾，本质相同。",
+      "keywords": [
+        "全面综合核心",
+        "本质相同"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）实质"
+      ],
+      "displayTitle": "总体关系",
+      "outline": "（二）实质"
+    },
+    {
+      "id": "edu-reviewed-ch14-core-literacy-2",
+      "knowledgeId": "edu-reviewed-ch14-core-literacy",
+      "title": "全面发展针对",
+      "text": "针对旧式分工造成的体脑分离或片面发展。",
+      "keywords": [
+        "旧式分工",
+        "体脑分离片面"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）实质"
+      ],
+      "displayTitle": "1. 全面发展教育",
+      "outline": "（二）实质"
+    },
+    {
+      "id": "edu-reviewed-ch14-core-literacy-3",
+      "knowledgeId": "edu-reviewed-ch14-core-literacy",
+      "title": "综合素质针对",
+      "text": "针对应试教育过于偏向文化知识学习。",
+      "keywords": [
+        "应试",
+        "偏向文化知识"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）实质"
+      ],
+      "displayTitle": "2. 综合素质教育",
+      "outline": "（二）实质"
+    },
+    {
+      "id": "edu-reviewed-ch14-core-literacy-4",
+      "knowledgeId": "edu-reviewed-ch14-core-literacy",
+      "title": "核心素养针对",
+      "text": "针对学生负担过重。",
+      "keywords": [
+        "学生负担过重"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）实质"
+      ],
+      "displayTitle": "3. 核心素养教育",
+      "outline": "（二）实质"
+    },
+    {
+      "id": "edu-reviewed-ch14-comprehensive-practice-0",
+      "knowledgeId": "edu-reviewed-ch14-comprehensive-practice",
+      "title": "综合实践内涵",
+      "text": "从学生真实生活和发展需要出发，在生活情境中发现问题并转化为活动主题，通过探究、服务、制作、体验等方式培养学生综合素质的跨学科实践性课程。",
+      "keywords": [
+        "真实生活需要",
+        "问题主题",
+        "探究服务制作体验",
+        "跨学科实践"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）内涵"
+      ],
+      "displayTitle": "定义",
+      "outline": "（一）内涵"
+    },
+    {
+      "id": "edu-reviewed-ch14-comprehensive-practice-1",
+      "knowledgeId": "edu-reviewed-ch14-comprehensive-practice",
+      "title": "原书范围起点",
+      "text": "原书表述：目前仅包括研究性学习、社区服务与社会实践，从小学一年级开始实行。",
+      "keywords": [
+        "研究性学习",
+        "社区服务社会实践",
+        "小学一年级"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）内涵"
+      ],
+      "displayTitle": "原书所列范围与起点",
+      "outline": "（一）内涵"
+    },
+    {
+      "id": "edu-reviewed-ch14-comprehensive-practice-2",
+      "knowledgeId": "edu-reviewed-ch14-comprehensive-practice",
+      "title": "参与探索经验",
+      "text": "有利于帮助学生获得参与和探索的经验。",
+      "keywords": [
+        "参与探索经验"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）意义"
+      ],
+      "displayTitle": "1. 参与和探索经验",
+      "outline": "（二）意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-comprehensive-practice-3",
+      "knowledgeId": "edu-reviewed-ch14-comprehensive-practice",
+      "title": "问题创新能力",
+      "text": "有利于培养学生解决问题和创新的能力。",
+      "keywords": [
+        "问题解决创新"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）意义"
+      ],
+      "displayTitle": "2. 问题解决与创新",
+      "outline": "（二）意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-comprehensive-practice-4",
+      "knowledgeId": "edu-reviewed-ch14-comprehensive-practice",
+      "title": "综合能力",
+      "text": "有利于提升学生的综合能力。",
+      "keywords": [
+        "综合能力"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）意义"
+      ],
+      "displayTitle": "3. 综合能力",
+      "outline": "（二）意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-comprehensive-practice-5",
+      "knowledgeId": "edu-reviewed-ch14-comprehensive-practice",
+      "title": "合作分享意识",
+      "text": "有利于学生形成合作与分享意识。",
+      "keywords": [
+        "合作分享"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）意义"
+      ],
+      "displayTitle": "4. 合作与分享意识",
+      "outline": "（二）意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-comprehensive-practice-6",
+      "knowledgeId": "edu-reviewed-ch14-comprehensive-practice",
+      "title": "科学态度道德",
+      "text": "有利于培养学生科学的态度和道德。",
+      "keywords": [
+        "科学态度道德"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）意义"
+      ],
+      "displayTitle": "5. 科学态度与道德",
+      "outline": "（二）意义"
+    },
+    {
+      "id": "edu-reviewed-ch14-literacy-domains-0",
+      "knowledgeId": "edu-reviewed-ch14-literacy-domains",
+      "title": "核心素养图中心",
+      "text": "全面发展的人。",
+      "keywords": [
+        "全面发展的人"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "中心"
+    },
+    {
+      "id": "edu-reviewed-ch14-literacy-domains-1",
+      "knowledgeId": "edu-reviewed-ch14-literacy-domains",
+      "title": "自主发展",
+      "text": "学会学习、健康生活。",
+      "keywords": [
+        "学会学习健康生活"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "自主发展"
+    },
+    {
+      "id": "edu-reviewed-ch14-literacy-domains-2",
+      "knowledgeId": "edu-reviewed-ch14-literacy-domains",
+      "title": "社会参与",
+      "text": "责任担当、实践创新。",
+      "keywords": [
+        "责任担当实践创新"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "社会参与"
+    },
+    {
+      "id": "edu-reviewed-ch14-literacy-domains-3",
+      "knowledgeId": "edu-reviewed-ch14-literacy-domains",
+      "title": "文化基础",
+      "text": "人文底蕴、科学精神。",
+      "keywords": [
+        "人文底蕴科学精神"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "文化基础"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch14-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 16,
+    "knowledge": 80,
+    "steps": 348,
+    "referenceOnly": 21
+  }
+}

@@ -1,0 +1,2096 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch2d-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch2d-liji",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《礼记》与本节教育论著",
+      "section": "第三节 · 战国后期的教育论著 · 文献导读",
+      "refs": [
+        {
+          "page": 30,
+          "rect": [
+            0.1,
+            0.128,
+            0.83,
+            0.248
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 30115,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《大学》：文献与主旨",
+      "section": "第三节 · 战国后期的教育论著 · 《大学》",
+      "refs": [
+        {
+          "page": 30,
+          "rect": [
+            0.17,
+            0.424,
+            0.76,
+            0.028
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 30381,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-three",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《大学》的三纲领",
+      "section": "第三节 · 战国后期的教育论著 · 《大学》",
+      "refs": [
+        {
+          "page": 30,
+          "rect": [
+            0.3,
+            0.454,
+            0.63,
+            0.142
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 30408,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eight",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《大学》的八条目",
+      "section": "第三节 · 战国后期的教育论著 · 《大学》",
+      "refs": [
+        {
+          "page": 30,
+          "rect": [
+            0.3,
+            0.592,
+            0.63,
+            0.137
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 30532,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《大学》的评价与影响",
+      "section": "第三节 · 战国后期的教育论著 · 《大学》",
+      "refs": [
+        {
+          "page": 30,
+          "rect": [
+            0.17,
+            0.723,
+            0.76,
+            0.202
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 30650,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《中庸》：文献与主旨",
+      "section": "第三节 · 战国后期的教育论著 · 《中庸》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.133,
+            0.77,
+            0.043
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31119,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《中庸》的教育作用：性与教",
+      "section": "第三节 · 战国后期的教育论著 · 《中庸》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.181,
+            0.77,
+            0.057
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31162,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-purpose",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《中庸》的教育目的：中庸",
+      "section": "第三节 · 战国后期的教育论著 · 《中庸》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.242,
+            0.77,
+            0.062
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31217,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-paths",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《中庸》：人自我完善的两条途径",
+      "section": "第三节 · 战国后期的教育论著 · 《中庸》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.307,
+            0.77,
+            0.047
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31276,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-process",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《中庸》的学习过程",
+      "section": "第三节 · 战国后期的教育论著 · 《中庸》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.36,
+            0.77,
+            0.062
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31324,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《中庸》的评价与局限",
+      "section": "第三节 · 战国后期的教育论著 · 《中庸》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.428,
+            0.77,
+            0.139
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31385,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》：文献地位与作者说法",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.628,
+            0.77,
+            0.044
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31565,
+      "reviewNote": "已对照原页；作者归属保留“相传”，另列只读核验说明，不将推测改写为定论。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》的教育作用与目的",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.685,
+            0.77,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31616,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-school",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》的教育制度：学制与学年",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 31,
+          "rect": [
+            0.14,
+            0.749,
+            0.77,
+            0.114
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 31674,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》的学校管理：视学与考试",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.17,
+            0.09,
+            0.76,
+            0.233
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 32081,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》的八项教育教学原则",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.17,
+            0.335,
+            0.76,
+            0.281
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 32301,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-methods",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》的四种教学方法",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.17,
+            0.63,
+            0.76,
+            0.113
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 32567,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-respect",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》尊师重教的原因",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.17,
+            0.758,
+            0.76,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 32682,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-teacher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》对教师的要求",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 33,
+          "rect": [
+            0.15,
+            0.079,
+            0.775,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 33071,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-growth",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》的“教学相长”：本义与引申义",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 32,
+          "rect": [
+            0.34,
+            0.52,
+            0.59,
+            0.055
+          ]
+        },
+        {
+          "page": 33,
+          "rect": [
+            0.15,
+            0.239,
+            0.775,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 33230,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "《学记》的评价",
+      "section": "第三节 · 战国后期的教育论著 · 《学记》",
+      "refs": [
+        {
+          "page": 33,
+          "rect": [
+            0.15,
+            0.372,
+            0.775,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 33334,
+      "reviewNote": "已对照扫描原页校对文字与层级；文献介绍、评价及助记默认只需阅读，可自行调整。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch2d-liji-0",
+      "knowledgeId": "china-reviewed-ch2d-liji",
+      "title": "《礼记》简介",
+      "text": "《礼记》是一部内容丰富而杂驳的丛书，收集了儒家学者论礼的作用与意义的论文，涉及教育等多方面问题。就教育理论阐发的集中性与历史影响而言，原书突出《大学》《中庸》《学记》《乐记》四篇。",
+      "keywords": [
+        "礼记",
+        "儒家论礼",
+        "四篇"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-liji-1",
+      "knowledgeId": "china-reviewed-ch2d-liji",
+      "title": "《大学》与《中庸》",
+      "text": "《大学》：专门论述大学教育的论文。《中庸》：阐述先秦儒家的人生哲学和修养问题的论文。四篇内容互为阐发。",
+      "keywords": [
+        "大学教育",
+        "人生哲学",
+        "修养"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-liji-2",
+      "knowledgeId": "china-reviewed-ch2d-liji",
+      "title": "《学记》与《乐记》",
+      "text": "原书将《学记》评价为世界上最早的专门论述教育问题的论著。《乐记》是先秦儒家专门论述乐教的论著，本书此处要求了解。",
+      "keywords": [
+        "学记",
+        "乐记",
+        "乐教"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-intro-0",
+      "knowledgeId": "china-reviewed-ch2d-d-intro",
+      "title": "出处与主旨",
+      "text": "出自《礼记》，列“四书”之首。原书将其归为思孟学派作品，着重阐述“大学之道”，即大学教育的纲领。",
+      "keywords": [
+        "礼记",
+        "四书之首",
+        "大学之道"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-three-0",
+      "knowledgeId": "china-reviewed-ch2d-d-three",
+      "title": "三纲领原文",
+      "text": "“大学之道，在明明德，在亲民，在止于至善。”",
+      "keywords": [
+        "明明德",
+        "亲民",
+        "止于至善"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-three-1",
+      "knowledgeId": "china-reviewed-ch2d-d-three",
+      "title": "明明德",
+      "text": "将人天生的善性发扬光大，这是每个人为学做人的第一步。",
+      "keywords": [
+        "天生善性",
+        "发扬光大"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-three-2",
+      "knowledgeId": "china-reviewed-ch2d-d-three",
+      "title": "亲民",
+      "text": "由己推人，把个人自身的善转化为他人乃至全体民众的善。",
+      "keywords": [
+        "由己推人",
+        "民众之善"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-three-3",
+      "knowledgeId": "china-reviewed-ch2d-d-three",
+      "title": "止于至善",
+      "text": "每个人在承担不同职责时都要努力做到尽善尽美，这是儒家封建伦理道德的至善境界，也是大学教育的终极目标。",
+      "keywords": [
+        "尽善尽美",
+        "至善境界",
+        "终极目标"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eight-0",
+      "knowledgeId": "china-reviewed-ch2d-d-eight",
+      "title": "八条目顺序",
+      "text": "格物、致知、诚意、正心、修身、齐家、治国、平天下。",
+      "keywords": [
+        "格致诚正",
+        "修齐治平"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eight-1",
+      "knowledgeId": "china-reviewed-ch2d-d-eight",
+      "title": "格物、致知：基础",
+      "text": "原书解释为学习儒家经典，是八条目的基础，也被视为“为学入手”或“大学始教”。",
+      "keywords": [
+        "儒家经典",
+        "基础",
+        "为学入手"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eight-2",
+      "knowledgeId": "china-reviewed-ch2d-d-eight",
+      "title": "诚意、正心：心理活动",
+      "text": "意念动机纯正，保持认识的中正，这些是心理活动。",
+      "keywords": [
+        "动机纯正",
+        "认识中正",
+        "心理活动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eight-3",
+      "knowledgeId": "china-reviewed-ch2d-d-eight",
+      "title": "修身：中心环节",
+      "text": "个人品质全面养成，是八条目的中心环节。",
+      "keywords": [
+        "个人品质",
+        "中心环节"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eight-4",
+      "knowledgeId": "china-reviewed-ch2d-d-eight",
+      "title": "齐家、治国、平天下：扩大与深化",
+      "text": "是修身的扩大与深化，也是个人完善的最高境界。",
+      "keywords": [
+        "扩大深化",
+        "最高境界"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eval-0",
+      "knowledgeId": "china-reviewed-ch2d-d-eval",
+      "title": "逻辑性与可行性",
+      "text": "三纲领与八条目环环紧扣，加以推演，极易为人理解、接受和实行。",
+      "keywords": [
+        "逻辑性",
+        "可行性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eval-1",
+      "knowledgeId": "china-reviewed-ch2d-d-eval",
+      "title": "伦理性与人文色彩",
+      "text": "三纲领与八条目都着眼于人伦，表现了儒家以教化为手段的仁政、德治思想，以个人道德和社会政治的实现为目的。",
+      "keywords": [
+        "人伦",
+        "教化",
+        "仁政德治"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-d-eval-2",
+      "knowledgeId": "china-reviewed-ch2d-d-eval",
+      "title": "后世影响",
+      "text": "朱熹将《中庸》《论语》《孟子》《大学》合称为“四书”，成为宋朝以后中国古代教育的基本教科书。《大学》对先秦儒家为学过程作出明确、概括而完整的表述，对中国知识分子的为学、为人和为政有很大影响。",
+      "keywords": [
+        "四书",
+        "基本教科书",
+        "为学为人为政"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-intro-0",
+      "knowledgeId": "china-reviewed-ch2d-z-intro",
+      "title": "出处与主旨",
+      "text": "出自《礼记》，为“四书”之一，相传为思孟学派的作品。主要阐述先秦儒家的人生哲学和修养问题。",
+      "keywords": [
+        "礼记",
+        "四书",
+        "人生哲学修养"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-role-0",
+      "knowledgeId": "china-reviewed-ch2d-z-role",
+      "title": "性、道、教原文",
+      "text": "“天命之谓性，率性之谓道，修道之谓教。”",
+      "keywords": [
+        "天命性",
+        "率性道",
+        "修道教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-role-1",
+      "knowledgeId": "china-reviewed-ch2d-z-role",
+      "title": "性",
+      "text": "人生来就有本性。",
+      "keywords": [
+        "本性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-role-2",
+      "knowledgeId": "china-reviewed-ch2d-z-role",
+      "title": "道",
+      "text": "顺从发展人的本性就叫作道。",
+      "keywords": [
+        "顺从发展本性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-role-3",
+      "knowledgeId": "china-reviewed-ch2d-z-role",
+      "title": "教",
+      "text": "“道”（人性）的推广和实行要依靠教育。",
+      "keywords": [
+        "推广实行",
+        "教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-purpose-0",
+      "knowledgeId": "china-reviewed-ch2d-z-purpose",
+      "title": "道德准则",
+      "text": "中庸是最高的道德准则。",
+      "keywords": [
+        "中庸",
+        "最高道德准则"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-purpose-1",
+      "knowledgeId": "china-reviewed-ch2d-z-purpose",
+      "title": "中庸的含义",
+      "text": "中庸即“两端执其中”和“中和”：在政治和道德实践中，杜绝一切过激行为，以恰到好处为处事原则。",
+      "keywords": [
+        "两端执其中",
+        "中和",
+        "恰到好处"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-paths-0",
+      "knowledgeId": "china-reviewed-ch2d-z-paths",
+      "title": "自诚明：尊德性",
+      "text": "“自诚明，谓之性”，或“尊德性”。原书归为内发论：向内省察以助向外求知。",
+      "keywords": [
+        "自诚明",
+        "尊德性",
+        "内发论",
+        "向内省察"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-paths-1",
+      "knowledgeId": "china-reviewed-ch2d-z-paths",
+      "title": "自明诚：道问学",
+      "text": "“自明诚，谓之教”，或“道问学”。原书归为外铄论：向外求知以完善本性。",
+      "keywords": [
+        "自明诚",
+        "道问学",
+        "外铄论",
+        "向外求知"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-paths-2",
+      "knowledgeId": "china-reviewed-ch2d-z-paths",
+      "title": "两条途径的关系",
+      "text": "尊德性与道问学相辅相成。",
+      "keywords": [
+        "相辅相成"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-process-0",
+      "knowledgeId": "china-reviewed-ch2d-z-process",
+      "title": "学习过程原文",
+      "text": "“博学之，审问之，慎思之，明辨之，笃行之。”这是知识获得的基本环节。",
+      "keywords": [
+        "博学",
+        "审问",
+        "慎思",
+        "明辨",
+        "笃行"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-process-1",
+      "knowledgeId": "china-reviewed-ch2d-z-process",
+      "title": "学",
+      "text": "广泛地学习。",
+      "keywords": [
+        "广泛学习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-process-2",
+      "knowledgeId": "china-reviewed-ch2d-z-process",
+      "title": "问",
+      "text": "详细追问真伪。",
+      "keywords": [
+        "追问真伪"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-process-3",
+      "knowledgeId": "china-reviewed-ch2d-z-process",
+      "title": "思",
+      "text": "分析、思考。",
+      "keywords": [
+        "分析思考"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-process-4",
+      "knowledgeId": "china-reviewed-ch2d-z-process",
+      "title": "辨",
+      "text": "分辨问题，明确努力的方向。",
+      "keywords": [
+        "分辨问题",
+        "明确方向"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-process-5",
+      "knowledgeId": "china-reviewed-ch2d-z-process",
+      "title": "行",
+      "text": "切实实行，观念行为统一。",
+      "keywords": [
+        "切实实行",
+        "知行统一"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-eval-0",
+      "knowledgeId": "china-reviewed-ch2d-z-eval",
+      "title": "处世原则",
+      "text": "《中庸》提出了影响中国人性格的处世原则，既是世界观也是方法论，是道德修养、为人处世的准则与方法，要求行为表现出最大限度的妥帖。",
+      "keywords": [
+        "世界观方法论",
+        "道德修养",
+        "处世原则"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-eval-1",
+      "knowledgeId": "china-reviewed-ch2d-z-eval",
+      "title": "引发为学途径的再思考",
+      "text": "“尊德性”与“道问学”是宋朝以后思想家讨论较多的范畴，甚至形成相对立的学派和思想。",
+      "keywords": [
+        "尊德性",
+        "道问学",
+        "再思考"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-eval-2",
+      "knowledgeId": "china-reviewed-ch2d-z-eval",
+      "title": "总结先秦为学顺序",
+      "text": "学、问、思、辨、行，是对从孔子到荀子的先秦儒家学习过程的总结。朱熹将其列为《白鹿洞书院揭示》的重要规定。",
+      "keywords": [
+        "为学顺序",
+        "白鹿洞书院揭示"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-z-eval-3",
+      "knowledgeId": "china-reviewed-ch2d-z-eval",
+      "title": "原书所述局限",
+      "text": "中庸思想具有保守性和缺乏锐气的弊端，对中国人的民族性格影响巨大。",
+      "keywords": [
+        "保守性",
+        "缺乏锐气"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-intro-0",
+      "knowledgeId": "china-reviewed-ch2d-x-intro",
+      "title": "地位与内容",
+      "text": "原书评价《学记》为中国、也是世界上最早的专门论述教育、教学问题的论著，被誉为“教育学的雏形”，是先秦时期儒家教育活动的总的总结。",
+      "keywords": [
+        "教育教学专论",
+        "教育学的雏形",
+        "儒家教育总结"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-intro-1",
+      "knowledgeId": "china-reviewed-ch2d-x-intro",
+      "title": "作者说法与校勘说明",
+      "text": "原书使用“相传是孟子的学生乐正克所作”。保留“相传”：关于《学记》的成书和作者，学界存在思孟学派、荀子学派及汉代成书等不同观点，尚难定论，不将乐正克署名作为确定事实。核验依据为华东师范大学《学记》学史研究项目说明，链接见《战国后期教育论著校对记录》。",
+      "keywords": [
+        "相传乐正克",
+        "作者未定"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-role-0",
+      "knowledgeId": "china-reviewed-ch2d-x-role",
+      "title": "对个人",
+      "text": "“玉不琢，不成器；人不学，不知道。”",
+      "keywords": [
+        "玉不琢不成器",
+        "人不学不知道"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-role-1",
+      "knowledgeId": "china-reviewed-ch2d-x-role",
+      "title": "对社会",
+      "text": "“建国君民，教学为先”“化民成俗”：教化人民，养成良好习俗。",
+      "keywords": [
+        "建国君民",
+        "教学为先",
+        "化民成俗"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-role-2",
+      "knowledgeId": "china-reviewed-ch2d-x-role",
+      "title": "教育与政治",
+      "text": "教育与政治结合。",
+      "keywords": [
+        "教育政治结合"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-school-0",
+      "knowledgeId": "china-reviewed-ch2d-x-school",
+      "title": "学制",
+      "text": "从中央到地方，按行政体制建学。“古之教者，家有塾，党有庠，术有序，国有学。”",
+      "keywords": [
+        "家塾",
+        "党庠",
+        "术序",
+        "国学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-school-1",
+      "knowledgeId": "china-reviewed-ch2d-x-school",
+      "title": "学年结构",
+      "text": "两段、五级、九年，是古代年级制的萌芽。",
+      "keywords": [
+        "两段",
+        "五级",
+        "九年"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-school-2",
+      "knowledgeId": "china-reviewed-ch2d-x-school",
+      "title": "年与级对应表",
+      "text": "第一级：第一年。第二级：第二、三年。第三级：第四、五年。第四级：第六、七年，第七年为“小成”。第五级：第八、九年，第九年为“大成”。",
+      "keywords": [
+        "一",
+        "二三",
+        "四五",
+        "六七小成",
+        "八九大成"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams-0",
+      "knowledgeId": "china-reviewed-ch2d-x-exams",
+      "title": "视学",
+      "text": "天子视察学宫，参加开学典礼，体现国家对教育的重视。",
+      "keywords": [
+        "天子视察学宫",
+        "开学典礼"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams-1",
+      "knowledgeId": "china-reviewed-ch2d-x-exams",
+      "title": "考试原则",
+      "text": "德智兼重，循序渐进。",
+      "keywords": [
+        "德智兼重",
+        "循序渐进"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams-2",
+      "knowledgeId": "china-reviewed-ch2d-x-exams",
+      "title": "第一年：视离经辨志",
+      "text": "考查阅读能力，看能否分析章句；考查品德，看是否确立崇高志向。",
+      "keywords": [
+        "离经辨志",
+        "分析章句",
+        "确立志向"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams-3",
+      "knowledgeId": "china-reviewed-ch2d-x-exams",
+      "title": "第三年：视敬业乐群",
+      "text": "考查对学业的态度是否专心致志，以及与同学相处能否团结友爱。",
+      "keywords": [
+        "敬业乐群",
+        "专心致志",
+        "团结友爱"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams-4",
+      "knowledgeId": "china-reviewed-ch2d-x-exams",
+      "title": "第五年：视博习亲师",
+      "text": "考查学识的广博程度，以及与教师是否亲密无间。",
+      "keywords": [
+        "博习亲师",
+        "学识广博",
+        "亲师"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams-5",
+      "knowledgeId": "china-reviewed-ch2d-x-exams",
+      "title": "第七年：视论学取友（小成）",
+      "text": "考查学术见解和交友择友。",
+      "keywords": [
+        "论学取友",
+        "小成",
+        "学术见解"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams-6",
+      "knowledgeId": "china-reviewed-ch2d-x-exams",
+      "title": "第九年：知类通达，强立而不反（大成）",
+      "text": "考查学术上的融会贯通和志向上的坚定不移。",
+      "keywords": [
+        "知类通达",
+        "强立不反",
+        "大成"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-exams-7",
+      "knowledgeId": "china-reviewed-ch2d-x-exams",
+      "title": "原书助记",
+      "text": "离群博学通。对应第一、三、五、七、九年：离经辨志、敬业乐群、博习亲师、论学取友、知类通达。",
+      "keywords": [
+        "离群博学通"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-0",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "预防性原则",
+      "text": "“禁于未发之谓豫。”“发然后禁，则扞格而不胜。”",
+      "keywords": [
+        "豫",
+        "禁于未发",
+        "扞格"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-1",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "及时施教原则",
+      "text": "“当其可之谓时。”“时过而后学，则勤苦而难成。”",
+      "keywords": [
+        "时",
+        "当其可",
+        "及时施教"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-2",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "循序渐进原则",
+      "text": "“不陵节而施之谓孙。”“杂施而不孙，则坏乱而不修。”“学不躐（liè）等。”",
+      "keywords": [
+        "孙",
+        "不陵节",
+        "学不躐等"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-3",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "学习观摩原则",
+      "text": "“相观而善之谓摩。”",
+      "keywords": [
+        "摩",
+        "相观而善"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-4",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "长善救失原则",
+      "text": "“学者有四失，教者必知之。人之学也，或失则多，或失则寡，或失则易，或失则止。此四者，心之莫同也。知其心，然后能救其失也。”",
+      "keywords": [
+        "多寡易止",
+        "知其心",
+        "救其失"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-5",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "启发诱导原则",
+      "text": "“道（导）而弗牵，强而弗抑，开而弗达。”“君子之教，喻也。”",
+      "keywords": [
+        "导而弗牵",
+        "强而弗抑",
+        "开而弗达"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-6",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "藏息相辅原则",
+      "text": "“藏焉修焉，息焉游焉。”“时教必有正业，退息必有居学。”",
+      "keywords": [
+        "藏修息游",
+        "正业居学"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-7",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "教学相长原则",
+      "text": "“学然后知不足，教然后知困。知不足，然后能自反也；知困，然后能自强也。”本义与引申义见后文“教学相长”。",
+      "keywords": [
+        "学知不足",
+        "教知困",
+        "自反自强"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-principles-8",
+      "knowledgeId": "china-reviewed-ch2d-x-principles",
+      "title": "原书助记",
+      "text": "“豫、时、孙、摩、善、启、藏、长。”依次对应预防性、及时施教、循序渐进、学习观摩、长善救失、启发诱导、藏息相辅、教学相长。",
+      "keywords": [
+        "豫时孙摩",
+        "善启藏长"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-methods-0",
+      "knowledgeId": "china-reviewed-ch2d-x-methods",
+      "title": "讲解法",
+      "text": "“约而达”：语言简约而意思通达。“微而臧”：义理微妙而说得精善。“罕譬而喻”：举少量典型的例证，使道理明白易晓。",
+      "keywords": [
+        "约而达",
+        "微而臧",
+        "罕譬而喻"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-methods-1",
+      "knowledgeId": "china-reviewed-ch2d-x-methods",
+      "title": "问答法",
+      "text": "教师提问先易后难，遵循问题的内在逻辑；答问应随其所问，有针对性地作答，恰如其分，适可而止，无过与不及。",
+      "keywords": [
+        "先易后难",
+        "内在逻辑",
+        "针对作答"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-methods-2",
+      "knowledgeId": "china-reviewed-ch2d-x-methods",
+      "title": "练习法",
+      "text": "依据学习内容安排必要的练习，练习要有规范，并能逐步进行。",
+      "keywords": [
+        "必要练习",
+        "规范",
+        "逐步进行"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-methods-3",
+      "knowledgeId": "china-reviewed-ch2d-x-methods",
+      "title": "类比法",
+      "text": "“古之学者，比物丑类。”",
+      "keywords": [
+        "比物丑类"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-respect-0",
+      "knowledgeId": "china-reviewed-ch2d-x-respect",
+      "title": "师严然后道尊",
+      "text": "“师严然后道尊，道尊然后民知敬学。”所有人都是教师教出来的，教育为治术离不开好老师，因此要“师严”——尊师。",
+      "keywords": [
+        "师严道尊",
+        "民知敬学",
+        "尊师"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-respect-1",
+      "knowledgeId": "china-reviewed-ch2d-x-respect",
+      "title": "为师、为长、为君",
+      "text": "“能为师然后能为长，能为长然后能为君。”将为师、为长、为君视为一个逻辑过程，使为师成为为君的一种素质、一项使命，使尊师有更丰富的内涵。",
+      "keywords": [
+        "为师为长为君",
+        "素质使命"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-respect-2",
+      "knowledgeId": "china-reviewed-ch2d-x-respect",
+      "title": "教师与亲爱",
+      "text": "“师无当于五服，五服弗得不亲。”原书解释为：没有教师的教育引导，人们不会懂得相亲相爱。",
+      "keywords": [
+        "五服",
+        "教育引导",
+        "相亲相爱"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-teacher-0",
+      "knowledgeId": "china-reviewed-ch2d-x-teacher",
+      "title": "不能只靠记问之学",
+      "text": "“记问之学，不足以为人师。”只强调学识不足以成为老师。",
+      "keywords": [
+        "记问之学",
+        "不足为师"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-teacher-1",
+      "knowledgeId": "china-reviewed-ch2d-x-teacher",
+      "title": "懂得教育成败的原理",
+      "text": "“君子既知教之所由兴，又知教之所由废，然后可以为人师也。”只有懂得教育成败的原理才可以为师。",
+      "keywords": [
+        "教之兴废",
+        "教育成败原理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-teacher-2",
+      "knowledgeId": "china-reviewed-ch2d-x-teacher",
+      "title": "了解难易美恶，善于博喻",
+      "text": "“君子知至学之难易，而知其美恶，然后能博喻；能博喻然后能为师。”在分析达到学习目标的难易程度和学生素质高下的基础上，采用有针对性的教学方法。",
+      "keywords": [
+        "学习难易",
+        "学生差异",
+        "博喻",
+        "针对教学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-growth-0",
+      "knowledgeId": "china-reviewed-ch2d-x-growth",
+      "title": "原文",
+      "text": "“虽有嘉肴，弗食，不知其旨也；虽有至道，弗学，不知其善也。是故学然后知不足，教然后知困。知不足，然后能自反也；知困，然后能自强也。故曰：教学相长也。”",
+      "keywords": [
+        "嘉肴至道",
+        "学知不足教知困",
+        "自反自强"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-growth-1",
+      "knowledgeId": "china-reviewed-ch2d-x-growth",
+      "title": "本义",
+      "text": "教这一方的以教为学。",
+      "keywords": [
+        "以教为学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-growth-2",
+      "knowledgeId": "china-reviewed-ch2d-x-growth",
+      "title": "引申义",
+      "text": "在教学过程中，教师与学生双方相互促进、共同提高。由“以教为学”引申为“师生共促进、共提高”。",
+      "keywords": [
+        "师生相互促进",
+        "共同提高"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-eval-0",
+      "knowledgeId": "china-reviewed-ch2d-x-eval",
+      "title": "课程思想",
+      "text": "《学记》有丰富的古代课程思想。",
+      "keywords": [
+        "课程思想"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-eval-1",
+      "knowledgeId": "china-reviewed-ch2d-x-eval",
+      "title": "教学思想",
+      "text": "《学记》有丰富的古代教学思想。",
+      "keywords": [
+        "教学思想"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-eval-2",
+      "knowledgeId": "china-reviewed-ch2d-x-eval",
+      "title": "管理思想",
+      "text": "《学记》有丰富的古代管理思想。",
+      "keywords": [
+        "管理思想"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2d-x-eval-3",
+      "knowledgeId": "china-reviewed-ch2d-x-eval",
+      "title": "承前启后的典范作用",
+      "text": "承前：对先秦教育思想进行完善总结。启后：为中国后世的教育传统奠定基础。",
+      "keywords": [
+        "总结先秦",
+        "奠定后世传统"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p030-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "第三节战国后期的教育论著 · 第22页",
+        "section": "第三节战国后期的教育论著",
+        "refs": [
+          {
+            "page": 30,
+            "rect": [
+              0.11725,
+              0.12546,
+              0.78061,
+              0.25138
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 30118,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p030-k01-0-s0",
+          "knowledgeId": "china-p030-k01-0",
+          "title": "知识小贴士",
+          "text": "知识小贴士\n《礼记》\n1.简介：《礼记》是一部内容丰富而杂驳的丛书。它收集了儒家学者论礼的作用与意义的论文，涉\n及众多方面的问题，包括教育问题。就教育理论阐发的集中性与历史影响而言，当推《大学》《中庸》《学\n记》《乐记》这四篇。\n2.具体内容：互为阐发。",
+          "keywords": [
+            "知识小贴士"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p030-k01-0-s1",
+          "knowledgeId": "china-p030-k01-0",
+          "title": "原文小步 2",
+          "text": "（1）《大学》：专门论述大学教育的论文。\n（2）《中庸》：阐述先秦儒家的人生哲学和修养问题的论文。\n（3）《学记》：世界上最早的专门论述教育问题的论著。\n（4）《乐记》：先秦儒家专门论述乐教的论著。（了解）",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p030-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "《大学》 · 第22页",
+        "section": "第三节战国后期的教育论著",
+        "refs": [
+          {
+            "page": 30,
+            "rect": [
+              0.10558,
+              0.42469,
+              0.82181,
+              0.50765
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 30387,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p030-k02-0-s0",
+          "knowledgeId": "china-p030-k02-0",
+          "title": "简介",
+          "text": "（一）简介\n出自《礼记》，“四书”之首，思孟学派作品，着重阐述“大学之道”，即大学教育的纲领。\n（1）明明德：将人天生的善性发扬光大，这是每个\n人为学做人的第一步。\n1.三纲领：“大学之道\n（2）亲民：由己推人，把个人自身的善转化为他人\n在明明德，在亲民，",
+          "keywords": [
+            "简介",
+            "三纲领：“大学之道",
+            "在明明德，在亲民，"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p030-k02-0-s1",
+          "knowledgeId": "china-p030-k02-0",
+          "title": "在止于至善",
+          "text": "乃至全体民众的善。\n在止于至善\n（3）止于至善：每个人在承担不同职责时都要努力做到\n尽善尽美，这是儒家封建伦理道德的至\n善境界，也是大学教育的终极目标。\n（二）内容\n（1）格物、致知：学习儒家经典，这是“八条目”的基础。\n《大学》",
+          "keywords": [
+            "在止于至善",
+            "内容",
+            "《大学》"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p030-k02-0-s2",
+          "knowledgeId": "china-p030-k02-0",
+          "title": "八条目：格物、致",
+          "text": "也被视为“为学入手”或“大学始教”。\n2.八条目：格物、致\n（2）诚意、正心：意念动机纯正，保持认识的中正，\n知、诚意、正心、修身、\n这些是心理活动。\n齐家、治国、平天下\n（3）修身：个人品质全面养成\n中心环节。\n（4）齐家、治国、平天下：修身的扩大与深化，个",
+          "keywords": [
+            "八条目：格物、致",
+            "知、诚意、正心、修身、",
+            "齐家、治国、平天下"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p030-k02-0-s3",
+          "knowledgeId": "china-p030-k02-0",
+          "title": "表现出较强的逻辑",
+          "text": "人完善的最高境界。\n1.表现出较强的逻辑\n“三纲领”与“八条目”环环紧扣，加以推演，极易为\n性和可行性\n人理解、接受和实行。\n“三纲领”与“八条目”都着眼于人伦，表现了儒家以\n2.具有极强的伦理性\n教化为手段的仁政、德治思想，并以个人道德和社会\n（三）评价\n和人文色彩",
+          "keywords": [
+            "表现出较强的逻辑",
+            "性和可行性",
+            "具有极强的伦理性"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p030-k02-0-s4",
+          "knowledgeId": "china-p030-k02-0",
+          "title": "对后世有深远影响",
+          "text": "政治的实现为目的。\n（1）朱熹将《中庸》《论语》《孟子》《大学》合称为“四书”，\n成为宋朝以后中国古代教育的基本教科书。\n3.对后世有深远影响\n（2）《大学》作为对先秦儒家为学过程最为明确、概\n括和完整的表述，对中国知识分子的为学、为人和\n为政有极大的影响。",
+          "keywords": [
+            "对后世有深远影响"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p031-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "《中庸》 · 第23页（1）",
+        "section": "第三节战国后期的教育论著",
+        "refs": [
+          {
+            "page": 31,
+            "rect": [
+              0.08384,
+              0.12985,
+              0.82405,
+              0.41701
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 31122,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p031-k01-0-s0",
+          "knowledgeId": "china-p031-k01-0",
+          "title": "简介",
+          "text": "（一）简介\n出自《礼记》，“四书”之一，相传为思孟学派的作品，主要阐述了先秦儒家的人生哲\n学和修养问题。\n教育作用：\n“天命之谓性，率性之\n1.人生来就有本性。\n2.顺从发展人的本性就叫作道。\n性与教\n谓道，修道之谓教\n3.“道”（人性）的推广和实行要依靠教育。",
+          "keywords": [
+            "简介",
+            "教育作用",
+            "“天命之谓性，率性之"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p031-k01-0-s1",
+          "knowledgeId": "china-p031-k01-0",
+          "title": "教育目的",
+          "text": "（三）教育目的：\n中庸是最高的道德准则\n道德实践中，杜绝一切过激行为，以恰到好处为处\n中庸\n事原则。\n《中庸》\n（四）人自我完善\n“自诚明，谓之性”或“尊德性”。内发论，向内省察以助向外求知。\n相辅\n的两条途径\n“自明诚，谓之教”或“道问学”。外论，向外求知以完善本性。",
+          "keywords": [
+            "教育目的",
+            "中庸是最高的道德准则",
+            "《中庸》"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p031-k01-0-s2",
+          "knowledgeId": "china-p031-k01-0",
+          "title": "学习过程",
+          "text": "相成。\n博学之，审问之，慎思之，明辨之，笃行之。（知识获得的基本环节)\n（五）学习过程\n学：广泛地学习→问：详细追问真伪→思：分析、思考→辨：分辨问题，明确\n努力的方向→行：切实实行，观念行为统一。",
+          "keywords": [
+            "学习过程"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p031-k01-0-s3",
+          "knowledgeId": "china-p031-k01-0",
+          "title": "评价",
+          "text": "1.《中庸》提出了影响中国人性格的处世原则。《中庸》既是世界观也是方法论，是一\n种道德修养、为人处世的准则与方法。《中庸》要求人们行事表现出最大限度的妥帖。\n2.《中庸》引发了宋人对学习途径的再思考。“尊德性”与“道问学”是宋朝以后思\n（六）评价",
+          "keywords": [
+            "评价"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p031-k01-0-s4",
+          "knowledgeId": "china-p031-k01-0",
+          "title": "原文小步 5",
+          "text": "想家讨论较多的一些范畴，甚至形成了相对立的学派和思想。\n3.《中庸》总结了先秦时期的为学顺序。学、问、思、辨、行是对从孔子到荀子的\n先秦儒家学习过程的总结。朱熹将其列为《白鹿洞书院揭示》的重要规定。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p031-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "《中庸》 · 第23页（2）",
+        "section": "第三节战国后期的教育论著",
+        "refs": [
+          {
+            "page": 31,
+            "rect": [
+              0.27461,
+              0.54048,
+              0.62639,
+              0.0263
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 31496,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p031-k01-1-s0",
+          "knowledgeId": "china-p031-k01-1",
+          "title": "原文小步 6",
+          "text": "4.局限：中庸的思想具有保守性和缺乏锐气的弊端，对中国人的民族性格影响巨大。",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p031-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "《学记》 · 第23页",
+        "section": "第三节战国后期的教育论著",
+        "refs": [
+          {
+            "page": 31,
+            "rect": [
+              0.07971,
+              0.62526,
+              0.82061,
+              0.2362
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 31568,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p031-k02-0-s0",
+          "knowledgeId": "china-p031-k02-0",
+          "title": "简介",
+          "text": "（一）简介\n《学记》是中国、也是世界上最早的专门论述教育、教学问题的论著，被誉为“教育学的形”，\n是先秦时期儒家教育活动的所有总结。相传是孟子的学生乐正克所作。\n1.对个人：“玉不琢，不成器；人不学，不知道”。\n（二) 教育作用\n《学记》\n教育与政治结合。",
+          "keywords": [
+            "简介",
+            "教育作用",
+            "《学记》"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p031-k02-0-s1",
+          "knowledgeId": "china-p031-k02-0",
+          "title": "与目的",
+          "text": "2.对社会：“建国君民，教学为先”“化民成俗”。\n与目的\n教化人民，养成良好习俗。\n（1）学制：从中央到地方，按行政体制建学。古之教者，家有垫，\n党有庠，术有序，国有学。”\n（三）教育制度\n1.学制与学年\n(2）学年：两段、五级，九年→古代年级制的萌芽\n与学校管理",
+          "keywords": [
+            "与目的",
+            "教育制度",
+            "学制与学年"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p031-k02-0-s2",
+          "knowledgeId": "china-p031-k02-0",
+          "title": "原文小步 3",
+          "text": "八九大\n年\n三\n四五六七\n小\n成\n成\n级",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p032-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "《学记》 · 第24页（1）",
+        "section": "第三节战国后期的教育论著",
+        "refs": [
+          {
+            "page": 32,
+            "rect": [
+              0.10519,
+              0.08236,
+              0.8213,
+              0.45632
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 32079,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p032-k00-0-s0",
+          "knowledgeId": "china-p032-k00-0",
+          "title": "教育制度",
+          "text": "（1）视学：天子视察学宫。天子参加开学典礼，体现国家对\n教育的重视。\n(2）考试：德智兼重，循序渐进。\n第一年“视离经辨志”：考查阅读能力，看能否分析章句；\n考查品德方面，看是否确立了高尚的志向。\n(三) 教育制度",
+          "keywords": [
+            "教育制度"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p032-k00-0-s1",
+          "knowledgeId": "china-p032-k00-0",
+          "title": "视学与考试",
+          "text": "第三年“视敬业乐群”：考查对学业的态度是否专心致志和\n2.视学与考试\n与学校管理\n与同学相处能否团结友爱。\n凯程助记\n第五年“视博习亲师”：考查学识的广博程度和与教师是\n离群博学通。\n否亲密无间。\n第七年“视论学取友”（“小成”）：考查学术见解和交友择友。",
+          "keywords": [
+            "视学与考试",
+            "与学校管理",
+            "凯程助记"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p032-k00-0-s2",
+          "knowledgeId": "china-p032-k00-0",
+          "title": "原文小步 3",
+          "text": "第九年“知类通达，强立而不反”（“大成”）：考查学术上的\n融会贯通和志向上的坚定不移。\n1.预防性原则。“禁于未发之谓豫”“发然后禁，则扦格而不胜”。\n2.及时施教原则。“当其可之谓时”“时过而后学，则勤苦而难成”。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p032-k00-0-s3",
+          "knowledgeId": "china-p032-k00-0",
+          "title": "教育教学",
+          "text": "3.循序渐进原则。“不陵节而施之谓孙”“杂施而不孙，则坏乱而不修”“学不（lie）等”。\n4.学习观摩原则。“相观而善之谓摩。”\n5.长善救失原则。“学者有四失，教者必知之。人之学也，或失则多，或失则寡，\n（四）教育教学",
+          "keywords": [
+            "教育教学"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p032-k00-0-s4",
+          "knowledgeId": "china-p032-k00-0",
+          "title": "《学记》",
+          "text": "或失则易，或失则止。此四者，心之莫同也。知其心，然后\n原则\n能救其失也。”\n6.启发诱导原则。“道（导）而弗牵，强而弗抑，开而弗达”“君子之教，喻也”。\n《学记》\n7.藏息相辅原则。“藏焉修焉，息焉游焉”“时教必有正业，退息必有居学”。",
+          "keywords": [
+            "《学记》"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p032-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "《学记》 · 第24页（2）",
+        "section": "第三节战国后期的教育论著",
+        "refs": [
+          {
+            "page": 32,
+            "rect": [
+              0.17337,
+              0.50932,
+              0.75381,
+              0.40986
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 32468,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p032-k00-1-s0",
+          "knowledgeId": "china-p032-k00-1",
+          "title": "凯程助记",
+          "text": "8.教学相长原则。“虽有嘉肴，弗食，不知其旨也；虽有至道，弗学，不知其善也。\n是故学然后知不足，教然后知困。知不足，然后能自反也；知\n困，然后能自强也。故日：教学相长也。”\n凯程助记\n教学原则一“豫、时、孙、摩、善、启、藏、长”",
+          "keywords": [
+            "凯程助记"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p032-k00-1-s1",
+          "knowledgeId": "china-p032-k00-1",
+          "title": "教学方法",
+          "text": "1.讲解法。“约而达”（语言简约而意思通达）；“微而藏”（义理微妙而说得精善）；\n“罕臂而喻”（举少量典型的例证而使道理明白易晓）。\n2.问答法。教师提问先易后难，遵循问题的内在逻辑；而答问则应随其所问，有\n（五）教学方法",
+          "keywords": [
+            "教学方法"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p032-k00-1-s2",
+          "knowledgeId": "china-p032-k00-1",
+          "title": "原文小步 8",
+          "text": "针对性地作答，恰如其分，适可而止，无过与不及。\n3.练习法。依据学习的内容安排必要的练习，练习要有规范，并能逐步进行。\n4.类比法。“古之学者，比物丑类。”\n（1）“师严然后道尊，道尊然后民知敬学。”所有人都\n是教师教出来的，教育为治术就离不开好老师，所以",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p032-k00-1-s3",
+          "knowledgeId": "china-p032-k00-1",
+          "title": "尊师重教",
+          "text": "要“师严”\n一尊师。\n（六）尊师重教\n(2）“能为师然后能为长，能为长然后能为君。”把为\n1.尊师重教的原因\n与“教学相长”\n师、为长、为君视为一个逻辑过程，使为师成为为君\n的一种素质、一项使命，使尊师有了更丰富的内涵。",
+          "keywords": [
+            "尊师重教",
+            "尊师重教的原因",
+            "与“教学相长”"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p032-k00-1-s4",
+          "knowledgeId": "china-p032-k00-1",
+          "title": "原文小步 10",
+          "text": "（3）“师无当于五服，五服弗得不亲。”没有教师的教\n育引导，人们不会懂得相亲相爱。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p033-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "《学记》 · 第25页",
+        "section": "第三节战国后期的教育论著",
+        "refs": [
+          {
+            "page": 33,
+            "rect": [
+              0.08591,
+              0.08198,
+              0.82611,
+              0.39972
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 33079,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p033-k00-0-s0",
+          "knowledgeId": "china-p033-k00-0",
+          "title": "为师的要求",
+          "text": "（1）“记问之学，不足以为人师。只强调学识不足以成为老师。\n（2）“君子既知教之所由兴，又知教之所由废，然后可以\n为人师也。只有懂得教育成败的原理才可以为师。\n2. 为师的要求\n(3）“君子知至学之难易，而知其美恶，然后能博喻，能",
+          "keywords": [
+            "为师的要求"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p033-k00-0-s1",
+          "knowledgeId": "china-p033-k00-0",
+          "title": "尊师重教",
+          "text": "博喻然后能为师”指出善于在分析达成学习目标的难易程\n（六）尊师重教\n度和学生素质高下的基础上，采用各种有针对性的教学方\n法，可以为师。\n与“教学相长”\n一（1）原文：“虽有嘉肴，弗食，不知其旨也；虽有至道，弗",
+          "keywords": [
+            "尊师重教",
+            "与“教学相长”"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p033-k00-0-s2",
+          "knowledgeId": "china-p033-k00-0",
+          "title": "教学相长",
+          "text": "学，不知其善也。是故学然后知不足，教然后知困。知不足，\n3. 教学相长\n然后能自反也；知困，然后能自强也。故日：教学相长也。”\n《学记》\n（2）本义：教这一方的以教为学。\n（3）引申义：在教学过程中教师与学生双方相互促进、",
+          "keywords": [
+            "教学相长",
+            "《学记》"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p033-k00-0-s3",
+          "knowledgeId": "china-p033-k00-0",
+          "title": "评价",
+          "text": "共同提高。（以教为学→师生共促进、共提高）\n1.《学记》有丰富的古代课程思想。\n2.《学记》有丰富的古代教学思想。\n（七）评价\n3.《学记》有丰富的古代管理思想\n（1）承前：对先秦教育思想进行完善总结。\n4.《学记》有承前启后的典范作用",
+          "keywords": [
+            "评价"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p033-k00-0-s4",
+          "knowledgeId": "china-p033-k00-0",
+          "title": "原文小步 5",
+          "text": "（2）启后：为中国后世的教育传统奠定基础。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 4,
+    "knowledge": 21,
+    "steps": 78,
+    "readOnlySteps": 20,
+    "replacedDrafts": 8
+  }
+}

@@ -1,0 +1,1092 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch6-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch6-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "第六章内容框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 63,
+          "rect": [
+            0.3,
+            0.16,
+            0.43,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 63144,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-early-enlightenment",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "早期启蒙教育思想的一般特征",
+      "section": "考点一 · 理学教育思想的批判",
+      "refs": [
+        {
+          "page": 63,
+          "rect": [
+            0.15,
+            0.33,
+            0.72,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 63297,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-school",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "黄宗羲与“公其非是于学校”",
+      "section": "考点二 · 黄宗羲的教育思想 · （二）“公其非是于学校”",
+      "refs": [
+        {
+          "page": 63,
+          "rect": [
+            0.15,
+            0.59,
+            0.73,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 63531,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "黄宗羲论教育内容",
+      "section": "考点二 · 黄宗羲的教育思想 · （三）论教育内容",
+      "refs": [
+        {
+          "page": 63,
+          "rect": [
+            0.31,
+            0.75,
+            0.57,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 63675,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-teaching",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "黄宗羲论教学思想",
+      "section": "考点二 · 黄宗羲的教育思想 · （四）论教学思想",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.25,
+            0.04,
+            0.68,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64036,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-teacher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "黄宗羲论教师",
+      "section": "考点二 · 黄宗羲的教育思想 · （五）论教师",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.24,
+            0.2,
+            0.69,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64180,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-nature-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "王夫之的人性论与教育作用",
+      "section": "考点三 · 王夫之的教育思想 · （一）人性论、（二）教育作用",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.2,
+            0.39,
+            0.67,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64351,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teaching",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "王夫之论教学",
+      "section": "考点三 · 王夫之的教育思想 · （三）教学思想",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.27,
+            0.53,
+            0.57,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64477,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-moral",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "王夫之论德育",
+      "section": "考点三 · 王夫之的教育思想 · （四）德育论",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.28,
+            0.66,
+            0.56,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64594,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teacher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "王夫之论教师",
+      "section": "考点三 · 王夫之的教育思想 · （五）论教师",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.27,
+            0.75,
+            0.58,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64675,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-yan-intro-profit",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "颜元及其义利合一观",
+      "section": "考点四 · 颜元的教育思想 · （一）简介、（二）义利合一观",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.2,
+            0.81,
+            0.68,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64729,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch6-yan-practical",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-5",
+      "title": "颜元的实学思想",
+      "section": "考点四 · 颜元的教育思想 · （三）实学思想",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.2,
+            0.89,
+            0.68,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64801,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、引文和正文；学习方式由用户自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch6-outline-0",
+      "knowledgeId": "china-reviewed-ch6-outline",
+      "title": "四个考点",
+      "text": "本章框架依次为：理学教育思想的批判、黄宗羲的教育思想、王夫之的教育思想、颜元的教育思想。",
+      "keywords": [
+        "理学教育思想的批判",
+        "黄宗羲",
+        "王夫之",
+        "颜元"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-early-enlightenment-0",
+      "knowledgeId": "china-reviewed-ch6-early-enlightenment",
+      "title": "代表人物",
+      "text": "明清之际的早期启蒙思想家包括黄宗羲、顾炎武、王夫之、颜元。",
+      "keywords": [
+        "黄宗羲",
+        "顾炎武",
+        "王夫之",
+        "颜元"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-early-enlightenment-1",
+      "knowledgeId": "china-reviewed-ch6-early-enlightenment",
+      "title": "批判对象",
+      "text": "批判理学，反对“明天理，灭人欲”，反对空谈义理和呆板的教学方法。",
+      "keywords": [
+        "批判理学",
+        "反对灭人欲",
+        "反对空谈义理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-early-enlightenment-2",
+      "knowledgeId": "china-reviewed-ch6-early-enlightenment",
+      "title": "教育宗旨",
+      "text": "主张个性自由发展，认为教育要顺应人的本能要求。",
+      "keywords": [
+        "个性自由发展",
+        "顺应本能"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-early-enlightenment-3",
+      "knowledgeId": "china-reviewed-ch6-early-enlightenment",
+      "title": "教育目的",
+      "text": "培养经世致用的人才，提出“实才实德”的人格理想和教育目标。",
+      "keywords": [
+        "经世致用",
+        "实才实德"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-early-enlightenment-4",
+      "knowledgeId": "china-reviewed-ch6-early-enlightenment",
+      "title": "教育内容",
+      "text": "主张学习自然科学知识和技艺。",
+      "keywords": [
+        "自然科学",
+        "技艺"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-early-enlightenment-5",
+      "knowledgeId": "china-reviewed-ch6-early-enlightenment",
+      "title": "教育方法",
+      "text": "提倡积极实践，反对静坐和读书穷理的治学方法。",
+      "keywords": [
+        "积极实践",
+        "反对静坐",
+        "反对读书穷理"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-early-enlightenment-6",
+      "knowledgeId": "china-reviewed-ch6-early-enlightenment",
+      "title": "选士主张",
+      "text": "指出科举制度束缚人性。",
+      "keywords": [
+        "科举制度",
+        "束缚人性"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-school-0",
+      "knowledgeId": "china-reviewed-ch6-huang-school",
+      "title": "人物简介",
+      "text": "黄宗羲是我国明末清初具有民主教育色彩的教育家。",
+      "keywords": [
+        "明末清初",
+        "民主教育色彩"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-school-1",
+      "knowledgeId": "china-reviewed-ch6-huang-school",
+      "title": "学校职能",
+      "text": "学校不仅应培养人才、改进社会风气，还应成为议论国家政事的场所。",
+      "keywords": [
+        "培养人才",
+        "改进风气",
+        "议论政事"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-school-2",
+      "knowledgeId": "china-reviewed-ch6-huang-school",
+      "title": "基本内涵",
+      "text": "“公其非是于学校”：学校应该成为大家共同议论国家政事之是非标准的地方。",
+      "keywords": [
+        "公其非是于学校",
+        "议论是非"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-school-3",
+      "knowledgeId": "china-reviewed-ch6-huang-school",
+      "title": "实施措施",
+      "text": "一要普及教育，二要把讲学和议政紧密结合。",
+      "keywords": [
+        "普及教育",
+        "讲学议政结合"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-content-0",
+      "knowledgeId": "china-reviewed-ch6-huang-content",
+      "title": "经术为本",
+      "text": "“学必原本于经术”，学问必须以经学为根底。",
+      "keywords": [
+        "学必原本于经术",
+        "经学根底"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-content-1",
+      "knowledgeId": "china-reviewed-ch6-huang-content",
+      "title": "经史并重",
+      "text": "“不为迂儒，必兼读史”，重视史学传授，认为史学具有经世致用的意义。",
+      "keywords": [
+        "不为迂儒",
+        "兼读史",
+        "经世致用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-content-2",
+      "knowledgeId": "china-reviewed-ch6-huang-content",
+      "title": "兼通百家",
+      "text": "教授诗文，必须兼通经史百家之学。",
+      "keywords": [
+        "诗文",
+        "经史百家"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-content-3",
+      "knowledgeId": "china-reviewed-ch6-huang-content",
+      "title": "自然科学",
+      "text": "传授天文、数学、地理等自然科学知识，是对中国古代科技教育传统的继承和发展。",
+      "keywords": [
+        "天文",
+        "数学",
+        "地理",
+        "科技教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-teaching-0",
+      "knowledgeId": "china-reviewed-ch6-huang-teaching",
+      "title": "力学致知",
+      "text": "主张通过躬行实践求知，即“力学致知”。",
+      "keywords": [
+        "躬行实践",
+        "力学致知"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-teaching-1",
+      "knowledgeId": "china-reviewed-ch6-huang-teaching",
+      "title": "学贵适用",
+      "text": "只有学问与事功相结合、学用一致，才是真儒。",
+      "keywords": [
+        "学贵适用",
+        "学问事功",
+        "学用一致"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-teaching-2",
+      "knowledgeId": "china-reviewed-ch6-huang-teaching",
+      "title": "学贵独创",
+      "text": "读书要“由博致精”，重视“异同之论”，做到深思能疑，并开展讨论辩难。",
+      "keywords": [
+        "由博致精",
+        "异同之论",
+        "深思能疑",
+        "讨论辩难"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-teacher-0",
+      "knowledgeId": "china-reviewed-ch6-huang-teacher",
+      "title": "慎重师道",
+      "text": "慎重师道、主张尊师，对改变士人浮夸学风和“轻自为师”的社会风气具有积极作用。",
+      "keywords": [
+        "慎重师道",
+        "尊师",
+        "轻自为师"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-teacher-1",
+      "knowledgeId": "china-reviewed-ch6-huang-teacher",
+      "title": "教师议政",
+      "text": "太学祭酒讲学时应议论朝政，做到“无玷清议”；若“政有缺失”，则“直言无讳”。",
+      "keywords": [
+        "无玷清议",
+        "政有缺失",
+        "直言无讳"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-huang-teacher-2",
+      "knowledgeId": "china-reviewed-ch6-huang-teacher",
+      "title": "郡县公议",
+      "text": "地方官学的学官应由“郡县公议”选拔；有才能者不论是否为官，均可担任教师。",
+      "keywords": [
+        "郡县公议",
+        "选拔教师",
+        "不论是否为官"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-nature-role-0",
+      "knowledgeId": "china-reviewed-ch6-wang-nature-role",
+      "title": "人性论",
+      "text": "人性“日生日成”：人性并非一成不变，而是处在不断变化发展的过程中。",
+      "keywords": [
+        "日生日成",
+        "变化发展"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-nature-role-1",
+      "knowledgeId": "china-reviewed-ch6-wang-nature-role",
+      "title": "对个人",
+      "text": "教育能够“继善成性”和去除“恶习”。",
+      "keywords": [
+        "继善成性",
+        "去除恶习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-nature-role-2",
+      "knowledgeId": "china-reviewed-ch6-wang-nature-role",
+      "title": "对社会",
+      "text": "教育是治国之本。",
+      "keywords": [
+        "治国之本"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teaching-0",
+      "knowledgeId": "china-reviewed-ch6-wang-teaching",
+      "title": "因人而进",
+      "text": "“因人而进”，即因材施教。",
+      "keywords": [
+        "因人而进",
+        "因材施教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teaching-1",
+      "knowledgeId": "china-reviewed-ch6-wang-teaching",
+      "title": "施之有序",
+      "text": "“施之有序”，即按照顺序教学。",
+      "keywords": [
+        "施之有序",
+        "顺序教学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teaching-2",
+      "knowledgeId": "china-reviewed-ch6-wang-teaching",
+      "title": "学思相资",
+      "text": "学与思“相资以为功”，即学思结合。",
+      "keywords": [
+        "相资以为功",
+        "学思结合"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teaching-3",
+      "knowledgeId": "china-reviewed-ch6-wang-teaching",
+      "title": "学习自觉",
+      "text": "强调学习的自觉性。",
+      "keywords": [
+        "学习自觉性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-moral-0",
+      "knowledgeId": "china-reviewed-ch6-wang-moral",
+      "title": "道德观",
+      "text": "“天理”存在于“人欲”之中。",
+      "keywords": [
+        "天理",
+        "人欲"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-moral-1",
+      "knowledgeId": "china-reviewed-ch6-wang-moral",
+      "title": "德育方法",
+      "text": "强调立志，主张自得，重视力行。",
+      "keywords": [
+        "立志",
+        "自得",
+        "力行"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teacher-0",
+      "knowledgeId": "china-reviewed-ch6-wang-teacher",
+      "title": "必恒其教事",
+      "text": "教师应当热爱教育工作，乐意精心培育人才。",
+      "keywords": [
+        "必恒其教事",
+        "热爱教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teacher-1",
+      "knowledgeId": "china-reviewed-ch6-wang-teacher",
+      "title": "明人者先自明",
+      "text": "教师只有知识渊博并深刻领会道理，才能胜任教育工作。",
+      "keywords": [
+        "明人者先自明",
+        "知识渊博",
+        "领会道理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-wang-teacher-2",
+      "knowledgeId": "china-reviewed-ch6-wang-teacher",
+      "title": "正言正行正教",
+      "text": "教师应“正言”“正行”“正教”，重视以身作则、言传身教的榜样作用。",
+      "keywords": [
+        "正言",
+        "正行",
+        "正教",
+        "以身作则"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-yan-intro-profit-0",
+      "knowledgeId": "china-reviewed-ch6-yan-intro-profit",
+      "title": "人物与实践",
+      "text": "颜元是明末清初的思想家和教育家，创办漳南书院，形成实学教育理论体系。",
+      "keywords": [
+        "颜元",
+        "漳南书院",
+        "实学教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-yan-intro-profit-1",
+      "knowledgeId": "china-reviewed-ch6-yan-intro-profit",
+      "title": "义利合一",
+      "text": "“正其谊（义）以谋其利，明其道而计其功。”",
+      "keywords": [
+        "正义谋利",
+        "明道计功"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-yan-practical-0",
+      "knowledgeId": "china-reviewed-ch6-yan-practical",
+      "title": "教育目标",
+      "text": "培养“实才实德之士”。",
+      "keywords": [
+        "实才实德"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-yan-practical-1",
+      "knowledgeId": "china-reviewed-ch6-yan-practical",
+      "title": "教育内容",
+      "text": "学习“真学”“实学”，实行“六斋”教学。",
+      "keywords": [
+        "真学",
+        "实学",
+        "六斋"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch6-yan-practical-2",
+      "knowledgeId": "china-reviewed-ch6-yan-practical",
+      "title": "教育方法",
+      "text": "强调“习行”，把读书、讲学同练习和躬行实践结合。",
+      "keywords": [
+        "习行",
+        "练习",
+        "躬行实践"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p063-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-5",
+        "title": "理学教育思想的批判 · 第55页",
+        "section": "",
+        "refs": [
+          {
+            "page": 63,
+            "rect": [
+              0.08397,
+              0.35345,
+              0.82103,
+              0.17431
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 63323,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p063-k02-0-s0",
+          "knowledgeId": "china-p063-k02-0",
+          "title": "理学教育思想的批判",
+          "text": "理学教育思想的批判\n明清之际的早期启蒙思想家\n黄宗羲、顾炎武、王夫之、颜元。\n1.批判：批判理学。反对“明天理，灭人欲”，反对空谈义理、呆板的教学方法。\n2.教育宗旨：主张个性自由发展。认为教育要顺应人的本能要求。\n（二）早期启蒙",
+          "keywords": [
+            "理学教育思想的批判",
+            "明清之际的早期启蒙思想家",
+            "早期启蒙"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p063-k02-0-s1",
+          "knowledgeId": "china-p063-k02-0",
+          "title": "思想的一般特征",
+          "text": "3.教育目的：培养经世致用的人才。提出“实才实德”的人格理想和教育目标。\n思想的一般特征\n4.教育内容：主张学习自然科学知识和技艺。\n5.教育方法：提倡积极实践。反对理学家主张静坐、读书穷理的治学方法。\n6.选士方面：指出科举制度束缚人性。",
+          "keywords": [
+            "思想的一般特征"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p063-k03-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-5",
+        "title": "黄宗羲的教育思想 · 第55页",
+        "section": "",
+        "refs": [
+          {
+            "page": 63,
+            "rect": [
+              0.09569,
+              0.5685,
+              0.81069,
+              0.24856
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 63517,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p063-k03-0-s0",
+          "knowledgeId": "china-p063-k03-0",
+          "title": "简介",
+          "text": "(一） 简介\n黄宗羲是我国明末清初具有民主教育色彩的教育家。他认为学校不仅应具有培养人\n才、改进社会风气的职能，还应该成为议论国家政事的场所。\n1.内涵：学校应该是大家共同议论国家政事之是非标准的地方。\n黄宗羲\n（二）“公其非是于学校”\n（1）普及教育。\n2.措施",
+          "keywords": [
+            "简介",
+            "黄宗羲",
+            "“公其非是于学校”"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p063-k03-0-s1",
+          "knowledgeId": "china-p063-k03-0",
+          "title": "论教育内容",
+          "text": "（2）学校必须将讲学和议政紧密结合。\n“学必原本于经术”。学问必须以经学为根底。\n2.“不为迁儒，必兼读史”。重视史学的传授，认为史学具有经世致用的意义。\n（三）论教育内容\n3.教授诗文。必须兼通经史百家之学。",
+          "keywords": [
+            "论教育内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p063-k03-0-s2",
+          "knowledgeId": "china-p063-k03-0",
+          "title": "原文小步 3",
+          "text": "4.传授天文、数学、地理等自然科学知识。是对中国古代科技教育传统的\n继承和发展。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p064-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-5",
+        "title": "黄宗羲的教育思想 · 第56页",
+        "section": "",
+        "refs": [
+          {
+            "page": 64,
+            "rect": [
+              0.09224,
+              0.08463,
+              0.82449,
+              0.23013
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 64081,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p064-k00-0-s0",
+          "knowledgeId": "china-p064-k00-0",
+          "title": "论教学思想",
+          "text": "1.力学致知：黄宗羲主张躬行实践以求知，力学致知。\n2.学贵适用：只有学问与事功相结合，学用一致，方是真儒。\n（四）论教学思想\n3.学贵独创：读书要“由博致精”，要重视“异同之论”，要深思与能疑，要\n讨论辩难。\n黄宗羲",
+          "keywords": [
+            "论教学思想",
+            "黄宗羲"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p064-k00-0-s1",
+          "knowledgeId": "china-p064-k00-0",
+          "title": "论教师",
+          "text": "1.慎重师道，主张尊师。对改变当时士人浮夸的学风和“轻自为师”的社会风气，\n起了积极作用。\n2.教师议政，“无玷清议”。太学祭酒在讲学时，应该议论朝政，若“政有缺失”，则“直\n（五）论教师\n言无讳”。",
+          "keywords": [
+            "论教师"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p064-k00-0-s2",
+          "knowledgeId": "china-p064-k00-0",
+          "title": "原文小步 3",
+          "text": "3.“郡县公议”，选拔教师。地方官学的学官，应该由“郡县公议”产生，对于有\n才能的人，不论是否为官，皆可以担任教师之职。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p064-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-5",
+        "title": "王夫之的教育思想 · 第56页",
+        "section": "",
+        "refs": [
+          {
+            "page": 64,
+            "rect": [
+              0.10052,
+              0.35601,
+              0.82724,
+              0.30847
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 64325,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p064-k01-0-s0",
+          "knowledgeId": "china-p064-k01-0",
+          "title": "人性论",
+          "text": "人性“日生日成”。王夫之认为，人性不是一成不变的，而是处在不断的变化\n（一）人性论\n发展过程之中。\n对个人：继善成性和去除“恶习”。\n二\n教育作用\n对社会：治国之本。\n1.“因人而进”，即因材施教。\n2.“施之有序”，即按顺序教学。\n王夫之\n（三）教学思想",
+          "keywords": [
+            "人性论",
+            "教育作用",
+            "对社会：治国之本"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p064-k01-0-s1",
+          "knowledgeId": "china-p064-k01-0",
+          "title": "强调学习的自觉性",
+          "text": "3.学思“相资以为功”，即学思结合。\n4.强调学习的自觉性。\n1道德观：“天理”存在于“人欲”之中。\n（四）德育论\n2.德育方法：强调立志；主张自得；重视力行。\n1.“必恒其教事”。教师应该热爱教育工作，乐意精心培育人才。",
+          "keywords": [
+            "强调学习的自觉性",
+            "德育论"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p064-k01-0-s2",
+          "knowledgeId": "china-p064-k01-0",
+          "title": "论教师",
+          "text": "2.“明人者先自明”。教师只有具备了渊博的知识，深刻领会了道理，才能胜\n（五）论教师\n任教育工作。\n3.要“正言”“正行”“正教”。重视教师以身作则、言传身教的榜样作用。",
+          "keywords": [
+            "论教师"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p064-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-5",
+        "title": "颜元的教育思想 · 第56页",
+        "section": "",
+        "refs": [
+          {
+            "page": 64,
+            "rect": [
+              0.10879,
+              0.7088,
+              0.78862,
+              0.14718
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 64643,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p064-k02-0-s0",
+          "knowledgeId": "china-p064-k02-0",
+          "title": "简介",
+          "text": "（一）简介\n颜元是明末清初杰出的唯物主义思想家和教育家。他主张实学教\n育理论体系，创办了漳南书院。\n颜元\n（二）义利合一观\n“正其谊（义）以谋其利，明其道而计其功。”\n1.教育目标：“实才实德之士”。\n（三）实学思想\n2.教育内容：“真学”“实学”与“六斋”。",
+          "keywords": [
+            "简介",
+            "义利合一观",
+            "实学思想"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p064-k02-0-s1",
+          "knowledgeId": "china-p064-k02-0",
+          "title": "教育方法：“习行”",
+          "text": "（详见第五章第一节考点三\n3.教育方法：“习行”。\n的“漳南书院”）",
+          "keywords": [
+            "教育方法：“习行”"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 3,
+    "knowledge": 12,
+    "steps": 39,
+    "memorizeSteps": 39,
+    "readOnlySteps": 0,
+    "replacedDrafts": 5,
+    "retainedReferences": 1
+  }
+}

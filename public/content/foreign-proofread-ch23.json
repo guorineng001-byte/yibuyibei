@@ -1,0 +1,2039 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch23-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch23-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "日本的近现代教育制度：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 165,
+          "rect": [
+            0.07,
+            0.665,
+            0.86,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 165598,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "明治维新教育改革",
+      "section": "第一节 · 19世纪的日本近代教育概况 · 考点一",
+      "refs": [
+        {
+          "page": 166,
+          "rect": [
+            0.07,
+            0.175,
+            0.86,
+            0.433
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 166157,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-comparison",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "明治维新教育改革与洋务运动教育改革对比表",
+      "section": "凯程深化 · 不同点与相同点",
+      "refs": [
+        {
+          "page": 166,
+          "rect": [
+            0.07,
+            0.646,
+            0.86,
+            0.28
+          ]
+        },
+        {
+          "page": 167,
+          "rect": [
+            0.07,
+            0.087,
+            0.86,
+            0.115
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 166581,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch23-rescript",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "《教育敕语》（1890年）",
+      "section": "第二节 · 20世纪上半叶的日本现代教育制度 · （一）",
+      "refs": [
+        {
+          "page": 167,
+          "rect": [
+            0.07,
+            0.239,
+            0.86,
+            0.7
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 167215,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-university-order",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "《大学令》（1918年）",
+      "section": "第二节 · （二）",
+      "refs": [
+        {
+          "page": 167,
+          "rect": [
+            0.07,
+            0.285,
+            0.86,
+            0.079
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 167256,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-militarism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "军国主义教育体制的形成和发展",
+      "section": "第二节 · （三）",
+      "refs": [
+        {
+          "page": 167,
+          "rect": [
+            0.07,
+            0.375,
+            0.86,
+            0.032
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 167337,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "1947年《教育基本法》和《学校教育法》",
+      "section": "第三节 · 20世纪下半叶的日本现代教育制度 · 考点一 · 20世纪40年代的教育改革",
+      "refs": [
+        {
+          "page": 167,
+          "rect": [
+            0.07,
+            0.481,
+            0.86,
+            0.375
+          ]
+        },
+        {
+          "page": 168,
+          "rect": [
+            0.07,
+            0.078,
+            0.86,
+            0.174
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 167432,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-law-memory",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "《教育基本法》助记图",
+      "section": "第三节 · 考点一 · 凯程助记",
+      "refs": [
+        {
+          "page": 168,
+          "rect": [
+            0.07,
+            0.272,
+            0.86,
+            0.174
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 168244,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1950s",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "20世纪50—60年代的教育改革",
+      "section": "第三节 · 考点二",
+      "refs": [
+        {
+          "page": 168,
+          "rect": [
+            0.07,
+            0.482,
+            0.86,
+            0.104
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 168433,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "《关于今后学校教育综合扩充、整顿的基本措施》",
+      "section": "第三节 · 考点三 · 20世纪70年代的教育改革",
+      "refs": [
+        {
+          "page": 168,
+          "rect": [
+            0.07,
+            0.633,
+            0.86,
+            0.263
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 168569,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1980s",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "20世纪80年代的教育改革",
+      "section": "第三节 · 考点四",
+      "refs": [
+        {
+          "page": 169,
+          "rect": [
+            0.07,
+            0.113,
+            0.86,
+            0.179
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 169101,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "20世纪90年代的教育改革",
+      "section": "第三节 · 考点五",
+      "refs": [
+        {
+          "page": 169,
+          "rect": [
+            0.07,
+            0.35,
+            0.86,
+            0.58
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 169315,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-solid-learning",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "扎实学力教育",
+      "section": "凯程深化",
+      "refs": [
+        {
+          "page": 170,
+          "rect": [
+            0.07,
+            0.111,
+            0.86,
+            0.092
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 170099,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch23-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "日本的近现代教育制度总结表",
+      "section": "全章总结",
+      "refs": [
+        {
+          "page": 170,
+          "rect": [
+            0.07,
+            0.21,
+            0.86,
+            0.523
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 170189,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-22",
+      "title": "近现代各国教育改革发展趋势",
+      "section": "法案总结",
+      "refs": [
+        {
+          "page": 170,
+          "rect": [
+            0.07,
+            0.755,
+            0.86,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 170679,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch23-meiji-0",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "（一）简介",
+      "text": "日本封建制衰微，为了赶上西方国家，在明治维新改革中进行了全方位的教育改革。",
+      "keywords": [
+        "封建制衰微",
+        "赶上西方",
+        "全方位"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-1",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "1.指导思想",
+      "text": "“文明开化”和“和魂洋才”。“和魂洋才”依据本页对比表补全正文中的漏字。",
+      "keywords": [
+        "文明开化",
+        "和魂洋才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. 指导思想",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-2",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "教育管理总述",
+      "text": "实行中央集权式管理。",
+      "keywords": [
+        "中央集权"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 教育管理"
+      ],
+      "displayTitle": "中央集权式管理",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-3",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "（1）文部省",
+      "text": "设立文部省，标志着日本中央集权教育管理制度得以实行。",
+      "keywords": [
+        "文部省",
+        "中央集权"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 教育管理"
+      ],
+      "displayTitle": "（1）设立文部省",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-4",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "（2）学制令",
+      "text": "颁布《学制令》，原书称其为日本近代第一个教育改革法令，效仿法国大学区制。",
+      "keywords": [
+        "学制令",
+        "法国大学区制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 教育管理"
+      ],
+      "displayTitle": "（2）颁布《学制令》",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-5",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "初等教育机构",
+      "text": "寻常小学、高等小学、简易小学。",
+      "keywords": [
+        "寻常小学",
+        "高等小学",
+        "简易小学"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（1）初等教育"
+      ],
+      "displayTitle": "①机构",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-6",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "初等教育课程",
+      "text": "设立近代化课程体系。",
+      "keywords": [
+        "近代化课程体系"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（1）初等教育"
+      ],
+      "displayTitle": "②课程",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-7",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "中等教育①",
+      "text": "明治维新教育改革催生近代中学，包括普通中学（寻常中学、高等中学）。",
+      "keywords": [
+        "近代中学",
+        "普通中学",
+        "寻常中学",
+        "高等中学"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（2）中等教育：催生近代中学"
+      ],
+      "displayTitle": "①普通中学",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-8",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "中等教育②",
+      "text": "实业中学。",
+      "keywords": [
+        "实业中学"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（2）中等教育：催生近代中学"
+      ],
+      "displayTitle": "②实业中学",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-9",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "中等教育③",
+      "text": "女子中学。",
+      "keywords": [
+        "女子中学"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（2）中等教育：催生近代中学"
+      ],
+      "displayTitle": "③女子中学",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-10",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "高等教育",
+      "text": "东京大学；其他大学包括公立大学、私立大学、高等专科学校。",
+      "keywords": [
+        "东京大学",
+        "公立大学",
+        "私立大学",
+        "高等专科学校"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设"
+      ],
+      "displayTitle": "（3）高等教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-11",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "师范教育①",
+      "text": "师范养成所。",
+      "keywords": [
+        "师范养成所"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（4）师范教育"
+      ],
+      "displayTitle": "①师范养成所",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-12",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "师范教育②",
+      "text": "寻常师范学校。",
+      "keywords": [
+        "寻常师范学校"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（4）师范教育"
+      ],
+      "displayTitle": "②寻常师范学校",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-13",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "师范教育③",
+      "text": "高等师范学校。",
+      "keywords": [
+        "高等师范学校"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（4）师范教育"
+      ],
+      "displayTitle": "③高等师范学校",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-14",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "师范教育④",
+      "text": "女子师范学校。",
+      "keywords": [
+        "女子师范学校"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设",
+        "（4）师范教育"
+      ],
+      "displayTitle": "④女子师范学校",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-15",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "其他改革",
+      "text": "派遣留学生，聘请洋教习。",
+      "keywords": [
+        "留学生",
+        "洋教习"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "3. 学制建设"
+      ],
+      "displayTitle": "（5）其他改革",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-16",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "1.对政治",
+      "text": "使日本转型为资本主义国家，走向国富民强。",
+      "keywords": [
+        "资本主义",
+        "国富民强"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 对政治",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-17",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "2.对教育",
+      "text": "开创了“教育先行”的成功经验。",
+      "keywords": [
+        "教育先行"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 对教育",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-meiji-18",
+      "knowledgeId": "foreign-reviewed-ch23-meiji",
+      "title": "3.局限性",
+      "text": "表现出浓厚的军国主义色彩。",
+      "keywords": [
+        "军国主义"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "3. 局限性",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-rescript-0",
+      "knowledgeId": "foreign-reviewed-ch23-rescript",
+      "title": "总纲领与性质",
+      "text": "《教育敕语》是日本近代教育的总纲领，加重了封建主义和军国主义的色彩。",
+      "keywords": [
+        "总纲领",
+        "封建主义",
+        "军国主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "总纲领与性质"
+    },
+    {
+      "id": "foreign-reviewed-ch23-rescript-1",
+      "knowledgeId": "foreign-reviewed-ch23-rescript",
+      "title": "原书编排说明",
+      "text": "《教育敕语》实际于19世纪末期颁布；原书脚注说明，由于它对20世纪初期的日本有重要影响，大纲将此知识点放在20世纪上半叶学习。",
+      "keywords": [
+        "1890年",
+        "19世纪末",
+        "20世纪初影响"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "原书脚注：年代与编排"
+    },
+    {
+      "id": "foreign-reviewed-ch23-university-order-0",
+      "knowledgeId": "foreign-reviewed-ch23-university-order",
+      "title": "1.培养人才",
+      "text": "培养大批学术人才与技术人才。",
+      "keywords": [
+        "学术人才",
+        "技术人才"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 培养人才"
+    },
+    {
+      "id": "foreign-reviewed-ch23-university-order-1",
+      "knowledgeId": "foreign-reviewed-ch23-university-order",
+      "title": "2.办学主体",
+      "text": "除了国立大学，还允许设立私立大学和地方公立大学。",
+      "keywords": [
+        "国立",
+        "私立",
+        "地方公立"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 办学主体"
+    },
+    {
+      "id": "foreign-reviewed-ch23-university-order-2",
+      "knowledgeId": "foreign-reviewed-ch23-university-order",
+      "title": "3.学校类型",
+      "text": "日本出现了规模较大的综合性大学、单科大学、私立大学、高等专科学校。",
+      "keywords": [
+        "综合性大学",
+        "单科大学",
+        "私立大学",
+        "高等专科学校"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 学校类型"
+    },
+    {
+      "id": "foreign-reviewed-ch23-militarism-0",
+      "knowledgeId": "foreign-reviewed-ch23-militarism",
+      "title": "原书学习范围",
+      "text": "本节列出“军国主义教育体制的形成和发展”，原书注明“知道标题即可”。",
+      "keywords": [
+        "军国主义教育体制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "原书学习范围"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-0",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "（一）简介",
+      "text": "“二战”后，日本宣布放弃军国主义政策。为了和平与经济发展，日本继承明治时期优先发展教育的传统，于1947年颁布《教育基本法》和《学校教育法》，推出教育发展新蓝图。",
+      "keywords": [
+        "1947年",
+        "和平与经济",
+        "优先发展教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-1",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "教育基本法（1）目标",
+      "text": "教育必须以陶冶人格为目标，培养和平的国家及社会的建设者。",
+      "keywords": [
+        "陶冶人格",
+        "和平建设者"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1.《教育基本法》：原则、宗旨"
+      ],
+      "displayTitle": "（1）教育目标",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-2",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "教育基本法（2）义务教育",
+      "text": "全体国民接受9年义务教育。",
+      "keywords": [
+        "全体国民",
+        "9年义务教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1.《教育基本法》：原则、宗旨"
+      ],
+      "displayTitle": "（2）义务教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-3",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "教育基本法（3）学术自由",
+      "text": "尊重学术自由。",
+      "keywords": [
+        "学术自由"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1.《教育基本法》：原则、宗旨"
+      ],
+      "displayTitle": "（3）学术自由",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-4",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "教育基本法（4）理智国民",
+      "text": "培养有理智的国民，不搞党派宣传。",
+      "keywords": [
+        "理智国民",
+        "不搞党派宣传"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1.《教育基本法》：原则、宗旨"
+      ],
+      "displayTitle": "（4）理智国民",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-5",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "教育基本法（5）宗教教育",
+      "text": "公立学校禁止宗教教育。",
+      "keywords": [
+        "公立学校",
+        "禁止宗教教育"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1.《教育基本法》：原则、宗旨"
+      ],
+      "displayTitle": "（5）宗教教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-6",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "教育基本法（6）教育平等",
+      "text": "教育机会均等，男女同校。",
+      "keywords": [
+        "机会均等",
+        "男女同校"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1.《教育基本法》：原则、宗旨"
+      ],
+      "displayTitle": "（6）教育平等",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-7",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "教育基本法（7）教师",
+      "text": "尊重教师，提高教师的社会地位，保证教师享有良好的待遇。",
+      "keywords": [
+        "尊重教师",
+        "社会地位",
+        "良好待遇"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1.《教育基本法》：原则、宗旨"
+      ],
+      "displayTitle": "（7）教师",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-8",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "教育基本法（8）家庭与社会教育",
+      "text": "鼓励发展家庭教育和社会教育。",
+      "keywords": [
+        "家庭教育",
+        "社会教育"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1.《教育基本法》：原则、宗旨"
+      ],
+      "displayTitle": "（8）家庭与社会教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-9",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "学校教育法（1）管理",
+      "text": "废除中央集权制，实行地方分权。",
+      "keywords": [
+        "废除中央集权",
+        "地方分权"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2.《学校教育法》：具体改革措施"
+      ],
+      "displayTitle": "（1）管理",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-10",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "学校教育法（2）学制",
+      "text": "六三三四单轨学制，延长义务教育年限，教育机会均等，男女同校。",
+      "keywords": [
+        "六三三四",
+        "单轨",
+        "义务教育",
+        "机会均等"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2.《学校教育法》：具体改革措施"
+      ],
+      "displayTitle": "（2）学制",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-11",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "学校教育法（3）高中",
+      "text": "高中以实施普通教育和专门教育为目的，分为单科高中制（职业高中）和综合制高中（普通升学类的高中）两类。",
+      "keywords": [
+        "普通与专门教育",
+        "单科高中",
+        "综合制高中"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2.《学校教育法》：具体改革措施"
+      ],
+      "displayTitle": "（3）高中",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-12",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "学校教育法（4）大学",
+      "text": "将原来多种类型的高等教育机构统一为单一类型的大学。建立研究型大学，培养学生研究能力。",
+      "keywords": [
+        "单一类型大学",
+        "研究型大学",
+        "研究能力"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2.《学校教育法》：具体改革措施"
+      ],
+      "displayTitle": "（4）大学",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-13",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "1.共同意义",
+      "text": "否定了战时军国主义教育政策，为战后日本教育指明了发展的方向。",
+      "keywords": [
+        "否定军国主义",
+        "发展方向"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 两个法案的共同意义",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-14",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "2.教育基本法意义",
+      "text": "日本教育史上划时代的教育文献，首次以立法的形式确定了日本教育和平与民主的性质，以法律主义取代敕令主义。",
+      "keywords": [
+        "和平与民主",
+        "法律主义",
+        "敕令主义"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2.《教育基本法》意义",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-laws1947-15",
+      "knowledgeId": "foreign-reviewed-ch23-laws1947",
+      "title": "3.学校教育法意义",
+      "text": "为战后日本教育的系统化改革提供了有力的法律保证。",
+      "keywords": [
+        "系统化改革",
+        "法律保证"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "3.《学校教育法》意义",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1950s-0",
+      "knowledgeId": "foreign-reviewed-ch23-reform1950s",
+      "title": "（一）经济与教育",
+      "text": "日本推出系列法案，都把经济发展与教育紧密结合。",
+      "keywords": [
+        "经济发展",
+        "教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）经济与教育"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1950s-1",
+      "knowledgeId": "foreign-reviewed-ch23-reform1950s",
+      "title": "（二）职业教育总述",
+      "text": "振兴职业教育，颁布《产业教育振兴法》。",
+      "keywords": [
+        "职业教育",
+        "产业教育振兴法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）振兴职业教育"
+      ],
+      "displayTitle": "法案",
+      "outline": "（二）振兴职业教育"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1950s-2",
+      "knowledgeId": "foreign-reviewed-ch23-reform1950s",
+      "title": "1.职业高中",
+      "text": "充实职业高中的发展。",
+      "keywords": [
+        "职业高中"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）振兴职业教育"
+      ],
+      "displayTitle": "1. 职业高中",
+      "outline": "（二）振兴职业教育"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1950s-3",
+      "knowledgeId": "foreign-reviewed-ch23-reform1950s",
+      "title": "2.普通高中",
+      "text": "开设职业课程，供学生选修。",
+      "keywords": [
+        "职业课程",
+        "选修"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）振兴职业教育"
+      ],
+      "displayTitle": "2. 普通高中",
+      "outline": "（二）振兴职业教育"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1950s-4",
+      "knowledgeId": "foreign-reviewed-ch23-reform1950s",
+      "title": "（三）应试教育",
+      "text": "出现“应试教育”；应试教育占统治地位，人们抱怨学校是“考试地狱”。",
+      "keywords": [
+        "应试教育",
+        "考试地狱"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）应试教育"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-0",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "（一）简介",
+      "text": "1971年提出，报告主要涉及中小学教育和高等教育方面的改革。",
+      "keywords": [
+        "1971年",
+        "中小学",
+        "高等教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-1",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "中小学（1）终身教育",
+      "text": "为每一个人的终身成长与发展打下基础。",
+      "keywords": [
+        "终身成长",
+        "发展基础"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 中小学三目标"
+      ],
+      "displayTitle": "（1）终身教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-2",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "中小学（2）机会均等",
+      "text": "提高公立学校课程水平，提供均等的教育机会。",
+      "keywords": [
+        "课程水平",
+        "机会均等"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 中小学三目标"
+      ],
+      "displayTitle": "（2）机会均等",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-3",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "中小学（3）培养教师",
+      "text": "保证教育者具备较高水平和特长，具有职业认同感。",
+      "keywords": [
+        "水平与特长",
+        "职业认同"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 中小学三目标"
+      ],
+      "displayTitle": "（3）培养教师",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-4",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "高等教育（1）核心",
+      "text": "提供教育机会，提高学术水平。",
+      "keywords": [
+        "教育机会",
+        "学术水平"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育五目标"
+      ],
+      "displayTitle": "（1）核心",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-5",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "高等教育（2）课程",
+      "text": "激发潜能。",
+      "keywords": [
+        "激发潜能"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育五目标"
+      ],
+      "displayTitle": "（2）课程",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-6",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "高等教育（3）教学",
+      "text": "学术自由。",
+      "keywords": [
+        "学术自由"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育五目标"
+      ],
+      "displayTitle": "（3）教学",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-7",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "高等教育（4）服务1",
+      "text": "提升开放水平。",
+      "keywords": [
+        "开放水平"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育五目标"
+      ],
+      "displayTitle": "（4）服务1",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-8",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "高等教育（5）服务2",
+      "text": "满足社会需要。",
+      "keywords": [
+        "社会需要"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育五目标"
+      ],
+      "displayTitle": "（5）服务2",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1971-9",
+      "knowledgeId": "foreign-reviewed-ch23-reform1971",
+      "title": "（三）评价",
+      "text": "20世纪70年代的纲领性文件，是继明治维新和《教育基本法》后“第三次教育改革”的主要依据。",
+      "keywords": [
+        "纲领性文件",
+        "第三次教育改革"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1980s-0",
+      "knowledgeId": "foreign-reviewed-ch23-reform1980s",
+      "title": "（一）简介",
+      "text": "1984年成立“临时教育审议会”（简称“临教审”）；1987年成立“教育改革推进本部”。二者成为教育改革的领导机构。",
+      "keywords": [
+        "1984年",
+        "临教审",
+        "1987年",
+        "教育改革推进本部"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1980s-1",
+      "knowledgeId": "foreign-reviewed-ch23-reform1980s",
+      "title": "1.教育目的",
+      "text": "培养面向世界的日本人。",
+      "keywords": [
+        "面向世界"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "1. 教育目的",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1980s-2",
+      "knowledgeId": "foreign-reviewed-ch23-reform1980s",
+      "title": "2.教育原则",
+      "text": "重视个性原则、国际化原则、信息化原则、终身教育原则。",
+      "keywords": [
+        "个性",
+        "国际化",
+        "信息化",
+        "终身教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "2. 教育原则",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1980s-3",
+      "knowledgeId": "foreign-reviewed-ch23-reform1980s",
+      "title": "3.改革建议",
+      "text": "终身教育、中小学教育体制、德育和体育、高等教育和师资培训。",
+      "keywords": [
+        "终身教育",
+        "中小学",
+        "德育体育",
+        "高等教育",
+        "师资培训"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容"
+      ],
+      "displayTitle": "3. 改革建议",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1980s-4",
+      "knowledgeId": "foreign-reviewed-ch23-reform1980s",
+      "title": "（三）评价",
+      "text": "旨在解决过度偏重学历、考试竞争过度、青少年心理健康问题突出、学校教育制度僵化等问题，也为日本未来的教育发展指明了方向。",
+      "keywords": [
+        "学历偏重",
+        "考试竞争",
+        "心理健康",
+        "制度僵化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-0",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "（一）简介",
+      "text": "20世纪90年代，为了应对日益加剧的国际竞争，日本加大基础教育和高等教育改革力度。",
+      "keywords": [
+        "国际竞争",
+        "基础教育",
+        "高等教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-1",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "改革主题①",
+      "text": "加强对学生国家观念与社会道德观念的培养。",
+      "keywords": [
+        "国家观念",
+        "社会道德"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（1）改革主题"
+      ],
+      "displayTitle": "①国家与社会道德观念",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-2",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "改革主题②",
+      "text": "精选教育内容，重视体验学习。",
+      "keywords": [
+        "精选内容",
+        "体验学习"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（1）改革主题"
+      ],
+      "displayTitle": "②内容与学习",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-3",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "改革主题③",
+      "text": "推行教育地方分权化改革。",
+      "keywords": [
+        "地方分权"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（1）改革主题"
+      ],
+      "displayTitle": "③教育管理",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-4",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "改革主题④",
+      "text": "推进学校与入学考试制度多样化改革。",
+      "keywords": [
+        "学校",
+        "入学考试",
+        "多样化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（1）改革主题"
+      ],
+      "displayTitle": "④学校与考试制度",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-5",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "改革主题⑤",
+      "text": "学校教育与社会教育的结合。",
+      "keywords": [
+        "学校教育",
+        "社会教育"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（1）改革主题"
+      ],
+      "displayTitle": "⑤学校与社会教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-6",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "1996年①发展方向",
+      "text": "《面向21世纪我国教育的发展方向》提出：教育要“在宽松的环境中培养学生的生存能力”。",
+      "keywords": [
+        "宽松环境",
+        "生存能力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（2）1996年的教育改革"
+      ],
+      "displayTitle": "①《面向21世纪我国教育的发展方向》",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-7",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "措施a",
+      "text": "减背诵、减内容、减课时。",
+      "keywords": [
+        "减背诵",
+        "减内容",
+        "减课时"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（2）1996年的教育改革",
+        "②《关于面向21世纪的我国教育》的措施"
+      ],
+      "displayTitle": "a. 三减",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-8",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "措施b",
+      "text": "加强课程弹性，改革教学方法，推进个性化教育。",
+      "keywords": [
+        "课程弹性",
+        "教学方法",
+        "个性化"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（2）1996年的教育改革",
+        "②《关于面向21世纪的我国教育》的措施"
+      ],
+      "displayTitle": "b. 课程与教学",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-9",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "措施c",
+      "text": "加强道德教育。",
+      "keywords": [
+        "道德教育"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（2）1996年的教育改革",
+        "②《关于面向21世纪的我国教育》的措施"
+      ],
+      "displayTitle": "c. 道德教育",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-10",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "措施d",
+      "text": "设定“综合学习时间”。",
+      "keywords": [
+        "综合学习时间"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（2）1996年的教育改革",
+        "②《关于面向21世纪的我国教育》的措施"
+      ],
+      "displayTitle": "d. 综合学习时间",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-11",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "1998年①",
+      "text": "“为国际社会的和平做贡献”。",
+      "keywords": [
+        "国际社会",
+        "和平"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（3）1998年道德教育改革"
+      ],
+      "displayTitle": "①为和平做贡献",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-12",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "1998年②",
+      "text": "培养“具有主体性的日本人”。",
+      "keywords": [
+        "主体性"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（3）1998年道德教育改革"
+      ],
+      "displayTitle": "②主体性",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-13",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "1998年③",
+      "text": "重视“作为基础的道德性”。",
+      "keywords": [
+        "基础",
+        "道德性"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "1. 基础教育",
+        "（3）1998年道德教育改革"
+      ],
+      "displayTitle": "③道德性",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-14",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "大学设置标准①育才",
+      "text": "注重大学特色建设和个性发展，培养创造性人才。",
+      "keywords": [
+        "特色",
+        "个性",
+        "创造性人才"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育",
+        "（1）《大学设置标准》"
+      ],
+      "displayTitle": "①育才",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-15",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "大学设置标准②科研",
+      "text": "改革研究生教育，提高高等科学研究的水平。",
+      "keywords": [
+        "研究生教育",
+        "科学研究"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育",
+        "（1）《大学设置标准》"
+      ],
+      "displayTitle": "②科研",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-16",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "大学设置标准③服务",
+      "text": "强化大学的社会服务意识，为民众提供终身学习的机会。",
+      "keywords": [
+        "社会服务",
+        "终身学习"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育",
+        "（1）《大学设置标准》"
+      ],
+      "displayTitle": "③为社会服务",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-17",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "国立大学法人化",
+      "text": "改革国立大学性质，使其从政府直接下属的机构转变成具有法人资格的独立机构。",
+      "keywords": [
+        "法人资格",
+        "独立机构"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内容",
+        "2. 高等教育"
+      ],
+      "displayTitle": "（2）“国立大学法人化”改革",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch23-reform1990s-18",
+      "knowledgeId": "foreign-reviewed-ch23-reform1990s",
+      "title": "（三）评价",
+      "text": "针对基础教育的改革是为了破除“应试教育”的牢笼；针对高等教育的改革是为了给予大学更多的办学自主权。",
+      "keywords": [
+        "破除应试教育",
+        "办学自主权"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch23-solid-learning-0",
+      "knowledgeId": "foreign-reviewed-ch23-solid-learning",
+      "title": "背景与报告",
+      "text": "为解决基础教育领域存在的学力下降、校园暴力等现象，2005年日本发表《开创新时代的义务教育》。",
+      "keywords": [
+        "2005年",
+        "学力下降",
+        "校园暴力",
+        "开创新时代的义务教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "背景与报告"
+    },
+    {
+      "id": "foreign-reviewed-ch23-solid-learning-1",
+      "knowledgeId": "foreign-reviewed-ch23-solid-learning",
+      "title": "教育转向",
+      "text": "该报告标志着日本教育从此前的“宽松教育”向“扎实学力教育”转向；原书将其视为此后日本基础教育的整体走向。",
+      "keywords": [
+        "宽松教育",
+        "扎实学力教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "教育转向"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-0",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "近代1",
+      "text": "公立化。",
+      "keywords": [
+        "公立化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "近代各国教育改革发展趋势"
+      ],
+      "displayTitle": "1. 公立化",
+      "outline": "近代各国教育改革发展趋势"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-1",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "近代2",
+      "text": "义务化。",
+      "keywords": [
+        "义务化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "近代各国教育改革发展趋势"
+      ],
+      "displayTitle": "2. 义务化",
+      "outline": "近代各国教育改革发展趋势"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-2",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "近代3",
+      "text": "世俗化。",
+      "keywords": [
+        "世俗化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "近代各国教育改革发展趋势"
+      ],
+      "displayTitle": "3. 世俗化",
+      "outline": "近代各国教育改革发展趋势"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-3",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "近代4",
+      "text": "实科化。",
+      "keywords": [
+        "实科化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "近代各国教育改革发展趋势"
+      ],
+      "displayTitle": "4. 实科化",
+      "outline": "近代各国教育改革发展趋势"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-4",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "现代1",
+      "text": "民主化。",
+      "keywords": [
+        "民主化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "现代各国教育改革发展趋势"
+      ],
+      "displayTitle": "1. 民主化",
+      "outline": "现代各国教育改革发展趋势"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-5",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "现代2",
+      "text": "法制化。",
+      "keywords": [
+        "法制化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "现代各国教育改革发展趋势"
+      ],
+      "displayTitle": "2. 法制化",
+      "outline": "现代各国教育改革发展趋势"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-6",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "现代3",
+      "text": "国际化。",
+      "keywords": [
+        "国际化"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "现代各国教育改革发展趋势"
+      ],
+      "displayTitle": "3. 国际化",
+      "outline": "现代各国教育改革发展趋势"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-7",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "现代4",
+      "text": "科学化。",
+      "keywords": [
+        "科学化"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "现代各国教育改革发展趋势"
+      ],
+      "displayTitle": "4. 科学化",
+      "outline": "现代各国教育改革发展趋势"
+    },
+    {
+      "id": "foreign-reviewed-ch23-international-trends-8",
+      "knowledgeId": "foreign-reviewed-ch23-international-trends",
+      "title": "现代5",
+      "text": "终身化。",
+      "keywords": [
+        "终身化"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "现代各国教育改革发展趋势"
+      ],
+      "displayTitle": "5. 终身化",
+      "outline": "现代各国教育改革发展趋势"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "foreign-ch23-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 6,
+    "knowledge": 15,
+    "steps": 91,
+    "referenceOnly": 4
+  }
+}

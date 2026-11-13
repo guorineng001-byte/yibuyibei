@@ -1,0 +1,1961 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch10-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch10-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "第十章内容框架",
+      "section": "南京国民政府时期的教育 · 章节框架",
+      "refs": [
+        {
+          "page": 91,
+          "rect": [
+            0.17,
+            0.13,
+            0.69,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 91117,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-party-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "南京国民政府的“党化”教育",
+      "section": "第一节 · 教育宗旨与教育方针",
+      "refs": [
+        {
+          "page": 91,
+          "rect": [
+            0.16,
+            0.39,
+            0.7,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 91351,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-three-principles",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "“三民主义”教育宗旨",
+      "section": "第一节 · 教育宗旨与教育方针",
+      "refs": [
+        {
+          "page": 91,
+          "rect": [
+            0.16,
+            0.48,
+            0.7,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 91432,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "“战时须作平时看”的教育方针",
+      "section": "第一节 · 教育宗旨与教育方针",
+      "refs": [
+        {
+          "page": 91,
+          "rect": [
+            0.17,
+            0.56,
+            0.69,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 91504,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-university-district",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "大学院和大学区制的试行与终结",
+      "section": "第二节 · 教育制度改革",
+      "refs": [
+        {
+          "page": 92,
+          "rect": [
+            0.17,
+            0.09,
+            0.7,
+            0.31
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 92081,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-wuchen-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "“戊辰学制”的颁行",
+      "section": "第二节 · 教育制度改革",
+      "refs": [
+        {
+          "page": 92,
+          "rect": [
+            0.17,
+            0.39,
+            0.7,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 92351,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-system-principles-compare",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "“戊辰学制”与“新学制”原则对照",
+      "section": "第二节 · 教育制度改革 · 深化",
+      "refs": [
+        {
+          "page": 92,
+          "rect": [
+            0.14,
+            0.64,
+            0.74,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 92576,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-training-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "学校训育制度",
+      "section": "第三节 · 学校教育的管控措施",
+      "refs": [
+        {
+          "page": 92,
+          "rect": [
+            0.17,
+            0.76,
+            0.7,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 92684,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-scout-military",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "童子军训练与军训",
+      "section": "第三节 · 学校教育的管控措施",
+      "refs": [
+        {
+          "page": 92,
+          "rect": [
+            0.17,
+            0.91,
+            0.7,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 92819,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-curriculum-textbooks",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "课程标准与教科书审查",
+      "section": "第三节 · 学校教育的管控措施",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.16,
+            0.07,
+            0.7,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93063,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-graduation-exams",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "毕业会考制度",
+      "section": "第三节 · 学校教育的管控措施",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.17,
+            0.23,
+            0.69,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93207,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-preschool-names-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "幼儿教育的名称与制度建设",
+      "section": "第四节 · 学校教育的发展 · 幼儿教育",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.18,
+            0.35,
+            0.68,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93315,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-preschool-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "幼儿教育改革主张与办学实践",
+      "section": "第四节 · 学校教育的发展 · 幼儿教育",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.18,
+            0.53,
+            0.68,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93477,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-primary-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "南京国民政府时期的初等教育",
+      "section": "第四节 · 学校教育的发展 · 初等教育",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.18,
+            0.66,
+            0.68,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93594,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-middle-prewar",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "全面抗战前的中等教育",
+      "section": "第四节 · 学校教育的发展 · 中等教育",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.18,
+            0.71,
+            0.68,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93639,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-middle-wartime",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "抗战时期及战后的中等教育",
+      "section": "第四节 · 学校教育的发展 · 中等教育",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.18,
+            0.84,
+            0.68,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93756,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-higher-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "南京国民政府时期的高等教育",
+      "section": "第四节 · 学校教育的发展 · 高等教育",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.18,
+            0.84,
+            0.68,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93756,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-normal-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "南京国民政府时期的师范教育",
+      "section": "第四节 · 学校教育的发展 · 师范教育",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.17,
+            0.07,
+            0.69,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94063,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-vocational-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "南京国民政府时期的职业教育",
+      "section": "第四节 · 学校教育的发展 · 职业教育",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.18,
+            0.2,
+            0.68,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94180,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-migration",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-9",
+      "title": "抗日战争时期的学校西迁",
+      "section": "第四节 · 学校教育的发展 · 抗战时期",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.17,
+            0.32,
+            0.7,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94288,
+      "reviewNote": "已对照扫描原页校对年代、制度名称、院校名称和章节交界；评价与对照内容默认只需阅读。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch10-outline-0",
+      "knowledgeId": "china-reviewed-ch10-outline",
+      "title": "教育宗旨与方针",
+      "text": "教育宗旨与教育方针的变迁。",
+      "keywords": [
+        "教育宗旨",
+        "教育方针"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-outline-1",
+      "knowledgeId": "china-reviewed-ch10-outline",
+      "title": "教育制度",
+      "text": "教育制度改革。",
+      "keywords": [
+        "教育制度改革"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-outline-2",
+      "knowledgeId": "china-reviewed-ch10-outline",
+      "title": "学校管控",
+      "text": "学校教育的管控措施。",
+      "keywords": [
+        "学校管控"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-outline-3",
+      "knowledgeId": "china-reviewed-ch10-outline",
+      "title": "学校发展",
+      "text": "幼儿、初等、中等、高等、师范、职业教育及抗战时期学校西迁。",
+      "keywords": [
+        "各级学校",
+        "学校西迁"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-party-education-0",
+      "knowledgeId": "china-reviewed-ch10-party-education",
+      "title": "内涵",
+      "text": "把教育方针建立在国民党的根本政策之下。",
+      "keywords": [
+        "国民党根本政策",
+        "教育方针"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-party-education-1",
+      "knowledgeId": "china-reviewed-ch10-party-education",
+      "title": "评价",
+      "text": "强化国民党对教育的控制，受到人们抨击。",
+      "keywords": [
+        "强化控制",
+        "受到抨击"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-three-principles-0",
+      "knowledgeId": "china-reviewed-ch10-three-principles",
+      "title": "内涵",
+      "text": "强调民族独立、民权普遍、民生发展。",
+      "keywords": [
+        "民族独立",
+        "民权普遍",
+        "民生发展"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-three-principles-1",
+      "knowledgeId": "china-reviewed-ch10-three-principles",
+      "title": "评价",
+      "text": "有利于维护教育稳定发展，但本质上仍强化国民党对教育的控制。",
+      "keywords": [
+        "教育稳定",
+        "强化控制"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy-0",
+      "knowledgeId": "china-reviewed-ch10-wartime-policy",
+      "title": "提出",
+      "text": "1937 年国民政府提出，主旨是“一切仍以维持正常教育”。",
+      "keywords": [
+        "1937",
+        "维持正常教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy-1",
+      "knowledgeId": "china-reviewed-ch10-wartime-policy",
+      "title": "方针含义",
+      "text": "既采取战时应急教育措施，又强调维持正常教育和管理秩序。",
+      "keywords": [
+        "战时应急",
+        "正常秩序"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy-2",
+      "knowledgeId": "china-reviewed-ch10-wartime-policy",
+      "title": "高校迁移",
+      "text": "西南联合大学由北大、清华、私立南开组成；西北联合大学由北平大学、北平师范大学、北洋工学院组成。",
+      "keywords": [
+        "西南联大",
+        "北大清华南开",
+        "西北联大",
+        "北平大学北平师大北洋工学院"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy-3",
+      "knowledgeId": "china-reviewed-ch10-wartime-policy",
+      "title": "学校国立",
+      "text": "保障部分学校正常办学，尤其是中学。",
+      "keywords": [
+        "学校国立",
+        "保障中学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy-4",
+      "knowledgeId": "china-reviewed-ch10-wartime-policy",
+      "title": "安置青年",
+      "text": "建立战地失学青年招致训练委员会，安置和培训流亡、失学、失业青年。",
+      "keywords": [
+        "战地失学青年招致训练委员会",
+        "安置培训"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy-5",
+      "knowledgeId": "china-reviewed-ch10-wartime-policy",
+      "title": "战区教育",
+      "text": "设战区教育指导委员会，在课程和教科书中增加适合战时需要的内容。",
+      "keywords": [
+        "战区教育指导委员会",
+        "战时课程"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy-6",
+      "knowledgeId": "china-reviewed-ch10-wartime-policy",
+      "title": "积极评价",
+      "text": "兼顾教育服务抗战的近期任务与战后国家重建的远期目标，是一项并不短视的重要决策。",
+      "keywords": [
+        "抗战近期",
+        "重建远期",
+        "不短视"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-policy-7",
+      "knowledgeId": "china-reviewed-ch10-wartime-policy",
+      "title": "消极评价",
+      "text": "也成为国民党控制民众思想的工具。",
+      "keywords": [
+        "控制民众思想"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-university-district-0",
+      "knowledgeId": "china-reviewed-ch10-university-district",
+      "title": "提出",
+      "text": "1927 年蔡元培仿照法国教育行政制度提出大学院和大学区制，体现其教育独立思想。",
+      "keywords": [
+        "1927",
+        "仿照法国",
+        "教育独立"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-university-district-1",
+      "knowledgeId": "china-reviewed-ch10-university-district",
+      "title": "中央制度",
+      "text": "在中央实施大学院制。",
+      "keywords": [
+        "中央大学院制"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-university-district-2",
+      "knowledgeId": "china-reviewed-ch10-university-district",
+      "title": "地方制度",
+      "text": "在地方实行大学区制。",
+      "keywords": [
+        "地方大学区制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-university-district-3",
+      "knowledgeId": "china-reviewed-ch10-university-district",
+      "title": "总体评价",
+      "text": "改革忽视中国国情，难以推行。",
+      "keywords": [
+        "忽视国情",
+        "难以推行"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-university-district-4",
+      "knowledgeId": "china-reviewed-ch10-university-district",
+      "title": "理想过高",
+      "text": "追求教育行政学术化，却使学术机关官僚化、行政效能降低。",
+      "keywords": [
+        "行政学术化",
+        "机关官僚化",
+        "效能降低"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-university-district-5",
+      "knowledgeId": "china-reviewed-ch10-university-district",
+      "title": "忽视事实",
+      "text": "学术机构官僚化，并引起中小学界强烈反对。",
+      "keywords": [
+        "中小学界反对"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-wuchen-system-0",
+      "knowledgeId": "china-reviewed-ch10-wuchen-system",
+      "title": "提出",
+      "text": "1928 年南京国民政府为推行“三民主义”教育，以 1922 年“新学制”为基础略加修改，提出“戊辰学制”。",
+      "keywords": [
+        "1928",
+        "三民主义",
+        "新学制基础",
+        "戊辰学制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wuchen-system-1",
+      "knowledgeId": "china-reviewed-ch10-wuchen-system",
+      "title": "七项原则",
+      "text": "适应民生需要、根据本国实情、增高教育效率、提高学科标准、谋个性发展、使教育易于普及、留地方伸缩之可能。",
+      "keywords": [
+        "适应民生",
+        "本国实情",
+        "教育效率",
+        "学科标准",
+        "个性普及伸缩"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wuchen-system-2",
+      "knowledgeId": "china-reviewed-ch10-wuchen-system",
+      "title": "学校系统",
+      "text": "学校系统基本同 1922 年“新学制”。",
+      "keywords": [
+        "基本同新学制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wuchen-system-3",
+      "knowledgeId": "china-reviewed-ch10-wuchen-system",
+      "title": "义务与补习",
+      "text": "重视义务教育和成人补习教育。",
+      "keywords": [
+        "义务教育",
+        "成人补习"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wuchen-system-4",
+      "knowledgeId": "china-reviewed-ch10-wuchen-system",
+      "title": "质量取向",
+      "text": "求质量提高，不求数量增加。",
+      "keywords": [
+        "提高质量",
+        "不求数量"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wuchen-system-5",
+      "knowledgeId": "china-reviewed-ch10-wuchen-system",
+      "title": "职业倾斜",
+      "text": "明显向职业教育倾斜。",
+      "keywords": [
+        "职业教育倾斜"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-system-principles-compare-0",
+      "knowledgeId": "china-reviewed-ch10-system-principles-compare",
+      "title": "社会与民生",
+      "text": "“戊辰学制”强调适应民生需要；“新学制”强调适应社会进化之需要。",
+      "keywords": [
+        "民生需要",
+        "社会进化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-system-principles-compare-1",
+      "knowledgeId": "china-reviewed-ch10-system-principles-compare",
+      "title": "国情与经济",
+      "text": "“戊辰学制”强调根据本国实情；“新学制”强调注意国民经济力。",
+      "keywords": [
+        "本国实情",
+        "国民经济力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-system-principles-compare-2",
+      "knowledgeId": "china-reviewed-ch10-system-principles-compare",
+      "title": "效率与平民",
+      "text": "“戊辰学制”提出增高教育效率；“新学制”提出发扬平民教育精神。",
+      "keywords": [
+        "教育效率",
+        "平民教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-system-principles-compare-3",
+      "knowledgeId": "china-reviewed-ch10-system-principles-compare",
+      "title": "学科与生活",
+      "text": "“戊辰学制”提出提高学科标准；“新学制”提出注意生活教育。",
+      "keywords": [
+        "学科标准",
+        "生活教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-system-principles-compare-4",
+      "knowledgeId": "china-reviewed-ch10-system-principles-compare",
+      "title": "共同原则",
+      "text": "两者都强调谋个性发展、使教育易于普及，并给地方保留伸缩余地。",
+      "keywords": [
+        "个性发展",
+        "教育普及",
+        "地方伸缩"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-training-system-0",
+      "knowledgeId": "china-reviewed-ch10-training-system",
+      "title": "内涵",
+      "text": "中小学设训育部和训育主任，开展训育，考查学生思想、言论和行动。",
+      "keywords": [
+        "训育部",
+        "训育主任",
+        "思想言论行动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-training-system-1",
+      "knowledgeId": "china-reviewed-ch10-training-system",
+      "title": "纲领文件",
+      "text": "1939 年《训育纲要》是集中体现训育思想的纲领性文件。",
+      "keywords": [
+        "1939",
+        "训育纲要"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-training-system-2",
+      "knowledgeId": "china-reviewed-ch10-training-system",
+      "title": "设领导",
+      "text": "学校设主任导师或训育主任一人，总领全校训导。",
+      "keywords": [
+        "主任导师",
+        "总领训导"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-training-system-3",
+      "knowledgeId": "china-reviewed-ch10-training-system",
+      "title": "设导师",
+      "text": "每个年级学生分若干组，指定导师进行训育。",
+      "keywords": [
+        "年级分组",
+        "指定导师"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-training-system-4",
+      "knowledgeId": "china-reviewed-ch10-training-system",
+      "title": "管毕业",
+      "text": "学生毕业必须取得导师的“训导证明书”。",
+      "keywords": [
+        "训导证明书"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-training-system-5",
+      "knowledgeId": "china-reviewed-ch10-training-system",
+      "title": "评价",
+      "text": "具有德育价值，同时承担控制学生思想的功能。",
+      "keywords": [
+        "德育价值",
+        "控制思想"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-scout-military-0",
+      "knowledgeId": "china-reviewed-ch10-scout-military",
+      "title": "童子军训练",
+      "text": "面向小学生和初中生。",
+      "keywords": [
+        "童子军",
+        "小学初中"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-scout-military-1",
+      "knowledgeId": "china-reviewed-ch10-scout-military",
+      "title": "军训",
+      "text": "面向高中及以上学校学生，并影响升学。",
+      "keywords": [
+        "军训",
+        "高中以上",
+        "升学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-scout-military-2",
+      "knowledgeId": "china-reviewed-ch10-scout-military",
+      "title": "评价",
+      "text": "既有抵抗侵略的作用，也用于控制学生。",
+      "keywords": [
+        "抵抗侵略",
+        "控制学生"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-curriculum-textbooks-0",
+      "knowledgeId": "china-reviewed-ch10-curriculum-textbooks",
+      "title": "课程标准",
+      "text": "颁布中小学课程标准。",
+      "keywords": [
+        "中小学课程标准"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-curriculum-textbooks-1",
+      "knowledgeId": "china-reviewed-ch10-curriculum-textbooks",
+      "title": "教科书审查",
+      "text": "实行教科书审查制度，加强审查并规范编纂、印行。",
+      "keywords": [
+        "教科书审查",
+        "编纂印行"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-curriculum-textbooks-2",
+      "knowledgeId": "china-reviewed-ch10-curriculum-textbooks",
+      "title": "评价",
+      "text": "一方面规范教学，另一方面控制思想。",
+      "keywords": [
+        "规范教学",
+        "控制思想"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-graduation-exams-0",
+      "knowledgeId": "china-reviewed-ch10-graduation-exams",
+      "title": "实行",
+      "text": "中小学在毕业考试与升学考试之间增加会考。",
+      "keywords": [
+        "中小学",
+        "毕业升学之间",
+        "会考"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-graduation-exams-1",
+      "knowledgeId": "china-reviewed-ch10-graduation-exams",
+      "title": "推广",
+      "text": "会考推广到师范学校和高校，用于管理毕业和求职。",
+      "keywords": [
+        "师范高校",
+        "毕业求职"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-graduation-exams-2",
+      "knowledgeId": "china-reviewed-ch10-graduation-exams",
+      "title": "评价",
+      "text": "具有提高质量和控制思想的双重作用。",
+      "keywords": [
+        "提高质量",
+        "控制思想"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-preschool-names-system-0",
+      "knowledgeId": "china-reviewed-ch10-preschool-names-system",
+      "title": "名称演变",
+      "text": "“癸卯学制”称蒙养院，“壬子癸丑学制”称蒙养园，1922 年“新学制”称幼稚园。",
+      "keywords": [
+        "蒙养院",
+        "蒙养园",
+        "幼稚园"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-preschool-names-system-1",
+      "knowledgeId": "china-reviewed-ch10-preschool-names-system",
+      "title": "办理主体",
+      "text": "1925 年前教会办理居多，1925 年后国人办理居多。",
+      "keywords": [
+        "1925",
+        "教会转国人"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-preschool-names-system-2",
+      "knowledgeId": "china-reviewed-ch10-preschool-names-system",
+      "title": "制度文件",
+      "text": "南京国民政府颁布《幼稚园课程标准》（陈鹤琴参与）和《幼稚园设置办法》。",
+      "keywords": [
+        "幼稚园课程标准",
+        "陈鹤琴",
+        "幼稚园设置办法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-preschool-practice-0",
+      "knowledgeId": "china-reviewed-ch10-preschool-practice",
+      "title": "陶行知的批评",
+      "text": "陶行知指出中国幼教有外国病、花钱病、富贵病，主张办中国的、省钱的、平民的幼稚园。",
+      "keywords": [
+        "外国病",
+        "花钱病",
+        "富贵病",
+        "中国省钱平民"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-preschool-practice-1",
+      "knowledgeId": "china-reviewed-ch10-preschool-practice",
+      "title": "陈鹤琴",
+      "text": "私立幼稚园多于公立；陈鹤琴 1923 年在南京创设我国第一所实验幼稚园——鼓楼幼稚园。",
+      "keywords": [
+        "陈鹤琴",
+        "1923",
+        "第一所实验幼稚园",
+        "鼓楼幼稚园"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-preschool-practice-2",
+      "knowledgeId": "china-reviewed-ch10-preschool-practice",
+      "title": "其他实践",
+      "text": "还有陶行知的南京燕子矶幼稚园、陈嘉庚的厦门集美幼稚园、熊希龄的北京香山慈幼院。",
+      "keywords": [
+        "燕子矶幼稚园",
+        "集美幼稚园",
+        "香山慈幼院"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-primary-development-0",
+      "knowledgeId": "china-reviewed-ch10-primary-development",
+      "title": "发展线索",
+      "text": "全面抗战前稳定发展，全面抗战时维持发展，全面抗战后走向衰败。",
+      "keywords": [
+        "抗战前稳定",
+        "抗战时维持",
+        "抗战后衰败"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-middle-prewar-0",
+      "knowledgeId": "china-reviewed-ch10-middle-prewar",
+      "title": "1928 年前",
+      "text": "沿袭 1922 年“新学制”，实行综合中学。",
+      "keywords": [
+        "1928年前",
+        "综合中学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-middle-prewar-1",
+      "knowledgeId": "china-reviewed-ch10-middle-prewar",
+      "title": "1928—1932 年",
+      "text": "综合中学与师范学校、职业学校并行。",
+      "keywords": [
+        "1928—1932",
+        "三类并行"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-middle-prewar-2",
+      "knowledgeId": "china-reviewed-ch10-middle-prewar",
+      "title": "1932 年改革",
+      "text": "教育部认为中学“系统混杂，目标分歧”，废止综合中学，将普通中学、师范学校和职业学校分别设置。",
+      "keywords": [
+        "1932",
+        "系统混杂目标分歧",
+        "废综合中学",
+        "分别设置"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-middle-prewar-3",
+      "knowledgeId": "china-reviewed-ch10-middle-prewar",
+      "title": "高中课程",
+      "text": "普通高中不分文理科。",
+      "keywords": [
+        "高中不分文理"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-middle-wartime-0",
+      "knowledgeId": "china-reviewed-ch10-middle-wartime",
+      "title": "抗战时期",
+      "text": "设立国立中学、实行中学分区制，并试行六年一贯制。",
+      "keywords": [
+        "国立中学",
+        "中学分区",
+        "六年一贯制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-middle-wartime-1",
+      "knowledgeId": "china-reviewed-ch10-middle-wartime",
+      "title": "抗战之后",
+      "text": "中等教育数量达到高点。",
+      "keywords": [
+        "战后",
+        "数量高点"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-higher-development-0",
+      "knowledgeId": "china-reviewed-ch10-higher-development",
+      "title": "大学目标",
+      "text": "大学注重“研究高深学术，养成专门人才”，强调研究性和学术性。",
+      "keywords": [
+        "大学",
+        "研究高深学术",
+        "专门人才"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-higher-development-1",
+      "knowledgeId": "china-reviewed-ch10-higher-development",
+      "title": "大专目标",
+      "text": "大专注重“教授应用科学，养成技术人才”，侧重应用性。",
+      "keywords": [
+        "大专",
+        "应用科学",
+        "技术人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-higher-development-2",
+      "knowledgeId": "china-reviewed-ch10-higher-development",
+      "title": "办学类型",
+      "text": "明确国立、省立、市立、私立四种高校。",
+      "keywords": [
+        "国立省立市立私立"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-higher-development-3",
+      "knowledgeId": "china-reviewed-ch10-higher-development",
+      "title": "专业调整",
+      "text": "改变重文轻实；招生人数上，文、法、商、教等科不得超过理、工、农、医等科。",
+      "keywords": [
+        "改变重文轻实",
+        "文法商教",
+        "理工农医"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-higher-development-4",
+      "knowledgeId": "china-reviewed-ch10-higher-development",
+      "title": "抗战与战后",
+      "text": "全面抗战时高校西迁；全面抗战后高校数量达到高点。",
+      "keywords": [
+        "高校西迁",
+        "战后数量高点"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch10-normal-education-0",
+      "knowledgeId": "china-reviewed-ch10-normal-education",
+      "title": "体系独立",
+      "text": "1932 年师范学校独立于普通中学，分高等和中等师范学校。",
+      "keywords": [
+        "1932",
+        "独立普通中学",
+        "高等中等师范"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-normal-education-1",
+      "knowledgeId": "china-reviewed-ch10-normal-education",
+      "title": "课程规范",
+      "text": "师范课程由基本学科、专业科目和专业训练构成。",
+      "keywords": [
+        "基本学科",
+        "专业科目",
+        "专业训练"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-normal-education-2",
+      "knowledgeId": "china-reviewed-ch10-normal-education",
+      "title": "典型院校",
+      "text": "陶行知创办南京晓庄师范学校，黄质夫创办栖霞乡村师范学校。",
+      "keywords": [
+        "陶行知",
+        "晓庄师范",
+        "黄质夫",
+        "栖霞乡村师范"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-vocational-education-0",
+      "knowledgeId": "china-reviewed-ch10-vocational-education",
+      "title": "1931 年以前",
+      "text": "普通中学创办职业科。",
+      "keywords": [
+        "1931年前",
+        "中学职业科"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-vocational-education-1",
+      "knowledgeId": "china-reviewed-ch10-vocational-education",
+      "title": "1932 年以后",
+      "text": "职业教育从普通中学独立，分初级、高级职业学校两级发展。",
+      "keywords": [
+        "1932后",
+        "职教独立",
+        "初高两级"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-vocational-education-2",
+      "knowledgeId": "china-reviewed-ch10-vocational-education",
+      "title": "代表人物",
+      "text": "黄炎培为职业教育发展作出贡献。",
+      "keywords": [
+        "黄炎培"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-migration-0",
+      "knowledgeId": "china-reviewed-ch10-wartime-migration",
+      "title": "西南联合大学",
+      "text": "迁往昆明，由北大、清华、私立南开组成。",
+      "keywords": [
+        "昆明",
+        "北大清华南开"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-migration-1",
+      "knowledgeId": "china-reviewed-ch10-wartime-migration",
+      "title": "西北联合大学",
+      "text": "迁往汉中，由北平大学、北平师范大学、北洋工学院组成。",
+      "keywords": [
+        "汉中",
+        "北平大学北平师大北洋工学院"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-migration-2",
+      "knowledgeId": "china-reviewed-ch10-wartime-migration",
+      "title": "国立中央大学",
+      "text": "迁往重庆。",
+      "keywords": [
+        "中央大学",
+        "重庆"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-migration-3",
+      "knowledgeId": "china-reviewed-ch10-wartime-migration",
+      "title": "新设大学",
+      "text": "新设江西中正大学、贵州大学等。",
+      "keywords": [
+        "中正大学",
+        "贵州大学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch10-wartime-migration-4",
+      "knowledgeId": "china-reviewed-ch10-wartime-migration",
+      "title": "改制大学",
+      "text": "省立改国立的有云南大学、广西大学等；私立改国立的有厦门大学、复旦大学等。",
+      "keywords": [
+        "省立改国立",
+        "云南广西",
+        "私立改国立",
+        "厦门复旦"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p091-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-9",
+        "title": "教育宗旨与教育方针的变迁 · 第83页",
+        "section": "",
+        "refs": [
+          {
+            "page": 91,
+            "rect": [
+              0.08064,
+              0.38722,
+              0.82215,
+              0.40677
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 91353,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p091-k02-0-s0",
+          "knowledgeId": "china-p091-k02-0",
+          "title": "“党化”教育",
+          "text": "1.内涵：把教育方针建立在国民党的根本政策之下。\n（一）“党化”教育\n2.评价：强化国民党对教育的控制，受到人们击。\n（二）“三民主义\n1.内涵：强调民族独立、民权普遍、民生发展。\n教育宗旨与教育方针的变迁\n教育宗旨",
+          "keywords": [
+            "“党化”教育",
+            "“三民主义",
+            "教育宗旨与教育方针的变迁"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p091-k02-0-s1",
+          "knowledgeId": "china-p091-k02-0",
+          "title": "内容",
+          "text": "2.评价：虽然有利于维护教育稳定发展，但本质还是强化国民党对教育的控制。\n1.简介：1937年，国民政府提出的教育方针。\n2.主旨：“一切仍以维持正常教育”。（1）战时应急教育措施。\n(2）强调维持正常的教育和管理秩序。\n3. 内容:",
+          "keywords": [
+            "内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p091-k02-0-s2",
+          "knowledgeId": "china-p091-k02-0",
+          "title": "“战时须作",
+          "text": "（1）高校迁移。西南联合大学：北大、清华、南开（私立）。\n西北联合大学：北平大学、北平师范大学、北洋工学院。\n（2）学校国立。保障部分学校正常办学，尤其是中学。\n（三）“战时须作\n（3）安置失学青年。建立战地失学青年招致训练委员会，安置、培训流亡",
+          "keywords": [
+            "“战时须作"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p091-k02-0-s3",
+          "knowledgeId": "china-p091-k02-0",
+          "title": "平时看”的教育",
+          "text": "平时看”的教育\n失学失业青年。\n方针\n（4）实施战区教育。设置战区教育指导委员会，在学校课程和教科书中增\n加适合战时需要的内容。\n4.评价：（1）是一项并不短视的重要决策。既顾及教育为抗战服务的近期\n任务，也考虑教育为战后国家重建的远期目标。",
+          "keywords": [
+            "平时看”的教育"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p091-k02-0-s4",
+          "knowledgeId": "china-p091-k02-0",
+          "title": "原文小步 5",
+          "text": "（2）是国民党控制民众思想的工具。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p092-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-9",
+        "title": "教育制度改革 · 第84页",
+        "section": "",
+        "refs": [
+          {
+            "page": 92,
+            "rect": [
+              0.10619,
+              0.12542,
+              0.81939,
+              0.51405
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 92118,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p092-k01-0-s0",
+          "knowledgeId": "china-p092-k01-0",
+          "title": "大学院和",
+          "text": "1.简介：1927年，蔡元培提出仿照法国的教育行政制度设大学院和大学区制，\n体现了蔡元培的教育独立思想。\n（一）大学院和\n2.内容：（1）在中央实施大学院制。\n(2）在地方实行大学区制。\n大学区制的试行\n3.评价：这次改革忽视中国国情。难以推行的主要原因有：",
+          "keywords": [
+            "大学院和",
+            "在地方实行大学区制",
+            "大学区制的试行"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p092-k01-0-s1",
+          "knowledgeId": "china-p092-k01-0",
+          "title": "与终结",
+          "text": "与终结\n（1）理想过高。蔡元培的理想是教育行政学术化，但反而使学术机关官僚化\n教育制度改革\n行政效能日趋低落。\n（2）忽视事实。①导致学术机构官僚化。②中小学界反对激烈。\n1.简介：1928年，南京国民政府出于推行“三民主义”教育的需要，以1922",
+          "keywords": [
+            "与终结",
+            "教育制度改革"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p092-k01-0-s2",
+          "knowledgeId": "china-p092-k01-0",
+          "title": "“戊辰学制”",
+          "text": "年“新学制”为基础略加修改，提出了“戊辰学制”。\n（二）“戊辰学制”\n2.内容：（1）七项原则。（详见凯程深化）\n（2）学校系统：基本同1922年“新学制”。\n的颁行\n3.评价：（1）重视义务教育和成人补习教育。\n(2）求质量提高，不求数量增加。",
+          "keywords": [
+            "“戊辰学制”",
+            "的颁行"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p092-k01-0-s3",
+          "knowledgeId": "china-p092-k01-0",
+          "title": "明显向职业教育倾斜",
+          "text": "(3）明显向职业教育倾斜。\n凯程深化\n“戊辰学制”的七项原则与1922年“新学制”的七项标准对比\n适应民生\n根据本国\n增高教育\n提高学科\n谋个性之\n使教育易于\n留地方伸缩\n“戊辰学制”\n需要\n实情\n效率\n标准\n发展\n普及\n之可能\n1922年\n适应社会进\n注意国民\n发扬平民教\n注意生活\n谋个性之",
+          "keywords": [
+            "明显向职业教育倾斜",
+            "凯程深化",
+            "适应民生"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p092-k01-0-s4",
+          "knowledgeId": "china-p092-k01-0",
+          "title": "使教育易于",
+          "text": "使教育易于\n多留各地伸\n“新学制”\n化之需要\n经济力\n育精神\n教育\n发展\n普及\n缩余地\n注：蓝色字内容为相似部分，黑色字内容为不同部分，绿色字内容为相同部分。",
+          "keywords": [
+            "使教育易于",
+            "多留各地伸",
+            "化之需要"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p092-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-9",
+        "title": "学校教育的管控措施 · 第84页",
+        "section": "",
+        "refs": [
+          {
+            "page": 92,
+            "rect": [
+              0.10688,
+              0.69318,
+              0.82422,
+              0.24506
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 92629,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p092-k02-0-s0",
+          "knowledgeId": "china-p092-k02-0",
+          "title": "导师制",
+          "text": "1.内涵：中小学设立训育部和训育主任，开展训育，考查学生的思想、言论\n和行动。\n2.文件：1939年《训育纲要》是最为集中体现训育思想的纲领性文件。\n3. 导师制:\n训育制度\n学校教育的管控措施\n（1）设领导。学校设主任导师或训育主任一人，总领全校训导。",
+          "keywords": [
+            "导师制",
+            "训育制度",
+            "学校教育的管控措施"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p092-k02-0-s1",
+          "knowledgeId": "china-p092-k02-0",
+          "title": "凯程助记",
+          "text": "（2）设导师。每一年级学生分若干组，指定导师对学生进行训育。\n（3）管毕业。学生毕业，必须有导师的“训导证明书”。\n4.评价：德育价值+控制思想。\n凯程助记\n1.内容：\n（二）开展童子\n(1） 童子军训练一针对小学生和初中生。\n训育会考两军训，\n军训练和军训",
+          "keywords": [
+            "凯程助记",
+            "内容",
+            "开展童子"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p092-k02-0-s2",
+          "knowledgeId": "china-p092-k02-0",
+          "title": "原文小步 3",
+          "text": "(2）军训一针对高中及以上学校学生，管升学。\n颁布课标审教材。\n2.评价：抵抗侵略+控制学生。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p093-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-9",
+        "title": "学校教育的管控措施 · 第85页",
+        "section": "",
+        "refs": [
+          {
+            "page": 93,
+            "rect": [
+              0.0819,
+              0.08281,
+              0.70448,
+              0.1814
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 93079,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p093-k00-0-s0",
+          "knowledgeId": "china-p093-k00-0",
+          "title": "颁布课程",
+          "text": "（三）颁布课程\n1. 内容：\n学校教育的管控措施\n（1）颁布课程标准。颁布中小学课程标准。\n标准，实行教\n（2）实行教科书审查制度。加强教科书审查，规范编纂印行。\n科书审查制度\n2.评价：规范教学+控制思想。\n1.内容：",
+          "keywords": [
+            "颁布课程",
+            "内容",
+            "学校教育的管控措施"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p093-k00-0-s1",
+          "knowledgeId": "china-p093-k00-0",
+          "title": "实行毕业会考",
+          "text": "（1）实行。中小学在毕业考与升学考之间增加会考。\n（四）实行毕业会考\n（2）推广。会考进入师范学校及高校，管毕业和求职。\n食食食\n2.评价：提高质量+控制思想。",
+          "keywords": [
+            "实行毕业会考",
+            "食食食"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p093-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-9",
+        "title": "学校教育的发展 · 第85页（1）",
+        "section": "",
+        "refs": [
+          {
+            "page": 93,
+            "rect": [
+              0.07638,
+              0.31587,
+              0.82724,
+              0.43653
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 93289,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p093-k01-0-s0",
+          "knowledgeId": "china-p093-k01-0",
+          "title": "名称更改",
+          "text": "1.名称更改：\n“癸卯学制”—\n蒙养院；“壬子癸丑学制”\n蒙养园；\n1922年“新学制”—\n一幼稚园。\n教会办理居多←1925年→国人办理居多。\n2.建立制度：南京国民政府颁布《幼稚园课程标准》（陈鹤琴参与）和《幼\n稚园设置办法》。\n一\n幼儿教育",
+          "keywords": [
+            "名称更改",
+            "幼儿教育"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p093-k01-0-s1",
+          "knowledgeId": "china-p093-k01-0",
+          "title": "原文小步 2",
+          "text": "3.发展端：陶行知描述中国幼教有外国病、花钱病、富贵病，提倡办中国的、\n省钱的、平民的幼稚园。\n4.学者引领：私立多于公立。陈鹤琴于1923年在南京创设了我国第一所实\n验幼稚园-\n一鼓楼幼稚园。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p093-k01-0-s2",
+          "knowledgeId": "china-p093-k01-0",
+          "title": "初等教育",
+          "text": "5.其他：陶行知的南京燕子矶幼稚园、陈嘉庚的厦门集美幼稚园、熊希龄的\n北京香山慈幼院。\n（二）初等教育\n全面抗战前稳定发展；全面抗战时维持发展；全面抗战后走向衰败。\n学校教育的发展\n1.全面抗战前—调整结构。",
+          "keywords": [
+            "初等教育",
+            "学校教育的发展",
+            "全面抗战前—调整结构"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p093-k01-0-s3",
+          "knowledgeId": "china-p093-k01-0",
+          "title": "中等教育",
+          "text": "（1）1928年之前，实行综合中学。沿袭1922年“新学制”。\n(2） 1928一1932 年，综合中学和师范学校、职业学校并行。\n（3）1932年，废止综合中学。教育部认为中学“系统混杂，目标分歧”，导\n（三）中等教育",
+          "keywords": [
+            "中等教育"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p093-k01-0-s4",
+          "knowledgeId": "china-p093-k01-0",
+          "title": "全面抗战时一改革中学",
+          "text": "致中学普通教育无从发展，师范和职业教育难以保证。于是，教育部废止综\n合中学制度，将普通中学、师范学校、职业学校分别设立，高中不分文理科。\n2.全面抗战时一改革中学。\n（1）设立国立中学。（2）实行中学分区制。（3）试行六年一贯制。",
+          "keywords": [
+            "全面抗战时一改革中学"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p093-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-9",
+        "title": "学校教育的发展 · 第85页（2）",
+        "section": "",
+        "refs": [
+          {
+            "page": 93,
+            "rect": [
+              0.15017,
+              0.74349,
+              0.74793,
+              0.18756
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 93679,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p093-k01-1-s0",
+          "knowledgeId": "china-p093-k01-1",
+          "title": "全面抗战后—数量高点",
+          "text": "3. 全面抗战后—数量高点。\n1.全面抗战前一制度定型。\n（1）规定教学目标。大学注重“研究高深学术，养成专门人才”，强调研究\n和学术性；大专注重“教授应用科学，养成技术人才”，侧重应用性。\n（2）明确办学要求。设立国立、省立、市立和私立4种高校。",
+          "keywords": [
+            "全面抗战后—数量高点",
+            "全面抗战前一制度定型"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p093-k01-1-s1",
+          "knowledgeId": "china-p093-k01-1",
+          "title": "高等教育",
+          "text": "（四）高等教育\n（3）调整专业设置。改变重文轻实的教育传统，如招生人数上，文、法、商、\n教等科不得超过理、工、农、医等科。\n2. 全面抗战时一—学校西迁。\n3.全面抗战后\n数量高点。",
+          "keywords": [
+            "高等教育",
+            "全面抗战时一—学校西迁",
+            "全面抗战后"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p094-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-9",
+        "title": "学校教育的发展 · 第86页",
+        "section": "",
+        "refs": [
+          {
+            "page": 94,
+            "rect": [
+              0.1019,
+              0.07922,
+              0.82448,
+              0.31795
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 94076,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p094-k00-0-s0",
+          "knowledgeId": "china-p094-k00-0",
+          "title": "师范教育",
+          "text": "1.建立师范教育体系。1932年，师范学校独立于普通中学，分为高等和中\n等师范学校。\n（五）师范教育\n2.规范师范教育课程。基本学科+专业科目+专业训练。\n3.典型师范院校。如陶行知创办的南京晓庄师范学校；黄质夫创办的栖霞乡\n村师范学校。\n学校教育的发展",
+          "keywords": [
+            "师范教育",
+            "学校教育的发展"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p094-k00-0-s1",
+          "knowledgeId": "china-p094-k00-0",
+          "title": "职业教育",
+          "text": "1931年以前，普通中学创办职业科。\n（六）职业教育\n1932年以后，职业教育从普通中学中独立出来，分为初级和高级职业学校\n两级发展。黄炎培做出贡献。\n1.高校西迁。西南联合大学（迁往昆明）：北大、清华、南开（私立）。",
+          "keywords": [
+            "职业教育"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p094-k00-0-s2",
+          "knowledgeId": "china-p094-k00-0",
+          "title": "抗日战争时",
+          "text": "西北联合大学（迁往汉中）：北平大学、北平师范大学、北洋\n工学院。\n（七）抗日战争时\n国立中央大学（迁往重庆）。\n期的学校西迁\n2.新设大学。如江西中正大学、贵州大学等。\n3.改制大学。如由省立改国立：云南大学、广西大学等。\n由私立改国立：厦门大学、复旦大学等。",
+          "keywords": [
+            "抗日战争时",
+            "期的学校西迁"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 4,
+    "knowledge": 20,
+    "steps": 77,
+    "memorizeSteps": 54,
+    "readOnlySteps": 23,
+    "replacedDrafts": 7
+  }
+}

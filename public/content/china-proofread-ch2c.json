@@ -1,0 +1,1607 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch2c-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch2c-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨子：人物、文献与思想框架",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 26,
+          "rect": [
+            0.095,
+            0.09,
+            0.83,
+            0.182
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 26081,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨子的教育实践：“农与工肆之人”的代表",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 26,
+          "rect": [
+            0.095,
+            0.282,
+            0.835,
+            0.134
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 26253,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨子的教育作用：“素丝说”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 26,
+          "rect": [
+            0.095,
+            0.453,
+            0.835,
+            0.166
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 26407,
+      "reviewNote": "已核对原图。“18 世纪洛克的白板说”存在年代问题，另列只读校勘说明；其他评价保留原书口径。"
+    },
+    {
+      "id": "china-reviewed-ch2c-purpose",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨子的培养目标：“兼士”或“贤士”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 26,
+          "rect": [
+            0.095,
+            0.646,
+            0.835,
+            0.172
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 26581,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-science",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨家的教育内容：科学与技术教育",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 27,
+          "rect": [
+            0.245,
+            0.086,
+            0.66,
+            0.053
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 27077,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-thinking",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨家的教育内容：思维训练与“三表法”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 27,
+          "rect": [
+            0.245,
+            0.137,
+            0.66,
+            0.108
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 27123,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-other-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨家的教育内容：政治、道德与文史",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 27,
+          "rect": [
+            0.245,
+            0.245,
+            0.66,
+            0.106
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 27220,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-content-evaluation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨家教育内容的特色与评价",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 27,
+          "rect": [
+            0.13,
+            0.355,
+            0.775,
+            0.05
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 27319,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-active-creative",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨子的教育方法：主动与创造",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 27,
+          "rect": [
+            0.12,
+            0.426,
+            0.785,
+            0.059
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 27383,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-practice-method",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨子的教育方法：实践与“合其志功”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 27,
+          "rect": [
+            0.13,
+            0.49,
+            0.775,
+            0.271
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 27441,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-capacity",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨子的教育方法：量力",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 27,
+          "rect": [
+            0.13,
+            0.763,
+            0.775,
+            0.101
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 27686,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "墨子与墨家的历史影响及评价",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 墨子与墨家",
+      "refs": [
+        {
+          "page": 28,
+          "rect": [
+            0.095,
+            0.079,
+            0.81,
+            0.064
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 28071,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-same",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "儒家与墨家教育思想：相同点",
+      "section": "第二节 · 深化阅读 · 儒家和墨家教育思想的比较",
+      "refs": [
+        {
+          "page": 28,
+          "rect": [
+            0.125,
+            0.245,
+            0.77,
+            0.139
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 28220,
+      "reviewNote": "已对照扫描原页校对文字、层级与顺序；辅助内容默认只需阅读，可自行调整。"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "儒家与墨家教育思想：不同点",
+      "section": "第二节 · 深化阅读 · 儒家和墨家教育思想的比较",
+      "refs": [
+        {
+          "page": 28,
+          "rect": [
+            0.125,
+            0.381,
+            0.77,
+            0.52
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 28342,
+      "reviewNote": "已按原表逐行校对；深化比较默认只读。原表中的绝对性评价以原书口径标示，避免把比较概括当作无例外结论。"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-confucius",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "本节总结表：孔子",
+      "section": "第二节 · 收束阅读 · 春秋战国时期各学派的教育思想总结表",
+      "refs": [
+        {
+          "page": 29,
+          "rect": [
+            0.19,
+            0.079,
+            0.229,
+            0.843
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 29100,
+      "reviewNote": "已逐格核对第 29 页总结表，按人物保留各列关系；重复归纳默认只需阅读。表中破折号表示未列，不解释为没有相关思想。"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-mencius",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "本节总结表：孟子",
+      "section": "第二节 · 收束阅读 · 春秋战国时期各学派的教育思想总结表",
+      "refs": [
+        {
+          "page": 29,
+          "rect": [
+            0.419,
+            0.079,
+            0.165,
+            0.843
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 29101,
+      "reviewNote": "已逐格核对第 29 页总结表，按人物保留各列关系；重复归纳默认只需阅读。表中破折号表示未列，不解释为没有相关思想。"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-xunzi",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "本节总结表：荀子",
+      "section": "第二节 · 收束阅读 · 春秋战国时期各学派的教育思想总结表",
+      "refs": [
+        {
+          "page": 29,
+          "rect": [
+            0.584,
+            0.079,
+            0.151,
+            0.843
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 29102,
+      "reviewNote": "已逐格核对第 29 页总结表，按人物保留各列关系；重复归纳默认只需阅读。表中破折号表示未列，不解释为没有相关思想。"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-mozi",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "本节总结表：墨子",
+      "section": "第二节 · 收束阅读 · 春秋战国时期各学派的教育思想总结表",
+      "refs": [
+        {
+          "page": 29,
+          "rect": [
+            0.735,
+            0.079,
+            0.175,
+            0.843
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 29103,
+      "reviewNote": "已逐格核对第 29 页总结表，按人物保留各列关系；重复归纳默认只需阅读。表中破折号表示未列，不解释为没有相关思想。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch2c-overview-0",
+      "knowledgeId": "china-reviewed-ch2c-overview",
+      "title": "人物与文献",
+      "text": "墨子名翟，春秋末期战国初期人；原书采用“宋国人”的说法。《墨子》基本上由墨子的弟子和后人所作，是研究墨子和墨家的资料。",
+      "keywords": [
+        "翟",
+        "墨子",
+        "弟子与后人"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-overview-1",
+      "knowledgeId": "china-reviewed-ch2c-overview",
+      "title": "思想框架",
+      "text": "教育实践：“农与工肆之人”的代表；教育作用：“素丝说”；培养目标：“兼士”或“贤士”；教育内容以科学技术教育和思维训练教育为主要特色；教育方法：主动、创造、实践、量力；历史影响与评价。",
+      "keywords": [
+        "农与工肆之人",
+        "素丝说",
+        "兼士",
+        "主动创造实践量力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-practice-0",
+      "knowledgeId": "china-reviewed-ch2c-practice",
+      "title": "代表的阶层与利益",
+      "text": "墨子是“农与工肆之人”的代表。“农”指农民，“工肆”指小手工业者；墨子代表着下层人民的利益。",
+      "keywords": [
+        "农民",
+        "小手工业者",
+        "下层人民"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-practice-1",
+      "knowledgeId": "china-reviewed-ch2c-practice",
+      "title": "上说下教与墨家学派",
+      "text": "墨子“上说下教”，形成了一个有政纲、有领导、有组织、有纪律的墨家学派。",
+      "keywords": [
+        "上说下教",
+        "政纲领导组织纪律"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-practice-2",
+      "knowledgeId": "china-reviewed-ch2c-practice",
+      "title": "组织特点的评价",
+      "text": "墨家学派具有侠义作风、牺牲精神和献身精神；原书同时指出，其组织严密，俨然像一个宗教政治团体。",
+      "keywords": [
+        "侠义",
+        "牺牲献身",
+        "组织严密"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-role-0",
+      "knowledgeId": "china-reviewed-ch2c-role",
+      "title": "对个人：教育与环境改变人性",
+      "text": "人性如待染的“素丝”，教育与环境可以改变人性。“染于苍则苍，染于黄则黄，所入者变，其色亦变。”",
+      "keywords": [
+        "待染素丝",
+        "教育环境",
+        "改变人性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-role-1",
+      "knowledgeId": "china-reviewed-ch2c-role",
+      "title": "对社会：建立兼爱社会",
+      "text": "通过教育建立民众平等、互助的“兼爱”社会。",
+      "keywords": [
+        "平等",
+        "互助",
+        "兼爱社会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-role-2",
+      "knowledgeId": "china-reviewed-ch2c-role",
+      "title": "评价：天赋平等的色彩",
+      "text": "原书认为，与孔子相比，“素丝说”更明确且富有天赋平等的色彩，其社会意义更趋于进步。",
+      "keywords": [
+        "天赋平等",
+        "社会意义"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-role-3",
+      "knowledgeId": "china-reviewed-ch2c-role",
+      "title": "辅助比较：洛克白板说",
+      "text": "原书将“素丝说”与 18 世纪洛克的“白板说”作类比，并称前者早近 2300 年。校勘：洛克《人类理解论》初版于 1689/1690 年，属 17 世纪；这里不把“18 世纪”作为事实背诵。两说可作类比，不据此认定为同一理论。出处见《墨子与墨家校对记录》。",
+      "keywords": [
+        "素丝说",
+        "白板说",
+        "17世纪"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-purpose-0",
+      "knowledgeId": "china-reviewed-ch2c-purpose",
+      "title": "目标与德行标准",
+      "text": "培养“兼士”或“贤士”。厚乎德行：伦理道德标准。",
+      "keywords": [
+        "兼士贤士",
+        "厚乎德行",
+        "伦理道德"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-purpose-1",
+      "knowledgeId": "china-reviewed-ch2c-purpose",
+      "title": "言谈标准",
+      "text": "辩乎言谈：思维论辩标准。",
+      "keywords": [
+        "辩乎言谈",
+        "思维论辩"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-purpose-2",
+      "knowledgeId": "china-reviewed-ch2c-purpose",
+      "title": "道术标准",
+      "text": "博乎道术：知识技能标准。",
+      "keywords": [
+        "博乎道术",
+        "知识技能"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-purpose-3",
+      "knowledgeId": "china-reviewed-ch2c-purpose",
+      "title": "与君子的区别及影响",
+      "text": "原书认为，墨家的“兼士”与儒家的“君子”有本质不同；墨家更强调小生产者的平等、博爱精神，并启发后世的义侠精神。",
+      "keywords": [
+        "平等博爱",
+        "义侠精神"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-science-0",
+      "knowledgeId": "china-reviewed-ch2c-science",
+      "title": "实用的科学与技术知识",
+      "text": "包括生产和军事科学技术知识教育，以及自然科学知识教育，强调实用。",
+      "keywords": [
+        "生产",
+        "军事科技",
+        "自然科学",
+        "实用"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-thinking-0",
+      "knowledgeId": "china-reviewed-ch2c-thinking",
+      "title": "三表法的作用",
+      "text": "用“三表法”衡量言谈是否正确，体现尊重实践、尊重民众意愿。",
+      "keywords": [
+        "衡量言谈",
+        "尊重实践",
+        "民众意愿"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-thinking-1",
+      "knowledgeId": "china-reviewed-ch2c-thinking",
+      "title": "第一表：历史经验与知识",
+      "text": "依据历史的经验和知识。原书标示为“上”。",
+      "keywords": [
+        "历史经验",
+        "知识",
+        "上"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-thinking-2",
+      "knowledgeId": "china-reviewed-ch2c-thinking",
+      "title": "第二表：民众的经历和见闻",
+      "text": "依据民众的经历，以广见闻。原书标示为“下”。",
+      "keywords": [
+        "民众经历",
+        "见闻",
+        "下"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-thinking-3",
+      "knowledgeId": "china-reviewed-ch2c-thinking",
+      "title": "第三表：社会实践检验",
+      "text": "在社会实践中检验思想与言论正确与否。原书标示为“中”。",
+      "keywords": [
+        "社会实践",
+        "检验思想言论",
+        "中"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-thinking-4",
+      "knowledgeId": "china-reviewed-ch2c-thinking",
+      "title": "形式逻辑",
+      "text": "形式逻辑是突出思维与论辩的法则。",
+      "keywords": [
+        "形式逻辑",
+        "思维论辩"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-other-content-0",
+      "knowledgeId": "china-reviewed-ch2c-other-content",
+      "title": "政治教育",
+      "text": "“兼爱”“非攻”“尚贤”“尚同”“节用”“节葬”“非乐”“非命”“天志”“明鬼”。",
+      "keywords": [
+        "兼爱非攻",
+        "尚贤尚同",
+        "节用节葬",
+        "非乐非命",
+        "天志明鬼"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-other-content-1",
+      "knowledgeId": "china-reviewed-ch2c-other-content",
+      "title": "道德教育的侧重",
+      "text": "原书比较：儒家讲爱，十分注重情感因素；墨家讲爱，十分注重实际利益。",
+      "keywords": [
+        "儒家情感",
+        "墨家实际利益"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-other-content-2",
+      "knowledgeId": "china-reviewed-ch2c-other-content",
+      "title": "文史教育",
+      "text": "墨家不完全抛弃文史教育。",
+      "keywords": [
+        "不完全抛弃",
+        "文史教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-content-evaluation-0",
+      "knowledgeId": "china-reviewed-ch2c-content-evaluation",
+      "title": "科学技术与思维训练",
+      "text": "科学技术教育和思维训练教育是墨家主要特色，突破了儒家“六经”教育的范围，是一大创造。",
+      "keywords": [
+        "科学技术",
+        "思维训练",
+        "突破六经"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-active-creative-0",
+      "knowledgeId": "china-reviewed-ch2c-active-creative",
+      "title": "主动：主动说教",
+      "text": "主张“虽不叩必鸣者也”的“强说人”精神，主动施教。",
+      "keywords": [
+        "虽不叩必鸣",
+        "强说人",
+        "主动施教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-active-creative-1",
+      "knowledgeId": "china-reviewed-ch2c-active-creative",
+      "title": "创造：善述善作",
+      "text": "主张“古之善者则述之，今之善者则作之，欲善之益多也”。",
+      "keywords": [
+        "古善则述",
+        "今善则作",
+        "善述善作"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-practice-method-0",
+      "knowledgeId": "china-reviewed-ch2c-practice-method",
+      "title": "含义：动机与效果统一",
+      "text": "“志”是动机，是出发点；“功”是效果，是归宿。教育人，不仅要看其动机，还要看其行动的效果，二者必须辩证统一。",
+      "keywords": [
+        "志为动机",
+        "功为效果",
+        "辩证统一"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-practice-method-1",
+      "knowledgeId": "china-reviewed-ch2c-practice-method",
+      "title": "评价：施教的根本原则",
+      "text": "“合其志功”是墨子施教一贯奉行的最根本的原则；原书把这一原则概括为评判他人道德行为的尺度。",
+      "keywords": [
+        "合其志功",
+        "根本原则",
+        "评价行为"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-practice-method-2",
+      "knowledgeId": "china-reviewed-ch2c-practice-method",
+      "title": "深化比较：实践的范围和侧重",
+      "text": "原书将儒家概括为侧重道德实践和思想动机；墨家除道德、政治实践外，还强调生产、军事、科技等方面的实践，结合动机与效果评价行为。原表“只强调道德实践”等是比较性概括，阅读时不将其扩大为对所有儒者思想的无例外断言。",
+      "keywords": [
+        "实践范围",
+        "动机效果"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-capacity-0",
+      "knowledgeId": "china-reviewed-ch2c-capacity",
+      "title": "学生精力：量力而学",
+      "text": "人不能同时进行几方面的学习，要量力而学。",
+      "keywords": [
+        "学生精力",
+        "量力而学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-capacity-1",
+      "knowledgeId": "china-reviewed-ch2c-capacity",
+      "title": "知识水平：量力而教",
+      "text": "深者深求，浅者浅求，该增者增，该减者减，要量力而教。原书引文：“深其深，浅其浅，益其益，尊其尊。”",
+      "keywords": [
+        "知识水平",
+        "量力而教",
+        "深浅增减"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-capacity-2",
+      "knowledgeId": "china-reviewed-ch2c-capacity",
+      "title": "原书评价",
+      "text": "原书评价墨子为中国历史上第一个提出量力教育方法的人。此处保留为辅助阅读的教材评价，不额外扩展“第一”的史学结论。",
+      "keywords": [
+        "量力教育",
+        "原书评价"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-impact-0",
+      "knowledgeId": "china-reviewed-ch2c-impact",
+      "title": "教育方面",
+      "text": "原书评价：科学技术知识和技能技巧的专门教育的首创者。",
+      "keywords": [
+        "科学技术",
+        "技能技巧",
+        "专门教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-impact-1",
+      "knowledgeId": "china-reviewed-ch2c-impact",
+      "title": "文化方面",
+      "text": "墨家具有理想主义、务实作风和主动精神。",
+      "keywords": [
+        "理想主义",
+        "务实作风",
+        "主动精神"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-same-0",
+      "knowledgeId": "china-reviewed-ch2c-comparison-same",
+      "title": "教育作用",
+      "text": "肯定教育对个人和社会的作用。",
+      "keywords": [
+        "个人",
+        "社会"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-same-1",
+      "knowledgeId": "china-reviewed-ch2c-comparison-same",
+      "title": "教育目的",
+      "text": "分别培养君子和“兼士”，都重视知识和道德教育。",
+      "keywords": [
+        "君子兼士",
+        "知识道德"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-same-2",
+      "knowledgeId": "china-reviewed-ch2c-comparison-same",
+      "title": "教育内容",
+      "text": "强调文史和政治的学习。",
+      "keywords": [
+        "文史",
+        "政治"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-same-3",
+      "knowledgeId": "china-reviewed-ch2c-comparison-same",
+      "title": "教育方法",
+      "text": "重视实践。",
+      "keywords": [
+        "实践"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-0",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "时代背景",
+      "text": "儒家：春秋时期兴起。墨家：战国时期兴起。",
+      "keywords": [
+        "春秋",
+        "战国"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-1",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "教育实践",
+      "text": "原表概括儒家代表贵族与平民，但不代表农民与小手工业者的利益；墨家代表“农与工肆之人”，更体现平等。",
+      "keywords": [
+        "贵族平民",
+        "农与工肆之人"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-2",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "教育作用与人性论",
+      "text": "原表以先天因素与教育影响作比较：儒家一栏列孔子“唯上智与下愚不移”、孟子性善论、荀子性恶论；墨家一栏以“素丝说”强调教育与环境改变人性。",
+      "keywords": [
+        "孔孟荀",
+        "素丝说",
+        "教育环境"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-3",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "教育目的",
+      "text": "儒家：德才兼备的君子。墨家：具有义侠精神的“兼士”，要求辩乎言谈，增加了对逻辑思维的要求。",
+      "keywords": [
+        "德才兼备",
+        "义侠",
+        "逻辑思维"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-4",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "教育内容",
+      "text": "原表比较儒家“六经”教育偏重社会人事、文事，轻视科技与生产劳动；墨家重视科学与技术教育、思维训练。",
+      "keywords": [
+        "六经",
+        "科技",
+        "思维训练"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-5",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "施教的主动性",
+      "text": "儒家：“叩则鸣，不叩则不鸣”，强调心理准备。墨家：“虽不叩必鸣”，强调主动施教。",
+      "keywords": [
+        "心理准备",
+        "主动施教"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-6",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "对创造的态度",
+      "text": "原表以儒家的“述而不作”和墨家的“善述善作”相对照，概括后者更重视创造。",
+      "keywords": [
+        "述而不作",
+        "善述善作"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-7",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "实践的范围和评价尺度",
+      "text": "原表将儒家概括为侧重道德实践、动机；墨家实践包括道德、社会政治、科技、军事、生产，以“合其志功”兼顾动机与效果。这是原表的比较口径，不将“只”“不”等绝对用语泛化。",
+      "keywords": [
+        "实践范围",
+        "动机效果"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-comparison-differences-8",
+      "knowledgeId": "china-reviewed-ch2c-comparison-differences",
+      "title": "教育影响",
+      "text": "原表强调封建社会更重视儒学，使儒学与政治紧密结合，政治伦理化、教育儒学化；并以“销声匿迹”概括汉代后墨家教育思想影响的衰落。这里保留为原书的概括，不据此认定墨家文献或思想从此完全消失。",
+      "keywords": [
+        "教育儒学化",
+        "墨家影响衰落"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-confucius-0",
+      "knowledgeId": "china-reviewed-ch2c-summary-confucius",
+      "title": "实践、作用与目的",
+      "text": "教育实践：创办私学、编订“六经”。对个人：性相近也，习相远也；对社会：庶、富、教。教育目的：德才兼备的从政君子，“学而优则仕”。",
+      "keywords": [
+        "私学六经",
+        "性相近习相远",
+        "庶富教",
+        "从政君子"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-confucius-1",
+      "knowledgeId": "china-reviewed-ch2c-summary-confucius",
+      "title": "内容、方法与道德教育",
+      "text": "教育内容：《诗》《书》《礼》《乐》《易》《春秋》。教育方法：因材施教、启发诱导、学思行结合、好学乐学。道德教育内容：仁、礼；原则：立志、克己、力行、中庸、内省、改过。",
+      "keywords": [
+        "六经",
+        "因材启发学思行",
+        "仁礼",
+        "道德原则"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-confucius-2",
+      "knowledgeId": "china-reviewed-ch2c-summary-confucius",
+      "title": "教师与教育对象",
+      "text": "论教师：学而不厌、诲人不倦、以身作则、爱护学生、教学相长、温故知新。教育对象：“有教无类”。",
+      "keywords": [
+        "教师六点",
+        "有教无类"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-mencius-0",
+      "knowledgeId": "china-reviewed-ch2c-summary-mencius",
+      "title": "实践、作用与目的",
+      "text": "教育实践：开创“思孟学派”。对个人：性善论；对社会：国泰民安。教育目的：“明人伦”。",
+      "keywords": [
+        "思孟学派",
+        "性善论",
+        "国泰民安",
+        "明人伦"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-mencius-1",
+      "knowledgeId": "china-reviewed-ch2c-summary-mencius",
+      "title": "内容与方法",
+      "text": "教育内容：儒经。教育方法：深造自得、因材施教、盈科而进、专心致志。",
+      "keywords": [
+        "儒经",
+        "深造自得",
+        "因材盈科专心"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-mencius-2",
+      "knowledgeId": "china-reviewed-ch2c-summary-mencius",
+      "title": "教师与人格理想",
+      "text": "论教师：尊师但不唯师。其他：“大丈夫”的人格理想。道德教育一栏为破折号，表示本表未单列。",
+      "keywords": [
+        "尊师不唯师",
+        "大丈夫"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-xunzi-0",
+      "knowledgeId": "china-reviewed-ch2c-summary-xunzi",
+      "title": "实践、作用与目的",
+      "text": "教育实践：传授“六经”，口耳相传。对个人：性恶论；对社会：国富民强。教育目的：“大儒”。",
+      "keywords": [
+        "六经口传",
+        "性恶论",
+        "国富民强",
+        "大儒"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-xunzi-1",
+      "knowledgeId": "china-reviewed-ch2c-summary-xunzi",
+      "title": "内容与学习过程",
+      "text": "教育内容：“六经”。学习过程：“闻见知行”。",
+      "keywords": [
+        "六经",
+        "闻见知行"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-xunzi-2",
+      "knowledgeId": "china-reviewed-ch2c-summary-xunzi",
+      "title": "教师观",
+      "text": "最为提倡尊师；教师是治国之本；教师有绝对权威；对教师有要求。道德教育与其他栏未另列内容。",
+      "keywords": [
+        "尊师",
+        "治国之本",
+        "权威",
+        "教师要求"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-mozi-0",
+      "knowledgeId": "china-reviewed-ch2c-summary-mozi",
+      "title": "实践、作用与目的",
+      "text": "教育实践：“农与工肆之人”的代表。对个人：“素丝说”；对社会：“兼爱”社会。教育目的：“兼士”或“贤士”。",
+      "keywords": [
+        "农与工肆之人",
+        "素丝说",
+        "兼爱",
+        "兼士贤士"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-mozi-1",
+      "knowledgeId": "china-reviewed-ch2c-summary-mozi",
+      "title": "教育内容",
+      "text": "科学与技术教育；培养思维能力的教育；政治和道德教育；文史教育。",
+      "keywords": [
+        "科技",
+        "思维",
+        "政治道德",
+        "文史"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2c-summary-mozi-2",
+      "knowledgeId": "china-reviewed-ch2c-summary-mozi",
+      "title": "教育方法与表格空项",
+      "text": "教育方法：主动、创造、实践、量力。道德教育、论教师及其他栏为破折号，仅表示本表未单列；道德教育已列在教育内容中。",
+      "keywords": [
+        "主动创造实践量力",
+        "未单列不等于没有"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p026-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "墨子与墨家的教育思想 · 第18页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 26,
+            "rect": [
+              0.1042,
+              0.09579,
+              0.82662,
+              0.6831
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 26091,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p026-k01-0-s0",
+          "knowledgeId": "china-p026-k01-0",
+          "title": "原文小步 1",
+          "text": "医论\n（一）教育实践：“农与工肆之人”的代表\n（二）教育作用：“素丝说”\n（三）培养目标：“兼士”或“贤士”\n墨子\n（四）教育内容：科学技术教育和思维训练教育\n（五）教育方法：主动、创造、实践、量力\n（墨子：名翟，春秋末期战国初期宋国人）\n（六）历史影响与评价",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p026-k01-0-s1",
+          "knowledgeId": "china-p026-k01-0",
+          "title": "教育实践：“农与",
+          "text": "《墨子》：基本上是由墨子的弟子和后人所作。\n这是研究墨子和墨家的资料。\n一教育实践：“农与\n工肆之人”的代表\n1.内容\n农与工肆之人”的代表（农：农民；工肆：小手工业者），墨子代表着下层人民的利益。\n2.实践",
+          "keywords": [
+            "教育实践：“农与",
+            "工肆之人”的代表",
+            "内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p026-k01-0-s2",
+          "knowledgeId": "china-p026-k01-0",
+          "title": "评价",
+          "text": "墨子“上说下教”，于是形成了一个有政纲、有领导、有组织、有纪律的墨家学派。\n3.评价\n墨家学派具有侠义作风和牺牲精神，也有献身精神，但俨然像一个宗教政治团体。\n1.个人作用\n“素丝说”。人性如待染的“素丝”，教育与环境可以改变人性。“染于苍则苍，染于黄则黄，",
+          "keywords": [
+            "评价",
+            "个人作用"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p026-k01-0-s3",
+          "knowledgeId": "china-p026-k01-0",
+          "title": "教育作用",
+          "text": "二教育作用：\n所入者变，其色亦变。”\n2. 社会作用\n通过教育建立民众平等、互助的“兼爱”社会。\n翼素丝说\n（1）与孔子比更进步。墨子的“素丝说”更明确且富有天赋平等的色彩，其社会意义\n3.评价\n也更趋于进步。",
+          "keywords": [
+            "教育作用",
+            "社会作用",
+            "翼素丝说"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p026-k01-0-s4",
+          "knowledgeId": "china-p026-k01-0",
+          "title": "内容",
+          "text": "（2）与洛克比更超前。墨子的“素丝说”相似于18世纪洛克的“白板说”，但早了近2300年。\n1. 内容\n“兼士”或“贤士”。\n三培养目标\n兼士或“贤士\n2. 条件\n厚乎德行（即伦理道德标准）；辩乎言谈（即思维论辩标准）；博乎道术（即知识技能标准）。",
+          "keywords": [
+            "内容",
+            "“兼士”或“贤士”",
+            "培养目标"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p026-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "墨子与墨家的教育思想 · 第18页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 26,
+            "rect": [
+              0.19967,
+              0.75359,
+              0.46604,
+              0.06674
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 26688,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p026-k01-1-s0",
+          "knowledgeId": "china-p026-k01-1",
+          "title": "评价",
+          "text": "墨家的“兼士”与儒家的“君子”有本质不同。\n3.评价\n（1）墨家更强调小生产者的平等、博爱的精神。\n（2）启发中国后世出现义侠精神。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p027-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "墨子与墨家的教育思想 · 第19页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 27,
+            "rect": [
+              0.07467,
+              0.08542,
+              0.83212,
+              0.60342
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 27082,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p027-k00-0-s0",
+          "knowledgeId": "china-p027-k00-0",
+          "title": "科学与技",
+          "text": "(1) 科学与技\n包括生产和军事科学技术知识教育及自然科学知识教育一—实用。\n术教育\n①用“三表法”衡\n第一表，依据历史的经验和知识。（上）\n量言谈是否正确\n(2)培养思维\n第二表，依据民众的经历，以广见闻。（下）\n（体现尊重实践、",
+          "keywords": [
+            "科学与技",
+            "术教育",
+            "①用“三表法”衡"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p027-k00-0-s1",
+          "knowledgeId": "china-p027-k00-0",
+          "title": "能力的教育",
+          "text": "第三表，在社会实践中检验思想与言论正\n能力的教育\n尊重民众意愿）\n1.内容\n确与否。（中）\n②形式逻辑是突出思维与论辩的法则。\n非，非，，，回，，非，，\n四教育内容\n(3）政治和道\n命”“天志”“明鬼”。\n德教育\n②道德：儒家讲爱，十分注重情感因素；墨家讲爱，十分注重实",
+          "keywords": [
+            "能力的教育",
+            "内容",
+            "教育内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p027-k00-0-s2",
+          "knowledgeId": "china-p027-k00-0",
+          "title": "文史教育",
+          "text": "际利益。\n(4）文史教育\n墨家不完全抛弃文史教育。\n2.评价\n科学技术教育和思维训练教育是墨家主要特色，它们突破了儒家“六经”教育的范畴，\n堪称一大创造。\n1.主动，即主动说教\n主张“虽不叩必鸣者也”的“强说人”精神。\n2.创造，即善述善作",
+          "keywords": [
+            "文史教育",
+            "评价",
+            "主动，即主动说教"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p027-k00-0-s3",
+          "knowledgeId": "china-p027-k00-0",
+          "title": "含义",
+          "text": "主张“古之善者则述之，今之善者则作之，欲善之益多也”。\n(1)含义\n动机与效果统一。“志”就是“动机”，是出发点；“功”就是“效果”，\n是归宿。教育人，不仅要看其动机，还要看其行动的效果，二者必\n须辩证统一。\n3.实践，即",
+          "keywords": [
+            "含义",
+            "实践，即"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p027-k00-0-s4",
+          "knowledgeId": "china-p027-k00-0",
+          "title": "合其志功",
+          "text": "①“合其志功”是墨子施教一贯奉行的最根本的原则。他是第一\n合其志功\n个提出用“合其志功”的原则作为评判他人道德行为的尺度的人。\n(必要补充点)\n伍教育方法\n②墨家比儒家的实践内涵更广，更重视效果。\n学派\n实践的内容\n强调侧重点\n(2）评价\n儒家\n只强调道德实践",
+          "keywords": [
+            "合其志功",
+            "(必要补充点)",
+            "伍教育方法"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p027-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "墨子与墨家的教育思想 · 第19页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 27,
+            "rect": [
+              0.14198,
+              0.6605,
+              0.75794,
+              0.20096
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 27604,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p027-k00-1-s0",
+          "knowledgeId": "china-p027-k00-1",
+          "title": "①学生精力上，",
+          "text": "十分强调思想动机\n除了道德和政治实践，还\n十分强调动机要和效果统\n墨家\n强调生产、军事和科技等\n一起来去评价人的行为\n方面的实践\n①学生精力上，\n人不能同时进行几方面的学习，要量力而学。\n(1)含义\n②学生知识水平上，深者深求，浅者浅求，该增者增，该减者减，\n4. 量力",
+          "keywords": [
+            "①学生精力上，",
+            "含义",
+            "量力"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p027-k00-1-s1",
+          "knowledgeId": "china-p027-k00-1",
+          "title": "（必要补充点）",
+          "text": "要量力而教。“深其深，浅其浅，益其益，尊其尊。”\n（必要补充点）\n(2）评价\n墨子是中国历史上第一个提出量力教育方法的人。",
+          "keywords": [
+            "（必要补充点）",
+            "评价"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p028-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "墨子与墨家的教育思想 · 第20页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 28,
+            "rect": [
+              0.1042,
+              0.08082,
+              0.79366,
+              0.79596
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 28078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p028-k00-0-s0",
+          "knowledgeId": "china-p028-k00-0",
+          "title": "历史影响与评价",
+          "text": "1.教育方面：科学技术知识和技能技巧的专门教育的首创者。\n（六）历史影响与评价\n2.文化方面：墨家具有理想主义、务实作风和主动精神。\n凯程深化\n儒家和墨家教育思想的比较\n教育作用\n肯定教育对个人和社会的作用\n教育目的\n培养君子和“兼士”，都重视知识和道德教育\n相同点",
+          "keywords": [
+            "历史影响与评价",
+            "凯程深化"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p028-k00-0-s1",
+          "knowledgeId": "china-p028-k00-0",
+          "title": "原文小步 2",
+          "text": "教育内容\n强调文史和政治的学习\n教育方法\n重视实践\n儒家：春秋时期兴起。\n时代背景\n墨家：战国时期兴起\n儒家：代表贵族与平民，但不代表农民与小手工业者的利益。\n教育实践\n墨家：代表“农与工肆之人”，更体现平等",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p028-k00-0-s2",
+          "knowledgeId": "china-p028-k00-0",
+          "title": "原文小步 3",
+          "text": "儒家：人性与先天有关。孔子“唯上智与下愚不移”；孟子“性善论”；荀子“性恶论”。\n教育作用\n墨家：人性与先天无关，与教育有关，对此提出“素丝说”\n儒家：德才兼备的君子。\n教育目的\n墨家：义侠精神的“兼士”，辩乎言谈，增加了对逻辑思维的要求",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p028-k00-0-s3",
+          "knowledgeId": "china-p028-k00-0",
+          "title": "原文小步 4",
+          "text": "儒家：“六经”，偏重社会人事、文事，轻视科技与生产劳动。\n教育内容\n墨家：重视科学与技术教育、思维训练\n不同点\n儒家：“叩则鸣，不叩则不鸣”\n心理准备。\n墨家：“虽不叩必鸣”\n主动施教\n儒家：“述而不作”\n轻视创造。\n教育方法\n墨家：“善述善作”\n重视创造",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p028-k00-0-s4",
+          "knowledgeId": "china-p028-k00-0",
+          "title": "原文小步 5",
+          "text": "儒家：只强调道德实践，重视动机，不重视效果。\n墨家：包括道德、社会政治、科技、军事、生产的实践；“合其志功”，既重视动机，\n又重视效果\n儒家：封建社会更重视儒学，把儒学与政治紧密结合，做到政治伦理化、教育\n教育影响\n儒学化。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p028-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "墨子与墨家的教育思想 · 第20页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 28,
+            "rect": [
+              0.28827,
+              0.86836,
+              0.47429,
+              0.02834
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 28791,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p028-k00-1-s0",
+          "knowledgeId": "china-p028-k00-1",
+          "title": "原文小步 6",
+          "text": "墨家：汉代后，对墨家不予认同，导致墨家教育思想销声匿迹",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-reference-29",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "综合对照表 · 第21页",
+        "section": "框架与对照资料",
+        "refs": [
+          {
+            "page": 29
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "referenceOnly": true,
+        "order": 29000,
+        "reviewNote": "保留原图与识别文字；表格按原有行列阅读，不自动当作散句背诵。"
+      },
+      "steps": []
+    }
+  ],
+  "stats": {
+    "pages": 4,
+    "knowledge": 18,
+    "steps": 58,
+    "readOnlySteps": 30,
+    "replacedDrafts": 6,
+    "replacedReferences": 1
+  }
+}

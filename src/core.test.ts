@@ -1,0 +1,15 @@
+import {describe,it,expect} from 'vitest';
+import {initialState} from './seed';
+import {addDays,dayKey,emptyProgress,makeSession,mastered,queues,rateStep,reviseStep,scoreSession,validateBackup} from './core';
+describe('学习与复习规则',()=>{
+ it('阅读不算掌握，默认载入所有未学要点',()=>{const s=initialState();s.progress['practice-0']={...emptyProgress(),reads:3};expect(mastered(s.progress['practice-0'])).toBe(false);expect(makeSession(s,'new')?.queue).toHaveLength(s.steps.length);});
+ it('看过提示不能记作独立回忆',()=>{const s=rateStep(initialState(),'practice-0','independent',true,'e',new Date(2026,8,5,12));expect(s.events[0].rating).toBe('hint');expect(s.progress['practice-0'].independentDates).toHaveLength(0);expect(s.progress['practice-0'].due).toBe('2026-09-05');});
+ it('跨日才能巩固，同日重复不会推进复习层级',()=>{let s=rateStep(initialState(),'practice-0','independent',false,'a',new Date(2026,8,5,12));expect(s.progress['practice-0'].due).toBe('2026-09-06');s=rateStep(s,'practice-0','independent',false,'b',new Date(2026,8,5,13));expect(mastered(s.progress['practice-0'])).toBe(false);expect(s.progress['practice-0'].level).toBe(1);s=rateStep(s,'practice-0','independent',false,'c',new Date(2026,8,6,12));expect(mastered(s.progress['practice-0'])).toBe(true);expect(s.progress['practice-0'].due).toBe('2026-09-09');});
+ it('遗忘重置掌握状态，重新进入当天复习',()=>{let s=rateStep(initialState(),'practice-0','independent',false,'a',new Date(2026,8,5));s=rateStep(s,'practice-0','independent',false,'b',new Date(2026,8,6));s=rateStep(s,'practice-0','again',false,'c',new Date(2026,8,9));expect(mastered(s.progress['practice-0'])).toBe(false);expect(queues(s,'2026-09-09').due.map(t=>t.id)).toContain('practice-0');});
+ it('重复事件不重复记账',()=>{const s=rateStep(initialState(),'practice-0','again',false,'a');expect(rateStep(s,'practice-0','again',false,'a')).toBe(s);});
+ it('失败要点穿插两步后重试，双击评分不重复排队',()=>{let s=initialState();s.session=makeSession(s,'new');s.session!.phase='compare';const id=s.session!.queue[0];s=scoreSession(s,'again');expect(s.session!.queue[3]).toBe(id);expect(scoreSession(s,'again')).toBe(s);});
+ it('修改正文重置对应进度，保留历史事件',()=>{let s=rateStep(initialState(),'practice-0','independent',false,'a');s=reviseStep(s,{...s.steps[0],text:'修改后的正文'});expect(s.progress['practice-0'].level).toBe(0);expect(s.steps[0].version).toBe(2);expect(s.events).toHaveLength(1);});
+ it('日期计算跨月、跨年、闰年正确',()=>{expect(addDays('2026-12-31',1)).toBe('2027-01-01');expect(addDays('2028-02-28',1)).toBe('2028-02-29');expect(addDays('2026-09-30',3)).toBe('2026-10-03');});
+ it('旧版每日限额不再限制新学，取消勾选不删除历史',()=>{const s=initialState();s.settings.dailyNew=1;s.progress['practice-0']={...emptyProgress(),reads:1,firstStudied:dayKey()};expect(makeSession(s,'new')?.queue).toHaveLength(s.steps.length-1);s.knowledge[0].selected=false;expect(s.progress['practice-0'].reads).toBe(1);});
+ it('有效备份可恢复，无效关系与远程原书 URL 被拒绝',()=>{const s=initialState();expect(validateBackup(s)).toBe(true);s.books[0].sourceUrl='https://example.com/book.pdf';expect(validateBackup(s)).toBe(false);s.books[0].sourceUrl=undefined;s.steps[0].knowledgeId='missing';expect(validateBackup(s)).toBe(false);expect(validateBackup({schemaVersion:1})).toBe(false);});
+});

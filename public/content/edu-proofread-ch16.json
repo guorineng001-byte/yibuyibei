@@ -1,0 +1,3094 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch16-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch16-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 142,
+          "rect": [
+            0.05,
+            0.135,
+            0.92,
+            0.45
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 142121,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育概述",
+      "section": "第一节 · 德育概述",
+      "refs": [
+        {
+          "page": 142,
+          "rect": [
+            0.05,
+            0.665,
+            0.92,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 142598,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-model-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "六种德育模式框架原图",
+      "section": "第二节 · 德育模式 · 框架",
+      "refs": [
+        {
+          "page": 143,
+          "rect": [
+            0.05,
+            0.095,
+            0.92,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 143085,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "道德认知发展模式",
+      "section": "第二节 · 德育模式 · 考点一",
+      "refs": [
+        {
+          "page": 143,
+          "rect": [
+            0.05,
+            0.345,
+            0.92,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 143310,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "体谅模式",
+      "section": "第二节 · 德育模式 · 考点二",
+      "refs": [
+        {
+          "page": 143,
+          "rect": [
+            0.05,
+            0.68,
+            0.92,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 143612,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "价值澄清模式",
+      "section": "第二节 · 德育模式 · 考点三",
+      "refs": [
+        {
+          "page": 144,
+          "rect": [
+            0.05,
+            0.11,
+            0.92,
+            0.365
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 144099,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-learning",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "社会学习模式",
+      "section": "第二节 · 德育模式 · 考点四",
+      "refs": [
+        {
+          "page": 144,
+          "rect": [
+            0.05,
+            0.545,
+            0.92,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 144490,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "集体教育模式",
+      "section": "第二节 · 德育模式 · 考点五",
+      "refs": [
+        {
+          "page": 144,
+          "rect": [
+            0.05,
+            0.715,
+            0.92,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 144643,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "社会行动模式",
+      "section": "第二节 · 德育模式 · 考点六",
+      "refs": [
+        {
+          "page": 145,
+          "rect": [
+            0.05,
+            0.13,
+            0.92,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 145117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-models-summary",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "六种德育模式总结表原图",
+      "section": "第二节 · 德育模式 · 凯程助记",
+      "refs": [
+        {
+          "page": 145,
+          "rect": [
+            0.05,
+            0.48,
+            0.92,
+            0.285
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 145432,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch16-models-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "道德判断与体谅模式：跨页知识速练原图",
+      "section": "第二节 · 德育模式 · 知识速练",
+      "refs": [
+        {
+          "page": 145,
+          "rect": [
+            0.05,
+            0.78,
+            0.92,
+            0.145
+          ]
+        },
+        {
+          "page": 146,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.125
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 145702,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch16-autonomous-construction",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育过程：教师引导下个体品德的自主建构",
+      "section": "第三节 · 德育过程 · （一）",
+      "refs": [
+        {
+          "page": 146,
+          "rect": [
+            0.05,
+            0.27,
+            0.92,
+            0.055
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 146243,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-harmonious-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育过程：知、情、意、行整体和谐发展",
+      "section": "第三节 · 德育过程 · （二）",
+      "refs": [
+        {
+          "page": 146,
+          "rect": [
+            0.05,
+            0.345,
+            0.92,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 146310,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-self-education",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育过程：提高学生自我教育能力",
+      "section": "第三节 · 德育过程 · （三）",
+      "refs": [
+        {
+          "page": 146,
+          "rect": [
+            0.05,
+            0.415,
+            0.92,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 146373,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-contradiction",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育过程：学生德育矛盾的积极转化",
+      "section": "第三节 · 德育过程 · （四）",
+      "refs": [
+        {
+          "page": 146,
+          "rect": [
+            0.05,
+            0.555,
+            0.92,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 146499,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育原则",
+      "section": "第四、五节 · 德育原则与德育方法 · 德育原则",
+      "refs": [
+        {
+          "page": 146,
+          "rect": [
+            0.05,
+            0.74,
+            0.92,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 146666,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-methods",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育方法",
+      "section": "第四、五节 · 德育原则与德育方法 · 德育方法",
+      "refs": [
+        {
+          "page": 146,
+          "rect": [
+            0.05,
+            0.75,
+            0.92,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 146675,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-principles-methods-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育原则与方法：原表及下一页助记续表",
+      "section": "第四、五节 · 德育原则与德育方法 · 原书图表",
+      "refs": [
+        {
+          "page": 146,
+          "rect": [
+            0.05,
+            0.735,
+            0.92,
+            0.195
+          ]
+        },
+        {
+          "page": 147,
+          "rect": [
+            0.05,
+            0.09,
+            0.92,
+            0.195
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 146661,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch16-principles-methods-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育原则与方法：知识速练原图",
+      "section": "第四、五节 · 德育原则与德育方法 · 知识速练",
+      "refs": [
+        {
+          "page": 147,
+          "rect": [
+            0.05,
+            0.295,
+            0.92,
+            0.275
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 147265,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch16-direct-approach",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育的直接途径",
+      "section": "第六节 · 德育途径 · 考点一 · （一）",
+      "refs": [
+        {
+          "page": 147,
+          "rect": [
+            0.05,
+            0.675,
+            0.92,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 147607,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-indirect-approach",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "德育的间接途径",
+      "section": "第六节 · 德育途径 · 考点一 · （二）",
+      "refs": [
+        {
+          "page": 147,
+          "rect": [
+            0.05,
+            0.77,
+            0.92,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 147693,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-all-round-moral",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "全方位德育与三全育人",
+      "section": "第六节 · 德育途径 · 考点一 · （三）",
+      "refs": [
+        {
+          "page": 147,
+          "rect": [
+            0.05,
+            0.915,
+            0.92,
+            0.035
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 147823,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-approaches-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "指导育人：知识速练原图",
+      "section": "第六节 · 德育途径 · 知识速练",
+      "refs": [
+        {
+          "page": 148,
+          "rect": [
+            0.05,
+            0.09,
+            0.92,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 148081,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-meaning",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "立德树人：内涵与原因",
+      "section": "第六节 · 德育途径 · 考点二 · （一）（二）",
+      "refs": [
+        {
+          "page": 148,
+          "rect": [
+            0.05,
+            0.29,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 148261,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-paths",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "立德树人的实施路径",
+      "section": "第六节 · 德育途径 · 考点二 · （三）",
+      "refs": [
+        {
+          "page": 148,
+          "rect": [
+            0.05,
+            0.43,
+            0.92,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 148387,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "当代学校德育的问题与对策",
+      "section": "第六节 · 德育途径 · 凯程深化",
+      "refs": [
+        {
+          "page": 148,
+          "rect": [
+            0.05,
+            0.65,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 148585,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-15",
+      "title": "学校德育问题与对策：完整原表",
+      "section": "第六节 · 德育途径 · 凯程深化 · 原书对照表",
+      "refs": [
+        {
+          "page": 148,
+          "rect": [
+            0.05,
+            0.65,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 148585,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch16-moral-overview-0",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "广义德育",
+      "text": "教育者依据社会要求和学生身心规律，有目的、有组织、有计划、有系统地对受教育者施加道德、思想、政治、法治与心理健康等方面影响，期望把学生培养成合格社会成员的过程。",
+      "keywords": [
+        "社会身心规律",
+        "四有",
+        "道德思想政治法治心理健康",
+        "社会成员"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）概念"
+      ],
+      "displayTitle": "1. 广义",
+      "outline": "（一）概念"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-1",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "狭义德育",
+      "text": "教育者有目的地培养学生品德的过程。",
+      "keywords": [
+        "有目的",
+        "品德"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）概念"
+      ],
+      "displayTitle": "2. 狭义",
+      "outline": "（一）概念"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-2",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "公民培养",
+      "text": "培养爱国、守法、明德的公民。",
+      "keywords": [
+        "爱国守法明德"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）任务"
+      ],
+      "displayTitle": "1. 公民",
+      "outline": "（二）任务"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-3",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "社会主义者培养",
+      "text": "培养具有科学世界观、人生观和较高思想觉悟的社会主义者。",
+      "keywords": [
+        "世界观人生观觉悟",
+        "社会主义者"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）任务"
+      ],
+      "displayTitle": "2. 社会主义者",
+      "outline": "（二）任务"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-4",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "共产主义者培养",
+      "text": "使少数优秀分子成为共产主义者。",
+      "keywords": [
+        "少数优秀",
+        "共产主义者"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）任务"
+      ],
+      "displayTitle": "3. 共产主义者",
+      "outline": "（二）任务"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-5",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "道德教育",
+      "text": "道德教育。",
+      "keywords": [
+        "道德"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "1. 道德教育",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-6",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "思想教育",
+      "text": "思想教育。",
+      "keywords": [
+        "思想"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "2. 思想教育",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-7",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "政治教育",
+      "text": "政治教育。",
+      "keywords": [
+        "政治"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "3. 政治教育",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-8",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "法治教育",
+      "text": "法治教育。",
+      "keywords": [
+        "法治"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "4. 法治教育",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-overview-9",
+      "knowledgeId": "edu-reviewed-ch16-moral-overview",
+      "title": "心理健康教育",
+      "text": "心理健康教育。",
+      "keywords": [
+        "心理健康"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "5. 心理健康教育",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-0",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "皮亚杰无律",
+      "text": "前道德阶段，即无律阶段（0～5岁）。",
+      "keywords": [
+        "无律0至5岁"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）皮亚杰的道德认知发展理论"
+      ],
+      "displayTitle": "1. 前道德阶段",
+      "outline": "（一）皮亚杰的道德认知发展理论"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-1",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "皮亚杰他律",
+      "text": "他律道德阶段（5～8岁）。",
+      "keywords": [
+        "他律5至8岁"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）皮亚杰的道德认知发展理论"
+      ],
+      "displayTitle": "2. 他律道德阶段",
+      "outline": "（一）皮亚杰的道德认知发展理论"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-2",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "皮亚杰自律",
+      "text": "自律道德阶段（9～11岁）。",
+      "keywords": [
+        "自律9至11岁"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）皮亚杰的道德认知发展理论"
+      ],
+      "displayTitle": "3. 自律道德阶段",
+      "outline": "（一）皮亚杰的道德认知发展理论"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-3",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "前习俗水平",
+      "text": "惩罚和服从；工具性的相对主义。",
+      "keywords": [
+        "惩罚服从",
+        "工具相对主义"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）科尔伯格的道德发展阶段理论（三水平六阶段）"
+      ],
+      "displayTitle": "1. 前习俗水平",
+      "outline": "（二）科尔伯格的道德发展阶段理论（三水平六阶段）"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-4",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "习俗水平",
+      "text": "好孩子；维护权威或秩序。",
+      "keywords": [
+        "好孩子",
+        "权威秩序"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）科尔伯格的道德发展阶段理论（三水平六阶段）"
+      ],
+      "displayTitle": "2. 习俗水平",
+      "outline": "（二）科尔伯格的道德发展阶段理论（三水平六阶段）"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-5",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "后习俗水平",
+      "text": "社会契约；普遍道德原则。",
+      "keywords": [
+        "社会契约",
+        "普遍道德"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）科尔伯格的道德发展阶段理论（三水平六阶段）"
+      ],
+      "displayTitle": "3. 后习俗水平",
+      "outline": "（二）科尔伯格的道德发展阶段理论（三水平六阶段）"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-6",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "道德认知方法",
+      "text": "道德两难故事法、公正团体法。",
+      "keywords": [
+        "道德两难",
+        "公正团体"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）方法"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-7",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "尊重发展阶段",
+      "text": "尊重儿童道德发展阶段和规律。",
+      "keywords": [
+        "阶段规律"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "1. 尊重发展阶段",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-8",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "尊重建构主体",
+      "text": "尊重儿童道德自我建构的主体性。",
+      "keywords": [
+        "自我建构主体"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "2. 尊重建构主体",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-9",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "情境冲突提升",
+      "text": "儿童在道德情境或矛盾冲突中逐渐提升道德水平。",
+      "keywords": [
+        "情境冲突道德水平"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "3. 情境冲突提升",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-10",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "偏重认知",
+      "text": "过于强调道德认知，忽视道德情感和道德行为研究。",
+      "keywords": [
+        "认知情感行为"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "1. 偏重认知",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-cognitive-moral-development-11",
+      "knowledgeId": "edu-reviewed-ch16-cognitive-moral-development",
+      "title": "偏重判断",
+      "text": "过于强调道德判断，忽视道德内容的作用。",
+      "keywords": [
+        "判断内容"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "2. 偏重判断",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-0",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "体谅简介",
+      "text": "麦克菲尔、诺丁斯；重视道德情感，采用人际—社会情境故事。",
+      "keywords": [
+        "麦克菲尔诺丁斯",
+        "情感情境"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-1",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "友好关心需要",
+      "text": "与人友好相处是人类基本需要，人人渴望获得关心和体谅。",
+      "keywords": [
+        "友好关心体谅"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 友好关心需要",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-2",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "反对高度理性化",
+      "text": "德育对提高人际意识有重大作用，但反对以高度理性化方式进行德育。",
+      "keywords": [
+        "人际意识",
+        "反对高度理性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 反对高度理性化",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-3",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "学会关心体谅",
+      "text": "德育根本目的是教人学会关心、学会体谅。",
+      "keywords": [
+        "关心体谅"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 学会关心体谅",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-4",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "课堂氛围",
+      "text": "营造相互关心、相互体谅的课堂氛围。",
+      "keywords": [
+        "关心体谅氛围"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践"
+      ],
+      "displayTitle": "1. 课堂氛围",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-5",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "榜样感染",
+      "text": "注重道德感染力与榜样作用。",
+      "keywords": [
+        "感染榜样"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践"
+      ],
+      "displayTitle": "2. 榜样感染",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-6",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "教材丛书",
+      "text": "编写《生命线》丛书，包括《设身处地》《证明规则》《你会怎么办？》。",
+      "keywords": [
+        "生命线设身处地证明规则你会怎么办"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践"
+      ],
+      "displayTitle": "3. 教材丛书",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-7",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "多样方法",
+      "text": "灵活采用榜样、角色扮演、模仿、观察等方法。",
+      "keywords": [
+        "榜样角色模仿观察"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践"
+      ],
+      "displayTitle": "4. 多样方法",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-8",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "教师培训",
+      "text": "教师培训书《学会关心》。",
+      "keywords": [
+        "学会关心"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践"
+      ],
+      "displayTitle": "5. 教师培训",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-9",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "人本主义色彩",
+      "text": "具有人本主义色彩。",
+      "keywords": [
+        "人本主义"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "1. 人本主义色彩",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-10",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "贴近生活",
+      "text": "贴近生活。",
+      "keywords": [
+        "生活"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "2. 贴近生活",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-11",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "实践性强",
+      "text": "实践性强，深受师生欢迎。",
+      "keywords": [
+        "实践师生欢迎"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "3. 实践性强",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-consideration-12",
+      "knowledgeId": "edu-reviewed-ch16-consideration",
+      "title": "体谅缺点",
+      "text": "缺乏坚实理论基础。",
+      "keywords": [
+        "理论基础"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "2. 缺点",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-0",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "价值澄清简介",
+      "text": "路易斯·拉思斯，《价值与教学》；自由选择价值观，减少价值混乱。",
+      "keywords": [
+        "拉思斯价值与教学",
+        "自由选择减少混乱"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-1",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "价值观个人性",
+      "text": "理论基础：不存在统一价值观，价值观是个人的，道德不是灌输的。",
+      "keywords": [
+        "不统一个人非灌输"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 价值观个人性",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-2",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "掌握选择方法",
+      "text": "学校德育应引导学生掌握一定方法选择自己的价值观，减少价值混乱。",
+      "keywords": [
+        "方法选择减少混乱"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 掌握选择方法",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-3",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "价值观相对多变",
+      "text": "每个人价值观是多变的、相对的。",
+      "keywords": [
+        "多变相对"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 价值观相对多变",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-4",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "价值四要素",
+      "text": "关注生活、接受现实、深入思考、培养能力。",
+      "keywords": [
+        "生活现实思考能力"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践"
+      ],
+      "displayTitle": "1. 四要素",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-5",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "价值三阶段",
+      "text": "选择→赞赏→行动。",
+      "keywords": [
+        "选择赞赏行动"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践"
+      ],
+      "displayTitle": "2. 三阶段",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-6",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "澄清反应法",
+      "text": "教师针对学生言行做出反应，鼓励进一步思考。",
+      "keywords": [
+        "言行反应进一步思考"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践",
+        "3. 19种方法"
+      ],
+      "displayTitle": "（1）澄清反应法",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-7",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "价值单填写法",
+      "text": "教师提出问题，学生填写自己的价值观，再进行师生交流。",
+      "keywords": [
+        "问题填写交流"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践",
+        "3. 19种方法"
+      ],
+      "displayTitle": "（2）价值单填写法",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-8",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "价值连续体法",
+      "text": "被视为“极为有用的价值澄清方法”；师生把讨论主题的两种极端态度写在一条直线两端，也叫连续体。",
+      "keywords": [
+        "极端态度",
+        "直线两端连续体"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践",
+        "3. 19种方法"
+      ],
+      "displayTitle": "（3）价值连续体法",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-9",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "其他价值澄清方法",
+      "text": "原书另列价值观投票、角色游戏、后果搜寻、填写名片、群体谈话、时光日记、书写、讨论等16种其他方法，未逐一展开全部名称。",
+      "keywords": [
+        "投票角色后果名片谈话日记书写讨论"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）实践",
+        "3. 19种方法"
+      ],
+      "displayTitle": "其他方法",
+      "outline": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-10",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "体现学生主体",
+      "text": "充分体现学生主体性。",
+      "keywords": [
+        "学生主体"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "1. 体现学生主体",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-11",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "教学实践性强",
+      "text": "教学实践性强，深受欢迎。",
+      "keywords": [
+        "实践欢迎"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "2. 教学实践性强",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-12",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "个人中心主义",
+      "text": "易导致学生个人中心主义。",
+      "keywords": [
+        "个人中心"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "1. 个人中心主义",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-value-clarification-13",
+      "knowledgeId": "edu-reviewed-ch16-value-clarification",
+      "title": "忽视社会主导价值",
+      "text": "忽视确立社会主导价值观的必要性。",
+      "keywords": [
+        "社会主导价值"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "2. 忽视社会主导价值",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-learning-0",
+      "knowledgeId": "edu-reviewed-ch16-social-learning",
+      "title": "社会学习简介",
+      "text": "班杜拉，道德行为。",
+      "keywords": [
+        "班杜拉道德行为"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-learning-1",
+      "knowledgeId": "edu-reviewed-ch16-social-learning",
+      "title": "道德可改变",
+      "text": "通过社会学习，即观察学习和模仿学习，个人道德可以改变。",
+      "keywords": [
+        "观察模仿",
+        "道德可变"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 社会学习改变道德",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-learning-2",
+      "knowledgeId": "edu-reviewed-ch16-social-learning",
+      "title": "社会学习影响因素",
+      "text": "社会环境、文化、榜样强化是道德发展的主要影响因素。",
+      "keywords": [
+        "环境文化榜样强化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 主要因素",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-learning-3",
+      "knowledgeId": "edu-reviewed-ch16-social-learning",
+      "title": "社会学习方法",
+      "text": "榜样、模仿、抗拒诱惑、言行一致。",
+      "keywords": [
+        "榜样模仿抗拒诱惑言行一致"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）方法"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-learning-4",
+      "knowledgeId": "edu-reviewed-ch16-social-learning",
+      "title": "社会学习优点",
+      "text": "强调成人与环境对儿童道德的影响作用。",
+      "keywords": [
+        "成人环境"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "1. 优点",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-learning-5",
+      "knowledgeId": "edu-reviewed-ch16-social-learning",
+      "title": "社会学习缺点",
+      "text": "过于强调环境与榜样作用，忽视儿童道德能力发展的阶段性和成熟性。",
+      "keywords": [
+        "环境榜样",
+        "阶段成熟"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "2. 缺点",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-0",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "集体教育简介",
+      "text": "马卡连柯，集体教育。",
+      "keywords": [
+        "马卡连柯集体"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-1",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "集体教育宗旨",
+      "text": "在集体中，通过集体，为了集体。",
+      "keywords": [
+        "在集体中通过集体为了集体"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）宗旨"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-2",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "尊重严格结合",
+      "text": "尊重与严格要求相结合原则。",
+      "keywords": [
+        "尊重严格"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）方法与原则"
+      ],
+      "displayTitle": "1. 尊重严格结合",
+      "outline": "（三）方法与原则"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-3",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "平行教育影响",
+      "text": "平行教育影响原则。",
+      "keywords": [
+        "平行教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）方法与原则"
+      ],
+      "displayTitle": "2. 平行教育影响",
+      "outline": "（三）方法与原则"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-4",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "前景教育",
+      "text": "前景教育原则。",
+      "keywords": [
+        "前景教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）方法与原则"
+      ],
+      "displayTitle": "3. 前景教育",
+      "outline": "（三）方法与原则"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-5",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "作风传统",
+      "text": "优良的作风和传统。",
+      "keywords": [
+        "作风传统"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）方法与原则"
+      ],
+      "displayTitle": "4. 作风传统",
+      "outline": "（三）方法与原则"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-6",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "纪律教育",
+      "text": "论纪律教育。",
+      "keywords": [
+        "纪律"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）方法与原则"
+      ],
+      "displayTitle": "5. 纪律教育",
+      "outline": "（三）方法与原则"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-7",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "集体劳动家庭结合",
+      "text": "集体教育与劳动教育相结合，集体教育与家庭教育也应相互结合。",
+      "keywords": [
+        "集体劳动家庭"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）方法与原则"
+      ],
+      "displayTitle": "6. 集体劳动家庭结合",
+      "outline": "（三）方法与原则"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-8",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "集体理论优点",
+      "text": "以马克思主义为理论基础，提倡培养集体主义精神。",
+      "keywords": [
+        "马克思主义集体主义"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（1）教育理论",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-9",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "集体实践优点",
+      "text": "实践性强，具有普遍教育意义。",
+      "keywords": [
+        "实践普遍意义"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（2）教育实践",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-collective-10",
+      "knowledgeId": "edu-reviewed-ch16-collective",
+      "title": "集体教育缺点",
+      "text": "过于关注整体学生的教育，不够突出照顾集体中个体差异。",
+      "keywords": [
+        "整体个体差异"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "2. 缺点",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-0",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "社会行动简介",
+      "text": "弗雷德·纽曼，道德行为等综合认识；原书总结表标注研究重点为知情意行的综合性。",
+      "keywords": [
+        "纽曼",
+        "知情意行综合"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-1",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "道德推动者",
+      "text": "德育目的是培养道德推动者，这是核心。",
+      "keywords": [
+        "道德推动者核心"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 德育目的",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-2",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "心理准备",
+      "text": "自我能力与信心。",
+      "keywords": [
+        "自我能力信心"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 个体心理准备",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-3",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "社会行动前提",
+      "text": "“被统治者的同意”，即民主原则。",
+      "keywords": [
+        "被统治者同意民主"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 理论前提",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-4",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "政策目标",
+      "text": "制定政策目标。",
+      "keywords": [
+        "政策目标"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "4. 公民社会行动的过程"
+      ],
+      "displayTitle": "（1）制定政策目标",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-5",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "公众支持",
+      "text": "争取公众支持。",
+      "keywords": [
+        "公众支持"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "4. 公民社会行动的过程"
+      ],
+      "displayTitle": "（2）争取公众支持",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-6",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "心理问题",
+      "text": "解决心理上的问题。",
+      "keywords": [
+        "心理问题"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "4. 公民社会行动的过程"
+      ],
+      "displayTitle": "（3）解决心理问题",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-7",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "社区问题课程",
+      "text": "“社区问题方案”课程，六大门类：政治—法律活动课、交际课、社区服务实习、公民行动工作、文学研习、公共交流。",
+      "keywords": [
+        "社区问题方案",
+        "政治法律交际服务公民文学交流"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（三）实践"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-8",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "公民社会行动",
+      "text": "强调德育必须注重公民社会行动方面教育。",
+      "keywords": [
+        "公民社会行动"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "1. 公民社会行动",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-9",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "新公民体系",
+      "text": "提供一套新公民培养体系。",
+      "keywords": [
+        "新公民体系"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "2. 新公民体系",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-10",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "完整方法程序",
+      "text": "实践中发展了一套较完整的教育实施方法与程序。",
+      "keywords": [
+        "方法程序"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "3. 完整方法程序",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-11",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "理论依据未明",
+      "text": "理论研究尚处初步阶段，没能说明公民行动教育理论依据。",
+      "keywords": [
+        "初步阶段理论依据"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "1. 理论依据未明",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-12",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "理论前提问题",
+      "text": "若“被统治者的同意”这一理论前提不成立，又该如何落实德育。",
+      "keywords": [
+        "理论前提不成立"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "2. 理论前提问题",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-13",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "成本昂贵",
+      "text": "成本昂贵，很多学校难以实施。",
+      "keywords": [
+        "成本实施"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "3. 成本昂贵",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-14",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "占用学科时间",
+      "text": "耗时耗力，影响和占据学科课程时间。",
+      "keywords": [
+        "耗时学科时间"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "4. 占用学科时间",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-social-action-15",
+      "knowledgeId": "edu-reviewed-ch16-social-action",
+      "title": "评估困难",
+      "text": "评估困难。",
+      "keywords": [
+        "评估困难"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "5. 评估困难",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-autonomous-construction-0",
+      "knowledgeId": "edu-reviewed-ch16-autonomous-construction",
+      "title": "主动吸收内化",
+      "text": "学生对外界环境影响积极主动地吸收和内化。",
+      "keywords": [
+        "主动吸收内化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 主动吸收内化"
+    },
+    {
+      "id": "edu-reviewed-ch16-autonomous-construction-1",
+      "knowledgeId": "edu-reviewed-ch16-autonomous-construction",
+      "title": "教师积极引导",
+      "text": "教师对学生积极引导。",
+      "keywords": [
+        "教师引导"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 教师积极引导"
+    },
+    {
+      "id": "edu-reviewed-ch16-autonomous-construction-2",
+      "knowledgeId": "edu-reviewed-ch16-autonomous-construction",
+      "title": "心理实践促进",
+      "text": "内部心理活动与外部实践活动相互促进。",
+      "keywords": [
+        "内部心理外部实践"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 心理实践促进"
+    },
+    {
+      "id": "edu-reviewed-ch16-harmonious-development-0",
+      "knowledgeId": "edu-reviewed-ch16-harmonious-development",
+      "title": "整体性",
+      "text": "整体性。",
+      "keywords": [
+        "整体"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 整体性"
+    },
+    {
+      "id": "edu-reviewed-ch16-harmonious-development-1",
+      "knowledgeId": "edu-reviewed-ch16-harmonious-development",
+      "title": "针对性",
+      "text": "针对性。",
+      "keywords": [
+        "针对"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 针对性"
+    },
+    {
+      "id": "edu-reviewed-ch16-harmonious-development-2",
+      "knowledgeId": "edu-reviewed-ch16-harmonious-development",
+      "title": "多开端性",
+      "text": "多开端性。",
+      "keywords": [
+        "多开端"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 多开端性"
+    },
+    {
+      "id": "edu-reviewed-ch16-self-education-0",
+      "knowledgeId": "edu-reviewed-ch16-self-education",
+      "title": "自我教育条件",
+      "text": "自我教育能力是德育的重要条件。",
+      "keywords": [
+        "重要条件"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 意义"
+      ],
+      "displayTitle": "（1）重要条件",
+      "outline": "1. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch16-self-education-1",
+      "knowledgeId": "edu-reviewed-ch16-self-education",
+      "title": "自我教育标志",
+      "text": "自我教育能力是德育的重要标志。",
+      "keywords": [
+        "重要标志"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 意义"
+      ],
+      "displayTitle": "（2）重要标志",
+      "outline": "1. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch16-self-education-2",
+      "knowledgeId": "edu-reviewed-ch16-self-education",
+      "title": "自主能动创造",
+      "text": "自我教育能力体现学生自主性、能动性和创造性。",
+      "keywords": [
+        "自主能动创造"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 意义"
+      ],
+      "displayTitle": "（3）体现主体性",
+      "outline": "1. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch16-self-education-3",
+      "knowledgeId": "edu-reviewed-ch16-self-education",
+      "title": "自我教育构成",
+      "text": "自我期望、自我调控、自我评价。",
+      "keywords": [
+        "期望调控评价"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 构成"
+    },
+    {
+      "id": "edu-reviewed-ch16-self-education-4",
+      "knowledgeId": "edu-reviewed-ch16-self-education",
+      "title": "皮亚杰规律",
+      "text": "无律→他律→自律。",
+      "keywords": [
+        "无律他律自律"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 规律"
+      ],
+      "displayTitle": "（1）皮亚杰",
+      "outline": "3. 规律"
+    },
+    {
+      "id": "edu-reviewed-ch16-self-education-5",
+      "knowledgeId": "edu-reviewed-ch16-self-education",
+      "title": "科尔伯格规律",
+      "text": "三水平六阶段的道德发展阶段理论。",
+      "keywords": [
+        "三水平六阶段"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 规律"
+      ],
+      "displayTitle": "（2）科尔伯格",
+      "outline": "3. 规律"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-contradiction-0",
+      "knowledgeId": "edu-reviewed-ch16-moral-contradiction",
+      "title": "理论基础",
+      "text": "皮亚杰与科尔伯格的理论。",
+      "keywords": [
+        "皮亚杰科尔伯格"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 理论基础"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-contradiction-1",
+      "knowledgeId": "edu-reviewed-ch16-moral-contradiction",
+      "title": "主要矛盾",
+      "text": "社会对学生的道德要求与学生已有品德水平之间的矛盾。",
+      "keywords": [
+        "社会道德要求",
+        "已有品德水平"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 主要矛盾"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-contradiction-2",
+      "knowledgeId": "edu-reviewed-ch16-moral-contradiction",
+      "title": "德育本质",
+      "text": "德育活动是把外部道德要求积极转化为学生内在品德的过程。",
+      "keywords": [
+        "外部要求内在品德转化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 德育本质"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles-0",
+      "knowledgeId": "edu-reviewed-ch16-moral-principles",
+      "title": "集体与个别结合",
+      "text": "集体教育与个别教育相结合，即在集体中原则。",
+      "keywords": [
+        "集体个别"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 集体与个别结合"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles-1",
+      "knowledgeId": "edu-reviewed-ch16-moral-principles",
+      "title": "知行统一",
+      "text": "知行统一，即理论与生活相结合。",
+      "keywords": [
+        "知行理论生活"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 知行统一"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles-2",
+      "knowledgeId": "edu-reviewed-ch16-moral-principles",
+      "title": "正面与纪律结合",
+      "text": "正面引导与纪律约束相结合，即疏导原则。",
+      "keywords": [
+        "引导约束疏导"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 正面与纪律结合"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles-3",
+      "knowledgeId": "edu-reviewed-ch16-moral-principles",
+      "title": "积极与消极结合",
+      "text": "发挥积极因素与克服消极因素相结合，即长善救失原则。",
+      "keywords": [
+        "积极消极长善救失"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 积极与消极结合"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles-4",
+      "knowledgeId": "edu-reviewed-ch16-moral-principles",
+      "title": "严格与尊重结合",
+      "text": "严格要求与尊重信任相结合。",
+      "keywords": [
+        "严格尊重信任"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "5. 严格与尊重结合"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles-5",
+      "knowledgeId": "edu-reviewed-ch16-moral-principles",
+      "title": "年龄与个性结合",
+      "text": "照顾年龄特点与照顾个性特点相结合，即因材施教原则。",
+      "keywords": [
+        "年龄个性因材施教"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "6. 年龄与个性结合"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles-6",
+      "knowledgeId": "edu-reviewed-ch16-moral-principles",
+      "title": "影响一致性",
+      "text": "教育影响的一致性。",
+      "keywords": [
+        "教育影响一致"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "7. 影响一致性"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-principles-7",
+      "knowledgeId": "edu-reviewed-ch16-moral-principles",
+      "title": "影响连续性",
+      "text": "教育影响的连续性。",
+      "keywords": [
+        "教育影响连续"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "8. 影响连续性"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-methods-0",
+      "knowledgeId": "edu-reviewed-ch16-moral-methods",
+      "title": "说服教育",
+      "text": "说服教育。",
+      "keywords": [
+        "说服教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 说服教育"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-methods-1",
+      "knowledgeId": "edu-reviewed-ch16-moral-methods",
+      "title": "情境陶冶",
+      "text": "情境陶冶。",
+      "keywords": [
+        "情境陶冶"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 情境陶冶"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-methods-2",
+      "knowledgeId": "edu-reviewed-ch16-moral-methods",
+      "title": "实践锻炼",
+      "text": "实践锻炼。",
+      "keywords": [
+        "实践锻炼"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 实践锻炼"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-methods-3",
+      "knowledgeId": "edu-reviewed-ch16-moral-methods",
+      "title": "自我教育",
+      "text": "自我教育，又称自我修养。",
+      "keywords": [
+        "自我教育修养"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 自我教育"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-methods-4",
+      "knowledgeId": "edu-reviewed-ch16-moral-methods",
+      "title": "榜样示范",
+      "text": "榜样示范。",
+      "keywords": [
+        "榜样示范"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "5. 榜样示范"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-methods-5",
+      "knowledgeId": "edu-reviewed-ch16-moral-methods",
+      "title": "品德评价",
+      "text": "品德评价。",
+      "keywords": [
+        "品德评价"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "6. 品德评价"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-methods-6",
+      "knowledgeId": "edu-reviewed-ch16-moral-methods",
+      "title": "奖赏与惩罚",
+      "text": "奖赏与惩罚。",
+      "keywords": [
+        "奖赏惩罚"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "7. 奖赏与惩罚"
+    },
+    {
+      "id": "edu-reviewed-ch16-direct-approach-0",
+      "knowledgeId": "edu-reviewed-ch16-direct-approach",
+      "title": "直接途径含义",
+      "text": "专门开设的道德课，如思想政治课等。",
+      "keywords": [
+        "专门道德课思想政治"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch16-direct-approach-1",
+      "knowledgeId": "edu-reviewed-ch16-direct-approach",
+      "title": "课程时间保障",
+      "text": "德育实施在课程和时间上获得最基本保障。",
+      "keywords": [
+        "课程时间保障"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 意义"
+      ],
+      "displayTitle": "（1）基本保障",
+      "outline": "2. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch16-direct-approach-2",
+      "knowledgeId": "edu-reviewed-ch16-direct-approach",
+      "title": "系统全面认知",
+      "text": "有利于系统、全面地传授德育知识，提高道德认知。",
+      "keywords": [
+        "系统全面知识认知"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 意义"
+      ],
+      "displayTitle": "（2）道德认知",
+      "outline": "2. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch16-direct-approach-3",
+      "knowledgeId": "edu-reviewed-ch16-direct-approach",
+      "title": "促进道德思维敏感",
+      "text": "教法得当，可以迅速促进道德思维能力和道德敏感性发展。",
+      "keywords": [
+        "教法得当",
+        "思维敏感性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 意义"
+      ],
+      "displayTitle": "（3）思维能力与敏感性",
+      "outline": "2. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch16-indirect-approach-0",
+      "knowledgeId": "edu-reviewed-ch16-indirect-approach",
+      "title": "间接途径含义",
+      "text": "专门道德课之外的学科教学、学校管理等各方面渗透的道德教育。",
+      "keywords": [
+        "道德课之外",
+        "教学管理渗透"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch16-indirect-approach-1",
+      "knowledgeId": "edu-reviewed-ch16-indirect-approach",
+      "title": "教学育人",
+      "text": "道德课之外的学科课程，如语文课等。",
+      "keywords": [
+        "学科课程语文"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（1）教学育人",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch16-indirect-approach-2",
+      "knowledgeId": "edu-reviewed-ch16-indirect-approach",
+      "title": "指导育人",
+      "text": "班主任谈话、职业指导、就业讲座、心理咨询等。",
+      "keywords": [
+        "谈话职业就业心理"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（2）指导育人",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch16-indirect-approach-3",
+      "knowledgeId": "edu-reviewed-ch16-indirect-approach",
+      "title": "管理育人",
+      "text": "校风、校训等。",
+      "keywords": [
+        "校风校训"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（3）管理育人",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch16-indirect-approach-4",
+      "knowledgeId": "edu-reviewed-ch16-indirect-approach",
+      "title": "活动育人",
+      "text": "劳动、课外校外活动、共青团和少先队活动等。",
+      "keywords": [
+        "劳动课外校外共青团少先队"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（4）活动育人",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch16-indirect-approach-5",
+      "knowledgeId": "edu-reviewed-ch16-indirect-approach",
+      "title": "环境育人",
+      "text": "校园环境、校园生活等。",
+      "keywords": [
+        "校园环境生活"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（5）环境育人",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch16-indirect-approach-6",
+      "knowledgeId": "edu-reviewed-ch16-indirect-approach",
+      "title": "协同育人",
+      "text": "家庭、学校、社会三方面在德育上相互配合。",
+      "keywords": [
+        "家庭学校社会"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 分类"
+      ],
+      "displayTitle": "（6）协同育人",
+      "outline": "2. 分类"
+    },
+    {
+      "id": "edu-reviewed-ch16-all-round-moral-0",
+      "knowledgeId": "edu-reviewed-ch16-all-round-moral",
+      "title": "三全育人",
+      "text": "全员育人、全过程育人、全方位育人；德育存在于一切教育活动之中。",
+      "keywords": [
+        "全员全过程全方位",
+        "一切教育活动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "全方位德育"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-meaning-0",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-meaning",
+      "title": "立德树人任务",
+      "text": "原书指出，十八大报告首次明确提出把立德树人作为教育的根本任务。",
+      "keywords": [
+        "十八大教育根本任务"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）内涵"
+      ],
+      "displayTitle": "根本任务",
+      "outline": "（一）内涵"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-meaning-1",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-meaning",
+      "title": "立德树人要求",
+      "text": "培养德智体美劳全面发展的社会主义建设者和接班人的本质要求。",
+      "keywords": [
+        "德智体美劳",
+        "建设者接班人"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）内涵"
+      ],
+      "displayTitle": "本质要求",
+      "outline": "（一）内涵"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-meaning-2",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-meaning",
+      "title": "个体原因",
+      "text": "德育在“五育”并举中起到方向与保障作用。",
+      "keywords": [
+        "五育方向保障"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）原因"
+      ],
+      "displayTitle": "1. 对个体",
+      "outline": "（二）原因"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-meaning-3",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-meaning",
+      "title": "社会原因",
+      "text": "社会经济、政治与文化发展离不开道德支持。",
+      "keywords": [
+        "经济政治文化",
+        "道德支持"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）原因"
+      ],
+      "displayTitle": "2. 对社会",
+      "outline": "（二）原因"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-meaning-4",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-meaning",
+      "title": "教育原因",
+      "text": "教育最大的任务是育人。",
+      "keywords": [
+        "育人"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）原因"
+      ],
+      "displayTitle": "3. 对教育自身",
+      "outline": "（二）原因"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-meaning-5",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-meaning",
+      "title": "立德树人总结",
+      "text": "立德树人是教育的根本任务。",
+      "keywords": [
+        "根本任务"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）原因"
+      ],
+      "displayTitle": "总结",
+      "outline": "（二）原因"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-paths-0",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-paths",
+      "title": "学校育人路径",
+      "text": "课程育人、教学育人、文化育人、活动育人、管理育人、全员育人。",
+      "keywords": [
+        "课程教学文化活动管理全员"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 学校方面"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-paths-1",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-paths",
+      "title": "家庭育人意识",
+      "text": "增强家庭育人意识，发挥家长榜样作用。",
+      "keywords": [
+        "家庭意识家长榜样"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 家庭方面"
+      ],
+      "displayTitle": "（1）育人意识与榜样",
+      "outline": "2. 家庭方面"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-paths-2",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-paths",
+      "title": "家教家风",
+      "text": "注重家教、家风，用良好家教家风涵育道德品行。",
+      "keywords": [
+        "家教家风道德品行"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 家庭方面"
+      ],
+      "displayTitle": "（2）家教与家风",
+      "outline": "2. 家庭方面"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-paths-3",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-paths",
+      "title": "社会共育实践",
+      "text": "确立社会自觉教育意识，构建社会共育机制，广泛开展社会文明实践活动，推动道德实践养成。",
+      "keywords": [
+        "自觉共育文明实践"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 社会方面"
+      ],
+      "displayTitle": "（1）共育机制与实践",
+      "outline": "3. 社会方面"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-paths-4",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-paths",
+      "title": "正确舆论风尚",
+      "text": "以正确舆论营造良好道德风尚。",
+      "keywords": [
+        "舆论道德风尚"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 社会方面"
+      ],
+      "displayTitle": "（2）舆论风尚",
+      "outline": "3. 社会方面"
+    },
+    {
+      "id": "edu-reviewed-ch16-moral-root-paths-5",
+      "knowledgeId": "edu-reviewed-ch16-moral-root-paths",
+      "title": "健康网络空间",
+      "text": "营造健康网络空间。",
+      "keywords": [
+        "健康网络"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 社会方面"
+      ],
+      "displayTitle": "（3）网络空间",
+      "outline": "3. 社会方面"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-0",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育观念",
+      "text": "应试教育智育为先，德育观念边缘化。",
+      "keywords": [
+        "应试智育边缘化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "问题"
+      ],
+      "displayTitle": "1. 德育观念",
+      "outline": "问题"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-1",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育内容",
+      "text": "重大节而轻小德，德育内容僵化。",
+      "keywords": [
+        "重大节轻小德僵化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "问题"
+      ],
+      "displayTitle": "2. 德育内容",
+      "outline": "问题"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-2",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育方法",
+      "text": "教师讲授太单一，生活实践弱化。",
+      "keywords": [
+        "讲授单一实践弱化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "问题"
+      ],
+      "displayTitle": "3. 德育方法",
+      "outline": "问题"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-3",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育合作",
+      "text": "教师家庭相脱离，德育资源匮乏。",
+      "keywords": [
+        "教师家庭脱离资源"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "问题"
+      ],
+      "displayTitle": "4. 德育合作",
+      "outline": "问题"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-4",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育途径",
+      "text": "课堂教学唯正途，德育途径单一化。",
+      "keywords": [
+        "课堂途径单一"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "问题"
+      ],
+      "displayTitle": "5. 德育途径",
+      "outline": "问题"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-5",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育评价",
+      "text": "学校教育唯分数论，育人评价淡化。",
+      "keywords": [
+        "唯分数育人淡化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "问题"
+      ],
+      "displayTitle": "6. 德育评价",
+      "outline": "问题"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-6",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育观念",
+      "text": "把立德树人作为培养全面发展的人的本质要求。",
+      "keywords": [
+        "立德树人全面发展"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "对策"
+      ],
+      "displayTitle": "1. 德育观念",
+      "outline": "对策"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-7",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育内容",
+      "text": "把生活育德作为德育的内容源本。",
+      "keywords": [
+        "生活育德源本"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "对策"
+      ],
+      "displayTitle": "2. 德育内容",
+      "outline": "对策"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-8",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育方法",
+      "text": "把探究实践作为德育的新型方法。",
+      "keywords": [
+        "探究实践"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "对策"
+      ],
+      "displayTitle": "3. 德育方法",
+      "outline": "对策"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-9",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育合作",
+      "text": "把家校合作作为德育的广阔背景。",
+      "keywords": [
+        "家校合作"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "对策"
+      ],
+      "displayTitle": "4. 德育合作",
+      "outline": "对策"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-10",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育途径",
+      "text": "把间接德育作为德育的开发新途径。",
+      "keywords": [
+        "间接德育"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "对策"
+      ],
+      "displayTitle": "5. 德育途径",
+      "outline": "对策"
+    },
+    {
+      "id": "edu-reviewed-ch16-school-moral-problems-11",
+      "knowledgeId": "edu-reviewed-ch16-school-moral-problems",
+      "title": "德育评价",
+      "text": "把改革德育评价作为德育的基本手段。",
+      "keywords": [
+        "改革评价"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "对策"
+      ],
+      "displayTitle": "6. 德育评价",
+      "outline": "对策"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch16-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 7,
+    "knowledge": 27,
+    "steps": 148,
+    "referenceOnly": 8
+  }
+}

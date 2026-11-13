@@ -1,0 +1,1576 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch14-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch14-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "第二章章节框架",
+      "section": "外教 · 古希腊教育 · 章节框架",
+      "refs": [
+        {
+          "page": 115,
+          "rect": [
+            0.28,
+            0.45,
+            0.64,
+            0.48
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 115405,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-homer",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "荷马时期教育",
+      "section": "第二章 · 第一节 教育制度与教育实践",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.07,
+            0.11,
+            0.85,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116099,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sparta",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "斯巴达教育",
+      "section": "第二章 · 第一节 · 古风时期",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.07,
+            0.22,
+            0.85,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116198,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-athens",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "雅典教育",
+      "section": "第二章 · 第一节 · 古风时期",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.07,
+            0.38,
+            0.85,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116342,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "智者派",
+      "section": "第二章 · 第一节 · 古典时期",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.18,
+            0.55,
+            0.74,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116495,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-hellenistic",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "希腊化时期教育",
+      "section": "第二章 · 第一节 教育制度与教育实践",
+      "refs": [
+        {
+          "page": 116,
+          "rect": [
+            0.17,
+            0.78,
+            0.75,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 116702,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "苏格拉底：教育实践与目的",
+      "section": "第二章 · 第二节 教育思想 · 考点一",
+      "refs": [
+        {
+          "page": 118,
+          "rect": [
+            0.17,
+            0.1,
+            0.75,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 118090,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "苏格拉底：教育内容",
+      "section": "第二章 · 第二节 教育思想 · 考点一",
+      "refs": [
+        {
+          "page": 118,
+          "rect": [
+            0.27,
+            0.23,
+            0.65,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 118207,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-method",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "苏格拉底方法",
+      "section": "第二章 · 第二节 教育思想 · 考点一",
+      "refs": [
+        {
+          "page": 118,
+          "rect": [
+            0.32,
+            0.56,
+            0.6,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 118504,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "苏格拉底的影响",
+      "section": "第二章 · 第二节 教育思想 · 考点一",
+      "refs": [
+        {
+          "page": 118,
+          "rect": [
+            0.17,
+            0.86,
+            0.75,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 118774,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "柏拉图：教育实践——学园",
+      "section": "第二章 · 第二节 教育思想 · 考点二",
+      "refs": [
+        {
+          "page": 120,
+          "rect": [
+            0.18,
+            0.1,
+            0.74,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 120090,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-theory",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "柏拉图：《理想国》中的教育思想",
+      "section": "第二章 · 第二节 教育思想 · 考点二",
+      "refs": [
+        {
+          "page": 120,
+          "rect": [
+            0.24,
+            0.21,
+            0.68,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 120189,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-stages",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "柏拉图：教育阶段",
+      "section": "第二章 · 第二节 教育思想 · 考点二",
+      "refs": [
+        {
+          "page": 120,
+          "rect": [
+            0.23,
+            0.5,
+            0.69,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 120450,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "柏拉图：影响",
+      "section": "第二章 · 第二节 教育思想 · 考点二",
+      "refs": [
+        {
+          "page": 120,
+          "rect": [
+            0.17,
+            0.78,
+            0.75,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 120702,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "亚里士多德：影响",
+      "section": "第二章 · 第二节 教育思想 · 考点三",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.17,
+            0.05,
+            0.75,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122045,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-free-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "自由教育",
+      "section": "第二章 · 亚里士多德 · 凯程深化",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.16,
+            0.23,
+            0.76,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122207,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sparta-athens",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "斯巴达与雅典教育体制对比图",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 117,
+          "rect": [
+            0.12,
+            0.08,
+            0.78,
+            0.78
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "referenceOnly": true,
+      "order": 117072,
+      "reviewNote": "原书表格或流程图按整体关系对照，不拆成脱离表头的散句。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-east-west-method",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "孔子启发诱导与苏格拉底产婆术对比表及例子",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 119,
+          "rect": [
+            0.09,
+            0.05,
+            0.82,
+            0.89
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "referenceOnly": true,
+      "order": 119045,
+      "reviewNote": "原书表格或流程图按整体关系对照，不拆成脱离表头的散句。"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-source",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-13",
+      "title": "亚里士多德教育思想原页",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 121,
+          "rect": [
+            0.12,
+            0.06,
+            0.8,
+            0.9
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "referenceOnly": true,
+      "order": 121054,
+      "reviewNote": "原书表格或流程图按整体关系对照，不拆成脱离表头的散句。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch14-outline-0",
+      "knowledgeId": "foreign-reviewed-ch14-outline",
+      "title": "制度与实践",
+      "text": "荷马时期、古风时期（斯巴达与雅典）、古典时期（智者派）、希腊化时期。",
+      "keywords": [
+        "荷马",
+        "斯巴达",
+        "雅典",
+        "智者派",
+        "希腊化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-outline-1",
+      "knowledgeId": "foreign-reviewed-ch14-outline",
+      "title": "教育思想",
+      "text": "苏格拉底、柏拉图、亚里士多德。",
+      "keywords": [
+        "苏格拉底",
+        "柏拉图",
+        "亚里士多德"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-homer-0",
+      "knowledgeId": "foreign-reviewed-ch14-homer",
+      "title": "机构制度",
+      "text": "尚未出现专门教育机构，属于非制度化教育。",
+      "keywords": [
+        "无专门机构",
+        "非制度化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-homer-1",
+      "knowledgeId": "foreign-reviewed-ch14-homer",
+      "title": "目的",
+      "text": "培养足智多谋、能言善辩的武士。",
+      "keywords": [
+        "足智多谋",
+        "能言善辩",
+        "武士"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-homer-2",
+      "knowledgeId": "foreign-reviewed-ch14-homer",
+      "title": "内容",
+      "text": "军事、演说、道德；四大德为智慧、正义、勇敢、节制。",
+      "keywords": [
+        "军事演说道德",
+        "四大德"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-homer-3",
+      "knowledgeId": "foreign-reviewed-ch14-homer",
+      "title": "方法",
+      "text": "个别化教育，以军训、说服为主。",
+      "keywords": [
+        "个别化",
+        "军训",
+        "说服"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sparta-0",
+      "knowledgeId": "foreign-reviewed-ch14-sparta",
+      "title": "背景",
+      "text": "山区内平原；自给自足农业经济；奴隶制军事专制体制。",
+      "keywords": [
+        "山区平原",
+        "农业经济",
+        "军事专制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sparta-1",
+      "knowledgeId": "foreign-reviewed-ch14-sparta",
+      "title": "目的",
+      "text": "培养战士。",
+      "keywords": [
+        "战士"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sparta-2",
+      "knowledgeId": "foreign-reviewed-ch14-sparta",
+      "title": "内容",
+      "text": "军事体育与道德训练，不重视知识教育。",
+      "keywords": [
+        "军事体育",
+        "道德训练",
+        "知识教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sparta-3",
+      "knowledgeId": "foreign-reviewed-ch14-sparta",
+      "title": "方法",
+      "text": "野蛮训练、体罚鞭笞。",
+      "keywords": [
+        "野蛮训练",
+        "体罚鞭笞"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sparta-4",
+      "knowledgeId": "foreign-reviewed-ch14-sparta",
+      "title": "制度",
+      "text": "教育完全由国家控制，重视女子教育。",
+      "keywords": [
+        "国家控制",
+        "女子教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-athens-0",
+      "knowledgeId": "foreign-reviewed-ch14-athens",
+      "title": "背景",
+      "text": "优良港口；经济繁荣、商业发达；奴隶制民主政治体制。",
+      "keywords": [
+        "港口",
+        "商业发达",
+        "民主政治"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-athens-1",
+      "knowledgeId": "foreign-reviewed-ch14-athens",
+      "title": "目的",
+      "text": "培养身心和谐发展的国家公民。",
+      "keywords": [
+        "身心和谐",
+        "国家公民"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-athens-2",
+      "knowledgeId": "foreign-reviewed-ch14-athens",
+      "title": "内容",
+      "text": "有军事体育，也重视德智体美和谐教育；反对专业化、职业化训练。",
+      "keywords": [
+        "德智体美",
+        "反专业职业化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-athens-3",
+      "knowledgeId": "foreign-reviewed-ch14-athens",
+      "title": "方法",
+      "text": "温和、民主、训练。",
+      "keywords": [
+        "温和民主"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-athens-4",
+      "knowledgeId": "foreign-reviewed-ch14-athens",
+      "title": "制度",
+      "text": "教育不完全由国家控制，私人讲学盛行，不重视女子教育。",
+      "keywords": [
+        "私人讲学",
+        "女子教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists-0",
+      "knowledgeId": "foreign-reviewed-ch14-sophists",
+      "title": "1.内涵",
+      "text": "专指以收费授徒为职业的巡回教师。",
+      "keywords": [
+        "收费授徒",
+        "巡回教师"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists-1",
+      "knowledgeId": "foreign-reviewed-ch14-sophists",
+      "title": "2.特征",
+      "text": "相对主义、个人主义、感觉主义和怀疑主义。",
+      "keywords": [
+        "相对主义",
+        "个人主义",
+        "感觉主义",
+        "怀疑主义"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists-2",
+      "knowledgeId": "foreign-reviewed-ch14-sophists",
+      "title": "3.（1）对象",
+      "text": "扩大教育对象，促进文化传播。",
+      "keywords": [
+        "扩大对象",
+        "文化传播"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.贡献"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists-3",
+      "knowledgeId": "foreign-reviewed-ch14-sophists",
+      "title": "3.（2）内容",
+      "text": "扩大教育内容，拓展研究领域；确立“七艺”前三艺（文法、修辞学、辩证法），重视道德与政治知识。",
+      "keywords": [
+        "前三艺",
+        "道德政治"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.贡献"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists-4",
+      "knowledgeId": "foreign-reviewed-ch14-sophists",
+      "title": "3.（3）目的",
+      "text": "提出培养政治家的教育目的。",
+      "keywords": [
+        "政治家"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.贡献"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists-5",
+      "knowledgeId": "foreign-reviewed-ch14-sophists",
+      "title": "3.（4）教师",
+      "text": "促进教师职业化，发现教育特殊性。",
+      "keywords": [
+        "教师职业化",
+        "教育特殊性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.贡献"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists-6",
+      "knowledgeId": "foreign-reviewed-ch14-sophists",
+      "title": "3.（5）理论",
+      "text": "形成教育理论，促进思想成型。",
+      "keywords": [
+        "教育理论"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.贡献"
+    },
+    {
+      "id": "foreign-reviewed-ch14-sophists-7",
+      "knowledgeId": "foreign-reviewed-ch14-sophists",
+      "title": "4.评价",
+      "text": "包含古希腊教育思想发展的基本线索和方向。",
+      "keywords": [
+        "基本线索方向"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-hellenistic-0",
+      "knowledgeId": "foreign-reviewed-ch14-hellenistic",
+      "title": "文化融合",
+      "text": "推动东西方文化融合。",
+      "keywords": [
+        "东西方文化融合"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-hellenistic-1",
+      "knowledgeId": "foreign-reviewed-ch14-hellenistic",
+      "title": "1.制度",
+      "text": "教育制度广泛传播，从西到东都打上希腊烙印。",
+      "keywords": [
+        "制度传播",
+        "希腊烙印"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-hellenistic-2",
+      "knowledgeId": "foreign-reviewed-ch14-hellenistic",
+      "title": "2.中心",
+      "text": "教育中心由雅典转向亚历山大利亚城。",
+      "keywords": [
+        "雅典",
+        "亚历山大利亚"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-hellenistic-3",
+      "knowledgeId": "foreign-reviewed-ch14-hellenistic",
+      "title": "3.初等",
+      "text": "局限于读写算，忽视美育体育，和谐教育遭破坏。",
+      "keywords": [
+        "读写算",
+        "美育体育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-hellenistic-4",
+      "knowledgeId": "foreign-reviewed-ch14-hellenistic",
+      "title": "4.中等",
+      "text": "偏重知识和文学教育，忽视美育体育，体育馆被文法学校取代。",
+      "keywords": [
+        "文学教育",
+        "文法学校"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-hellenistic-5",
+      "knowledgeId": "foreign-reviewed-ch14-hellenistic",
+      "title": "5.高等",
+      "text": "明显发展，雅典大学成为学术研究和高等教育中心。",
+      "keywords": [
+        "雅典大学",
+        "学术研究"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-practice-0",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-practice",
+      "title": "教育实践",
+      "text": "述而不著，有教无类。",
+      "keywords": [
+        "述而不著",
+        "有教无类"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-practice-1",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-practice",
+      "title": "教育目的",
+      "text": "培养德才兼备的治国人才。",
+      "keywords": [
+        "德才兼备",
+        "治国人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content-0",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-content",
+      "title": "a.认识道德",
+      "text": "道德是实践的哲学；寻求道德的“一般”，概括理性共识、本质和定义。",
+      "keywords": [
+        "实践哲学",
+        "道德一般"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）德育论"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content-1",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-content",
+      "title": "b.知识即美德",
+      "text": "正确行为基于正确判断，教人道德就是教人知识。",
+      "keywords": [
+        "知识即美德",
+        "正确判断"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）德育论"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content-2",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-content",
+      "title": "c.道德可教",
+      "text": "教授道德的一般知识，身教重于言教。",
+      "keywords": [
+        "道德可教",
+        "身教重言教"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）德育论"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content-3",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-content",
+      "title": "d.四大德",
+      "text": "智慧、正义、勇敢、节制。",
+      "keywords": [
+        "智慧正义勇敢节制"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）德育论"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content-4",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-content",
+      "title": "评价优点",
+      "text": "揭示知识、智慧、道德的内在联系；反对道德天赋论，是教育性教学原则的雏形。",
+      "keywords": [
+        "内在联系",
+        "道德天赋论",
+        "教育性教学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）德育论"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content-5",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-content",
+      "title": "评价局限",
+      "text": "知识不等于道德，只强调道德认知，忽视情感、意志与行为，后被亚里士多德批判。",
+      "keywords": [
+        "知识不等于道德",
+        "情感意志行为"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）德育论"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content-6",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-content",
+      "title": "（2）智育论",
+      "text": "学习广博实用知识，首次把几何、算术、天文列入必学科目。",
+      "keywords": [
+        "几何算术天文"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-content-7",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-content",
+      "title": "（3）体育论",
+      "text": "健康来自锻炼。",
+      "keywords": [
+        "体育",
+        "锻炼"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-method-0",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-method",
+      "title": "（1）简介",
+      "text": "又称“问答法”“产婆术”，是西方最早的启发式教学法。",
+      "keywords": [
+        "问答法",
+        "产婆术",
+        "启发式"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-method-1",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-method",
+      "title": "①讥讽",
+      "text": "不断追问，迫使对方承认无知。",
+      "keywords": [
+        "讥讽",
+        "追问"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-method-2",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-method",
+      "title": "②助产术",
+      "text": "帮助对方得到答案。",
+      "keywords": [
+        "助产术"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-method-3",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-method",
+      "title": "③归纳",
+      "text": "从具体事物中找到共性和本质。",
+      "keywords": [
+        "归纳",
+        "共性本质"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-method-4",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-method",
+      "title": "④定义",
+      "text": "得到事物的一般概念。",
+      "keywords": [
+        "定义",
+        "一般概念"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-method-5",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-method",
+      "title": "优点",
+      "text": "反对灌输、启发探讨、诱导思考；擅长归纳，从特殊走向一般。",
+      "keywords": [
+        "反对灌输",
+        "特殊到一般"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-method-6",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-method",
+      "title": "局限",
+      "text": "不能用于幼年儿童；适合有讨论热情、知识积累和推理能力的人。",
+      "keywords": [
+        "幼年儿童",
+        "知识积累",
+        "推理能力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-impact-0",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-impact",
+      "title": "地位",
+      "text": "西方教育史上第一位有长远影响的教育家，被公认为“一个有全面教养的人”。",
+      "keywords": [
+        "长远影响",
+        "全面教养"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-socrates-impact-1",
+      "knowledgeId": "foreign-reviewed-ch14-socrates-impact",
+      "title": "作用",
+      "text": "在古希腊教育思想史上发挥承前启后的转折性作用。",
+      "keywords": [
+        "承前启后",
+        "转折作用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-practice-0",
+      "knowledgeId": "foreign-reviewed-ch14-plato-practice",
+      "title": "1.简介",
+      "text": "柏拉图创建的西方早期高等教育机构。",
+      "keywords": [
+        "柏拉图",
+        "学园",
+        "高等教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-practice-1",
+      "knowledgeId": "foreign-reviewed-ch14-plato-practice",
+      "title": "2.特色",
+      "text": "培养学术研究人才，注重数学（不懂几何者莫入），采用苏格拉底式谈话法。",
+      "keywords": [
+        "学术研究人才",
+        "数学",
+        "谈话法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-practice-2",
+      "knowledgeId": "foreign-reviewed-ch14-plato-practice",
+      "title": "3.评价",
+      "text": "古希腊世界的哲学和科学中心，著名高等学府。",
+      "keywords": [
+        "哲学科学中心",
+        "高等学府"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-theory-0",
+      "knowledgeId": "foreign-reviewed-ch14-plato-theory",
+      "title": "1.学习即回忆",
+      "text": "出生前已获得知识，出生后遗忘，通过教育和环境“回忆”。",
+      "keywords": [
+        "学习即回忆",
+        "教育环境"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-theory-1",
+      "knowledgeId": "foreign-reviewed-ch14-plato-theory",
+      "title": "2.个人作用",
+      "text": "塑造个体。",
+      "keywords": [
+        "塑造个体"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育作用"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-theory-2",
+      "knowledgeId": "foreign-reviewed-ch14-plato-theory",
+      "title": "2.社会作用",
+      "text": "建设国家。",
+      "keywords": [
+        "建设国家"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育作用"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-theory-3",
+      "knowledgeId": "foreign-reviewed-ch14-plato-theory",
+      "title": "3.现实目的",
+      "text": "培养哲学王，有知识智慧者才能统治。",
+      "keywords": [
+        "哲学王",
+        "知识智慧"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育目的"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-theory-4",
+      "knowledgeId": "foreign-reviewed-ch14-plato-theory",
+      "title": "3.理论目的",
+      "text": "促使“灵魂转向”，由感性现象世界转向理性、善良的理念世界。",
+      "keywords": [
+        "灵魂转向",
+        "理念世界"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育目的"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-theory-5",
+      "knowledgeId": "foreign-reviewed-ch14-plato-theory",
+      "title": "4.内容",
+      "text": "七艺“后四艺”：算术、几何、天文、音乐。",
+      "keywords": [
+        "后四艺",
+        "算术几何天文音乐"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-theory-6",
+      "knowledgeId": "foreign-reviewed-ch14-plato-theory",
+      "title": "5.管理",
+      "text": "国家管理、强迫教育、男女平等，建立国立学校教育体制。",
+      "keywords": [
+        "国家管理",
+        "强迫教育",
+        "男女平等"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-stages-0",
+      "knowledgeId": "foreign-reviewed-ch14-plato-stages",
+      "title": "学前教育",
+      "text": "7岁前重视早期教育、公养公育；最早提倡寓学习于游戏，从音乐和故事开始。",
+      "keywords": [
+        "7岁前",
+        "公养公育",
+        "寓学习于游戏"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-stages-1",
+      "knowledgeId": "foreign-reviewed-ch14-plato-stages",
+      "title": "普通教育",
+      "text": "7—18岁进行和谐教育，以读写算、音乐、体育为主，主要机构为文法、弦琴、体操学校。",
+      "keywords": [
+        "7—18",
+        "和谐教育",
+        "文法弦琴体操"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-stages-2",
+      "knowledgeId": "foreign-reviewed-ch14-plato-stages",
+      "title": "军事训练期",
+      "text": "18—20岁在埃佛比训练并学习后四艺。",
+      "keywords": [
+        "18—20",
+        "埃佛比"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-stages-3",
+      "knowledgeId": "foreign-reviewed-ch14-plato-stages",
+      "title": "深入研究期",
+      "text": "20—30岁；毕业者入军营成为守卫者，优秀者继续学习后四艺。",
+      "keywords": [
+        "20—30",
+        "守卫者"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-stages-4",
+      "knowledgeId": "foreign-reviewed-ch14-plato-stages",
+      "title": "哲学教育期",
+      "text": "30—35岁；毕业者任高级官吏，优秀者攻读哲学（辩证法）。",
+      "keywords": [
+        "30—35",
+        "高级官吏",
+        "辩证法"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-stages-5",
+      "knowledgeId": "foreign-reviewed-ch14-plato-stages",
+      "title": "哲学王",
+      "text": "50岁左右成为国家最高统治者。",
+      "keywords": [
+        "50岁",
+        "最高统治者"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-stages-6",
+      "knowledgeId": "foreign-reviewed-ch14-plato-stages",
+      "title": "阶段评价",
+      "text": "首次把考试作为选拔人才的重要手段，体现终身教育思想萌芽。",
+      "keywords": [
+        "考试选拔",
+        "终身教育"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-impact-0",
+      "knowledgeId": "foreign-reviewed-ch14-plato-impact",
+      "title": "优点1",
+      "text": "西方最早教育平等和全民教育思想萌芽。",
+      "keywords": [
+        "教育平等",
+        "全民教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：超前性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-impact-1",
+      "knowledgeId": "foreign-reviewed-ch14-plato-impact",
+      "title": "优点2",
+      "text": "西方最早公共教育制度和普及教育思想萌芽。",
+      "keywords": [
+        "公共教育",
+        "普及教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：超前性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-impact-2",
+      "knowledgeId": "foreign-reviewed-ch14-plato-impact",
+      "title": "优点3",
+      "text": "西方最早终身教育和考试思想萌芽。",
+      "keywords": [
+        "终身教育",
+        "考试"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：超前性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-impact-3",
+      "knowledgeId": "foreign-reviewed-ch14-plato-impact",
+      "title": "优点4",
+      "text": "西方最早早期教育和游戏教育思想。",
+      "keywords": [
+        "早期教育",
+        "游戏教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：超前性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-impact-4",
+      "knowledgeId": "foreign-reviewed-ch14-plato-impact",
+      "title": "优点5",
+      "text": "西方经典教育“七艺”的完善者。",
+      "keywords": [
+        "七艺完善"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：超前性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-impact-5",
+      "knowledgeId": "foreign-reviewed-ch14-plato-impact",
+      "title": "局限",
+      "text": "忽视个性、重视共性；拒绝变革，不让体育和音乐翻新。",
+      "keywords": [
+        "忽视个性",
+        "拒绝变革"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-plato-impact-6",
+      "knowledgeId": "foreign-reviewed-ch14-plato-impact",
+      "title": "地位",
+      "text": "古希腊教育思想初步系统化、理论化的标志。",
+      "keywords": [
+        "系统化",
+        "理论化"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-impact-0",
+      "knowledgeId": "foreign-reviewed-ch14-aristotle-impact",
+      "title": "优点1",
+      "text": "注重教育与政治关系，认为教育是国家事业。",
+      "keywords": [
+        "教育政治",
+        "国家事业"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：先进性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-impact-1",
+      "knowledgeId": "foreign-reviewed-ch14-aristotle-impact",
+      "title": "优点2",
+      "text": "重视教育作用，主张培养理性。",
+      "keywords": [
+        "教育作用",
+        "理性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：先进性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-impact-2",
+      "knowledgeId": "foreign-reviewed-ch14-aristotle-impact",
+      "title": "优点3",
+      "text": "总结和谐教育，提出自由教育理念。",
+      "keywords": [
+        "和谐教育",
+        "自由教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：先进性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-impact-3",
+      "knowledgeId": "foreign-reviewed-ch14-aristotle-impact",
+      "title": "优点4",
+      "text": "最早提倡实践道德，促进德育思想进步。",
+      "keywords": [
+        "实践道德"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：先进性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-impact-4",
+      "knowledgeId": "foreign-reviewed-ch14-aristotle-impact",
+      "title": "优点5",
+      "text": "最早提出教育效法自然和年龄分期论。",
+      "keywords": [
+        "效法自然",
+        "年龄分期"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "优点：先进性"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-impact-5",
+      "knowledgeId": "foreign-reviewed-ch14-aristotle-impact",
+      "title": "局限",
+      "text": "只重理性、轻视实用教育；否认奴隶和妇女受教育权。",
+      "keywords": [
+        "轻实用教育",
+        "奴隶妇女"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-aristotle-impact-6",
+      "knowledgeId": "foreign-reviewed-ch14-aristotle-impact",
+      "title": "地位",
+      "text": "继承并发扬苏格拉底、柏拉图思想，将古希腊教育思想推向高峰。",
+      "keywords": [
+        "继承发扬",
+        "思想高峰"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-free-education-0",
+      "knowledgeId": "foreign-reviewed-ch14-free-education",
+      "title": "1.简介",
+      "text": "又称“文雅教育”，是亚里士多德最早提出的教育理想。",
+      "keywords": [
+        "自由教育",
+        "文雅教育",
+        "亚里士多德"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-free-education-1",
+      "knowledgeId": "foreign-reviewed-ch14-free-education",
+      "title": "2.内涵",
+      "text": "自由民接受广博丰富的基础知识教育，促进身心和谐。",
+      "keywords": [
+        "自由民",
+        "基础知识",
+        "身心和谐"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-free-education-2",
+      "knowledgeId": "foreign-reviewed-ch14-free-education",
+      "title": "3.特点",
+      "text": "自由学科（七艺）、闲暇时间、非功利性。",
+      "keywords": [
+        "七艺",
+        "闲暇",
+        "非功利"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch14-free-education-3",
+      "knowledgeId": "foreign-reviewed-ch14-free-education",
+      "title": "4.评价",
+      "text": "古希腊经典教育模式；文艺复兴时称通才教育，后来演变为通识教育。",
+      "keywords": [
+        "经典教育",
+        "通才教育",
+        "通识教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "stats": {
+    "pages": 8,
+    "knowledge": 19,
+    "steps": 84,
+    "referenceOnly": 3
+  }
+}

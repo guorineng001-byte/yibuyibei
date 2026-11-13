@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env.local
+backups/
+*.pdf
+*.log
+release/
+.sites-checkout/
+.sites-runtime/

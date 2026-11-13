@@ -1,0 +1,1266 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch17-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch17-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "第五章章节框架",
+      "section": "外教 · 文艺复兴与宗教改革时期的教育 · 章节框架",
+      "refs": [
+        {
+          "page": 128,
+          "rect": [
+            0.07,
+            0.2,
+            0.86,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 128180,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "文艺复兴运动与人文主义教育的发展",
+      "section": "第一节 · 考点一",
+      "refs": [
+        {
+          "page": 128,
+          "rect": [
+            0.07,
+            0.53,
+            0.86,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 128477,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-italian-educators",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "意大利人文主义教育家：弗吉里奥、维多里诺",
+      "section": "第一节 · 考点二 人文主义教育家观点与教育的基本特征",
+      "refs": [
+        {
+          "page": 129,
+          "rect": [
+            0.07,
+            0.1,
+            0.86,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 129090,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-erasmus",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "北欧人文主义教育家：伊拉斯谟",
+      "section": "第一节 · 考点二 人文主义教育家观点与教育的基本特征",
+      "refs": [
+        {
+          "page": 129,
+          "rect": [
+            0.07,
+            0.31,
+            0.86,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 129279,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanist-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "人文主义教育：地区异同与共同特征",
+      "section": "第一节 · 考点二 人文主义教育家观点与教育的基本特征",
+      "refs": [
+        {
+          "page": 129,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.45
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 129081,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanist-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "人文主义教育家与地区观点对照表",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 129,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.51
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 129072,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-theory",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "路德派：教育思想",
+      "section": "第二节 · 考点一 路德派新教的教育观与教育实践",
+      "refs": [
+        {
+          "page": 129,
+          "rect": [
+            0.07,
+            0.66,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 129594,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "路德派：教育实践",
+      "section": "第二节 · 考点一 路德派新教的教育观与教育实践",
+      "refs": [
+        {
+          "page": 129,
+          "rect": [
+            0.07,
+            0.81,
+            0.86,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 129729,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-theory",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "加尔文派：教育思想",
+      "section": "第二节 · 考点二 加尔文派新教的教育观与教育实践",
+      "refs": [
+        {
+          "page": 130,
+          "rect": [
+            0.07,
+            0.12,
+            0.86,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 130108,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "加尔文派：教育实践",
+      "section": "第二节 · 考点二 加尔文派新教的教育观与教育实践",
+      "refs": [
+        {
+          "page": 130,
+          "rect": [
+            0.07,
+            0.28,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 130252,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-protestant-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "路德派和加尔文派对比表",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 130,
+          "rect": [
+            0.07,
+            0.47,
+            0.86,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 130423,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch17-anglican",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "英国国教派的教育实践与教育主张",
+      "section": "第二节 · 考点三",
+      "refs": [
+        {
+          "page": 130,
+          "rect": [
+            0.07,
+            0.75,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 130675,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "耶稣会学校",
+      "section": "第三节 · 天主教教育",
+      "refs": [
+        {
+          "page": 131,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 131117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-era-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "文艺复兴与宗教改革时期教育的比较",
+      "section": "第三节后 · 原书总结表",
+      "refs": [
+        {
+          "page": 131,
+          "rect": [
+            0.07,
+            0.49,
+            0.86,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 131441,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch17-era-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-16",
+      "title": "文艺复兴与宗教改革时期的教育总结表",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 131,
+          "rect": [
+            0.07,
+            0.49,
+            0.86,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 131441,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch17-outline-0",
+      "knowledgeId": "foreign-reviewed-ch17-outline",
+      "title": "第一节",
+      "text": "人文主义教育：文艺复兴运动与人文主义教育的发展；人文主义教育家观点与教育的基本特征。",
+      "keywords": [
+        "文艺复兴",
+        "人文主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-outline-1",
+      "knowledgeId": "foreign-reviewed-ch17-outline",
+      "title": "第二节",
+      "text": "新教教育：路德派、加尔文派、英国国教派的教育观与教育实践。",
+      "keywords": [
+        "路德派",
+        "加尔文派",
+        "英国国教派"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-outline-2",
+      "knowledgeId": "foreign-reviewed-ch17-outline",
+      "title": "第三节",
+      "text": "天主教教育：耶稣会学校。",
+      "keywords": [
+        "天主教",
+        "耶稣会"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanism-0",
+      "knowledgeId": "foreign-reviewed-ch17-humanism",
+      "title": "（一）文艺复兴",
+      "text": "西欧社会上层阶级借助古希腊、古罗马文化，崇尚古典知识，要求托古改制，传播人文主义思想，推动社会近代化。",
+      "keywords": [
+        "古典知识",
+        "托古改制",
+        "人文主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanism-1",
+      "knowledgeId": "foreign-reviewed-ch17-humanism",
+      "title": "1.价值与尊严",
+      "text": "歌颂赞扬人的价值和尊严。",
+      "keywords": [
+        "价值",
+        "尊严"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）人文主义教育（“全人”教育）的内涵"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanism-2",
+      "knowledgeId": "foreign-reviewed-ch17-humanism",
+      "title": "2.思想与个性",
+      "text": "宣扬人的思想解放与个性自由。",
+      "keywords": [
+        "思想解放",
+        "个性自由"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）人文主义教育（“全人”教育）的内涵"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanism-3",
+      "knowledgeId": "foreign-reviewed-ch17-humanism",
+      "title": "3.现世生活",
+      "text": "肯定现世生活的价值和尘世的享乐。",
+      "keywords": [
+        "现世生活",
+        "尘世享乐"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）人文主义教育（“全人”教育）的内涵"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanism-4",
+      "knowledgeId": "foreign-reviewed-ch17-humanism",
+      "title": "4.学术与理性",
+      "text": "提倡学术，尊崇理性。",
+      "keywords": [
+        "学术",
+        "理性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）人文主义教育（“全人”教育）的内涵"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanism-5",
+      "knowledgeId": "foreign-reviewed-ch17-humanism",
+      "title": "5.平等",
+      "text": "主张人生而平等，批判等级制度。",
+      "keywords": [
+        "平等",
+        "等级制度"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）人文主义教育（“全人”教育）的内涵"
+    },
+    {
+      "id": "foreign-reviewed-ch17-italian-educators-0",
+      "knowledgeId": "foreign-reviewed-ch17-italian-educators",
+      "title": "弗吉里奥",
+      "text": "第一个举起人文主义大旗的人；通才教育促进全面发展，重视历史、伦理、雄辩术。",
+      "keywords": [
+        "弗吉里奥",
+        "通才教育",
+        "历史伦理雄辩术"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-italian-educators-1",
+      "knowledgeId": "foreign-reviewed-ch17-italian-educators",
+      "title": "维多里诺：实践",
+      "text": "创办“快乐之家”。",
+      "keywords": [
+        "维多里诺",
+        "快乐之家"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-italian-educators-2",
+      "knowledgeId": "foreign-reviewed-ch17-italian-educators",
+      "title": "1.目的",
+      "text": "通才教育促进全面发展。",
+      "keywords": [
+        "通才",
+        "全面"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "维多里诺"
+    },
+    {
+      "id": "foreign-reviewed-ch17-italian-educators-3",
+      "knowledgeId": "foreign-reviewed-ch17-italian-educators",
+      "title": "2.内容",
+      "text": "古典学科与古典语言。",
+      "keywords": [
+        "古典学科",
+        "古典语言"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "维多里诺"
+    },
+    {
+      "id": "foreign-reviewed-ch17-italian-educators-4",
+      "knowledgeId": "foreign-reviewed-ch17-italian-educators",
+      "title": "3.方法",
+      "text": "主动、快乐、启发。",
+      "keywords": [
+        "主动",
+        "快乐",
+        "启发"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "维多里诺"
+    },
+    {
+      "id": "foreign-reviewed-ch17-italian-educators-5",
+      "knowledgeId": "foreign-reviewed-ch17-italian-educators",
+      "title": "4.对象",
+      "text": "主要面对贵族，也招收少量贫民。",
+      "keywords": [
+        "贵族",
+        "少量贫民"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "维多里诺"
+    },
+    {
+      "id": "foreign-reviewed-ch17-italian-educators-6",
+      "knowledgeId": "foreign-reviewed-ch17-italian-educators",
+      "title": "5.建设",
+      "text": "校风淳朴，师生融洽。",
+      "keywords": [
+        "校风淳朴",
+        "师生融洽"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "维多里诺"
+    },
+    {
+      "id": "foreign-reviewed-ch17-erasmus-0",
+      "knowledgeId": "foreign-reviewed-ch17-erasmus",
+      "title": "主张",
+      "text": "人文主义与基督教并重。",
+      "keywords": [
+        "伊拉斯谟",
+        "人文主义",
+        "基督教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-erasmus-1",
+      "knowledgeId": "foreign-reviewed-ch17-erasmus",
+      "title": "著作",
+      "text": "《基督教君主的教育》《愚人颂》。",
+      "keywords": [
+        "基督教君主的教育",
+        "愚人颂"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanist-features-0",
+      "knowledgeId": "foreign-reviewed-ch17-humanist-features",
+      "title": "意大利的特点",
+      "text": "强调世俗性；培养全面发展的人，追求自由、民主。",
+      "keywords": [
+        "意大利",
+        "世俗性",
+        "全面发展",
+        "自由民主"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanist-features-1",
+      "knowledgeId": "foreign-reviewed-ch17-humanist-features",
+      "title": "北欧的特点",
+      "text": "强调虔诚与道德的价值；关注君主和朝臣人物所接受的教育。",
+      "keywords": [
+        "北欧",
+        "虔诚道德",
+        "君主朝臣"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanist-features-2",
+      "knowledgeId": "foreign-reviewed-ch17-humanist-features",
+      "title": "意大利与北欧的共同点",
+      "text": "古典学科与古典语言；重视教育与社会联系；出现了形式主义。",
+      "keywords": [
+        "古典学科语言",
+        "社会联系",
+        "形式主义"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanist-features-3",
+      "knowledgeId": "foreign-reviewed-ch17-humanist-features",
+      "title": "后期法国",
+      "text": "世俗性更强，学科范围更广，更贴近现实生活，近现代精神更强，主张用本族语教学。",
+      "keywords": [
+        "法国",
+        "世俗性",
+        "现实生活",
+        "本族语"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-humanist-features-4",
+      "knowledgeId": "foreign-reviewed-ch17-humanist-features",
+      "title": "共同特征",
+      "text": "古典主义、人本主义、贵族性、世俗性、宗教性。",
+      "keywords": [
+        "古典主义",
+        "人本主义",
+        "贵族性",
+        "世俗性",
+        "宗教性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-theory-0",
+      "knowledgeId": "foreign-reviewed-ch17-luther-theory",
+      "title": "著作",
+      "text": "《论送子女入学的责任》。",
+      "keywords": [
+        "论送子女入学的责任"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-theory-1",
+      "knowledgeId": "foreign-reviewed-ch17-luther-theory",
+      "title": "1.作用和目的",
+      "text": "宗教性与世俗性的双重属性。",
+      "keywords": [
+        "宗教性",
+        "世俗性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-theory-2",
+      "knowledgeId": "foreign-reviewed-ch17-luther-theory",
+      "title": "2.制度",
+      "text": "主张普及教育，重在强迫义务教育；国家推行强迫性的义务教育，教育权由国家而不是由教会掌握。",
+      "keywords": [
+        "普及教育",
+        "强迫义务教育",
+        "国家"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-theory-3",
+      "knowledgeId": "foreign-reviewed-ch17-luther-theory",
+      "title": "3.内容",
+      "text": "宗教科目和世俗科目（古典人文）相结合。",
+      "keywords": [
+        "宗教科目",
+        "世俗科目"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-theory-4",
+      "knowledgeId": "foreign-reviewed-ch17-luther-theory",
+      "title": "4.方法",
+      "text": "直观、兴趣、废除体罚。",
+      "keywords": [
+        "直观",
+        "兴趣",
+        "废除体罚"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-theory-5",
+      "knowledgeId": "foreign-reviewed-ch17-luther-theory",
+      "title": "5.语言",
+      "text": "本族语教学，重视德语教学。",
+      "keywords": [
+        "本族语",
+        "德语"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-practice-0",
+      "knowledgeId": "foreign-reviewed-ch17-luther-practice",
+      "title": "实践主体",
+      "text": "由其他教育家将其教育思想付诸教育实践。",
+      "keywords": [
+        "其他教育家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-practice-1",
+      "knowledgeId": "foreign-reviewed-ch17-luther-practice",
+      "title": "1.梅兰克顿",
+      "text": "在各邦建立新学校教育体系，设置新课程、编写教材、改革旧大学、建立中学新体制等；被誉为“无与伦比的德意志人的伟大导师”。",
+      "keywords": [
+        "梅兰克顿",
+        "新学校体系",
+        "伟大导师"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-practice-2",
+      "knowledgeId": "foreign-reviewed-ch17-luther-practice",
+      "title": "2.斯图谟",
+      "text": "创建新教中学。",
+      "keywords": [
+        "斯图谟",
+        "新教中学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-luther-practice-3",
+      "knowledgeId": "foreign-reviewed-ch17-luther-practice",
+      "title": "3.布根哈根",
+      "text": "创建德国新教性质的初等学校，为所有儿童提供德语教学的初等教育。",
+      "keywords": [
+        "布根哈根",
+        "初等学校",
+        "德语"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-theory-0",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-theory",
+      "title": "著作",
+      "text": "《基督教原理》《日内瓦初级学校计划书》。",
+      "keywords": [
+        "基督教原理",
+        "日内瓦初级学校计划书"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-theory-1",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-theory",
+      "title": "1.作用和目的",
+      "text": "宗教性与世俗性的双重属性，加尔文更重视宗教信仰。",
+      "keywords": [
+        "宗教性",
+        "世俗性",
+        "宗教信仰"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-theory-2",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-theory",
+      "title": "2.制度",
+      "text": "主张普及教育，重在免费教育；国家推行免费的普及教育，国家和教会都对教育负有责任。",
+      "keywords": [
+        "免费普及教育",
+        "国家和教会"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-theory-3",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-theory",
+      "title": "3.内容",
+      "text": "宗教科目和世俗科目（古典人文）相结合。",
+      "keywords": [
+        "宗教科目",
+        "世俗科目"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-theory-4",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-theory",
+      "title": "4.方法",
+      "text": "直观、兴趣、废除体罚等，更强调因材施教。",
+      "keywords": [
+        "直观",
+        "兴趣",
+        "废除体罚",
+        "因材施教"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-theory-5",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-theory",
+      "title": "5.语言",
+      "text": "本族语教学，重视法语教学。",
+      "keywords": [
+        "本族语",
+        "法语"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-practice-0",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-practice",
+      "title": "实践与称号",
+      "text": "亲自领导免费、普及的教育实践，被誉为“普及教育之父”“免费学校的创始人”。",
+      "keywords": [
+        "亲自领导",
+        "普及教育之父",
+        "免费学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-practice-1",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-practice",
+      "title": "1.初等教育",
+      "text": "亲自领导日内瓦城免费、普及的教育活动。",
+      "keywords": [
+        "日内瓦",
+        "免费普及"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-practice-2",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-practice",
+      "title": "2.中等教育",
+      "text": "创办文科中学，借鉴斯图谟古典文科中学严密的管理制度。",
+      "keywords": [
+        "文科中学",
+        "斯图谟"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-calvin-practice-3",
+      "knowledgeId": "foreign-reviewed-ch17-calvin-practice",
+      "title": "3.高等教育",
+      "text": "创办日内瓦学院（日内瓦大学的前身），影响西方高等教育的发展。",
+      "keywords": [
+        "日内瓦学院",
+        "日内瓦大学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-anglican-0",
+      "knowledgeId": "foreign-reviewed-ch17-anglican",
+      "title": "代表",
+      "text": "亨利八世。",
+      "keywords": [
+        "亨利八世"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-anglican-1",
+      "knowledgeId": "foreign-reviewed-ch17-anglican",
+      "title": "（一）教育作用",
+      "text": "宗教性与世俗性的双重属性。",
+      "keywords": [
+        "宗教性",
+        "世俗性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-anglican-2",
+      "knowledgeId": "foreign-reviewed-ch17-anglican",
+      "title": "（二）教育目的",
+      "text": "培养对社会能有所作为的绅士。",
+      "keywords": [
+        "绅士"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-anglican-3",
+      "knowledgeId": "foreign-reviewed-ch17-anglican",
+      "title": "（三）教育制度",
+      "text": "国家通过教会管理学校。",
+      "keywords": [
+        "国家",
+        "教会"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-anglican-4",
+      "knowledgeId": "foreign-reviewed-ch17-anglican",
+      "title": "（四）教育内容",
+      "text": "宗教科目与世俗科目结合。",
+      "keywords": [
+        "宗教科目",
+        "世俗科目"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-anglican-5",
+      "knowledgeId": "foreign-reviewed-ch17-anglican",
+      "title": "（五）教学语言",
+      "text": "本族语教学，重视英语教学。",
+      "keywords": [
+        "本族语",
+        "英语"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-anglican-6",
+      "knowledgeId": "foreign-reviewed-ch17-anglican",
+      "title": "（六）教师管理",
+      "text": "国教会严格监督学校教师的言行与宗教信仰。",
+      "keywords": [
+        "国教会",
+        "教师",
+        "宗教信仰"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-0",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "（一）简介",
+      "text": "为遏制宗教改革运动，罗耀拉创办耶稣会学校，用人文主义精神改革学校和教学，集中力量发展中等和高等教育。",
+      "keywords": [
+        "罗耀拉",
+        "耶稣会",
+        "中等高等教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-1",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "1.教育目的",
+      "text": "让世界都服从天主教统治。",
+      "keywords": [
+        "天主教统治"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-2",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "2.教育内容",
+      "text": "神学、哲学与人文主义学科并重。",
+      "keywords": [
+        "神学",
+        "哲学",
+        "人文主义"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-3",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "3.教育管理",
+      "text": "注重学校管理规范化：遵循《耶稣会章程》和《教学大全》的管理规则，采用军事化管理方式。",
+      "keywords": [
+        "规范化",
+        "耶稣会章程",
+        "教学大全",
+        "军事化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-4",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "4.教学师资",
+      "text": "重视培养高水平的教师。",
+      "keywords": [
+        "高水平教师"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-5",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "5.（1）组织形式",
+      "text": "寄宿制、全日制、分班教学制（三制）。",
+      "keywords": [
+        "寄宿制",
+        "全日制",
+        "分班教学制"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点 · 教学方式"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-6",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "5.（2）教学方法",
+      "text": "多种教学方法，主要重视背诵和记忆。",
+      "keywords": [
+        "背诵",
+        "记忆"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点 · 教学方式"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-7",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "5.（3）德育方法",
+      "text": "“精神训练”。",
+      "keywords": [
+        "精神训练"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点 · 教学方式"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-8",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "5.（4）教学态度",
+      "text": "温情，如温和、纪律、爱的管理、废除体罚。",
+      "keywords": [
+        "温情",
+        "爱的管理",
+        "废除体罚"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）特点 · 教学方式"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-9",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "1.主观",
+      "text": "为恢复天主教在欧洲的统治，扭转了天主教教育的颓势，是倒行逆施的。",
+      "keywords": [
+        "恢复统治",
+        "扭转颓势"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch17-jesuits-10",
+      "knowledgeId": "foreign-reviewed-ch17-jesuits",
+      "title": "2.客观",
+      "text": "教育改革具有人文主义色彩，促进教育近代化发展。",
+      "keywords": [
+        "人文主义",
+        "近代化"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch17-era-summary-0",
+      "knowledgeId": "foreign-reviewed-ch17-era-summary",
+      "title": "时代关系",
+      "text": "人文主义教育推动新教教育，新教教育推动天主教教育改革。",
+      "keywords": [
+        "人文主义",
+        "新教",
+        "天主教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-era-summary-1",
+      "knowledgeId": "foreign-reviewed-ch17-era-summary",
+      "title": "教育目的不同",
+      "text": "人文主义教育为推广人文主义思想服务；新教教育为新教服务；天主教教育为天主教服务。",
+      "keywords": [
+        "教育目的"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-era-summary-2",
+      "knowledgeId": "foreign-reviewed-ch17-era-summary",
+      "title": "教育对象不同",
+      "text": "人文主义教育与天主教教育主要面向贵族子弟，新教教育面向平民子弟。",
+      "keywords": [
+        "贵族子弟",
+        "平民子弟"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-era-summary-3",
+      "knowledgeId": "foreign-reviewed-ch17-era-summary",
+      "title": "共同思想特征",
+      "text": "都具有宗教性、世俗性、古典主义和人文主义；主张学习古典人文学科。",
+      "keywords": [
+        "宗教性",
+        "世俗性",
+        "古典主义",
+        "人文主义"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-era-summary-4",
+      "knowledgeId": "foreign-reviewed-ch17-era-summary",
+      "title": "共同教学方式",
+      "text": "灵活多样，要求废除体罚，采用并逐步完善班级授课制等。",
+      "keywords": [
+        "废除体罚",
+        "班级授课制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch17-era-summary-5",
+      "knowledgeId": "foreign-reviewed-ch17-era-summary",
+      "title": "共同教育影响",
+      "text": "三种力量促使教育走向近代化，具体表现为世俗化、国家化、普及化。",
+      "keywords": [
+        "世俗化",
+        "国家化",
+        "普及化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "stats": {
+    "pages": 4,
+    "knowledge": 15,
+    "steps": 67,
+    "referenceOnly": 3
+  }
+}

@@ -1,0 +1,42 @@
+.questions-tabs{display:flex;gap:8px;margin:0 0 28px;border-bottom:1px solid var(--line)}
+.questions-tabs button{padding:12px 18px;border-bottom:2px solid transparent;color:#7d8b78;font-size:13px}
+.questions-tabs button.active{color:var(--green);border-bottom-color:var(--green);font-weight:600}
+.essay-page,.essay-detail{max-width:1100px}
+.essay-filters{display:flex;align-items:end;gap:12px;margin-bottom:18px;flex-wrap:wrap}
+.essay-filters label{margin:0;width:185px;font-size:11px}
+.essay-filters select{min-height:42px}
+.essay-filters>span{margin-left:auto;color:#85927d;font-size:11px;padding-bottom:13px}
+.essay-list{display:grid;gap:10px}
+.essay-row{display:flex;text-align:left;align-items:center;justify-content:flex-start;width:100%;gap:19px;padding:17px 20px}
+.essay-row:hover{border-color:#cbdcc5;background:#fbfdf9}
+.essay-order{font-size:19px;font-weight:600;color:#a6b997;min-width:30px;font-variant-numeric:tabular-nums}
+.essay-row>div{flex:1;min-width:0}
+.essay-row-meta{display:flex;align-items:center;gap:9px;color:#8b9787;font-size:11px;flex-wrap:wrap}
+.essay-row h3{margin:7px 0 4px;color:#334f3a;line-height:1.5}
+.essay-row small{color:#8c9a87}
+.essay-row>svg{color:#a0b19b}
+.essay-back{margin:0 0 22px;font-size:12px}
+.essay-detail .page-heading{margin-bottom:22px}
+.essay-detail .page-heading .tag{align-self:center}
+.essay-detail .panel{margin-bottom:16px}
+.essay-section-heading{display:flex;align-items:center;gap:9px;margin-bottom:18px;color:#557254}
+.essay-section-heading h2{color:#34523d}
+.essay-question h3{margin:22px 0 9px;color:#5c765b;font-size:13px}
+.essay-question h3:first-of-type{margin-top:0}
+.essay-body{white-space:pre-wrap;overflow-wrap:break-word;font-size:14px;line-height:1.9;color:#324438}
+.essay-draft p{color:#85947e;font-size:12px;margin-bottom:12px}
+.essay-draft textarea{min-height:170px}
+.essay-actions{display:flex;gap:10px;justify-content:flex-end;margin-top:15px;flex-wrap:wrap}
+.essay-answer{scroll-margin-top:20px;background:#fbfcf8}
+.essay-answer-tabs{display:flex;gap:8px;margin:0 0 18px;flex-wrap:wrap}
+.essay-answer-tabs button{padding:8px 13px;border:1px solid #dce6d8;border-radius:7px;background:white;font-size:12px;color:#647b64}
+.essay-answer-tabs button.active{background:#e5f0df;color:#355d3f;border-color:#b9d2b2}
+.essay-empty,.essay-error,.essay-loading{font-size:13px;color:#7b8d77;text-align:center}
+@media(max-width:720px){
+ .questions-tabs{gap:0;margin-bottom:22px}.questions-tabs button{flex:1;padding:11px 5px;font-size:12px}
+ .essay-page .page-heading h1,.essay-detail .page-heading h1{font-size:21px}
+ .essay-filters{gap:8px}.essay-filters label{width:calc(50% - 4px)}.essay-filters>span{width:100%;padding:0;margin:0}
+ .essay-row{padding:15px 12px;gap:11px}.essay-order{font-size:16px;min-width:24px}.essay-row h3{font-size:14px}.essay-row-meta{font-size:10px}
+ .essay-body{font-size:13px;line-height:1.85}.essay-question h3{margin-top:18px}
+ .essay-actions{justify-content:stretch}.essay-actions button{width:100%}
+}

@@ -1,0 +1,3855 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch17-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch17-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师与学生：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 149,
+          "rect": [
+            0.05,
+            0.13,
+            0.9,
+            0.31
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149000,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-concept",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师的概念",
+      "section": "第一节 · 教师 · 考点一 · （一）",
+      "refs": [
+        {
+          "page": 149,
+          "rect": [
+            0.05,
+            0.575,
+            0.9,
+            0.025
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149010,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师的类别",
+      "section": "第一节 · 教师 · 考点一 · （二）",
+      "refs": [
+        {
+          "page": 149,
+          "rect": [
+            0.05,
+            0.6,
+            0.9,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149020,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-profession-history",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师职业的产生与发展",
+      "section": "第一节 · 教师 · 考点一 · （三）",
+      "refs": [
+        {
+          "page": 149,
+          "rect": [
+            0.05,
+            0.7,
+            0.9,
+            0.205
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149030,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师劳动的特点",
+      "section": "第一节 · 教师 · 考点二",
+      "refs": [
+        {
+          "page": 150,
+          "rect": [
+            0.05,
+            0.12,
+            0.9,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149040,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-other",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师劳动特点：其他教材列项原图",
+      "section": "第一节 · 教师 · 考点二 · 补充",
+      "refs": [
+        {
+          "page": 150,
+          "rect": [
+            0.05,
+            0.345,
+            0.9,
+            0.025
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149050,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师的地位与作用",
+      "section": "第一节 · 教师 · 考点三",
+      "refs": [
+        {
+          "page": 150,
+          "rect": [
+            0.05,
+            0.43,
+            0.9,
+            0.185
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149060,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师专业素养的构成与结构",
+      "section": "第一节 · 教师 · 考点四 · （一）",
+      "refs": [
+        {
+          "page": 150,
+          "rect": [
+            0.05,
+            0.68,
+            0.9,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149070,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师专业标准",
+      "section": "第一节 · 教师 · 考点四 · （二）",
+      "refs": [
+        {
+          "page": 151,
+          "rect": [
+            0.05,
+            0.085,
+            0.9,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149080,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-qualities-standards-source",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师专业素养与专业标准：跨页框架原图",
+      "section": "第一节 · 教师 · 考点四 · 原书框架",
+      "refs": [
+        {
+          "page": 150,
+          "rect": [
+            0.05,
+            0.68,
+            0.9,
+            0.21
+          ]
+        },
+        {
+          "page": 151,
+          "rect": [
+            0.05,
+            0.085,
+            0.9,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149090,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师专业发展的内涵",
+      "section": "第一节 · 教师 · 考点五 · （一）",
+      "refs": [
+        {
+          "page": 151,
+          "rect": [
+            0.05,
+            0.4,
+            0.9,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149100,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-orientations",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师专业发展的取向",
+      "section": "第一节 · 教师 · 考点五 · （二）",
+      "refs": [
+        {
+          "page": 151,
+          "rect": [
+            0.05,
+            0.45,
+            0.9,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149110,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师专业发展的途径",
+      "section": "第一节 · 教师 · 考点五 · （三）",
+      "refs": [
+        {
+          "page": 151,
+          "rect": [
+            0.05,
+            0.595,
+            0.9,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149120,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-source",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师专业发展途径：阶段与分支原图",
+      "section": "第一节 · 教师 · 考点五 · （三）原书框架",
+      "refs": [
+        {
+          "page": 151,
+          "rect": [
+            0.05,
+            0.595,
+            0.9,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149130,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师的权利与专业自主",
+      "section": "第一节 · 教师 · 考点六 · （一）",
+      "refs": [
+        {
+          "page": 152,
+          "rect": [
+            0.05,
+            0.125,
+            0.9,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149140,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师的义务与职业道德",
+      "section": "第一节 · 教师 · 考点六 · （二）",
+      "refs": [
+        {
+          "page": 152,
+          "rect": [
+            0.05,
+            0.275,
+            0.9,
+            0.205
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149150,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生及学生观",
+      "section": "第二节 · 学生 · 考点一",
+      "refs": [
+        {
+          "page": 152,
+          "rect": [
+            0.05,
+            0.6,
+            0.9,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149160,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-source",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "当代学生观：原书框架与助记",
+      "section": "第二节 · 学生 · 考点一 · 原书助记",
+      "refs": [
+        {
+          "page": 152,
+          "rect": [
+            0.05,
+            0.65,
+            0.9,
+            0.205
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149170,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-age-preschool",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生发展及年龄特征：幼儿",
+      "section": "第二节 · 学生 · 考点二 · （一）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.05,
+            0.13,
+            0.9,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149180,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-primary",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生发展及年龄特征：小学",
+      "section": "第二节 · 学生 · 考点二 · （一）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.05,
+            0.13,
+            0.9,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149190,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-junior",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生发展及年龄特征：初中",
+      "section": "第二节 · 学生 · 考点二 · （一）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.05,
+            0.13,
+            0.9,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149200,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-senior",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生发展及年龄特征：高中",
+      "section": "第二节 · 学生 · 考点二 · （一）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.05,
+            0.13,
+            0.9,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149210,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生发展及年龄特征：五维四学段原表",
+      "section": "第二节 · 学生 · 考点二 · （一）原书对照表",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.05,
+            0.13,
+            0.9,
+            0.245
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149220,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生发展的内容与生涯发展",
+      "section": "第二节 · 学生 · 考点二 · （二）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.05,
+            0.38,
+            0.9,
+            0.195
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149230,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-groups",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生群体：正式、非正式及对待态度",
+      "section": "第二节 · 学生 · 考点三 · （一）",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.05,
+            0.635,
+            0.9,
+            0.215
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149240,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-groups-source",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "正式与非正式群体：特点原图与助记",
+      "section": "第二节 · 学生 · 考点三 · （一）原书助记",
+      "refs": [
+        {
+          "page": 153,
+          "rect": [
+            0.05,
+            0.635,
+            0.9,
+            0.215
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149250,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-student-organizations",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生组织：少年儿童组织与青年组织",
+      "section": "第二节 · 学生 · 考点三 · （二）",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.05,
+            0.085,
+            0.9,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149260,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-group-effects",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生群体与组织的作用",
+      "section": "第二节 · 学生 · 考点三 · （三）",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.05,
+            0.3,
+            0.9,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149270,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-groups-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "正式学生群体：知识速练原图",
+      "section": "第二节 · 学生 · 考点三 · 知识速练",
+      "refs": [
+        {
+          "page": 154,
+          "rect": [
+            0.05,
+            0.45,
+            0.9,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149280,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-extra-rights",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师权利：总结表补充",
+      "section": "第一节 · 教师 · 考点六 · 总结表补充",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.05,
+            0.16,
+            0.9,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149290,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生的权利",
+      "section": "第二节 · 学生 · 考点四 · 权利",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.05,
+            0.15,
+            0.9,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149300,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-duties",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "学生的义务",
+      "section": "第二节 · 学生 · 考点四 · 义务",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.05,
+            0.33,
+            0.9,
+            0.175
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149310,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-rights-duties-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "教师与学生的权利、义务：完整对照表",
+      "section": "第二节 · 学生 · 考点四 · 原书对照表",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.05,
+            0.125,
+            0.9,
+            0.38
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149320,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-omitted",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "师生关系的含义与特点：原书略项",
+      "section": "第三节 · 师生关系 · （一）",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.05,
+            0.555,
+            0.9,
+            0.035
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 149330,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "师生关系的类型",
+      "section": "第三节 · 师生关系 · （二）",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.05,
+            0.6,
+            0.9,
+            0.04
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149340,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-standards",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "良好师生关系的标准",
+      "section": "第三节 · 师生关系 · （三）",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.05,
+            0.645,
+            0.9,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149350,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-16",
+      "title": "建立良好师生关系的途径与方法",
+      "section": "第三节 · 师生关系 · （四）",
+      "refs": [
+        {
+          "page": 155,
+          "rect": [
+            0.05,
+            0.73,
+            0.9,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 149360,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch17-teacher-concept-0",
+      "knowledgeId": "edu-reviewed-ch17-teacher-concept",
+      "title": "教师概念",
+      "text": "在学校或机构中履行教育、教学职责的专业人员。",
+      "keywords": [
+        "学校机构",
+        "教育教学",
+        "专业人员"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "教师的概念"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-types-0",
+      "knowledgeId": "edu-reviewed-ch17-teacher-types",
+      "title": "成长类别",
+      "text": "新手教师→熟手教师（学习型→反思型）→专家型教师（研究型→教育家型）。",
+      "keywords": [
+        "新手熟手专家",
+        "学习反思研究教育家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）成长类别"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-types-1",
+      "knowledgeId": "edu-reviewed-ch17-teacher-types",
+      "title": "任教职责类别",
+      "text": "主任教师、科任教师、级任教师。",
+      "keywords": [
+        "主任科任级任"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）任教职责类别"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-types-2",
+      "knowledgeId": "edu-reviewed-ch17-teacher-types",
+      "title": "学段类别",
+      "text": "幼儿园教师、小学教师、初级中学教师等。",
+      "keywords": [
+        "幼儿园小学初中"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）学段类别"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-types-3",
+      "knowledgeId": "edu-reviewed-ch17-teacher-types",
+      "title": "学科类别",
+      "text": "语文教师、数学教师、英语教师等。",
+      "keywords": [
+        "语文数学英语"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（4）学科类别"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-profession-history-0",
+      "knowledgeId": "edu-reviewed-ch17-teacher-profession-history",
+      "title": "基础",
+      "text": "学校教育的出现是基础。",
+      "keywords": [
+        "学校教育基础"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 产生"
+      ],
+      "displayTitle": "（1）基础",
+      "outline": "1. 产生"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-profession-history-1",
+      "knowledgeId": "edu-reviewed-ch17-teacher-profession-history",
+      "title": "根本原因",
+      "text": "生产力的发展是根本原因。",
+      "keywords": [
+        "生产力根本"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 产生"
+      ],
+      "displayTitle": "（2）根本原因",
+      "outline": "1. 产生"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-profession-history-2",
+      "knowledgeId": "edu-reviewed-ch17-teacher-profession-history",
+      "title": "直接原因",
+      "text": "脑力劳动与体力劳动的分工是直接原因。",
+      "keywords": [
+        "脑力体力分工直接"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 产生"
+      ],
+      "displayTitle": "（3）直接原因",
+      "outline": "1. 产生"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-profession-history-3",
+      "knowledgeId": "edu-reviewed-ch17-teacher-profession-history",
+      "title": "非职业化",
+      "text": "原始社会以长者和能者为师，未出现专门的机构和职业。",
+      "keywords": [
+        "原始长者能者无专门机构职业"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 发展"
+      ],
+      "displayTitle": "（1）非职业化",
+      "outline": "2. 发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-profession-history-4",
+      "knowledgeId": "edu-reviewed-ch17-teacher-profession-history",
+      "title": "职业化",
+      "text": "进入奴隶制社会以后，有了专门的人员从事教师职业；原书括注“西周私学兴起，西方智者派出现”。",
+      "keywords": [
+        "奴隶制专门人员",
+        "西周私学西方智者"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 发展"
+      ],
+      "displayTitle": "（2）职业化",
+      "outline": "2. 发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-profession-history-5",
+      "knowledgeId": "edu-reviewed-ch17-teacher-profession-history",
+      "title": "专门化",
+      "text": "出现专门培养教师的机构；原书注明最早的师范学校在法国。",
+      "keywords": [
+        "专门培养",
+        "师范法国"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 发展"
+      ],
+      "displayTitle": "（3）专门化",
+      "outline": "2. 发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-profession-history-6",
+      "knowledgeId": "edu-reviewed-ch17-teacher-profession-history",
+      "title": "专业化",
+      "text": "以资格认定的方式体现对教师的职业要求（20世纪后）。",
+      "keywords": [
+        "资格认定",
+        "20世纪后"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 发展"
+      ],
+      "displayTitle": "（4）专业化",
+      "outline": "2. 发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-0",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "学生状况复杂",
+      "text": "学生状况的复杂性决定着教师劳动的复杂性。",
+      "keywords": [
+        "学生状况复杂"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）复杂性"
+      ],
+      "displayTitle": "1. 学生状况复杂",
+      "outline": "（一）复杂性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-1",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "教师任务多样",
+      "text": "教师任务的多样性制约着教师劳动的复杂性。",
+      "keywords": [
+        "任务多样"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）复杂性"
+      ],
+      "displayTitle": "2. 教师任务多样",
+      "outline": "（一）复杂性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-2",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "影响因素广泛",
+      "text": "影响学生发展因素的广泛性制约着教师劳动的复杂性。",
+      "keywords": [
+        "影响因素广泛"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）复杂性"
+      ],
+      "displayTitle": "3. 影响因素广泛",
+      "outline": "（一）复杂性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-3",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "教学设计",
+      "text": "在教学设计上体现创造性。",
+      "keywords": [
+        "教学设计创造"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）创造性"
+      ],
+      "displayTitle": "1. 教学设计",
+      "outline": "（二）创造性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-4",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "学生差异",
+      "text": "在学生差异上体现因材施教。",
+      "keywords": [
+        "学生差异因材施教"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）创造性"
+      ],
+      "displayTitle": "2. 学生差异",
+      "outline": "（二）创造性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-5",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "突发事件",
+      "text": "在突发事件上体现教育机智。",
+      "keywords": [
+        "突发教育机智"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）创造性"
+      ],
+      "displayTitle": "3. 突发事件",
+      "outline": "（二）创造性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-6",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "知识技能示范",
+      "text": "知识技能的示范。",
+      "keywords": [
+        "知识技能"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）示范性"
+      ],
+      "displayTitle": "1. 知识技能示范",
+      "outline": "（三）示范性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-7",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "德行示范",
+      "text": "德行的示范。",
+      "keywords": [
+        "德行"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）示范性"
+      ],
+      "displayTitle": "2. 德行示范",
+      "outline": "（三）示范性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-8",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "专业知识",
+      "text": "教师要有专业知识。",
+      "keywords": [
+        "专业知识"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）专业性"
+      ],
+      "displayTitle": "1. 专业知识",
+      "outline": "（四）专业性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-9",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "专业技能",
+      "text": "教师要有专业技能。",
+      "keywords": [
+        "专业技能"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）专业性"
+      ],
+      "displayTitle": "2. 专业技能",
+      "outline": "（四）专业性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-10",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "专业精神",
+      "text": "教师要有专业精神。",
+      "keywords": [
+        "专业精神"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）专业性"
+      ],
+      "displayTitle": "3. 专业精神",
+      "outline": "（四）专业性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-11",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "长期性",
+      "text": "对年轻一代的培养是长期教育的结果。",
+      "keywords": [
+        "年轻一代长期培养"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）长期性和长效性"
+      ],
+      "displayTitle": "1. 长期性",
+      "outline": "（五）长期性和长效性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-labor-12",
+      "knowledgeId": "edu-reviewed-ch17-teacher-labor",
+      "title": "长效性",
+      "text": "教师劳动的社会效益要在学生参加工作以后才能得到体现或检验。",
+      "keywords": [
+        "社会效益",
+        "参加工作以后"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（五）长期性和长效性"
+      ],
+      "displayTitle": "2. 长效性",
+      "outline": "（五）长期性和长效性"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-0",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "社会作用",
+      "text": "培育新人。",
+      "keywords": [
+        "培育新人"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）地位",
+        "1. 社会地位"
+      ],
+      "displayTitle": "（1）社会作用",
+      "outline": "（一）地位"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-1",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "政治地位",
+      "text": "受人尊重。",
+      "keywords": [
+        "受人尊重"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）地位",
+        "1. 社会地位"
+      ],
+      "displayTitle": "（2）政治地位",
+      "outline": "（一）地位"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-2",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "经济地位",
+      "text": "国家规定的福利待遇。",
+      "keywords": [
+        "福利待遇"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）地位",
+        "1. 社会地位"
+      ],
+      "displayTitle": "（3）经济地位",
+      "outline": "（一）地位"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-3",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "法律地位",
+      "text": "原书以《中华人民共和国教师法》提供保障说明教师的法律地位。",
+      "keywords": [
+        "教师法保障"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）地位",
+        "1. 社会地位"
+      ],
+      "displayTitle": "（4）法律地位",
+      "outline": "（一）地位"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-4",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "专业地位",
+      "text": "专业化。",
+      "keywords": [
+        "专业化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）地位",
+        "1. 社会地位"
+      ],
+      "displayTitle": "（5）专业地位",
+      "outline": "（一）地位"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-5",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "教育过程地位",
+      "text": "主导性。",
+      "keywords": [
+        "主导性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）地位"
+      ],
+      "displayTitle": "2. 教育过程中的地位",
+      "outline": "（一）地位"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-6",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "人类文化",
+      "text": "教师是文化的传播者和发展者。",
+      "keywords": [
+        "文化传播发展"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）作用"
+      ],
+      "displayTitle": "1. 人类文化",
+      "outline": "（二）作用"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-7",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "社会发展",
+      "text": "教师是物质文明和精神文明的推动者。",
+      "keywords": [
+        "物质文明精神文明"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）作用"
+      ],
+      "displayTitle": "2. 社会发展",
+      "outline": "（二）作用"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-status-role-8",
+      "knowledgeId": "edu-reviewed-ch17-teacher-status-role",
+      "title": "学生成长",
+      "text": "教师是学生成长的引领者。",
+      "keywords": [
+        "学生成长引领"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）作用"
+      ],
+      "displayTitle": "3. 学生成长",
+      "outline": "（二）作用"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-0",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "学科专业知识",
+      "text": "学科专业知识。",
+      "keywords": [
+        "学科专业"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 专业知识"
+      ],
+      "displayTitle": "（1）学科专业知识",
+      "outline": "1. 专业知识"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-1",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "教育专业知识",
+      "text": "教育专业知识。",
+      "keywords": [
+        "教育专业"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 专业知识"
+      ],
+      "displayTitle": "（2）教育专业知识",
+      "outline": "1. 专业知识"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-2",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "通识性知识",
+      "text": "通识性知识。",
+      "keywords": [
+        "通识"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 专业知识"
+      ],
+      "displayTitle": "（3）通识性知识",
+      "outline": "1. 专业知识"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-3",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "教学能力",
+      "text": "教学能力。",
+      "keywords": [
+        "教学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 专业能力"
+      ],
+      "displayTitle": "（1）教学能力",
+      "outline": "2. 专业能力"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-4",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "组织管理能力",
+      "text": "组织管理能力。",
+      "keywords": [
+        "组织管理"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 专业能力"
+      ],
+      "displayTitle": "（2）组织管理能力",
+      "outline": "2. 专业能力"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-5",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "反思研究能力",
+      "text": "反思研究能力。",
+      "keywords": [
+        "反思研究"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 专业能力"
+      ],
+      "displayTitle": "（3）反思研究能力",
+      "outline": "2. 专业能力"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-6",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "沟通合作能力",
+      "text": "沟通合作能力。",
+      "keywords": [
+        "沟通合作"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 专业能力"
+      ],
+      "displayTitle": "（4）沟通合作能力",
+      "outline": "2. 专业能力"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-7",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "法律义务",
+      "text": "法律义务。",
+      "keywords": [
+        "法律义务"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 专业情意"
+      ],
+      "displayTitle": "（1）法律义务",
+      "outline": "3. 专业情意"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-8",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "职业道德",
+      "text": "职业道德。",
+      "keywords": [
+        "职业道德"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 专业情意"
+      ],
+      "displayTitle": "（2）职业道德",
+      "outline": "3. 专业情意"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-qualities-9",
+      "knowledgeId": "edu-reviewed-ch17-professional-qualities",
+      "title": "教学责任意识",
+      "text": "教学责任意识。",
+      "keywords": [
+        "教学责任"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 专业情意"
+      ],
+      "displayTitle": "（3）教学责任意识",
+      "outline": "3. 专业情意"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-0",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "标准印发",
+      "text": "原书列《幼儿园教师专业标准（试行）》《小学教师专业标准（试行）》和《中学教师专业标准（试行）》。",
+      "keywords": [
+        "幼儿园小学中学",
+        "试行"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 印发"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-1",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "标准含义",
+      "text": "国家对合格教师的专业基本要求、基本规范、考核依据和基本准则。",
+      "keywords": [
+        "基本要求规范",
+        "考核依据准则"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-2",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "标准理念",
+      "text": "学生为本，师德为先，能力为重，终身学习。",
+      "keywords": [
+        "学生师德能力终身"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 理念"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-3",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "理念师德内容",
+      "text": "职业理解与认识、对学生的态度与行为、教育教学的态度与行为、个人修养与行为四个方面。",
+      "keywords": [
+        "职业学生教育教学个人修养"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 内容"
+      ],
+      "displayTitle": "（1）专业理念与师德",
+      "outline": "4. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-4",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "专业知识内容",
+      "text": "学生发展知识、教育教学知识、通识性知识和学科知识四个方面。",
+      "keywords": [
+        "学生发展教育教学通识学科"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 内容"
+      ],
+      "displayTitle": "（2）专业知识",
+      "outline": "4. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-5",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "专业能力内容",
+      "text": "教育教学设计、组织与实施、鼓励与评价、沟通与合作、反思与发展、班级管理等方面。",
+      "keywords": [
+        "设计实施评价合作反思班级"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 内容"
+      ],
+      "displayTitle": "（3）专业能力",
+      "outline": "4. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-6",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "队伍建设依据",
+      "text": "我国各级教师队伍建设的基本依据。",
+      "keywords": [
+        "队伍建设基本"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "5. 意义"
+      ],
+      "displayTitle": "（1）队伍建设依据",
+      "outline": "5. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-7",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "培养培训依据",
+      "text": "我国各级教师培养培训的主要依据。",
+      "keywords": [
+        "培养培训主要"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "5. 意义"
+      ],
+      "displayTitle": "（2）培养培训依据",
+      "outline": "5. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-8",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "教师管理依据",
+      "text": "各级教师管理的重要依据。",
+      "keywords": [
+        "管理重要"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "5. 意义"
+      ],
+      "displayTitle": "（3）教师管理依据",
+      "outline": "5. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-standards-9",
+      "knowledgeId": "edu-reviewed-ch17-professional-standards",
+      "title": "自身发展依据",
+      "text": "各级教师自身专业发展的基本依据。",
+      "keywords": [
+        "自身发展基本"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "5. 意义"
+      ],
+      "displayTitle": "（4）自身发展依据",
+      "outline": "5. 意义"
+    },
+    {
+      "id": "edu-reviewed-ch17-professional-development-0",
+      "knowledgeId": "edu-reviewed-ch17-professional-development",
+      "title": "专业发展内涵",
+      "text": "教师以自身专业素质（包括知识、技能和情意等方面）的提高与完善为基础的专业成长、专业成熟的过程，是教师由非专业人员转向专业人员的过程。",
+      "keywords": [
+        "知识技能情意",
+        "成长成熟",
+        "非专业转专业"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）内涵"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-orientations-0",
+      "knowledgeId": "edu-reviewed-ch17-development-orientations",
+      "title": "理智取向",
+      "text": "强调知识扎实且牢固。",
+      "keywords": [
+        "知识扎实牢固"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 理智取向"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-orientations-1",
+      "knowledgeId": "edu-reviewed-ch17-development-orientations",
+      "title": "实践—反思取向",
+      "text": "重视实践和教学反思。",
+      "keywords": [
+        "实践教学反思"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 实践—反思取向"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-orientations-2",
+      "knowledgeId": "edu-reviewed-ch17-development-orientations",
+      "title": "生态取向",
+      "text": "构建合作的教师文化。",
+      "keywords": [
+        "合作教师文化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 生态取向"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-orientations-3",
+      "knowledgeId": "edu-reviewed-ch17-development-orientations",
+      "title": "专家型取向",
+      "text": "重视培养研究型教师。",
+      "keywords": [
+        "研究型教师"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 专家型取向"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-orientations-4",
+      "knowledgeId": "edu-reviewed-ch17-development-orientations",
+      "title": "创新型取向",
+      "text": "强调自主创新。",
+      "keywords": [
+        "自主创新"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "5. 创新型取向"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-orientations-5",
+      "knowledgeId": "edu-reviewed-ch17-development-orientations",
+      "title": "自我更新取向",
+      "text": "汲取了各类发展取向的精华；原书评价为我国教师专业成长取向的较佳选择。",
+      "keywords": [
+        "各类精华",
+        "较佳选择"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "6. 自我更新取向"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-0",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "培养体系",
+      "text": "完善教师教育的培养体系。",
+      "keywords": [
+        "培养体系"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 队伍专业化",
+        "（1）职前培养"
+      ],
+      "displayTitle": "1. 培养体系",
+      "outline": "1. 队伍专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-1",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "资格制度",
+      "text": "加强教师资格制度的建设。",
+      "keywords": [
+        "教师资格制度"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 队伍专业化",
+        "（1）职前培养"
+      ],
+      "displayTitle": "2. 资格制度",
+      "outline": "1. 队伍专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-2",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "入职辅导",
+      "text": "加强新教师群体的入职辅导。",
+      "keywords": [
+        "新教师入职辅导"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 队伍专业化",
+        "（2）入职教育"
+      ],
+      "displayTitle": "1. 入职辅导",
+      "outline": "1. 队伍专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-3",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "青蓝工程",
+      "text": "形成“青蓝工程”。",
+      "keywords": [
+        "青蓝工程"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 队伍专业化",
+        "（2）入职教育"
+      ],
+      "displayTitle": "2. 青蓝工程",
+      "outline": "1. 队伍专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-4",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "校本培训",
+      "text": "校本培训。",
+      "keywords": [
+        "校本培训"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 队伍专业化",
+        "（3）在职成长"
+      ],
+      "displayTitle": "1. 校本培训",
+      "outline": "1. 队伍专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-5",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "专业发展学校",
+      "text": "教师专业发展学校。",
+      "keywords": [
+        "专业发展学校"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 队伍专业化",
+        "（3）在职成长"
+      ],
+      "displayTitle": "2. 专业发展学校",
+      "outline": "1. 队伍专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-6",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "网络联盟",
+      "text": "教师教育网络联盟。",
+      "keywords": [
+        "教师教育网络联盟"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 队伍专业化",
+        "（3）在职成长"
+      ],
+      "displayTitle": "3. 网络联盟",
+      "outline": "1. 队伍专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-7",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "增强观念",
+      "text": "增强观念。",
+      "keywords": [
+        "增强观念"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 个体专业化"
+      ],
+      "displayTitle": "（1）增强观念",
+      "outline": "2. 个体专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-8",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "制订规划",
+      "text": "制订规划。",
+      "keywords": [
+        "制订规划"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 个体专业化"
+      ],
+      "displayTitle": "（2）制订规划",
+      "outline": "2. 个体专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-9",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "参加培训",
+      "text": "参加培训。",
+      "keywords": [
+        "参加培训"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 个体专业化"
+      ],
+      "displayTitle": "（3）参加培训",
+      "outline": "2. 个体专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-10",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "教学反思",
+      "text": "教学反思。",
+      "keywords": [
+        "教学反思"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 个体专业化"
+      ],
+      "displayTitle": "（4）教学反思",
+      "outline": "2. 个体专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-development-paths-11",
+      "knowledgeId": "edu-reviewed-ch17-development-paths",
+      "title": "课程开发与教育研究",
+      "text": "课程开发＋教育研究。",
+      "keywords": [
+        "课程开发教育研究"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 个体专业化"
+      ],
+      "displayTitle": "（5）课程开发与教育研究",
+      "outline": "2. 个体专业化"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-0",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "教育教学自主权",
+      "text": "教育教学自主权。",
+      "keywords": [
+        "教育教学自主"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 权利"
+      ],
+      "displayTitle": "（1）教育教学自主权",
+      "outline": "1. 权利"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-1",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "学术自由权",
+      "text": "学术自由权。",
+      "keywords": [
+        "学术自由"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 权利"
+      ],
+      "displayTitle": "（2）学术自由权",
+      "outline": "1. 权利"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-2",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "参与民主管理权",
+      "text": "参与民主管理权。",
+      "keywords": [
+        "民主管理"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 权利"
+      ],
+      "displayTitle": "（3）参与民主管理权",
+      "outline": "1. 权利"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-3",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "报酬待遇休假权",
+      "text": "报酬待遇休假权。",
+      "keywords": [
+        "报酬待遇休假"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 权利"
+      ],
+      "displayTitle": "（4）报酬待遇休假权",
+      "outline": "1. 权利"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-4",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "指导评价权",
+      "text": "指导评价权。",
+      "keywords": [
+        "指导评价"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 权利"
+      ],
+      "displayTitle": "（5）指导评价权",
+      "outline": "1. 权利"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-5",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "参与进修培训权",
+      "text": "参与进修培训权。",
+      "keywords": [
+        "进修培训"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 权利"
+      ],
+      "displayTitle": "（6）参与进修培训权",
+      "outline": "1. 权利"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-6",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "惩戒权",
+      "text": "惩戒权。",
+      "keywords": [
+        "惩戒"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 权利"
+      ],
+      "displayTitle": "（7）惩戒权",
+      "outline": "1. 权利"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-7",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "专业自主含义",
+      "text": "教师以其专业情感和规范、专业知识与专业能力从事教师工作，独立地做出决定与判断，掌控自己的教学活动方式与过程，不受他人的干扰、控制或强制，以此实现教师的专业期望。",
+      "keywords": [
+        "专业情感规范知识能力",
+        "独立决定判断",
+        "专业期望"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 教师专业自主"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "2. 教师专业自主"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-rights-8",
+      "knowledgeId": "edu-reviewed-ch17-teacher-rights",
+      "title": "专业自主表现",
+      "text": "在教学中，在指导中，在管理中，在研究中。",
+      "keywords": [
+        "教学指导管理研究"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 教师专业自主"
+      ],
+      "displayTitle": "（2）表现",
+      "outline": "2. 教师专业自主"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-0",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "遵法履德",
+      "text": "遵法履德，为人师表。",
+      "keywords": [
+        "遵法履德为人师表"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 义务"
+      ],
+      "displayTitle": "（1）遵法履德",
+      "outline": "1. 义务"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-1",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "完成教学任务",
+      "text": "完成教育教学工作任务。",
+      "keywords": [
+        "完成教育教学任务"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 义务"
+      ],
+      "displayTitle": "（2）完成教学任务",
+      "outline": "1. 义务"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-2",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "全面教育",
+      "text": "对学生进行全面教育。",
+      "keywords": [
+        "全面教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 义务"
+      ],
+      "displayTitle": "（3）全面教育",
+      "outline": "1. 义务"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-3",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "关爱尊重学生",
+      "text": "关心、爱护和尊重学生。",
+      "keywords": [
+        "关心爱护尊重"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 义务"
+      ],
+      "displayTitle": "（4）关爱尊重学生",
+      "outline": "1. 义务"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-4",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "抵制有害行为",
+      "text": "制止、批评和抵制有害于学生的行为。",
+      "keywords": [
+        "制止批评抵制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 义务"
+      ],
+      "displayTitle": "（5）抵制有害行为",
+      "outline": "1. 义务"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-5",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "提高觉悟业务",
+      "text": "不断提高思想政治觉悟和教育教学业务水平。",
+      "keywords": [
+        "政治觉悟教学业务"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 义务"
+      ],
+      "displayTitle": "（6）提高觉悟业务",
+      "outline": "1. 义务"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-6",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "师德含义",
+      "text": "教师在从事教育劳动中遵循的行为准则和必备的道德品质。",
+      "keywords": [
+        "行为准则道德品质"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 职业道德（师德）",
+        "（1）含义"
+      ],
+      "displayTitle": "含义",
+      "outline": "2. 职业道德（师德）"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-7",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "师德核心灵魂",
+      "text": "爱与责任是师德的核心与灵魂。",
+      "keywords": [
+        "爱责任核心灵魂"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 职业道德（师德）",
+        "（1）含义"
+      ],
+      "displayTitle": "核心与灵魂",
+      "outline": "2. 职业道德（师德）"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-duties-8",
+      "knowledgeId": "edu-reviewed-ch17-teacher-duties",
+      "title": "师德内容",
+      "text": "爱国守法、爱岗敬业、教书育人、关爱学生、为人师表、终身学习。",
+      "keywords": [
+        "爱国爱岗教书关爱师表终身"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 职业道德（师德）"
+      ],
+      "displayTitle": "（2）内容",
+      "outline": "2. 职业道德（师德）"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-0",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "学生含义",
+      "text": "在学校教育系统中从事学习活动的人，尤其指在校的儿童和青少年。",
+      "keywords": [
+        "学校学习",
+        "儿童青少年"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "学生",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-1",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "学生观含义",
+      "text": "教育者对学生的根本认识和看法。",
+      "keywords": [
+        "教育者根本认识看法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "学生观",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-2",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "主体性",
+      "text": "尊重学生的主体性。",
+      "keywords": [
+        "主体"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "1. 主体性",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-3",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "独立性",
+      "text": "尊重学生的独立性。",
+      "keywords": [
+        "独立"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "2. 独立性",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-4",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "差异性",
+      "text": "尊重学生的差异性。",
+      "keywords": [
+        "差异"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "3. 差异性",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-5",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "发展性",
+      "text": "尊重学生的发展性。",
+      "keywords": [
+        "发展"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "4. 发展性",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-6",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "个性自由",
+      "text": "尊重学生的个性自由。",
+      "keywords": [
+        "个性自由"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "5. 个性自由",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-7",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "规律与年龄特点",
+      "text": "尊重学生身心发展的规律与年龄特点。",
+      "keywords": [
+        "身心规律年龄"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "6. 规律与年龄特点",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-8",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "生活经验和体验",
+      "text": "重视学生的生活经验和体验。",
+      "keywords": [
+        "生活经验体验"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "7. 生活经验和体验",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-9",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "兴趣与需要",
+      "text": "尊重学生的兴趣与需要。",
+      "keywords": [
+        "兴趣需要"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "8. 兴趣与需要",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-10",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "知识自我建构",
+      "text": "尊重学生对知识的自我建构性。",
+      "keywords": [
+        "知识自我建构"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "9. 知识自我建构",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-view-11",
+      "knowledgeId": "edu-reviewed-ch17-student-view",
+      "title": "童趣",
+      "text": "尊重儿童的童趣。",
+      "keywords": [
+        "童趣"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）当代学生观"
+      ],
+      "displayTitle": "10. 童趣",
+      "outline": "（二）当代学生观"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-preschool-0",
+      "knowledgeId": "edu-reviewed-ch17-age-preschool",
+      "title": "生理",
+      "text": "脑成熟。",
+      "keywords": [
+        "脑成熟"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "幼儿"
+      ],
+      "displayTitle": "生理",
+      "outline": "幼儿"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-preschool-1",
+      "knowledgeId": "edu-reviewed-ch17-age-preschool",
+      "title": "心理",
+      "text": "好奇心、独立性。",
+      "keywords": [
+        "好奇心独立性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "幼儿"
+      ],
+      "displayTitle": "心理",
+      "outline": "幼儿"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-preschool-2",
+      "knowledgeId": "edu-reviewed-ch17-age-preschool",
+      "title": "认知与思维",
+      "text": "以具体形象性和不随意性为主。",
+      "keywords": [
+        "具体形象不随意"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "幼儿"
+      ],
+      "displayTitle": "认知与思维",
+      "outline": "幼儿"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-preschool-3",
+      "knowledgeId": "edu-reviewed-ch17-age-preschool",
+      "title": "情绪情感",
+      "text": "向社会性情感体验过渡。",
+      "keywords": [
+        "社会性情感体验"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "幼儿"
+      ],
+      "displayTitle": "情绪情感",
+      "outline": "幼儿"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-preschool-4",
+      "knowledgeId": "edu-reviewed-ch17-age-preschool",
+      "title": "自我意识",
+      "text": "自我评价、自尊心。",
+      "keywords": [
+        "自我评价自尊"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "幼儿"
+      ],
+      "displayTitle": "自我意识",
+      "outline": "幼儿"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-primary-0",
+      "knowledgeId": "edu-reviewed-ch17-age-primary",
+      "title": "生理",
+      "text": "发育稳定、平缓。",
+      "keywords": [
+        "发育稳定平缓"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "小学"
+      ],
+      "displayTitle": "生理",
+      "outline": "小学"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-primary-1",
+      "knowledgeId": "edu-reviewed-ch17-age-primary",
+      "title": "心理",
+      "text": "感知觉发展迅速。",
+      "keywords": [
+        "感知觉迅速"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "小学"
+      ],
+      "displayTitle": "心理",
+      "outline": "小学"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-primary-2",
+      "knowledgeId": "edu-reviewed-ch17-age-primary",
+      "title": "认知与思维",
+      "text": "向抽象逻辑思维过渡。",
+      "keywords": [
+        "抽象逻辑过渡"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "小学"
+      ],
+      "displayTitle": "认知与思维",
+      "outline": "小学"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-primary-3",
+      "knowledgeId": "edu-reviewed-ch17-age-primary",
+      "title": "情绪情感",
+      "text": "情绪外显、易相处。",
+      "keywords": [
+        "外显易相处"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "小学"
+      ],
+      "displayTitle": "情绪情感",
+      "outline": "小学"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-primary-4",
+      "knowledgeId": "edu-reviewed-ch17-age-primary",
+      "title": "自我意识",
+      "text": "自我描述、自我控制。",
+      "keywords": [
+        "自我描述控制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "小学"
+      ],
+      "displayTitle": "自我意识",
+      "outline": "小学"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-junior-0",
+      "knowledgeId": "edu-reviewed-ch17-age-junior",
+      "title": "生理",
+      "text": "机能增强、性成熟。",
+      "keywords": [
+        "机能增强性成熟"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "初中"
+      ],
+      "displayTitle": "生理",
+      "outline": "初中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-junior-1",
+      "knowledgeId": "edu-reviewed-ch17-age-junior",
+      "title": "心理",
+      "text": "身心不平衡，诸多矛盾。",
+      "keywords": [
+        "身心不平衡矛盾"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "初中"
+      ],
+      "displayTitle": "心理",
+      "outline": "初中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-junior-2",
+      "knowledgeId": "edu-reviewed-ch17-age-junior",
+      "title": "认知与思维",
+      "text": "思维独立性、批判性增强。",
+      "keywords": [
+        "独立批判"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "初中"
+      ],
+      "displayTitle": "认知与思维",
+      "outline": "初中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-junior-3",
+      "knowledgeId": "edu-reviewed-ch17-age-junior",
+      "title": "情绪情感",
+      "text": "叛逆期、自尊心强。",
+      "keywords": [
+        "叛逆自尊"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "初中"
+      ],
+      "displayTitle": "情绪情感",
+      "outline": "初中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-junior-4",
+      "knowledgeId": "edu-reviewed-ch17-age-junior",
+      "title": "自我意识",
+      "text": "内心丰富、主观偏执。",
+      "keywords": [
+        "内心丰富主观偏执"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "初中"
+      ],
+      "displayTitle": "自我意识",
+      "outline": "初中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-senior-0",
+      "knowledgeId": "edu-reviewed-ch17-age-senior",
+      "title": "生理",
+      "text": "接近成年，相对成熟。",
+      "keywords": [
+        "接近成年相对成熟"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "高中"
+      ],
+      "displayTitle": "生理",
+      "outline": "高中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-senior-1",
+      "knowledgeId": "edu-reviewed-ch17-age-senior",
+      "title": "心理",
+      "text": "逐渐稳定。",
+      "keywords": [
+        "逐渐稳定"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "高中"
+      ],
+      "displayTitle": "心理",
+      "outline": "高中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-senior-2",
+      "knowledgeId": "edu-reviewed-ch17-age-senior",
+      "title": "认知与思维",
+      "text": "以抽象逻辑思维为主。",
+      "keywords": [
+        "抽象逻辑"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "高中"
+      ],
+      "displayTitle": "认知与思维",
+      "outline": "高中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-senior-3",
+      "knowledgeId": "edu-reviewed-ch17-age-senior",
+      "title": "情绪情感",
+      "text": "明显的两面性。",
+      "keywords": [
+        "两面性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "高中"
+      ],
+      "displayTitle": "情绪情感",
+      "outline": "高中"
+    },
+    {
+      "id": "edu-reviewed-ch17-age-senior-4",
+      "knowledgeId": "edu-reviewed-ch17-age-senior",
+      "title": "自我意识",
+      "text": "建立自我同一性。",
+      "keywords": [
+        "自我同一性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "高中"
+      ],
+      "displayTitle": "自我意识",
+      "outline": "高中"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development-0",
+      "knowledgeId": "edu-reviewed-ch17-student-development",
+      "title": "学业发展",
+      "text": "学业发展。",
+      "keywords": [
+        "学业"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 学业发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development-1",
+      "knowledgeId": "edu-reviewed-ch17-student-development",
+      "title": "个性发展",
+      "text": "个性发展。",
+      "keywords": [
+        "个性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 个性发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development-2",
+      "knowledgeId": "edu-reviewed-ch17-student-development",
+      "title": "社会性发展",
+      "text": "社会性发展。",
+      "keywords": [
+        "社会性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 社会性发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development-3",
+      "knowledgeId": "edu-reviewed-ch17-student-development",
+      "title": "生涯发展含义",
+      "text": "一个人一生的发展过程，由时间、广度、深度三个层面构成。",
+      "keywords": [
+        "一生",
+        "时间广度深度"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 生涯发展"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "4. 生涯发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development-4",
+      "knowledgeId": "edu-reviewed-ch17-student-development",
+      "title": "生涯发展规划",
+      "text": "主要包括学习规划、职业规划、生活规划、家庭婚姻规划和财务规划等。",
+      "keywords": [
+        "学习职业生活家庭婚姻财务"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 生涯发展"
+      ],
+      "displayTitle": "（2）生涯发展规划",
+      "outline": "4. 生涯发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development-5",
+      "knowledgeId": "edu-reviewed-ch17-student-development",
+      "title": "发挥潜力",
+      "text": "利于学生充分发挥自身的潜力。",
+      "keywords": [
+        "发挥潜力"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 生涯发展",
+        "（3）意义"
+      ],
+      "displayTitle": "①发挥潜力",
+      "outline": "4. 生涯发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development-6",
+      "knowledgeId": "edu-reviewed-ch17-student-development",
+      "title": "明确方向动力",
+      "text": "利于明确发展方向，激发学习动力。",
+      "keywords": [
+        "方向学习动力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 生涯发展",
+        "（3）意义"
+      ],
+      "displayTitle": "②方向与动力",
+      "outline": "4. 生涯发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-development-7",
+      "knowledgeId": "edu-reviewed-ch17-student-development",
+      "title": "学业职业结合",
+      "text": "利于将学业规划和职业规划相结合。",
+      "keywords": [
+        "学业职业规划结合"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 生涯发展",
+        "（3）意义"
+      ],
+      "displayTitle": "③学业与职业结合",
+      "outline": "4. 生涯发展"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-groups-0",
+      "knowledgeId": "edu-reviewed-ch17-student-groups",
+      "title": "正式群体含义",
+      "text": "在学校、班主任或社会团体的领导下，按一定规章制度组织起来的学生群体，如班集体、少先队、共青团等。",
+      "keywords": [
+        "学校班主任社会团体",
+        "规章制度",
+        "班集体少先队共青团"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 正式群体"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "1. 正式群体"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-groups-1",
+      "knowledgeId": "edu-reviewed-ch17-student-groups",
+      "title": "正式群体特点",
+      "text": "有目的、有计划、有纪律、成员稳定、任务明确、定期活动。",
+      "keywords": [
+        "目的计划纪律",
+        "稳定明确定期"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 正式群体"
+      ],
+      "displayTitle": "（2）特点",
+      "outline": "1. 正式群体"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-groups-2",
+      "knowledgeId": "edu-reviewed-ch17-student-groups",
+      "title": "非正式群体含义",
+      "text": "由学生自发形成或组织起来的群体。",
+      "keywords": [
+        "学生自发"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 非正式群体"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "2. 非正式群体"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-groups-3",
+      "knowledgeId": "edu-reviewed-ch17-student-groups",
+      "title": "非正式群体特点",
+      "text": "自愿自发；共同需要；强者领头，活动频繁；成员不稳定；无纪律，没有明确的目的与活动计划；有积极的一面，也有消极的一面。",
+      "keywords": [
+        "自愿共同需要领头频繁",
+        "不稳定无纪律无目的计划",
+        "积极消极"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 非正式群体"
+      ],
+      "displayTitle": "（2）特点",
+      "outline": "2. 非正式群体"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-groups-4",
+      "knowledgeId": "edu-reviewed-ch17-student-groups",
+      "title": "组建正式群体",
+      "text": "组建正式群体。",
+      "keywords": [
+        "组建正式"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 对待正式群体和非正式群体的态度"
+      ],
+      "displayTitle": "正式群体",
+      "outline": "3. 对待正式群体和非正式群体的态度"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-groups-5",
+      "knowledgeId": "edu-reviewed-ch17-student-groups",
+      "title": "引导非正式群体",
+      "text": "公正对待非正式群体，引导他们向积极的方向发展。",
+      "keywords": [
+        "公正引导积极"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 对待正式群体和非正式群体的态度"
+      ],
+      "displayTitle": "非正式群体",
+      "outline": "3. 对待正式群体和非正式群体的态度"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-organizations-0",
+      "knowledgeId": "edu-reviewed-ch17-student-organizations",
+      "title": "少年儿童组织含义",
+      "text": "在成人指导下，有目标、共同活动和组织规范的少年儿童社会团体，具有相对独立性和自主性。",
+      "keywords": [
+        "成人指导",
+        "目标共同活动规范",
+        "独立自主"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 少年儿童组织"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "1. 少年儿童组织"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-organizations-1",
+      "knowledgeId": "edu-reviewed-ch17-student-organizations",
+      "title": "少年正式组织",
+      "text": "准自治性、半制度化、生活化，如中国少年先锋队、境外童军组织等。",
+      "keywords": [
+        "准自治半制度生活化",
+        "少先队童军"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 少年儿童组织",
+        "（2）分类"
+      ],
+      "displayTitle": "①正式组织",
+      "outline": "1. 少年儿童组织"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-organizations-2",
+      "knowledgeId": "edu-reviewed-ch17-student-organizations",
+      "title": "少年非正式组织",
+      "text": "少年儿童的兴趣沙龙、夏令营等非正式或临时组织。",
+      "keywords": [
+        "兴趣沙龙夏令营临时"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 少年儿童组织",
+        "（2）分类"
+      ],
+      "displayTitle": "②非正式组织",
+      "outline": "1. 少年儿童组织"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-organizations-3",
+      "knowledgeId": "edu-reviewed-ch17-student-organizations",
+      "title": "青年组织含义",
+      "text": "以青年为主体，具有组织的基本要素和属性的青年社会团体，具有相对独立性和自主性。",
+      "keywords": [
+        "青年主体",
+        "要素属性",
+        "独立自主"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 青年组织"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "2. 青年组织"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-organizations-4",
+      "knowledgeId": "edu-reviewed-ch17-student-organizations",
+      "title": "青年正式组织",
+      "text": "常见的正式青年组织有中国共产主义青年团、中华全国青年联合会等。",
+      "keywords": [
+        "共青团全国青联"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 青年组织",
+        "（2）分类"
+      ],
+      "displayTitle": "①正式组织",
+      "outline": "2. 青年组织"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-organizations-5",
+      "knowledgeId": "edu-reviewed-ch17-student-organizations",
+      "title": "青年非正式组织",
+      "text": "公益青年自组织、休闲青年自组织、社区青年自组织等。",
+      "keywords": [
+        "公益休闲社区自组织"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 青年组织",
+        "（2）分类"
+      ],
+      "displayTitle": "②非正式组织",
+      "outline": "2. 青年组织"
+    },
+    {
+      "id": "edu-reviewed-ch17-group-effects-0",
+      "knowledgeId": "edu-reviewed-ch17-group-effects",
+      "title": "社会性培养",
+      "text": "有利于实现个体社会性的培养。",
+      "keywords": [
+        "个体社会性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 社会性培养"
+    },
+    {
+      "id": "edu-reviewed-ch17-group-effects-1",
+      "knowledgeId": "edu-reviewed-ch17-group-effects",
+      "title": "摆脱自我中心",
+      "text": "有利于学生摆脱“自我中心”倾向，发展良好行为。",
+      "keywords": [
+        "摆脱自我中心良好行为"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 摆脱自我中心"
+    },
+    {
+      "id": "edu-reviewed-ch17-group-effects-2",
+      "knowledgeId": "edu-reviewed-ch17-group-effects",
+      "title": "心理支持",
+      "text": "可以使学生获得心理支持。",
+      "keywords": [
+        "心理支持"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 心理支持"
+    },
+    {
+      "id": "edu-reviewed-ch17-group-effects-3",
+      "knowledgeId": "edu-reviewed-ch17-group-effects",
+      "title": "负面影响",
+      "text": "学生群体也有负面的作用和影响，尤其要注意非正式群体对个体的影响。",
+      "keywords": [
+        "负面非正式个体"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 负面影响"
+    },
+    {
+      "id": "edu-reviewed-ch17-teacher-extra-rights-0",
+      "knowledgeId": "edu-reviewed-ch17-teacher-extra-rights",
+      "title": "教师补充权利",
+      "text": "原书总结表另列申诉权、人身人格权，并注明禁止辱骂、殴打教师。",
+      "keywords": [
+        "申诉",
+        "人身人格",
+        "禁止辱骂殴打"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "总结表补充权利"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights-0",
+      "knowledgeId": "edu-reviewed-ch17-student-rights",
+      "title": "上课课外活动权利",
+      "text": "上课及参加课外活动的权利。",
+      "keywords": [
+        "上课课外活动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 与学习活动直接相关"
+      ],
+      "displayTitle": "（1）上课课外活动权利",
+      "outline": "1. 与学习活动直接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights-1",
+      "knowledgeId": "edu-reviewed-ch17-student-rights",
+      "title": "物质帮助权利",
+      "text": "获得物质帮助的权利。",
+      "keywords": [
+        "物质帮助"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 与学习活动直接相关"
+      ],
+      "displayTitle": "（2）物质帮助权利",
+      "outline": "1. 与学习活动直接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights-2",
+      "knowledgeId": "edu-reviewed-ch17-student-rights",
+      "title": "公正评价学业证书权利",
+      "text": "获得公正评价和学业证书的权利。",
+      "keywords": [
+        "公正评价学业证书"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 与学习活动直接相关"
+      ],
+      "displayTitle": "（3）公正评价学业证书权利",
+      "outline": "1. 与学习活动直接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights-3",
+      "knowledgeId": "edu-reviewed-ch17-student-rights",
+      "title": "表达意愿权利",
+      "text": "表达个人意愿的权利。",
+      "keywords": [
+        "表达个人意愿"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 与学习活动直接相关"
+      ],
+      "displayTitle": "（4）表达意愿权利",
+      "outline": "1. 与学习活动直接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights-4",
+      "knowledgeId": "edu-reviewed-ch17-student-rights",
+      "title": "人身自由权利",
+      "text": "人身自由的权利。",
+      "keywords": [
+        "人身自由"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 与学习活动间接相关"
+      ],
+      "displayTitle": "（1）人身自由权利",
+      "outline": "2. 与学习活动间接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights-5",
+      "knowledgeId": "edu-reviewed-ch17-student-rights",
+      "title": "人格尊严权利",
+      "text": "人格尊严的权利。",
+      "keywords": [
+        "人格尊严"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 与学习活动间接相关"
+      ],
+      "displayTitle": "（2）人格尊严权利",
+      "outline": "2. 与学习活动间接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights-6",
+      "knowledgeId": "edu-reviewed-ch17-student-rights",
+      "title": "生命健康权利",
+      "text": "生命健康的权利。",
+      "keywords": [
+        "生命健康"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 与学习活动间接相关"
+      ],
+      "displayTitle": "（3）生命健康权利",
+      "outline": "2. 与学习活动间接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-rights-7",
+      "knowledgeId": "edu-reviewed-ch17-student-rights",
+      "title": "隐私权利",
+      "text": "隐私的权利。",
+      "keywords": [
+        "隐私"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 与学习活动间接相关"
+      ],
+      "displayTitle": "（4）隐私权利",
+      "outline": "2. 与学习活动间接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-duties-0",
+      "knowledgeId": "edu-reviewed-ch17-student-duties",
+      "title": "上课课外活动义务",
+      "text": "上课及参加课外活动的义务。",
+      "keywords": [
+        "上课课外活动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 与学习活动直接相关"
+      ],
+      "displayTitle": "（1）上课课外活动义务",
+      "outline": "1. 与学习活动直接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-duties-1",
+      "knowledgeId": "edu-reviewed-ch17-student-duties",
+      "title": "作息纪律义务",
+      "text": "遵守学校作息制度和学习纪律的义务。",
+      "keywords": [
+        "作息学习纪律"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 与学习活动直接相关"
+      ],
+      "displayTitle": "（2）作息纪律义务",
+      "outline": "1. 与学习活动直接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-duties-2",
+      "knowledgeId": "edu-reviewed-ch17-student-duties",
+      "title": "完成学习任务义务",
+      "text": "完成规定学习任务的义务。",
+      "keywords": [
+        "完成规定任务"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 与学习活动直接相关"
+      ],
+      "displayTitle": "（3）完成学习任务义务",
+      "outline": "1. 与学习活动直接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-duties-3",
+      "knowledgeId": "edu-reviewed-ch17-student-duties",
+      "title": "守则规范义务",
+      "text": "遵守中小学生守则和日常行为规范的义务。",
+      "keywords": [
+        "守则日常行为规范"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 与学习活动直接相关"
+      ],
+      "displayTitle": "（4）守则规范义务",
+      "outline": "1. 与学习活动直接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-duties-4",
+      "knowledgeId": "edu-reviewed-ch17-student-duties",
+      "title": "遵守法律法规义务",
+      "text": "遵守国家法律、法规的义务。",
+      "keywords": [
+        "遵守法律法规"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 与学习活动间接相关"
+      ],
+      "displayTitle": "（1）遵守法律法规义务",
+      "outline": "2. 与学习活动间接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-duties-5",
+      "knowledgeId": "edu-reviewed-ch17-student-duties",
+      "title": "尊重同学师长义务",
+      "text": "尊重同学和尊敬师长的义务。",
+      "keywords": [
+        "尊重同学尊敬师长"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 与学习活动间接相关"
+      ],
+      "displayTitle": "（2）尊重同学师长义务",
+      "outline": "2. 与学习活动间接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-student-duties-6",
+      "knowledgeId": "edu-reviewed-ch17-student-duties",
+      "title": "爱护学校财产义务",
+      "text": "爱护学校财产的义务。",
+      "keywords": [
+        "爱护学校财产"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 与学习活动间接相关"
+      ],
+      "displayTitle": "（3）爱护学校财产义务",
+      "outline": "2. 与学习活动间接相关"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-types-0",
+      "knowledgeId": "edu-reviewed-ch17-relationship-types",
+      "title": "中心论类型",
+      "text": "学生中心论；教师中心论。",
+      "keywords": [
+        "学生中心教师中心"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 中心论"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-types-1",
+      "knowledgeId": "edu-reviewed-ch17-relationship-types",
+      "title": "交往类型",
+      "text": "民主型；放任型；专制型。",
+      "keywords": [
+        "民主放任专制"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 民主、放任与专制"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-standards-0",
+      "knowledgeId": "edu-reviewed-ch17-relationship-standards",
+      "title": "社会关系",
+      "text": "民主平等，和谐亲密。",
+      "keywords": [
+        "民主平等和谐亲密"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 社会关系"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-standards-1",
+      "knowledgeId": "edu-reviewed-ch17-relationship-standards",
+      "title": "人际关系",
+      "text": "尊师爱生，相互配合。",
+      "keywords": [
+        "尊师爱生相互配合"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 人际关系"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-standards-2",
+      "knowledgeId": "edu-reviewed-ch17-relationship-standards",
+      "title": "教育关系",
+      "text": "教学相长，共享共创；教师主导，学生主体。",
+      "keywords": [
+        "教学相长共享共创",
+        "教师主导学生主体"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 教育关系"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-standards-3",
+      "knowledgeId": "edu-reviewed-ch17-relationship-standards",
+      "title": "心理关系",
+      "text": "宽容理解。",
+      "keywords": [
+        "宽容理解"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 心理关系"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-0",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "正确教育观念",
+      "text": "树立正确的教育观念是建立良好师生关系的根本。",
+      "keywords": [
+        "正确教育观念根本"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 树立正确的教育观念"
+      ],
+      "displayTitle": "根本",
+      "outline": "1. 树立正确的教育观念"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-1",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "平等师生观",
+      "text": "平等的师生观。",
+      "keywords": [
+        "平等师生观"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 树立正确的教育观念"
+      ],
+      "displayTitle": "（1）平等的师生观",
+      "outline": "1. 树立正确的教育观念"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-2",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "正确学生观",
+      "text": "正确的学生观。",
+      "keywords": [
+        "正确学生观"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 树立正确的教育观念"
+      ],
+      "displayTitle": "（2）正确的学生观",
+      "outline": "1. 树立正确的教育观念"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-3",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "正确人才观",
+      "text": "正确的人才观。",
+      "keywords": [
+        "正确人才观"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 树立正确的教育观念"
+      ],
+      "displayTitle": "（3）正确的人才观",
+      "outline": "1. 树立正确的教育观念"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-4",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "尊重理解重点",
+      "text": "尊重与理解是建立良好师生关系的重点。",
+      "keywords": [
+        "尊重理解重点"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 尊重与理解"
+      ],
+      "displayTitle": "重点",
+      "outline": "2. 尊重与理解"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-5",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "了解研究接近",
+      "text": "了解与研究学生，主动接近学生。",
+      "keywords": [
+        "了解研究接近"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 尊重与理解"
+      ],
+      "displayTitle": "（1）了解与研究",
+      "outline": "2. 尊重与理解"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-6",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "信任尊重主体",
+      "text": "充分信任学生，尊重学生主体性。",
+      "keywords": [
+        "信任主体性"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 尊重与理解"
+      ],
+      "displayTitle": "（2）信任与主体性",
+      "outline": "2. 尊重与理解"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-7",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "公正尊重差异",
+      "text": "公正对待学生，尊重个体差异。",
+      "keywords": [
+        "公正个体差异"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 尊重与理解"
+      ],
+      "displayTitle": "（3）公正与差异",
+      "outline": "2. 尊重与理解"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-8",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "主动沟通移情",
+      "text": "主动沟通学生，做到“移情体验”。",
+      "keywords": [
+        "沟通移情体验"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 尊重与理解"
+      ],
+      "displayTitle": "（4）沟通与移情",
+      "outline": "2. 尊重与理解"
+    },
+    {
+      "id": "edu-reviewed-ch17-relationship-methods-9",
+      "knowledgeId": "edu-reviewed-ch17-relationship-methods",
+      "title": "自我修养人格",
+      "text": "教师加强自我修养与健全人格是建立良好师生关系的保障。",
+      "keywords": [
+        "修养健全人格保障"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 自我修养与健全人格"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch17-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 7,
+    "knowledge": 37,
+    "steps": 179,
+    "referenceOnly": 10
+  }
+}

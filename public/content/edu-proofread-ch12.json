@@ -1,0 +1,2308 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch12-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch12-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "教育目的与培养目标：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 100,
+          "rect": [
+            0.05,
+            0.12,
+            0.92,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 100108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "教育目的",
+      "section": "第一节 · 教育目的与培养目标概述 · （一）",
+      "refs": [
+        {
+          "page": 100,
+          "rect": [
+            0.05,
+            0.515,
+            0.92,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 100463,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-goal-hierarchy-figure",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "教育目的、培养目标、课程目标与教学目标层级原图",
+      "section": "第一节 · 教育目的与培养目标概述 · 教育目的 · 层次结构",
+      "refs": [
+        {
+          "page": 100,
+          "rect": [
+            0.05,
+            0.58,
+            0.92,
+            0.052
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 100522,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-education-policy",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "教育方针",
+      "section": "第一节 · 教育目的与培养目标概述 · （二）",
+      "refs": [
+        {
+          "page": 100,
+          "rect": [
+            0.05,
+            0.66,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 100594,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "培养目标",
+      "section": "第一节 · 教育目的与培养目标概述 · （三）",
+      "refs": [
+        {
+          "page": 101,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 101072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-overview-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "教育目的层级：知识速练原图",
+      "section": "第一节 · 教育目的与培养目标概述 · 知识速练",
+      "refs": [
+        {
+          "page": 101,
+          "rect": [
+            0.05,
+            0.33,
+            0.92,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 101297,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "个人本位论与社会本位论",
+      "section": "第二节 · 关于教育目的的相关理论 · 考点一",
+      "refs": [
+        {
+          "page": 101,
+          "rect": [
+            0.05,
+            0.54,
+            0.92,
+            0.305
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 101486,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "个人本位论与社会本位论对照表及知识速练原图",
+      "section": "第二节 · 关于教育目的的相关理论 · 考点一 · 原书对照表",
+      "refs": [
+        {
+          "page": 101,
+          "rect": [
+            0.05,
+            0.535,
+            0.92,
+            0.375
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 101481,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "外在目的论与内在目的论",
+      "section": "第二节 · 关于教育目的的相关理论 · 考点二",
+      "refs": [
+        {
+          "page": 102,
+          "rect": [
+            0.05,
+            0.125,
+            0.92,
+            0.34
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 102112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "外在目的论与内在目的论对照表及知识速练原图",
+      "section": "第二节 · 关于教育目的的相关理论 · 考点二 · 原书对照表",
+      "refs": [
+        {
+          "page": 102,
+          "rect": [
+            0.05,
+            0.125,
+            0.92,
+            0.455
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 102112,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "教育准备生活说与教育适应生活说",
+      "section": "第二节 · 关于教育目的的相关理论 · 考点三",
+      "refs": [
+        {
+          "page": 102,
+          "rect": [
+            0.05,
+            0.63,
+            0.92,
+            0.125
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 102567,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "教育准备生活说与教育适应生活说对照表及知识速练原图",
+      "section": "第二节 · 关于教育目的的相关理论 · 考点三 · 原书对照表",
+      "refs": [
+        {
+          "page": 102,
+          "rect": [
+            0.05,
+            0.63,
+            0.92,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 102567,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "马克思主义关于人的全面发展学说",
+      "section": "第二节 · 关于教育目的的相关理论 · 考点四",
+      "refs": [
+        {
+          "page": 103,
+          "rect": [
+            0.05,
+            0.13,
+            0.92,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 103117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "全面发展学说及个性发展：知识速练原图",
+      "section": "第二节 · 关于教育目的的相关理论 · 考点四 · 知识速练",
+      "refs": [
+        {
+          "page": 103,
+          "rect": [
+            0.05,
+            0.36,
+            0.92,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 103324,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-basis",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "教育目的确立的依据",
+      "section": "第三节 · 我国的教育目的 · （一）",
+      "refs": [
+        {
+          "page": 103,
+          "rect": [
+            0.05,
+            0.56,
+            0.92,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 103504,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-spirit",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "我国教育目的的精神实质",
+      "section": "第三节 · 我国的教育目的 · （三）",
+      "refs": [
+        {
+          "page": 103,
+          "rect": [
+            0.05,
+            0.73,
+            0.92,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 103657,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-china-purpose-source",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "我国教育目的：依据、原书略项及精神实质助记原图",
+      "section": "第三节 · 我国的教育目的 · 原书框架与助记",
+      "refs": [
+        {
+          "page": 103,
+          "rect": [
+            0.05,
+            0.55,
+            0.92,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 103495,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-meaning",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "全面发展教育的含义",
+      "section": "第三节 · 我国的教育目的 · （四）全面发展教育 · 1. 含义",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.05,
+            0.085,
+            0.92,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 104076,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "全面发展教育的构成与“五育”关系",
+      "section": "第三节 · 我国的教育目的 · （四）全面发展教育 · 2. 构成",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.05,
+            0.17,
+            0.92,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 104153,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "全面发展教育：“五育”含义、作用与关系原表",
+      "section": "第三节 · 我国的教育目的 · （四）全面发展教育 · 2. 构成 · 原书对照表",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.05,
+            0.165,
+            0.92,
+            0.325
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 104148,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "全面发展教育的实现",
+      "section": "第三节 · 我国的教育目的 · （四）全面发展教育 · 3. 实现",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.05,
+            0.515,
+            0.92,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 104463,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch12-intellectual-education-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-11",
+      "title": "智育：知识速练原图",
+      "section": "第三节 · 我国的教育目的 · （四）全面发展教育 · 知识速练",
+      "refs": [
+        {
+          "page": 104,
+          "rect": [
+            0.05,
+            0.78,
+            0.92,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 104702,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch12-education-purpose-0",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "广义教育目的",
+      "text": "泛指存在于人民群众头脑中的对受教育者的期望与要求。",
+      "keywords": [
+        "人民群众",
+        "期望要求"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 广义"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose-1",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "狭义教育目的",
+      "text": "特指国家或社会里占主流地位的对受教育者的期望和要求。",
+      "keywords": [
+        "国家社会主流",
+        "期望要求"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 狭义"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose-2",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "内容结构",
+      "text": "为谁培养人＋培养什么样的人。",
+      "keywords": [
+        "为谁培养人",
+        "培养什么样的人"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 内容结构"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose-3",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "目的层次",
+      "text": "教育目的对应国家。",
+      "keywords": [
+        "国家",
+        "教育目的"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 层次结构"
+      ],
+      "displayTitle": "教育目的",
+      "outline": "4. 层次结构"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose-4",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "培养层次",
+      "text": "培养目标对应各级各类学校。",
+      "keywords": [
+        "各级各类学校"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 层次结构"
+      ],
+      "displayTitle": "培养目标",
+      "outline": "4. 层次结构"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose-5",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "课程层次",
+      "text": "课程目标对应不同学科学年段目标。",
+      "keywords": [
+        "不同学科",
+        "学年段目标"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 层次结构"
+      ],
+      "displayTitle": "课程目标",
+      "outline": "4. 层次结构"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose-6",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "教学层次",
+      "text": "教学目标对应教师课堂目标。",
+      "keywords": [
+        "教师课堂目标"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 层次结构"
+      ],
+      "displayTitle": "教学目标",
+      "outline": "4. 层次结构"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose-7",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "层次关系",
+      "text": "各层次具有一般与特殊、依据与具体化的关系。",
+      "keywords": [
+        "一般特殊",
+        "依据具体化"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 层次结构"
+      ],
+      "displayTitle": "层次关系",
+      "outline": "4. 层次结构"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-purpose-8",
+      "knowledgeId": "edu-reviewed-ch12-education-purpose",
+      "title": "我国教育目的",
+      "text": "培养德、智、体、美、劳全面发展的社会主义建设者和接班人。",
+      "keywords": [
+        "德智体美劳",
+        "建设者接班人"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "5. 我国"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-policy-0",
+      "knowledgeId": "edu-reviewed-ch12-education-policy",
+      "title": "教育方针含义",
+      "text": "教育工作规划的总方向与根本指针，教育政策的总概括。",
+      "keywords": [
+        "总方向根本指针",
+        "政策总概括"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-policy-1",
+      "knowledgeId": "edu-reviewed-ch12-education-policy",
+      "title": "教育方针构成",
+      "text": "教育的性质和方向、教育的目的、实现教育目的的根本途径。",
+      "keywords": [
+        "性质方向",
+        "目的",
+        "根本途径"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 构成"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-policy-2",
+      "knowledgeId": "edu-reviewed-ch12-education-policy",
+      "title": "原书教育方针",
+      "text": "原书引用2021年新修订的《中华人民共和国教育法》中的教育方针：“教育必须为社会主义现代化建设服务，为人民服务，必须与生产劳动和社会实践相结合，培养德智体美劳全面发展的社会主义建设者和接班人。”",
+      "keywords": [
+        "2021教育法",
+        "现代化人民服务",
+        "生产劳动社会实践"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 我国"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-policy-3",
+      "knowledgeId": "edu-reviewed-ch12-education-policy",
+      "title": "包含关系",
+      "text": "教育方针与教育目的是包含关系。",
+      "keywords": [
+        "包含关系"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 与教育目的的关系"
+      ],
+      "displayTitle": "（1）包含关系",
+      "outline": "4. 与教育目的的关系"
+    },
+    {
+      "id": "edu-reviewed-ch12-education-policy-4",
+      "knowledgeId": "edu-reviewed-ch12-education-policy",
+      "title": "目的手段关系",
+      "text": "教育方针与教育目的是目的和手段的关系。",
+      "keywords": [
+        "目的手段"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 与教育目的的关系"
+      ],
+      "displayTitle": "（2）目的和手段的关系",
+      "outline": "4. 与教育目的的关系"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-0",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "培养目标含义",
+      "text": "各级各类学校对学习者提出的培养期望和要求。",
+      "keywords": [
+        "各级各类学校",
+        "培养期望要求"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-1",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "与教育目的关系",
+      "text": "特殊与一般的关系，具体化与依据的关系。",
+      "keywords": [
+        "特殊一般",
+        "具体化依据"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 与教育目的的关系"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-2",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "社会依据",
+      "text": "生产力、政治、经济、文化、科技。",
+      "keywords": [
+        "生产力政治经济文化科技"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 依据"
+      ],
+      "displayTitle": "（1）社会的方面",
+      "outline": "3. 依据"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-3",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "人的依据",
+      "text": "身心发展规律与年龄特征、兴趣、需要、生活、天性与自由。",
+      "keywords": [
+        "规律年龄",
+        "兴趣需要生活",
+        "天性自由"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 依据"
+      ],
+      "displayTitle": "（2）人的方面",
+      "outline": "3. 依据"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-4",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "内部依据",
+      "text": "教育目的。",
+      "keywords": [
+        "教育目的"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 依据"
+      ],
+      "displayTitle": "（3）教育内部方面",
+      "outline": "3. 依据"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-5",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "四有新人公民",
+      "text": "从四有“新人”到四有“公民”。",
+      "keywords": [
+        "四有新人",
+        "四有公民"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 演变"
+      ],
+      "displayTitle": "（1）从四有“新人”到四有“公民”",
+      "outline": "4. 演变"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-6",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "片面到全面",
+      "text": "从片面发展到全面发展。",
+      "keywords": [
+        "片面",
+        "全面"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 演变"
+      ],
+      "displayTitle": "（2）从片面发展到全面发展",
+      "outline": "4. 演变"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-7",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "劳动者到接班人",
+      "text": "从培养“劳动者”到培养“建设者和接班人”。",
+      "keywords": [
+        "劳动者",
+        "建设者接班人"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "4. 演变"
+      ],
+      "displayTitle": "（3）从“劳动者”到“建设者和接班人”",
+      "outline": "4. 演变"
+    },
+    {
+      "id": "edu-reviewed-ch12-training-goals-8",
+      "knowledgeId": "edu-reviewed-ch12-training-goals",
+      "title": "各级培养目标",
+      "text": "幼儿园培养目标、小学培养目标、初中培养目标、普通高中培养目标、职业高中培养目标、大学培养目标。",
+      "keywords": [
+        "幼儿小学初中",
+        "普高职高大学"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "5. 培养目标"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-0",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "个人本位人物",
+      "text": "卢梭、裴斯泰洛齐、洛克、福禄培尔、康德、萨特。",
+      "keywords": [
+        "卢梭裴斯泰洛齐洛克",
+        "福禄培尔康德萨特"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人物"
+      ],
+      "displayTitle": "个人本位论",
+      "outline": "人物"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-1",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "社会本位人物",
+      "text": "柏拉图、凯兴斯泰纳、涂尔干、赫尔巴特、孔德。",
+      "keywords": [
+        "柏拉图凯兴斯泰纳涂尔干",
+        "赫尔巴特孔德"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人物"
+      ],
+      "displayTitle": "社会本位论",
+      "outline": "人物"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-2",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "个人本位依据",
+      "text": "教育目的由个体的需要、潜能和个性决定。",
+      "keywords": [
+        "个体需要潜能个性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "依据"
+      ],
+      "displayTitle": "个人本位论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-3",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "社会本位依据",
+      "text": "教育目的由社会的需要决定。",
+      "keywords": [
+        "社会需要"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "依据"
+      ],
+      "displayTitle": "社会本位论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-4",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "个人价值优先",
+      "text": "个人价值高于社会价值。",
+      "keywords": [
+        "个人价值高于社会"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "价值"
+      ],
+      "displayTitle": "个人本位论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-5",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "社会价值优先",
+      "text": "社会价值高于个人价值。",
+      "keywords": [
+        "社会价值高于个人"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "价值"
+      ],
+      "displayTitle": "社会本位论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-6",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "个人本位目的",
+      "text": "教育目的：自然潜能。",
+      "keywords": [
+        "自然潜能"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "目的"
+      ],
+      "displayTitle": "个人本位论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-7",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "社会本位目的",
+      "text": "教育目的：合格公民。",
+      "keywords": [
+        "合格公民"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "目的"
+      ],
+      "displayTitle": "社会本位论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-8",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "个人本位效果",
+      "text": "教育效果以人的个性自由发展的程度来衡量。",
+      "keywords": [
+        "个性自由发展"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "效果"
+      ],
+      "displayTitle": "个人本位论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-9",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "社会本位效果",
+      "text": "教育效果以社会功能的发挥程度来衡量。",
+      "keywords": [
+        "社会功能发挥"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "效果"
+      ],
+      "displayTitle": "社会本位论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-10",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "个人本位优点",
+      "text": "重视个性。解放人性，倡导人的自由、个性、价值与地位。",
+      "keywords": [
+        "重视个性",
+        "解放人性自由价值"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "个人本位论",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-11",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "国家办学",
+      "text": "推动国家办学。教育权从宗教神学转移到国家。",
+      "keywords": [
+        "国家办学",
+        "教育权转移"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点",
+        "社会本位论"
+      ],
+      "displayTitle": "1. 推动国家办学",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-12",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "重视共性",
+      "text": "重视共性，也就是重视教育的社会价值。",
+      "keywords": [
+        "共性",
+        "社会价值"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点",
+        "社会本位论"
+      ],
+      "displayTitle": "2. 重视共性",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-13",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "个人本位局限",
+      "text": "忽视共性。把“个性”与“共性”对立起来，把追求个人的利益凌驾于国家之上，丧失了教育的社会基础或前提。",
+      "keywords": [
+        "忽视共性",
+        "个人利益",
+        "社会基础"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限"
+      ],
+      "displayTitle": "个人本位论",
+      "outline": "局限"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-14",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "社会本位局限",
+      "text": "忽视个性。忽视了个体价值，违背人道主义原则。",
+      "keywords": [
+        "忽视个性个体价值",
+        "人道主义"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限"
+      ],
+      "displayTitle": "社会本位论",
+      "outline": "局限"
+    },
+    {
+      "id": "edu-reviewed-ch12-individual-social-15",
+      "knowledgeId": "edu-reviewed-ch12-individual-social",
+      "title": "个社总结",
+      "text": "既要注重教育的社会价值，也要注重教育对个人的价值，将二者辩证统一落实于人的发展。",
+      "keywords": [
+        "社会个人价值",
+        "辩证统一"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "总结"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-0",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "外在目的人物",
+      "text": "社会本位论者。",
+      "keywords": [
+        "社会本位论者"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人物"
+      ],
+      "displayTitle": "外在目的论",
+      "outline": "人物"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-1",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "内在目的人物",
+      "text": "杜威。",
+      "keywords": [
+        "杜威"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人物"
+      ],
+      "displayTitle": "内在目的论",
+      "outline": "人物"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-2",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "外在目的观点",
+      "text": "按照政治、社会的要求或教师等人强加给儿童的教育目的。",
+      "keywords": [
+        "政治社会要求",
+        "强加儿童"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "外在目的论",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-3",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "批判传统",
+      "text": "杜威反对传统的远离儿童需要和理解能力的、抽象的、遥远的目的。",
+      "keywords": [
+        "儿童需要理解",
+        "抽象遥远"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "内在目的论"
+      ],
+      "displayTitle": "1. 批判传统",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-4",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "教育即生长",
+      "text": "教育应该依据儿童的兴趣、需要、身心规律来制定目的，把促进学生内在生长作为教育宗旨。",
+      "keywords": [
+        "兴趣需要身心规律",
+        "内在生长"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "内在目的论"
+      ],
+      "displayTitle": "2. 教育即生长",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-5",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "教育无外在目的",
+      "text": "不是教育没有目的，而是没有外在的目的。杜威认为：“教育的过程，在它自身之外没有目的，教育的过程就是它自己的目的。”",
+      "keywords": [
+        "非没有目的",
+        "没有外在目的",
+        "过程自身目的"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "内在目的论"
+      ],
+      "displayTitle": "3. 教育无外在目的",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-6",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "教育满足需要",
+      "text": "教育应去满足儿童内在生长与发展的各种需要。",
+      "keywords": [
+        "内在生长发展需要"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点",
+        "内在目的论"
+      ],
+      "displayTitle": "4. 教育应满足需要",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-7",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "外在目的优点",
+      "text": "尊重社会与教育的关系。",
+      "keywords": [
+        "社会教育关系"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "外在目的论",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-8",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "内在目的调和",
+      "text": "全新角度的诠释，试图调和社会本位论与个人本位论。",
+      "keywords": [
+        "全新角度",
+        "调和两论"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点",
+        "内在目的论"
+      ],
+      "displayTitle": "1. 全新角度的诠释",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-9",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "内在目的民主",
+      "text": "突出民主性。",
+      "keywords": [
+        "民主性"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点",
+        "内在目的论"
+      ],
+      "displayTitle": "2. 突出民主性",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-10",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "外在目的局限",
+      "text": "压抑、阻碍个体自由发展。",
+      "keywords": [
+        "压抑阻碍",
+        "个体自由"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限"
+      ],
+      "displayTitle": "外在目的论",
+      "outline": "局限"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-11",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "内在目的可行性",
+      "text": "无可行性。",
+      "keywords": [
+        "无可行性"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限",
+        "内在目的论"
+      ],
+      "displayTitle": "1. 无可行性",
+      "outline": "局限"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-12",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "内在目的价值取向",
+      "text": "没有说明教育的价值取向和本质属性。",
+      "keywords": [
+        "价值取向",
+        "本质属性"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限",
+        "内在目的论"
+      ],
+      "displayTitle": "2. 价值取向与本质属性",
+      "outline": "局限"
+    },
+    {
+      "id": "edu-reviewed-ch12-external-internal-13",
+      "knowledgeId": "edu-reviewed-ch12-external-internal",
+      "title": "内外目的总结",
+      "text": "既要重视教育的内在目的，还要依据教育的外在目的，将二者辩证统一于人的发展之中。",
+      "keywords": [
+        "内在外在目的",
+        "辩证统一"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "总结"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-0",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "准备生活人物",
+      "text": "斯宾塞。",
+      "keywords": [
+        "斯宾塞"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人物"
+      ],
+      "displayTitle": "教育准备生活说",
+      "outline": "人物"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-1",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "适应生活人物",
+      "text": "杜威。",
+      "keywords": [
+        "杜威"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人物"
+      ],
+      "displayTitle": "教育适应生活说",
+      "outline": "人物"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-2",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "准备生活观点",
+      "text": "教育为未来完满生活做准备。",
+      "keywords": [
+        "未来完满生活"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "教育准备生活说",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-3",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "适应生活观点",
+      "text": "教育为当下生活做准备。",
+      "keywords": [
+        "当下生活"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "观点"
+      ],
+      "displayTitle": "教育适应生活说",
+      "outline": "观点"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-4",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "准备生活优点",
+      "text": "未来性。",
+      "keywords": [
+        "未来性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "教育准备生活说",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-5",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "适应生活优点",
+      "text": "实时性。",
+      "keywords": [
+        "实时性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "优点"
+      ],
+      "displayTitle": "教育适应生活说",
+      "outline": "优点"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-6",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "准备生活局限",
+      "text": "缺失满足当下生活的内容。",
+      "keywords": [
+        "缺失当下生活"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限"
+      ],
+      "displayTitle": "教育准备生活说",
+      "outline": "局限"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-7",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "适应生活局限",
+      "text": "缺失方向性。",
+      "keywords": [
+        "缺失方向性"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限"
+      ],
+      "displayTitle": "教育适应生活说",
+      "outline": "局限"
+    },
+    {
+      "id": "edu-reviewed-ch12-preparation-adaptation-8",
+      "knowledgeId": "edu-reviewed-ch12-preparation-adaptation",
+      "title": "生活理论总结",
+      "text": "教育既要尊重儿童当下的生活，又要有长远的方向和展望，应将两种理论结合在一起，辩证统一于教育实践活动中。",
+      "keywords": [
+        "当下生活",
+        "长远方向",
+        "辩证统一"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "总结"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-0",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "劳动能力全面发展",
+      "text": "指人的劳动能力的全面发展。",
+      "keywords": [
+        "劳动能力全面"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）科学内涵"
+      ],
+      "displayTitle": "1. 劳动能力的全面发展",
+      "outline": "（一）科学内涵"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-1",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "智力体力全面发展",
+      "text": "指人的智力与体力的全面发展。",
+      "keywords": [
+        "智力体力全面"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）科学内涵"
+      ],
+      "displayTitle": "2. 智力与体力的全面发展",
+      "outline": "（一）科学内涵"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-2",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "个性充分自由发展",
+      "text": "指人的个性的充分的、自由的发展。人的先天与后天各种才能、志趣、道德和审美能力等各方面充分自由和个性的发展。",
+      "keywords": [
+        "个性充分自由",
+        "才能志趣道德审美"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）科学内涵"
+      ],
+      "displayTitle": "3. 个性的充分、自由的发展",
+      "outline": "（一）科学内涵"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-3",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "片面发展根源",
+      "text": "工场手工业的分工加剧了工人的片面发展。",
+      "keywords": [
+        "工场手工业",
+        "分工"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）社会条件"
+      ],
+      "displayTitle": "1. 人的片面发展的根源",
+      "outline": "（二）社会条件"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-4",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "全面发展物质基础",
+      "text": "生产力高速发展的大工业社会为人的全面发展提供了物质基础。",
+      "keywords": [
+        "生产力",
+        "大工业社会"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）社会条件"
+      ],
+      "displayTitle": "2. 物质基础",
+      "outline": "（二）社会条件"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-5",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "全面发展根本途径",
+      "text": "教育与生产劳动相结合。",
+      "keywords": [
+        "教育生产劳动结合"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）社会条件"
+      ],
+      "displayTitle": "3. 根本途径",
+      "outline": "（二）社会条件"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-6",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "科学发展观",
+      "text": "确立了科学的人的发展观。",
+      "keywords": [
+        "科学人的发展观"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）重大意义"
+      ],
+      "displayTitle": "1. 科学的人的发展观",
+      "outline": "（三）重大意义"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-7",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "历史必然",
+      "text": "指明了人的全面发展的历史必然。",
+      "keywords": [
+        "全面发展",
+        "历史必然"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）重大意义"
+      ],
+      "displayTitle": "2. 历史必然",
+      "outline": "（三）重大意义"
+    },
+    {
+      "id": "edu-reviewed-ch12-marx-development-8",
+      "knowledgeId": "edu-reviewed-ch12-marx-development",
+      "title": "我国目的理论基础",
+      "text": "是我国教育目的的理论基础。",
+      "keywords": [
+        "我国教育目的",
+        "理论基础"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）重大意义"
+      ],
+      "displayTitle": "3. 我国教育目的的理论基础",
+      "outline": "（三）重大意义"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-basis-0",
+      "knowledgeId": "edu-reviewed-ch12-purpose-basis",
+      "title": "社会的依据",
+      "text": "生产力、政治、经济、文化、科技。",
+      "keywords": [
+        "生产力政治经济文化科技"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 社会的依据"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-basis-1",
+      "knowledgeId": "edu-reviewed-ch12-purpose-basis",
+      "title": "人的依据",
+      "text": "身心发展规律与年龄特征、兴趣、需要、生活、天性与自由。",
+      "keywords": [
+        "规律年龄",
+        "兴趣需要生活",
+        "天性自由"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 人的依据"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-basis-2",
+      "knowledgeId": "edu-reviewed-ch12-purpose-basis",
+      "title": "教育内部依据",
+      "text": "马克思主义关于人的全面发展学说。",
+      "keywords": [
+        "马克思主义",
+        "全面发展学说"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 教育内部的依据"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-spirit-0",
+      "knowledgeId": "edu-reviewed-ch12-purpose-spirit",
+      "title": "社会主义性质",
+      "text": "突出社会主义的性质。",
+      "keywords": [
+        "社会主义性质"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 突出社会主义的性质"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-spirit-1",
+      "knowledgeId": "edu-reviewed-ch12-purpose-spirit",
+      "title": "培养劳动者",
+      "text": "培养劳动者（建设者与接班人）。",
+      "keywords": [
+        "劳动者",
+        "建设者接班人"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 培养劳动者"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-spirit-2",
+      "knowledgeId": "edu-reviewed-ch12-purpose-spirit",
+      "title": "注重全面发展",
+      "text": "注重全面发展（德智体美劳）。",
+      "keywords": [
+        "德智体美劳"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 注重全面发展"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-spirit-3",
+      "knowledgeId": "edu-reviewed-ch12-purpose-spirit",
+      "title": "注重个性发展",
+      "text": "注重个性发展。",
+      "keywords": [
+        "个性发展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 注重个性发展"
+    },
+    {
+      "id": "edu-reviewed-ch12-purpose-spirit-4",
+      "knowledgeId": "edu-reviewed-ch12-purpose-spirit",
+      "title": "提高全民素质",
+      "text": "提高全民素质。",
+      "keywords": [
+        "全民素质"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "5. 提高全民素质"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-meaning-0",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-meaning",
+      "title": "全面发展教育含义",
+      "text": "教育者依据社会发展的要求与个体身心发展的要求，有目的、有计划、有组织、有系统地对受教育者施加旨在促进人的素质结构全面、和谐、充分发展的系统教育。",
+      "keywords": [
+        "社会个体要求",
+        "四有",
+        "全面和谐充分"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-0",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "德育含义",
+      "text": "有广义与狭义之分，旨在培养道德观念与行为的教育，涉及人成长生活的各种品质内容。",
+      "keywords": [
+        "广义狭义",
+        "道德观念行为"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "德育"
+      ],
+      "displayTitle": "含义",
+      "outline": "德育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-1",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "德育作用",
+      "text": "具有引领思想，保证方向和动力的作用。",
+      "keywords": [
+        "引领思想",
+        "方向动力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "德育"
+      ],
+      "displayTitle": "作用",
+      "outline": "德育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-2",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "智育含义",
+      "text": "传授科学文化知识与技能，发展学生智慧与素养的教育。",
+      "keywords": [
+        "知识技能",
+        "智慧素养"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "智育"
+      ],
+      "displayTitle": "含义",
+      "outline": "智育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-3",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "智育作用",
+      "text": "认识基础。",
+      "keywords": [
+        "认识基础"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "智育"
+      ],
+      "displayTitle": "作用",
+      "outline": "智育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-4",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "体育含义",
+      "text": "发展学生的体力，增强学生的体质，传授健康知识与技能的教育。",
+      "keywords": [
+        "体力体质",
+        "健康知识技能"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "体育"
+      ],
+      "displayTitle": "含义",
+      "outline": "体育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-5",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "体育作用",
+      "text": "生理基础；机体保障。",
+      "keywords": [
+        "生理基础",
+        "机体保障"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "体育"
+      ],
+      "displayTitle": "作用",
+      "outline": "体育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-6",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "美育含义",
+      "text": "培养学生健康的审美观的教育，培养感受美、鉴赏美、表现美、创造美的能力，以此发展学生的文明素质与高尚情操的教育。",
+      "keywords": [
+        "审美观",
+        "感受鉴赏表现创造美",
+        "文明高尚情操"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "美育"
+      ],
+      "displayTitle": "含义",
+      "outline": "美育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-7",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "美育作用",
+      "text": "实施德智体劳的途径，具有启智、树德、健体、育劳的作用。",
+      "keywords": [
+        "德智体劳途径",
+        "启智树德健体育劳"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "美育"
+      ],
+      "displayTitle": "作用",
+      "outline": "美育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-8",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "劳育含义",
+      "text": "引导学生掌握现代劳动知识与技能，养成良好的劳动习惯和正确的劳动态度，培育学生科学的劳动价值观的教育。",
+      "keywords": [
+        "劳动知识技能",
+        "习惯态度",
+        "劳动价值观"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳育"
+      ],
+      "displayTitle": "含义",
+      "outline": "劳育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-9",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "劳育作用",
+      "text": "实施德智体美的途径，具有启智、树德、健体、育美的作用。",
+      "keywords": [
+        "德智体美途径",
+        "启智树德健体育美"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "劳育"
+      ],
+      "displayTitle": "作用",
+      "outline": "劳育"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-10",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "五育独立",
+      "text": "“五育”相对独立、不可替代。",
+      "keywords": [
+        "相对独立",
+        "不可替代"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "各育的关系"
+      ],
+      "displayTitle": "（1）相对独立、不可替代",
+      "outline": "各育的关系"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-11",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "五育联系",
+      "text": "“五育”相互联系、相互促进。",
+      "keywords": [
+        "相互联系促进"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "各育的关系"
+      ],
+      "displayTitle": "（2）相互联系、相互促进",
+      "outline": "各育的关系"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-12",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "五育并举融合",
+      "text": "坚持“五育”并举与“五育”融合。",
+      "keywords": [
+        "五育并举",
+        "五育融合"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "各育的关系"
+      ],
+      "displayTitle": "（3）“五育”并举与融合",
+      "outline": "各育的关系"
+    },
+    {
+      "id": "edu-reviewed-ch12-five-educations-13",
+      "knowledgeId": "edu-reviewed-ch12-five-educations",
+      "title": "立德树人",
+      "text": "教育的根本任务是立德树人。",
+      "keywords": [
+        "根本任务",
+        "立德树人"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "各育的关系"
+      ],
+      "displayTitle": "（4）立德树人",
+      "outline": "各育的关系"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-0",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "面向全体",
+      "text": "素质教育是面向全体学生的教育。",
+      "keywords": [
+        "全体学生"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）以素质发展为核心"
+      ],
+      "displayTitle": "①面向全体学生",
+      "outline": "（1）以素质发展为核心"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-1",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "全面生动可持续",
+      "text": "素质教育是促进学生全面发展的、生动活泼的、可持续发展的教育。",
+      "keywords": [
+        "全面",
+        "生动活泼",
+        "可持续"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）以素质发展为核心"
+      ],
+      "displayTitle": "②全面、生动活泼、可持续发展",
+      "outline": "（1）以素质发展为核心"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-2",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "责任创新实践",
+      "text": "素质教育是重在培养学生责任感、创新精神和实践能力的教育。",
+      "keywords": [
+        "责任感",
+        "创新精神",
+        "实践能力"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）以素质发展为核心"
+      ],
+      "displayTitle": "③责任感、创新精神和实践能力",
+      "outline": "（1）以素质发展为核心"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-3",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "促进个性",
+      "text": "素质教育是促进学生个性发展的教育。",
+      "keywords": [
+        "个性发展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）以素质发展为核心"
+      ],
+      "displayTitle": "④个性发展",
+      "outline": "（1）以素质发展为核心"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-4",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "全体国民素质",
+      "text": "素质教育以提高全体国民素质为目的。",
+      "keywords": [
+        "全体国民素质"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）以素质发展为核心"
+      ],
+      "displayTitle": "⑤提高全体国民素质",
+      "outline": "（1）以素质发展为核心"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-5",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "确立教育观必要性",
+      "text": "确立全面发展教育观的必要性。",
+      "keywords": [
+        "全面发展教育观",
+        "必要性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）确立和体现全面发展的教育观"
+      ],
+      "displayTitle": "①确立全面发展教育观的必要性",
+      "outline": "（2）确立和体现全面发展的教育观"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-6",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "全面发展区别",
+      "text": "全面发展≠平均教育≠均衡教育≠特长教育。",
+      "keywords": [
+        "全面发展",
+        "平均均衡特长区别"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）确立和体现全面发展的教育观",
+        "②正确理解和把握全面发展教育"
+      ],
+      "displayTitle": "a. 区分全面发展与平均、均衡、特长教育",
+      "outline": "（2）确立和体现全面发展的教育观"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-7",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "全面与个性",
+      "text": "全面发展不是忽视人的个性发展。",
+      "keywords": [
+        "全面发展",
+        "个性发展"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）确立和体现全面发展的教育观",
+        "②正确理解和把握全面发展教育"
+      ],
+      "displayTitle": "b. 不忽视个性发展",
+      "outline": "（2）确立和体现全面发展的教育观"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-8",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "处理各育关系",
+      "text": "正确认识和处理各育关系。",
+      "keywords": [
+        "各育关系"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）确立和体现全面发展的教育观"
+      ],
+      "displayTitle": "③正确认识和处理各育关系",
+      "outline": "（2）确立和体现全面发展的教育观"
+    },
+    {
+      "id": "edu-reviewed-ch12-whole-development-implementation-9",
+      "knowledgeId": "edu-reviewed-ch12-whole-development-implementation",
+      "title": "目的实践性",
+      "text": "防止教育目的实践性的缺失。",
+      "keywords": [
+        "教育目的",
+        "实践性"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）确立和体现全面发展的教育观"
+      ],
+      "displayTitle": "④防止教育目的实践性的缺失",
+      "outline": "（2）确立和体现全面发展的教育观"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch12-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 5,
+    "knowledge": 22,
+    "steps": 104,
+    "referenceOnly": 10
+  }
+}

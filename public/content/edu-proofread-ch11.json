@@ -1,0 +1,1402 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch11-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch11-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "教育与人的发展：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.05,
+            0.495,
+            0.92,
+            0.355
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 95445,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch11-sequence",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "身心发展的顺序性及其对教育的制约",
+      "section": "第一节 · 人的身心发展特点及其对教育的制约 · （一）顺序性",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.05,
+            0.18,
+            0.92,
+            0.113
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 96162,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-stages",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "身心发展的阶段性及其对教育的制约",
+      "section": "第一节 · 人的身心发展特点及其对教育的制约 · （二）阶段性",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.05,
+            0.295,
+            0.92,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 96265,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-differences",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "身心发展的差异性及其对教育的制约",
+      "section": "第一节 · 人的身心发展特点及其对教育的制约 · （三）差异性",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.05,
+            0.39,
+            0.92,
+            0.057
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 96351,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-imbalance",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "身心发展的不平衡性及其对教育的制约",
+      "section": "第一节 · 人的身心发展特点及其对教育的制约 · （四）不平衡性",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.05,
+            0.46,
+            0.92,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 96414,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-critical-period-tips",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "关键期的相关研究：八类敏感期原图",
+      "section": "第一节 · 人的身心发展特点及其对教育的制约 · 知识小贴士",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.05,
+            0.63,
+            0.92,
+            0.25
+          ]
+        },
+        {
+          "page": 97,
+          "rect": [
+            0.05,
+            0.11,
+            0.92,
+            0.515
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 96567,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch11-development-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "身心发展特点：知识速练原图",
+      "section": "第一节 · 人的身心发展特点及其对教育的制约 · 知识速练",
+      "refs": [
+        {
+          "page": 97,
+          "rect": [
+            0.05,
+            0.65,
+            0.92,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 97585,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch11-factor-count",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "影响身心发展因素：单因素论与多因素论",
+      "section": "第二节 · 关于影响人的身心发展因素的主要观点 · （一）影响因素的多寡",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.05,
+            0.125,
+            0.92,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 98112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-internal-external",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "内发论与外铄论",
+      "section": "第二节 · 关于影响人的身心发展因素的主要观点 · （二）动因源于内还是外",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.05,
+            0.24,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 98216,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-interaction",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "内因与外因交互作用论",
+      "section": "第二节 · 关于影响人的身心发展因素的主要观点 · （三）",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.05,
+            0.385,
+            0.92,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 98346,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-gesell-maturation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "格赛尔双生子实验的结论",
+      "section": "凯程深化 · 格赛尔的同卵双生子爬梯实验",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.05,
+            0.525,
+            0.92,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 98472,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-gesell-figure",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "格赛尔的同卵双生子爬梯实验原图",
+      "section": "凯程深化 · 实验图示",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.05,
+            0.525,
+            0.92,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 98472,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch11-factor-theory-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "影响身心发展因素的理论：知识速练原图",
+      "section": "第二节 · 关于影响人的身心发展因素的主要观点 · 知识速练",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.05,
+            0.73,
+            0.92,
+            0.165
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 98657,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch11-heredity",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "遗传：物质基础与生理前提",
+      "section": "第三节 · 人的身心发展的主要影响因素 · （一）遗传",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.05,
+            0.14,
+            0.92,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99126,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-environment",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "环境：外部条件",
+      "section": "第三节 · 人的身心发展的主要影响因素 · （二）环境",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.05,
+            0.235,
+            0.92,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99211,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-agency",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "主观能动性（个体活动）：决定作用",
+      "section": "第三节 · 人的身心发展的主要影响因素 · （三）主观能动性（个体活动）",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.05,
+            0.335,
+            0.92,
+            0.085
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99301,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-manifestations",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "学校教育主导作用：表现",
+      "section": "第三节 · 人的身心发展的主要影响因素 · （四）教育（学校教育）· 主导作用 · 1. 表现",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.05,
+            0.435,
+            0.92,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99391,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-reasons",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "学校教育主导作用：原因",
+      "section": "第三节 · 人的身心发展的主要影响因素 · （四）教育（学校教育）· 主导作用 · 2. 原因",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.05,
+            0.54,
+            0.92,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99486,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-conditions",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "学校教育主导作用：发挥条件",
+      "section": "第三节 · 人的身心发展的主要影响因素 · （四）教育（学校教育）· 主导作用 · 3. 发挥条件",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.05,
+            0.68,
+            0.92,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 99612,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch11-preschool-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-10",
+      "title": "学前教育不能小学化：知识速练原图",
+      "section": "第三节 · 人的身心发展的主要影响因素 · 知识速练",
+      "refs": [
+        {
+          "page": 99,
+          "rect": [
+            0.15,
+            0.695,
+            0.24,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 99625,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch11-sequence-0",
+      "knowledgeId": "edu-reviewed-ch11-sequence",
+      "title": "顺序性含义",
+      "text": "人的身心发展具有方向性、顺序性和不可逆性。",
+      "keywords": [
+        "方向性",
+        "顺序性",
+        "不可逆性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch11-sequence-1",
+      "knowledgeId": "edu-reviewed-ch11-sequence",
+      "title": "顺序性举例",
+      "text": "头尾律、近远律、大小律，机械记忆→意义记忆，具体形象思维→抽象思维，无意注意→有意注意等。",
+      "keywords": [
+        "头尾近远大小",
+        "机械意义",
+        "形象抽象",
+        "无意有意"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "举例"
+    },
+    {
+      "id": "edu-reviewed-ch11-sequence-2",
+      "knowledgeId": "edu-reviewed-ch11-sequence",
+      "title": "顺序性教育制约",
+      "text": "量力而行、循序渐进；从简到繁、从易到难、从具体到抽象、从无意到有意。",
+      "keywords": [
+        "量力而行",
+        "循序渐进",
+        "简繁易难具体抽象"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "对教育的制约性"
+    },
+    {
+      "id": "edu-reviewed-ch11-stages-0",
+      "knowledgeId": "edu-reviewed-ch11-stages",
+      "title": "阶段性含义",
+      "text": "个体发展的不同阶段会表现出不同的年龄特征及主要矛盾，面临着不同的发展任务。",
+      "keywords": [
+        "年龄特征",
+        "主要矛盾",
+        "发展任务"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch11-stages-1",
+      "knowledgeId": "edu-reviewed-ch11-stages",
+      "title": "阶段性举例",
+      "text": "原书举例：婴儿期（0～3岁）→幼儿期（3～6岁）→儿童期（6～12岁）→少年期（12～15岁）→青年期（15～18岁）→成年期（18岁以后）。",
+      "keywords": [
+        "婴幼儿童少年青年成年",
+        "年龄阶段"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "举例"
+    },
+    {
+      "id": "edu-reviewed-ch11-stages-2",
+      "knowledgeId": "edu-reviewed-ch11-stages",
+      "title": "阶段性教育制约",
+      "text": "教育要有针对性。",
+      "keywords": [
+        "针对性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "对教育的制约性"
+    },
+    {
+      "id": "edu-reviewed-ch11-differences-0",
+      "knowledgeId": "edu-reviewed-ch11-differences",
+      "title": "差异性含义",
+      "text": "同一年龄阶段，不同个体的发展特点都不一样。",
+      "keywords": [
+        "同龄",
+        "不同个体"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch11-differences-1",
+      "knowledgeId": "edu-reviewed-ch11-differences",
+      "title": "差异性举例",
+      "text": "发展速度不同，发展质量不同，且各有特点。",
+      "keywords": [
+        "发展速度",
+        "发展质量",
+        "各有特点"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "举例"
+    },
+    {
+      "id": "edu-reviewed-ch11-differences-2",
+      "knowledgeId": "edu-reviewed-ch11-differences",
+      "title": "差异性教育制约",
+      "text": "因材施教。",
+      "keywords": [
+        "因材施教"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "对教育的制约性"
+    },
+    {
+      "id": "edu-reviewed-ch11-imbalance-0",
+      "knowledgeId": "edu-reviewed-ch11-imbalance",
+      "title": "不平衡性含义",
+      "text": "同一个体内，身心各方面发展不同步。",
+      "keywords": [
+        "同一个体",
+        "发展不同步"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch11-imbalance-1",
+      "knowledgeId": "edu-reviewed-ch11-imbalance",
+      "title": "同一时期不同步",
+      "text": "同一时期身心各方面发展不同步。如婴儿期神经系统发展迅速，生殖系统发展缓慢。",
+      "keywords": [
+        "同一时期",
+        "神经系统生殖系统"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "举例"
+      ],
+      "displayTitle": "①同一时期不同步",
+      "outline": "举例"
+    },
+    {
+      "id": "edu-reviewed-ch11-imbalance-2",
+      "knowledgeId": "edu-reviewed-ch11-imbalance",
+      "title": "不同年龄不均衡",
+      "text": "不同年龄阶段，身心发展不均衡。如未成年人的两大生长发育高峰期。",
+      "keywords": [
+        "不同年龄",
+        "两大生长发育高峰"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "举例"
+      ],
+      "displayTitle": "②不同年龄阶段不均衡",
+      "outline": "举例"
+    },
+    {
+      "id": "edu-reviewed-ch11-imbalance-3",
+      "knowledgeId": "edu-reviewed-ch11-imbalance",
+      "title": "关键期与教育",
+      "text": "教育要抓关键期。原书将关键期解释为特定技能或行为模式的发展最敏感的时期，并指出：如果在这个时期缺少适当的环境刺激，这种行为便不会再得到良好的发展。",
+      "keywords": [
+        "抓关键期",
+        "最敏感",
+        "环境刺激"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "对教育的制约性"
+    },
+    {
+      "id": "edu-reviewed-ch11-factor-count-0",
+      "knowledgeId": "edu-reviewed-ch11-factor-count",
+      "title": "遗传决定论",
+      "text": "遗传决定论。",
+      "keywords": [
+        "遗传决定论"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 单因素论"
+      ],
+      "displayTitle": "（1）遗传决定论",
+      "outline": "1. 单因素论"
+    },
+    {
+      "id": "edu-reviewed-ch11-factor-count-1",
+      "knowledgeId": "edu-reviewed-ch11-factor-count",
+      "title": "环境决定论",
+      "text": "环境决定论。",
+      "keywords": [
+        "环境决定论"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 单因素论"
+      ],
+      "displayTitle": "（2）环境决定论",
+      "outline": "1. 单因素论"
+    },
+    {
+      "id": "edu-reviewed-ch11-factor-count-2",
+      "knowledgeId": "edu-reviewed-ch11-factor-count",
+      "title": "教育决定论",
+      "text": "教育决定论。",
+      "keywords": [
+        "教育决定论"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 单因素论"
+      ],
+      "displayTitle": "（3）教育决定论",
+      "outline": "1. 单因素论"
+    },
+    {
+      "id": "edu-reviewed-ch11-factor-count-3",
+      "knowledgeId": "edu-reviewed-ch11-factor-count",
+      "title": "二因素论",
+      "text": "如生理因素与社会因素；成熟与学习。",
+      "keywords": [
+        "生理社会",
+        "成熟学习"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 多因素论"
+      ],
+      "displayTitle": "（1）二因素论",
+      "outline": "2. 多因素论"
+    },
+    {
+      "id": "edu-reviewed-ch11-factor-count-4",
+      "knowledgeId": "edu-reviewed-ch11-factor-count",
+      "title": "三因素论",
+      "text": "如遗传、环境与教育。",
+      "keywords": [
+        "遗传",
+        "环境",
+        "教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 多因素论"
+      ],
+      "displayTitle": "（2）三因素论",
+      "outline": "2. 多因素论"
+    },
+    {
+      "id": "edu-reviewed-ch11-factor-count-5",
+      "knowledgeId": "edu-reviewed-ch11-factor-count",
+      "title": "四因素论",
+      "text": "如遗传、环境、教育、人的主观能动性。",
+      "keywords": [
+        "遗传环境教育",
+        "主观能动性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 多因素论"
+      ],
+      "displayTitle": "（3）四因素论",
+      "outline": "2. 多因素论"
+    },
+    {
+      "id": "edu-reviewed-ch11-internal-external-0",
+      "knowledgeId": "edu-reviewed-ch11-internal-external",
+      "title": "内发论含义",
+      "text": "强调人的发展由人自身的内在需要和身心成熟机制决定。",
+      "keywords": [
+        "内在需要",
+        "身心成熟"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 内发论"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "1. 内发论"
+    },
+    {
+      "id": "edu-reviewed-ch11-internal-external-1",
+      "knowledgeId": "edu-reviewed-ch11-internal-external",
+      "title": "内发论表现",
+      "text": "遗传决定论、自然主义思想、成熟论、性善论、人本主义等。",
+      "keywords": [
+        "遗传自然成熟",
+        "性善人本"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 内发论"
+      ],
+      "displayTitle": "（2）表现",
+      "outline": "1. 内发论"
+    },
+    {
+      "id": "edu-reviewed-ch11-internal-external-2",
+      "knowledgeId": "edu-reviewed-ch11-internal-external",
+      "title": "内发论评价",
+      "text": "过分强调人的内在因素，而忽视了外部因素。",
+      "keywords": [
+        "过分内在",
+        "忽视外部"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 内发论"
+      ],
+      "displayTitle": "（3）评价",
+      "outline": "1. 内发论"
+    },
+    {
+      "id": "edu-reviewed-ch11-internal-external-3",
+      "knowledgeId": "edu-reviewed-ch11-internal-external",
+      "title": "外铄论含义",
+      "text": "人的发展主要由外在的力量决定，如环境、他人和学校等。",
+      "keywords": [
+        "外在力量",
+        "环境他人学校"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 外铄论"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "2. 外铄论"
+    },
+    {
+      "id": "edu-reviewed-ch11-internal-external-4",
+      "knowledgeId": "edu-reviewed-ch11-internal-external",
+      "title": "外铄论表现",
+      "text": "白板说、性恶论、素丝说、行为主义等。",
+      "keywords": [
+        "白板性恶素丝",
+        "行为主义"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 外铄论"
+      ],
+      "displayTitle": "（2）表现",
+      "outline": "2. 外铄论"
+    },
+    {
+      "id": "edu-reviewed-ch11-internal-external-5",
+      "knowledgeId": "edu-reviewed-ch11-internal-external",
+      "title": "外铄论评价",
+      "text": "过分强调外在因素对人的发展作用，而忽视了人发展的内部因素。",
+      "keywords": [
+        "过分外在",
+        "忽视内部"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 外铄论"
+      ],
+      "displayTitle": "（3）评价",
+      "outline": "2. 外铄论"
+    },
+    {
+      "id": "edu-reviewed-ch11-interaction-0",
+      "knowledgeId": "edu-reviewed-ch11-interaction",
+      "title": "交互作用观点",
+      "text": "人的发展是个体的内在因素（如遗传的因素、机体成熟的机制等）与外部环境（外在刺激的强度、社会发展的水平、个体的文化背景等）在个体活动中相互作用的结果。",
+      "keywords": [
+        "内在因素",
+        "外部环境",
+        "个体活动",
+        "相互作用"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch11-interaction-1",
+      "knowledgeId": "edu-reviewed-ch11-interaction",
+      "title": "交互作用评价",
+      "text": "为影响人发展的因素提供了更全面的视角。",
+      "keywords": [
+        "更全面视角"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch11-gesell-maturation-0",
+      "knowledgeId": "edu-reviewed-ch11-gesell-maturation",
+      "title": "成熟与学习",
+      "text": "格赛尔认为成熟是学习的先决条件。",
+      "keywords": [
+        "格赛尔",
+        "成熟",
+        "学习先决条件"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "结论"
+    },
+    {
+      "id": "edu-reviewed-ch11-heredity-0",
+      "knowledgeId": "edu-reviewed-ch11-heredity",
+      "title": "物质基础生理前提",
+      "text": "遗传提供了物质基础、生理前提。",
+      "keywords": [
+        "物质基础",
+        "生理前提"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 物质基础与生理前提"
+    },
+    {
+      "id": "edu-reviewed-ch11-heredity-1",
+      "knowledgeId": "edu-reviewed-ch11-heredity",
+      "title": "遗传成熟程度",
+      "text": "遗传素质的成熟程度制约着人的身心发展过程及年龄特征。",
+      "keywords": [
+        "成熟程度",
+        "发展过程年龄特征"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 成熟程度的制约"
+    },
+    {
+      "id": "edu-reviewed-ch11-heredity-2",
+      "knowledgeId": "edu-reviewed-ch11-heredity",
+      "title": "遗传差异性",
+      "text": "遗传具有差异性。",
+      "keywords": [
+        "差异性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 差异性"
+    },
+    {
+      "id": "edu-reviewed-ch11-heredity-3",
+      "knowledgeId": "edu-reviewed-ch11-heredity",
+      "title": "遗传可塑性",
+      "text": "遗传具有可塑性。",
+      "keywords": [
+        "可塑性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "4. 可塑性"
+    },
+    {
+      "id": "edu-reviewed-ch11-environment-0",
+      "knowledgeId": "edu-reviewed-ch11-environment",
+      "title": "环境外部条件",
+      "text": "环境是人的发展的外部条件，为个体的发展提供了可能性和限制。",
+      "keywords": [
+        "外部条件",
+        "可能性限制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 外部条件"
+    },
+    {
+      "id": "edu-reviewed-ch11-environment-1",
+      "knowledgeId": "edu-reviewed-ch11-environment",
+      "title": "环境主体选择",
+      "text": "人的发展既取决于环境的给定性，又取决于主体的选择性。",
+      "keywords": [
+        "环境给定性",
+        "主体选择性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 给定性与选择性"
+    },
+    {
+      "id": "edu-reviewed-ch11-environment-2",
+      "knowledgeId": "edu-reviewed-ch11-environment",
+      "title": "不能夸大环境",
+      "text": "不能过分地夸大环境的作用，环境不是决定人发展的根本因素。",
+      "keywords": [
+        "不能夸大",
+        "非根本决定因素"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 环境作用的限度"
+    },
+    {
+      "id": "edu-reviewed-ch11-agency-0",
+      "knowledgeId": "edu-reviewed-ch11-agency",
+      "title": "最终决定作用",
+      "text": "个体的主观能动性在个体发展中起着最终的决定作用。",
+      "keywords": [
+        "主观能动性",
+        "最终决定"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 最终的决定作用"
+    },
+    {
+      "id": "edu-reviewed-ch11-agency-1",
+      "knowledgeId": "edu-reviewed-ch11-agency",
+      "title": "内化自我建构",
+      "text": "个体的主观能动性制约着环境影响的内化与主体的自我建构。",
+      "keywords": [
+        "环境影响内化",
+        "主体自我建构"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 内化与自我建构"
+    },
+    {
+      "id": "edu-reviewed-ch11-agency-2",
+      "knowledgeId": "edu-reviewed-ch11-agency",
+      "title": "能动活动选择",
+      "text": "个体通过能动的活动选择，建构着自我的发展。",
+      "keywords": [
+        "能动活动选择",
+        "自我发展"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 能动的活动选择"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-manifestations-0",
+      "knowledgeId": "edu-reviewed-ch11-school-manifestations",
+      "title": "自主性",
+      "text": "自主性。",
+      "keywords": [
+        "自主性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）个体个性化"
+      ],
+      "displayTitle": "①自主性",
+      "outline": "（1）个体个性化"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-manifestations-1",
+      "knowledgeId": "edu-reviewed-ch11-school-manifestations",
+      "title": "创造性",
+      "text": "创造性。",
+      "keywords": [
+        "创造性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）个体个性化"
+      ],
+      "displayTitle": "②创造性",
+      "outline": "（1）个体个性化"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-manifestations-2",
+      "knowledgeId": "edu-reviewed-ch11-school-manifestations",
+      "title": "独特性",
+      "text": "独特性。",
+      "keywords": [
+        "独特性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）个体个性化"
+      ],
+      "displayTitle": "③独特性",
+      "outline": "（1）个体个性化"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-manifestations-3",
+      "knowledgeId": "edu-reviewed-ch11-school-manifestations",
+      "title": "观念社会化",
+      "text": "观念社会化。",
+      "keywords": [
+        "观念社会化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）个体社会化"
+      ],
+      "displayTitle": "①观念社会化",
+      "outline": "（2）个体社会化"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-manifestations-4",
+      "knowledgeId": "edu-reviewed-ch11-school-manifestations",
+      "title": "职业身份角色社会化",
+      "text": "职业、身份、角色社会化。",
+      "keywords": [
+        "职业身份角色"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）个体社会化"
+      ],
+      "displayTitle": "②职业、身份、角色社会化",
+      "outline": "（2）个体社会化"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-manifestations-5",
+      "knowledgeId": "edu-reviewed-ch11-school-manifestations",
+      "title": "行为能力社会化",
+      "text": "行为、能力社会化。",
+      "keywords": [
+        "行为能力"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）个体社会化"
+      ],
+      "displayTitle": "③行为、能力社会化",
+      "outline": "（2）个体社会化"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-manifestations-6",
+      "knowledgeId": "edu-reviewed-ch11-school-manifestations",
+      "title": "个性化社会化关系",
+      "text": "社会化是个性化的基础，个性化是社会化的丰富。",
+      "keywords": [
+        "社会化基础",
+        "个性化丰富"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）关系"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-reasons-0",
+      "knowledgeId": "edu-reviewed-ch11-school-reasons",
+      "title": "教育本质",
+      "text": "有目的、有计划、有组织、有系统地培养人的活动。",
+      "keywords": [
+        "有目的计划组织系统",
+        "培养人"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）教育的本质"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-reasons-1",
+      "knowledgeId": "edu-reviewed-ch11-school-reasons",
+      "title": "教育效果",
+      "text": "全面、系统和深刻。",
+      "keywords": [
+        "全面系统深刻"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）教育的效果"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-reasons-2",
+      "knowledgeId": "edu-reviewed-ch11-school-reasons",
+      "title": "专门人员",
+      "text": "学校有专门负责教育工作的教师和管理人员。",
+      "keywords": [
+        "教师",
+        "管理人员"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）专门人员"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-reasons-3",
+      "knowledgeId": "edu-reviewed-ch11-school-reasons",
+      "title": "传授知识培养人",
+      "text": "教育通过传授知识培养人。知识有认识、实践、能力和陶冶价值。",
+      "keywords": [
+        "传授知识",
+        "认识实践能力陶冶"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（4）教育通过传授知识培养人"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-reasons-4",
+      "knowledgeId": "edu-reviewed-ch11-school-reasons",
+      "title": "提高现代性",
+      "text": "学校教育对提高人的现代性有显著作用。",
+      "keywords": [
+        "现代性",
+        "显著作用"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（5）提高人的现代性"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-conditions-0",
+      "knowledgeId": "edu-reviewed-ch11-school-conditions",
+      "title": "尊重能动规律",
+      "text": "尊重学生的主观能动性与身心发展规律。",
+      "keywords": [
+        "主观能动性",
+        "身心规律"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）校内"
+      ],
+      "displayTitle": "①能动性和规律",
+      "outline": "（1）校内"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-conditions-1",
+      "knowledgeId": "edu-reviewed-ch11-school-conditions",
+      "title": "办学条件环境",
+      "text": "办学条件和环境。",
+      "keywords": [
+        "条件环境"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）校内"
+      ],
+      "displayTitle": "②条件和环境",
+      "outline": "（1）校内"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-conditions-2",
+      "knowledgeId": "edu-reviewed-ch11-school-conditions",
+      "title": "教师素质",
+      "text": "教师的素质。",
+      "keywords": [
+        "教师素质"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）校内"
+      ],
+      "displayTitle": "③教师素质",
+      "outline": "（1）校内"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-conditions-3",
+      "knowledgeId": "edu-reviewed-ch11-school-conditions",
+      "title": "课程教学合理性",
+      "text": "课程设置与教学方法的合理性等。",
+      "keywords": [
+        "课程设置",
+        "教学方法",
+        "合理性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）校内"
+      ],
+      "displayTitle": "④课程与教学",
+      "outline": "（1）校内"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-conditions-4",
+      "knowledgeId": "edu-reviewed-ch11-school-conditions",
+      "title": "家庭配合",
+      "text": "家庭与学校配合。",
+      "keywords": [
+        "家庭学校配合"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）校外"
+      ],
+      "displayTitle": "①家庭与学校配合",
+      "outline": "（2）校外"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-conditions-5",
+      "knowledgeId": "edu-reviewed-ch11-school-conditions",
+      "title": "社会配合",
+      "text": "社会与学校配合。",
+      "keywords": [
+        "社会学校配合"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）校外"
+      ],
+      "displayTitle": "②社会与学校配合",
+      "outline": "（2）校外"
+    },
+    {
+      "id": "edu-reviewed-ch11-school-conditions-6",
+      "knowledgeId": "edu-reviewed-ch11-school-conditions",
+      "title": "科技信息配合",
+      "text": "科技信息与学校配合。",
+      "keywords": [
+        "科技信息学校配合"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）校外"
+      ],
+      "displayTitle": "③科技信息与学校配合",
+      "outline": "（2）校外"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch11-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 5,
+    "knowledge": 20,
+    "steps": 57,
+    "referenceOnly": 6
+  }
+}

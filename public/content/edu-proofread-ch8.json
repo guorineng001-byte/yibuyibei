@@ -1,0 +1,2311 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch8-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch8-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "社会规范学习、态度与品德发展：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 75,
+          "rect": [
+            0.05,
+            0.13,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 75117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "社会规范学习：含义、过程与条件",
+      "section": "第一节 · 社会规范学习（必要补充点）",
+      "refs": [
+        {
+          "page": 75,
+          "rect": [
+            0.05,
+            0.47,
+            0.92,
+            0.445
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 75423,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "态度的性质与形成",
+      "section": "第二节 · 态度的学习 · （一）态度的性质／实质、（二）态度的形成",
+      "refs": [
+        {
+          "page": 76,
+          "rect": [
+            0.05,
+            0.12,
+            0.92,
+            0.235
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 76108,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "态度的改变",
+      "section": "第二节 · 态度的学习 · （三）态度的改变",
+      "refs": [
+        {
+          "page": 76,
+          "rect": [
+            0.05,
+            0.36,
+            0.92,
+            0.265
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 76324,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-nature",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "品德的性质／实质",
+      "section": "第三节 · 品德的学习 · 考点一",
+      "refs": [
+        {
+          "page": 76,
+          "rect": [
+            0.05,
+            0.735,
+            0.92,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 76661,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "品德的学习与发展过程",
+      "section": "第三节 · 品德的学习 · 考点二",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.05,
+            0.11,
+            0.92,
+            0.65
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 77099,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-paired-story",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "皮亚杰对偶故事经典案例原图",
+      "section": "第三节 · 品德的学习 · 考点二 · 经典案例",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.05,
+            0.52,
+            0.92,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 77468,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch8-dilemma-story",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "科尔伯格道德两难故事经典案例原图",
+      "section": "第三节 · 品德的学习 · 考点二 · 经典案例",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.05,
+            0.675,
+            0.92,
+            0.085
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 77607,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "影响品德学习与发展的因素",
+      "section": "第三节 · 品德的学习 · 考点三",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.05,
+            0.8,
+            0.92,
+            0.135
+          ]
+        },
+        {
+          "page": 78,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 77720,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-factor-answer-hint",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "“影响因素类”答题维度原图",
+      "section": "第三节 · 品德的学习 · 考点三 · 旁注",
+      "refs": [
+        {
+          "page": 77,
+          "rect": [
+            0.71,
+            0.8,
+            0.2,
+            0.125
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 77720,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "品德的培养",
+      "section": "第三节 · 品德的学习 · 考点四",
+      "refs": [
+        {
+          "page": 78,
+          "rect": [
+            0.05,
+            0.285,
+            0.92,
+            0.59
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 78256,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-overview",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "品德不良：含义与类型",
+      "section": "第三节 · 品德的学习 · 考点五 · 品德不良的矫正",
+      "refs": [
+        {
+          "page": 79,
+          "rect": [
+            0.05,
+            0.12,
+            0.92,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 79108,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "品德不良：成因分析",
+      "section": "第三节 · 品德的学习 · 考点五 · 品德不良的矫正 · （三）成因分析",
+      "refs": [
+        {
+          "page": 79,
+          "rect": [
+            0.05,
+            0.235,
+            0.92,
+            0.305
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 79211,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-7",
+      "title": "品德不良：纠正与教育",
+      "section": "第三节 · 品德的学习 · 考点五 · 品德不良的矫正 · （四）纠正与教育",
+      "refs": [
+        {
+          "page": 79,
+          "rect": [
+            0.05,
+            0.555,
+            0.92,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 79499,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch8-social-norms-0",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "社会规范学习",
+      "text": "通过对规范的内化形成对外部行为的调节。",
+      "keywords": [
+        "规范内化",
+        "外部行为调节"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-1",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "遵从含义",
+      "text": "也称依从，行为主体在对别人或团体提出的某种行为要求的依据或必要性缺乏认识，甚至有抵触的认识和情绪时，既不违背，也不反抗，仍然遵照执行的一种现象。",
+      "keywords": [
+        "依从",
+        "缺乏认识",
+        "抵触",
+        "遵照执行"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "1. 遵从"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-2",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "遵从特点",
+      "text": "盲目性、被动性、工具性和情境性。",
+      "keywords": [
+        "盲目",
+        "被动",
+        "工具",
+        "情境"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "1. 遵从"
+      ],
+      "displayTitle": "（2）特点",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-3",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "群体特征",
+      "text": "群体特征的影响。",
+      "keywords": [
+        "群体特征"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "1. 遵从",
+        "（3）影响社会规范遵从的条件"
+      ],
+      "displayTitle": "①群体特征的影响",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-4",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "外界压力",
+      "text": "外界压力的影响。",
+      "keywords": [
+        "外界压力"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "1. 遵从",
+        "（3）影响社会规范遵从的条件"
+      ],
+      "displayTitle": "②外界压力的影响",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-5",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "个性特征",
+      "text": "个性特征的影响。",
+      "keywords": [
+        "个性特征"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "1. 遵从",
+        "（3）影响社会规范遵从的条件"
+      ],
+      "displayTitle": "③个性特征的影响",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-6",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "认同含义",
+      "text": "行为主体在认识、情感和行为上与社会规范趋于一致，从而自愿接受社会规范的现象。",
+      "keywords": [
+        "认识情感行为一致",
+        "自愿接受"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "2. 认同"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-7",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "认同特点",
+      "text": "自觉性、主动性、稳定性。",
+      "keywords": [
+        "自觉",
+        "主动",
+        "稳定"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "2. 认同"
+      ],
+      "displayTitle": "（2）特点",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-8",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "榜样特点",
+      "text": "榜样的特点。",
+      "keywords": [
+        "榜样特点"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "2. 认同",
+        "（3）影响社会规范认同的条件"
+      ],
+      "displayTitle": "①榜样的特点",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-9",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "规范特性",
+      "text": "规范本身的特性。",
+      "keywords": [
+        "规范特性"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "2. 认同",
+        "（3）影响社会规范认同的条件"
+      ],
+      "displayTitle": "②规范本身的特性",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-10",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "强化方式",
+      "text": "强化方式。",
+      "keywords": [
+        "强化方式"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "2. 认同",
+        "（3）影响社会规范认同的条件"
+      ],
+      "displayTitle": "③强化方式",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-11",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "内化含义",
+      "text": "主体随着对规范认识的概括化与系统化，以及对规范体验的逐步累积与深化，最终形成一种价值信念作为个体规范行为的驱动力。",
+      "keywords": [
+        "概括系统",
+        "累积深化",
+        "价值信念",
+        "驱动力"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "3. 内化"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-12",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "内化特点",
+      "text": "高度的自觉性、主动性以及坚定性。",
+      "keywords": [
+        "高度自觉",
+        "主动",
+        "坚定"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "3. 内化"
+      ],
+      "displayTitle": "（2）特点",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-13",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "规范价值认识",
+      "text": "对规范价值的认识。",
+      "keywords": [
+        "规范价值",
+        "认识"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "3. 内化",
+        "（3）影响社会规范内化的条件"
+      ],
+      "displayTitle": "①对规范价值的认识",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-social-norms-14",
+      "knowledgeId": "edu-reviewed-ch8-social-norms",
+      "title": "规范价值体验",
+      "text": "对规范价值的情感体验。",
+      "keywords": [
+        "规范价值",
+        "情感体验"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）过程与条件",
+        "3. 内化",
+        "（3）影响社会规范内化的条件"
+      ],
+      "displayTitle": "②对规范价值的情感体验",
+      "outline": "（二）过程与条件"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-0",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "态度性质",
+      "text": "人对客观对象、现象是否符合主体需要而产生的心理倾向。",
+      "keywords": [
+        "客观对象现象",
+        "主体需要",
+        "心理倾向"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）态度的性质／实质"
+      ],
+      "displayTitle": "1. 态度的性质",
+      "outline": "（一）态度的性质／实质"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-1",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "认知成分",
+      "text": "认知成分。",
+      "keywords": [
+        "认知成分"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）态度的性质／实质",
+        "2. 态度的心理结构"
+      ],
+      "displayTitle": "（1）认知成分",
+      "outline": "（一）态度的性质／实质"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-2",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "情感成分",
+      "text": "情感成分。",
+      "keywords": [
+        "情感成分"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）态度的性质／实质",
+        "2. 态度的心理结构"
+      ],
+      "displayTitle": "（2）情感成分",
+      "outline": "（一）态度的性质／实质"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-3",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "行为意向",
+      "text": "行为意向成分。",
+      "keywords": [
+        "行为意向"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）态度的性质／实质",
+        "2. 态度的心理结构"
+      ],
+      "displayTitle": "（3）行为意向成分",
+      "outline": "（一）态度的性质／实质"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-4",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "对象认识",
+      "text": "对态度对象的认识。",
+      "keywords": [
+        "态度对象",
+        "认识"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）态度的形成",
+        "1. 主观条件"
+      ],
+      "displayTitle": "（1）对态度对象的认识",
+      "outline": "（二）态度的形成"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-5",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "认知失调",
+      "text": "认知失调。",
+      "keywords": [
+        "认知失调"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）态度的形成",
+        "1. 主观条件"
+      ],
+      "displayTitle": "（2）认知失调",
+      "outline": "（二）态度的形成"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-6",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "改变态度意向",
+      "text": "有形成或改变态度的意向。",
+      "keywords": [
+        "形成改变",
+        "态度意向"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）态度的形成",
+        "1. 主观条件"
+      ],
+      "displayTitle": "（3）有形成或改变态度的意向",
+      "outline": "（二）态度的形成"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-7",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "信任教育者",
+      "text": "对教育者的信任度。",
+      "keywords": [
+        "教育者",
+        "信任度"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）态度的形成",
+        "1. 主观条件"
+      ],
+      "displayTitle": "（4）对教育者的信任度",
+      "outline": "（二）态度的形成"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-8",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "信息可信度",
+      "text": "所传递信息的可信度。",
+      "keywords": [
+        "信息",
+        "可信度"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）态度的形成",
+        "2. 客观条件"
+      ],
+      "displayTitle": "（1）所传递信息的可信度",
+      "outline": "（二）态度的形成"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-9",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "榜样选择",
+      "text": "榜样人物的选择。",
+      "keywords": [
+        "榜样人物"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）态度的形成",
+        "2. 客观条件"
+      ],
+      "displayTitle": "（2）榜样人物的选择",
+      "outline": "（二）态度的形成"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-nature-formation-10",
+      "knowledgeId": "edu-reviewed-ch8-attitude-nature-formation",
+      "title": "外部强化",
+      "text": "外部强化。",
+      "keywords": [
+        "外部强化"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）态度的形成",
+        "2. 客观条件"
+      ],
+      "displayTitle": "（3）外部强化",
+      "outline": "（二）态度的形成"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change-0",
+      "knowledgeId": "edu-reviewed-ch8-attitude-change",
+      "title": "提供榜样",
+      "text": "选择来自教材、教师和生活中的其他榜样。",
+      "keywords": [
+        "教材",
+        "教师",
+        "生活榜样"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 提供榜样法"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change-1",
+      "knowledgeId": "edu-reviewed-ch8-attitude-change",
+      "title": "单面证据",
+      "text": "单方面的证据。适用于受教育程度较低或原来持赞同态度的人。",
+      "keywords": [
+        "单方面",
+        "教育程度较低",
+        "原来赞同"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 说服性沟通法",
+        "（1）选择证据"
+      ],
+      "displayTitle": "①单面证据",
+      "outline": "2. 说服性沟通法"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change-2",
+      "knowledgeId": "edu-reviewed-ch8-attitude-change",
+      "title": "双面证据",
+      "text": "正反两个方面的证据。适用于受教育程度较高或原来持反对态度的人。",
+      "keywords": [
+        "正反两面",
+        "教育程度较高",
+        "原来反对"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 说服性沟通法",
+        "（1）选择证据"
+      ],
+      "displayTitle": "②双面证据",
+      "outline": "2. 说服性沟通法"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change-3",
+      "knowledgeId": "edu-reviewed-ch8-attitude-change",
+      "title": "以情动人",
+      "text": "立刻见效，但其影响不能保持长久。",
+      "keywords": [
+        "立刻见效",
+        "不能长久"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 说服性沟通法",
+        "（2）情理服人"
+      ],
+      "displayTitle": "①以情动人",
+      "outline": "2. 说服性沟通法"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change-4",
+      "knowledgeId": "edu-reviewed-ch8-attitude-change",
+      "title": "以理服人",
+      "text": "影响是长期的。",
+      "keywords": [
+        "以理服人",
+        "长期"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 说服性沟通法",
+        "（2）情理服人"
+      ],
+      "displayTitle": "②以理服人",
+      "outline": "2. 说服性沟通法"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change-5",
+      "knowledgeId": "edu-reviewed-ch8-attitude-change",
+      "title": "情理措施",
+      "text": "低年级以情服人；高年级在情感基础上用充分的材料说明论证。",
+      "keywords": [
+        "低年级情",
+        "高年级情感加论证"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 说服性沟通法",
+        "（2）情理服人"
+      ],
+      "displayTitle": "③措施",
+      "outline": "2. 说服性沟通法"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change-6",
+      "knowledgeId": "edu-reviewed-ch8-attitude-change",
+      "title": "缩小差距",
+      "text": "了解学生原有态度，估计它与要求态度之间的距离，逐渐缩小态度差距。",
+      "keywords": [
+        "原有态度",
+        "要求态度",
+        "逐渐缩小"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 说服性沟通法"
+      ],
+      "displayTitle": "（3）逐渐缩小态度差距",
+      "outline": "2. 说服性沟通法"
+    },
+    {
+      "id": "edu-reviewed-ch8-attitude-change-7",
+      "knowledgeId": "edu-reviewed-ch8-attitude-change",
+      "title": "角色扮演",
+      "text": "个体有较多情感涉入，在改变原有态度方面有奇效。",
+      "keywords": [
+        "情感涉入",
+        "改变态度"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 角色扮演法"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-nature-0",
+      "knowledgeId": "edu-reviewed-ch8-moral-nature",
+      "title": "品德性质",
+      "text": "个体对社会规范的适应。",
+      "keywords": [
+        "个体",
+        "社会规范",
+        "适应"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）品德的性质"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-nature-1",
+      "knowledgeId": "edu-reviewed-ch8-moral-nature",
+      "title": "道德认知",
+      "text": "道德认知。",
+      "keywords": [
+        "道德认知"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）品德的心理结构"
+      ],
+      "displayTitle": "1. 道德认知",
+      "outline": "（二）品德的心理结构"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-nature-2",
+      "knowledgeId": "edu-reviewed-ch8-moral-nature",
+      "title": "道德情感",
+      "text": "道德情感。",
+      "keywords": [
+        "道德情感"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）品德的心理结构"
+      ],
+      "displayTitle": "2. 道德情感",
+      "outline": "（二）品德的心理结构"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-nature-3",
+      "knowledgeId": "edu-reviewed-ch8-moral-nature",
+      "title": "道德行为",
+      "text": "道德行为。",
+      "keywords": [
+        "道德行为"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）品德的心理结构"
+      ],
+      "displayTitle": "3. 道德行为",
+      "outline": "（二）品德的心理结构"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-0",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "无律阶段",
+      "text": "无律阶段（0～5岁）：自我中心。皮亚杰的道德认知发展理论采用对偶故事法。",
+      "keywords": [
+        "皮亚杰",
+        "对偶故事",
+        "0至5岁",
+        "自我中心"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知发展的理论",
+        "1. 皮亚杰：道德认知发展理论（对偶故事法）"
+      ],
+      "displayTitle": "（1）无律阶段（0～5岁）",
+      "outline": "（一）道德认知发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-1",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "他律阶段",
+      "text": "他律阶段（5～8岁）：服从规则。",
+      "keywords": [
+        "5至8岁",
+        "服从规则"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知发展的理论",
+        "1. 皮亚杰：道德认知发展理论（对偶故事法）"
+      ],
+      "displayTitle": "（2）他律阶段（5～8岁）",
+      "outline": "（一）道德认知发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-2",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "自律阶段",
+      "text": "自律阶段（9～11岁）：不再无条件地服从规则。",
+      "keywords": [
+        "9至11岁",
+        "不再无条件服从"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知发展的理论",
+        "1. 皮亚杰：道德认知发展理论（对偶故事法）"
+      ],
+      "displayTitle": "（3）自律阶段（9～11岁）",
+      "outline": "（一）道德认知发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-3",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "科尔伯格",
+      "text": "科尔伯格的道德发展阶段理论，采用道德两难故事法。",
+      "keywords": [
+        "科尔伯格",
+        "道德两难故事"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知发展的理论"
+      ],
+      "displayTitle": "2. 科尔伯格：道德发展阶段理论（道德两难故事法）",
+      "outline": "（一）道德认知发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-4",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "弗洛伊德",
+      "text": "弗洛伊德论个性：一个整体，由彼此相关的本我、自我和超我构成。",
+      "keywords": [
+        "弗洛伊德",
+        "本我自我超我"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感发展的理论",
+        "1. 精神分析学派"
+      ],
+      "displayTitle": "（1）弗洛伊德论个性",
+      "outline": "（二）道德情感发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-5",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "艾里克森",
+      "text": "艾里克森的心理社会发展理论：道德情感与人格发展经历了8个阶段。",
+      "keywords": [
+        "艾里克森",
+        "心理社会",
+        "8阶段"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感发展的理论",
+        "1. 精神分析学派"
+      ],
+      "displayTitle": "（2）艾里克森的心理社会发展理论",
+      "outline": "（二）道德情感发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-6",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "六种能力",
+      "text": "增强学生的6种能力：沟通、移情、问题解决、批判、决策和个人一致。",
+      "keywords": [
+        "沟通",
+        "移情",
+        "问题解决",
+        "批判",
+        "决策",
+        "个人一致"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感发展的理论",
+        "2. 人本主义"
+      ],
+      "displayTitle": "增强6种能力",
+      "outline": "（二）道德情感发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-7",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "移情含义",
+      "text": "将自己放在他人位置考虑他人的心理反应，理解他人的态度和情感的能力。",
+      "keywords": [
+        "他人位置",
+        "心理反应",
+        "理解态度情感"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感发展的理论",
+        "2. 人本主义"
+      ],
+      "displayTitle": "移情",
+      "outline": "（二）道德情感发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-8",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "强化理论",
+      "text": "坚持从强化理论来阐述道德行为。",
+      "keywords": [
+        "斯金纳",
+        "强化理论"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为发展的理论",
+        "1. 斯金纳的品德理论"
+      ],
+      "displayTitle": "从强化理论阐述道德行为",
+      "outline": "（三）道德行为发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-9",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "环境强化",
+      "text": "重视外部环境对道德行为的强化作用。",
+      "keywords": [
+        "外部环境",
+        "强化作用"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为发展的理论",
+        "1. 斯金纳的品德理论"
+      ],
+      "displayTitle": "外部环境的强化作用",
+      "outline": "（三）道德行为发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-10",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "班杜拉观点",
+      "text": "道德行为的决定因素是环境、社会文化关系，以及各种客观条件、榜样和强化等。",
+      "keywords": [
+        "环境社会文化",
+        "客观条件",
+        "榜样强化"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为发展的理论",
+        "2. 班杜拉的道德行为的社会学习理论"
+      ],
+      "displayTitle": "基本观点",
+      "outline": "（三）道德行为发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-11",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "获得道德",
+      "text": "抗拒诱惑、赏罚控制、模仿学习。",
+      "keywords": [
+        "抗拒诱惑",
+        "赏罚控制",
+        "模仿学习"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为发展的理论",
+        "2. 班杜拉的道德行为的社会学习理论"
+      ],
+      "displayTitle": "获得道德",
+      "outline": "（三）道德行为发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-development-12",
+      "knowledgeId": "edu-reviewed-ch8-moral-development",
+      "title": "雅科布松",
+      "text": "每个儿童都渴望得到别人的表扬，这是儿童发展道德的基石。",
+      "keywords": [
+        "雅科布松",
+        "表扬",
+        "发展道德基石"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为发展的理论"
+      ],
+      "displayTitle": "3. 雅科布松论调节道德行为的心理机制",
+      "outline": "（三）道德行为发展的理论"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-0",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "家庭结构",
+      "text": "家庭结构。",
+      "keywords": [
+        "家庭结构"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）影响品德形成的外部因素",
+        "1. 家庭环境"
+      ],
+      "displayTitle": "家庭结构",
+      "outline": "（一）影响品德形成的外部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-1",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "家长品德",
+      "text": "家长品德。",
+      "keywords": [
+        "家长品德"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）影响品德形成的外部因素",
+        "1. 家庭环境"
+      ],
+      "displayTitle": "家长品德",
+      "outline": "（一）影响品德形成的外部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-2",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "教养方式",
+      "text": "教养方式。",
+      "keywords": [
+        "教养方式"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）影响品德形成的外部因素",
+        "1. 家庭环境"
+      ],
+      "displayTitle": "教养方式",
+      "outline": "（一）影响品德形成的外部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-3",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "父母感情",
+      "text": "父母感情。",
+      "keywords": [
+        "父母感情"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）影响品德形成的外部因素",
+        "1. 家庭环境"
+      ],
+      "displayTitle": "父母感情",
+      "outline": "（一）影响品德形成的外部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-4",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "班级同伴",
+      "text": "班集体与同伴群体。",
+      "keywords": [
+        "班集体",
+        "同伴群体"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）影响品德形成的外部因素",
+        "2. 学校环境"
+      ],
+      "displayTitle": "班集体与同伴群体",
+      "outline": "（一）影响品德形成的外部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-5",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "学校德育",
+      "text": "学校德育。",
+      "keywords": [
+        "学校德育"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）影响品德形成的外部因素",
+        "2. 学校环境"
+      ],
+      "displayTitle": "学校德育",
+      "outline": "（一）影响品德形成的外部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-6",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "社会风气",
+      "text": "社会风气。",
+      "keywords": [
+        "社会风气"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）影响品德形成的外部因素",
+        "3. 社会环境"
+      ],
+      "displayTitle": "社会风气",
+      "outline": "（一）影响品德形成的外部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-7",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "大众传媒",
+      "text": "大众传媒。",
+      "keywords": [
+        "大众传媒"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）影响品德形成的外部因素",
+        "3. 社会环境"
+      ],
+      "displayTitle": "大众传媒",
+      "outline": "（一）影响品德形成的外部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-8",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "道德认识",
+      "text": "不是与生俱来的，是在实践中逐渐形成、了解与掌握的。",
+      "keywords": [
+        "非与生俱来",
+        "实践形成"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）影响品德形成的内部因素"
+      ],
+      "displayTitle": "1. 知：道德认识",
+      "outline": "（二）影响品德形成的内部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-9",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "道德情感",
+      "text": "积极的道德情感对个体的个性倾向性和个性心理特征有积极引导作用。",
+      "keywords": [
+        "积极情感",
+        "个性倾向",
+        "心理特征"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）影响品德形成的内部因素"
+      ],
+      "displayTitle": "2. 情：道德情感",
+      "outline": "（二）影响品德形成的内部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-factors-10",
+      "knowledgeId": "edu-reviewed-ch8-moral-factors",
+      "title": "道德行为",
+      "text": "加强学生适应能力的培养，使其能够根据社会规范的要求做出相应的道德行为，形成稳定的道德品质。",
+      "keywords": [
+        "适应能力",
+        "社会规范",
+        "稳定品质"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）影响品德形成的内部因素"
+      ],
+      "displayTitle": "3. 行：道德行为",
+      "outline": "（二）影响品德形成的内部因素"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-0",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "小组讨论",
+      "text": "让学生在小组中就某个有关道德的典型事件进行讨论，以提高他们的道德判断水平。",
+      "keywords": [
+        "小组讨论",
+        "典型事件",
+        "道德判断"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知的培养"
+      ],
+      "displayTitle": "1. 小组道德讨论",
+      "outline": "（一）道德认知的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-1",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "单双论据",
+      "text": "单面论据与双面论据。",
+      "keywords": [
+        "单面",
+        "双面"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知的培养",
+        "2. 言语说服"
+      ],
+      "displayTitle": "（1）单面论据与双面论据",
+      "outline": "（一）道德认知的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-2",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "情理说服",
+      "text": "以理服人与以情动人。",
+      "keywords": [
+        "以理服人",
+        "以情动人"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知的培养",
+        "2. 言语说服"
+      ],
+      "displayTitle": "（2）以理服人与以情动人",
+      "outline": "（一）道德认知的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-3",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "具体情境",
+      "text": "给概念提供一个具体的情境。",
+      "keywords": [
+        "概念",
+        "具体情境"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知的培养",
+        "3. 道德概念分析"
+      ],
+      "displayTitle": "（1）提供具体情境",
+      "outline": "（一）道德认知的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-4",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "误解陈述",
+      "text": "对引人误解的陈述进行讨论。",
+      "keywords": [
+        "误解陈述",
+        "讨论"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知的培养",
+        "3. 道德概念分析"
+      ],
+      "displayTitle": "（2）讨论引人误解的陈述",
+      "outline": "（一）道德认知的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-5",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "精确理解",
+      "text": "通过进一步讨论使学生对概念的理解更加精确。",
+      "keywords": [
+        "进一步讨论",
+        "精确理解"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）道德认知的培养",
+        "3. 道德概念分析"
+      ],
+      "displayTitle": "（3）进一步讨论，精确理解",
+      "outline": "（一）道德认知的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-6",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "表情识别",
+      "text": "原书举例：“你的表情告诉我，你不喜欢拉琴，我懂你的艰难。”",
+      "keywords": [
+        "表情识别",
+        "不喜欢拉琴"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感的培养",
+        "1. 培养移情能力"
+      ],
+      "displayTitle": "（1）表情识别",
+      "outline": "（二）道德情感的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-7",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "情境理解",
+      "text": "原书举例：“我能理解你不想去学校的心情，在学校里得不到师生的关爱，你能坚持这么久，真的不容易。”",
+      "keywords": [
+        "情境理解",
+        "缺少关爱"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感的培养",
+        "1. 培养移情能力"
+      ],
+      "displayTitle": "（2）情境理解",
+      "outline": "（二）道德情感的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-8",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "情绪追忆",
+      "text": "原书举例：“我小时候逃学被打，今天你也逃学被打，我忍不住心疼你。”",
+      "keywords": [
+        "情绪追忆",
+        "自己的经历"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感的培养",
+        "1. 培养移情能力"
+      ],
+      "displayTitle": "（3）情绪追忆",
+      "outline": "（二）道德情感的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-9",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "角色扮演",
+      "text": "原书举例：“为了体会妈妈的辛苦，今天由你来扮演妈妈的角色。”",
+      "keywords": [
+        "角色扮演",
+        "体会辛苦"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感的培养",
+        "1. 培养移情能力"
+      ],
+      "displayTitle": "（4）角色扮演",
+      "outline": "（二）道德情感的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-10",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "羞愧感",
+      "text": "引发羞愧感。",
+      "keywords": [
+        "羞愧感"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）道德情感的培养"
+      ],
+      "displayTitle": "2. 引发羞愧感",
+      "outline": "（二）道德情感的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-11",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "良好情境",
+      "text": "创设良好的情境，潜移默化地进行熏陶。（情境）",
+      "keywords": [
+        "良好情境",
+        "熏陶"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为的培养"
+      ],
+      "displayTitle": "1. 创设良好的情境",
+      "outline": "（三）道德行为的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-12",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "道德榜样",
+      "text": "树立道德榜样，规避不良道德行为。（榜样）",
+      "keywords": [
+        "道德榜样",
+        "规避不良行为"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为的培养"
+      ],
+      "displayTitle": "2. 树立道德榜样",
+      "outline": "（三）道德行为的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-13",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "道德习惯",
+      "text": "养成良好的道德习惯，践行道德行为。（习惯）",
+      "keywords": [
+        "道德习惯",
+        "践行"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为的培养"
+      ],
+      "displayTitle": "3. 养成良好的道德习惯",
+      "outline": "（三）道德行为的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-14",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "集体公约",
+      "text": "制定集体公约，促使学生形成积极的态度。（公约）",
+      "keywords": [
+        "集体公约",
+        "积极态度"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为的培养"
+      ],
+      "displayTitle": "4. 制定集体公约",
+      "outline": "（三）道德行为的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-15",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "自我教育",
+      "text": "使用角色扮演法，培养自我教育的能力。（自我教育）",
+      "keywords": [
+        "角色扮演",
+        "自我教育"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）道德行为的培养"
+      ],
+      "displayTitle": "5. 使用角色扮演法",
+      "outline": "（三）道德行为的培养"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-16",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "案例研究法",
+      "text": "案例研究法。",
+      "keywords": [
+        "案例研究"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）综合培养方法"
+      ],
+      "displayTitle": "1. 案例研究法",
+      "outline": "（四）综合培养方法"
+    },
+    {
+      "id": "edu-reviewed-ch8-moral-cultivation-17",
+      "knowledgeId": "edu-reviewed-ch8-moral-cultivation",
+      "title": "游戏模拟",
+      "text": "游戏和模拟。",
+      "keywords": [
+        "游戏",
+        "模拟"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）综合培养方法"
+      ],
+      "displayTitle": "2. 游戏和模拟",
+      "outline": "（四）综合培养方法"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-overview-0",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-overview",
+      "title": "品行不良含义",
+      "text": "品行不良是指经常违反道德要求或犯有较为严重的道德过错。原书在此列出的发展路径为：最初的过错行为→品德不良行为→违法犯罪行为。",
+      "keywords": [
+        "经常违反",
+        "严重过错",
+        "原书发展路径"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-overview-1",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-overview",
+      "title": "作弊",
+      "text": "作弊行为。",
+      "keywords": [
+        "作弊行为"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型"
+      ],
+      "displayTitle": "1. 作弊行为",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-overview-2",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-overview",
+      "title": "诚信礼仪",
+      "text": "诚信及文明礼仪缺失。",
+      "keywords": [
+        "诚信",
+        "文明礼仪缺失"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型"
+      ],
+      "displayTitle": "2. 诚信及文明礼仪缺失",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-overview-3",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-overview",
+      "title": "责任意识",
+      "text": "责任意识淡薄。",
+      "keywords": [
+        "责任意识淡薄"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型"
+      ],
+      "displayTitle": "3. 责任意识淡薄",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-0",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "重养轻教",
+      "text": "养而不教，重养轻教。",
+      "keywords": [
+        "养而不教",
+        "重养轻教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观",
+        "（1）家庭"
+      ],
+      "displayTitle": "①养而不教，重养轻教",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-1",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "宠严失度",
+      "text": "宠严失度，方法不当。",
+      "keywords": [
+        "宠严失度",
+        "方法不当"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观",
+        "（1）家庭"
+      ],
+      "displayTitle": "②宠严失度，方法不当",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-2",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "要求不一致",
+      "text": "要求不一致，互相抵消。",
+      "keywords": [
+        "要求不一致",
+        "互相抵消"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观",
+        "（1）家庭"
+      ],
+      "displayTitle": "③要求不一致，互相抵消",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-3",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "缺乏表率",
+      "text": "家长生活作风不良，缺乏表率作用。",
+      "keywords": [
+        "家长作风",
+        "缺乏表率"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观",
+        "（1）家庭"
+      ],
+      "displayTitle": "④家长生活作风不良，缺乏表率作用",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-4",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "家庭剧变",
+      "text": "家庭结构的剧变。",
+      "keywords": [
+        "家庭结构剧变"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观",
+        "（1）家庭"
+      ],
+      "displayTitle": "⑤家庭结构的剧变",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-5",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "只抓升学率",
+      "text": "校园文化、课程等只抓升学率。",
+      "keywords": [
+        "校园文化课程",
+        "升学率"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观",
+        "（2）学校"
+      ],
+      "displayTitle": "①校园文化、课程等只抓升学率",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-6",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "区别对待",
+      "text": "有的教师对学生不能一视同仁。",
+      "keywords": [
+        "教师",
+        "不能一视同仁"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观",
+        "（2）学校"
+      ],
+      "displayTitle": "②有的教师对学生不能一视同仁",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-7",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "教师品德",
+      "text": "少数教师的不良品德。",
+      "keywords": [
+        "少数教师",
+        "不良品德"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观",
+        "（2）学校"
+      ],
+      "displayTitle": "③少数教师的不良品德",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-8",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "社会因素",
+      "text": "不良风气、错误思想、有各种恶习的人的引诱和挑唆都会引起青少年品德不良。",
+      "keywords": [
+        "不良风气",
+        "错误思想",
+        "引诱挑唆"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 客观"
+      ],
+      "displayTitle": "（3）社会",
+      "outline": "1. 客观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-9",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "错误认知",
+      "text": "错误的道德认知，法律意识淡薄。",
+      "keywords": [
+        "错误认知",
+        "法律意识淡薄"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 主观"
+      ],
+      "displayTitle": "（1）错误的道德认知",
+      "outline": "2. 主观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-10",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "异常情感",
+      "text": "异常的道德情感，或情感缺失。",
+      "keywords": [
+        "异常情感",
+        "情感缺失"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 主观"
+      ],
+      "displayTitle": "（2）异常的道德情感",
+      "outline": "2. 主观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-11",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "薄弱意志",
+      "text": "薄弱的道德意志，或畸形的意志发展。",
+      "keywords": [
+        "薄弱意志",
+        "畸形发展"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 主观"
+      ],
+      "displayTitle": "（3）薄弱的道德意志",
+      "outline": "2. 主观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-causes-12",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-causes",
+      "title": "不良习惯",
+      "text": "不良的道德习惯。",
+      "keywords": [
+        "不良道德习惯"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 主观"
+      ],
+      "displayTitle": "（4）不良的道德习惯",
+      "outline": "2. 主观"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-0",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "醒悟",
+      "text": "开始认识到自己的错误。",
+      "keywords": [
+        "醒悟",
+        "认识错误"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 转化过程"
+      ],
+      "displayTitle": "（1）醒悟",
+      "outline": "1. 转化过程"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-1",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "转变",
+      "text": "可能会出现反复。",
+      "keywords": [
+        "转变",
+        "可能反复"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 转化过程"
+      ],
+      "displayTitle": "（2）转变",
+      "outline": "1. 转化过程"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-2",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "自新",
+      "text": "不再重复。",
+      "keywords": [
+        "自新",
+        "不再重复"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 转化过程"
+      ],
+      "displayTitle": "（3）自新",
+      "outline": "1. 转化过程"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-3",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "关爱",
+      "text": "以充满信任的教育和关爱，消除疑惧心理和对抗情绪。",
+      "keywords": [
+        "信任关爱",
+        "消除疑惧对抗"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 纠正与教育"
+      ],
+      "displayTitle": "（1）关爱",
+      "outline": "2. 纠正与教育"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-4",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "认知",
+      "text": "培养正确的道德观念，提高明辨是非的能力。",
+      "keywords": [
+        "道德观念",
+        "明辨是非"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 纠正与教育"
+      ],
+      "displayTitle": "（2）认知",
+      "outline": "2. 纠正与教育"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-5",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "情感",
+      "text": "保护和利用学生的自尊心，在集体活动中激发道德情感。",
+      "keywords": [
+        "自尊心",
+        "集体活动",
+        "道德情感"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 纠正与教育"
+      ],
+      "displayTitle": "（3）情感",
+      "outline": "2. 纠正与教育"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-6",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "意志",
+      "text": "加强道德意志训练，增强抗诱惑的能力。",
+      "keywords": [
+        "意志训练",
+        "抗诱惑"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 纠正与教育"
+      ],
+      "displayTitle": "（4）意志",
+      "outline": "2. 纠正与教育"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-7",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "行为",
+      "text": "针对学生个别差异，培养良好的行为习惯。",
+      "keywords": [
+        "个别差异",
+        "行为习惯"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 纠正与教育"
+      ],
+      "displayTitle": "（5）行为",
+      "outline": "2. 纠正与教育"
+    },
+    {
+      "id": "edu-reviewed-ch8-misconduct-correction-8",
+      "knowledgeId": "edu-reviewed-ch8-misconduct-correction",
+      "title": "合力",
+      "text": "家庭、学校、社会全方位配合。",
+      "keywords": [
+        "家庭",
+        "学校",
+        "社会",
+        "配合"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 纠正与教育"
+      ],
+      "displayTitle": "（6）合力",
+      "outline": "2. 纠正与教育"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch8-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 5,
+    "knowledge": 14,
+    "steps": 106,
+    "referenceOnly": 4
+  }
+}

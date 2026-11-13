@@ -1,0 +1,31 @@
+name: Verify and build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm test
+      - run: pnpm run release
+      - uses: actions/upload-artifact@v7
+        with:
+          name: yibuyibei-release
+          path: |
+            release/yibuyibei-source.tar.gz
+            release/yibuyibei-site.tar.gz
+          if-no-files-found: error

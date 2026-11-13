@@ -1,0 +1,2240 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch6-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch6-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "学习策略及其教学：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.05,
+            0.12,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 62108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch6-strategy-overview",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "学习策略概述",
+      "section": "第一节 · 学习策略概述",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.05,
+            0.475,
+            0.92,
+            0.205
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 62427,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-meaning",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "认知策略的含义",
+      "section": "第二节 · 认知策略及其教学 · （一）含义",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.05,
+            0.73,
+            0.92,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 62657,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-attention",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "注意策略",
+      "section": "第二节 · 认知策略及其教学 · （二）注意策略",
+      "refs": [
+        {
+          "page": 62,
+          "rect": [
+            0.05,
+            0.778,
+            0.92,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 62700,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "精细加工策略",
+      "section": "第二节 · 认知策略及其教学 · （三）精细加工策略",
+      "refs": [
+        {
+          "page": 63,
+          "rect": [
+            0.05,
+            0.075,
+            0.92,
+            0.265
+          ]
+        },
+        {
+          "page": 64,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 63067,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-organization",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "组织策略",
+      "section": "第二节 · 认知策略及其教学 · （四）组织策略",
+      "refs": [
+        {
+          "page": 63,
+          "rect": [
+            0.05,
+            0.343,
+            0.92,
+            0.135
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 63308,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "复述策略",
+      "section": "第二节 · 认知策略及其教学 · （五）复述策略",
+      "refs": [
+        {
+          "page": 63,
+          "rect": [
+            0.05,
+            0.482,
+            0.92,
+            0.43
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 63433,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-pegword-diagram",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "琴栓—单词法经典案例原图",
+      "section": "第二节 · 认知策略及其教学 · （三）精细加工策略 · 经典案例",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 64072,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch6-practice-questions",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "学习策略四道知识速练原题",
+      "section": "第二节 · 认知策略及其教学 · 知识速练",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.05,
+            0.395,
+            0.92,
+            0.295
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 64355,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-organization",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "精细加工策略与组织策略的关系",
+      "section": "第二节 · 认知策略及其教学 · 凯程深化",
+      "refs": [
+        {
+          "page": 64,
+          "rect": [
+            0.05,
+            0.715,
+            0.92,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 64643,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "元认知及其作用",
+      "section": "第三节 · 元认知策略及其教学 · 考点一",
+      "refs": [
+        {
+          "page": 65,
+          "rect": [
+            0.05,
+            0.145,
+            0.92,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 65130,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "元认知策略：含义、类别与教学",
+      "section": "第三节 · 元认知策略及其教学 · 考点二",
+      "refs": [
+        {
+          "page": 65,
+          "rect": [
+            0.05,
+            0.44,
+            0.92,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 65396,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-self-regulation-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "解代数应用题自我调控单原表",
+      "section": "第三节 · 元认知策略及其教学 · 考点二 · 经典案例",
+      "refs": [
+        {
+          "page": 65,
+          "rect": [
+            0.05,
+            0.64,
+            0.92,
+            0.285
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 65576,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-metacognitive",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "认知策略与元认知策略的关系",
+      "section": "第三节 · 元认知策略及其教学 · 凯程深化",
+      "refs": [
+        {
+          "page": 66,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 66072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-5",
+      "title": "资源管理策略及其教学",
+      "section": "第四节 · 资源管理策略及其教学",
+      "refs": [
+        {
+          "page": 66,
+          "rect": [
+            0.05,
+            0.34,
+            0.92,
+            0.59
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 66306,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch6-strategy-overview-0",
+      "knowledgeId": "edu-reviewed-ch6-strategy-overview",
+      "title": "学习策略含义",
+      "text": "学习者为了提高学习的效果和效率，有目的、有意识地制订的有关学习过程的复杂方案。",
+      "keywords": [
+        "效果效率",
+        "有目的有意识",
+        "学习过程",
+        "复杂方案"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）概念"
+      ],
+      "displayTitle": "1. 含义",
+      "outline": "（一）概念"
+    },
+    {
+      "id": "edu-reviewed-ch6-strategy-overview-1",
+      "knowledgeId": "edu-reviewed-ch6-strategy-overview",
+      "title": "主动性",
+      "text": "有意识。",
+      "keywords": [
+        "主动性",
+        "有意识"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）概念",
+        "2. 特点"
+      ],
+      "displayTitle": "（1）主动性",
+      "outline": "（一）概念"
+    },
+    {
+      "id": "edu-reviewed-ch6-strategy-overview-2",
+      "knowledgeId": "edu-reviewed-ch6-strategy-overview",
+      "title": "有效性",
+      "text": "有优劣之分。",
+      "keywords": [
+        "有效性",
+        "优劣"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）概念",
+        "2. 特点"
+      ],
+      "displayTitle": "（2）有效性",
+      "outline": "（一）概念"
+    },
+    {
+      "id": "edu-reviewed-ch6-strategy-overview-3",
+      "knowledgeId": "edu-reviewed-ch6-strategy-overview",
+      "title": "过程性",
+      "text": "作用于学习过程。",
+      "keywords": [
+        "过程性",
+        "学习过程"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）概念",
+        "2. 特点"
+      ],
+      "displayTitle": "（3）过程性",
+      "outline": "（一）概念"
+    },
+    {
+      "id": "edu-reviewed-ch6-strategy-overview-4",
+      "knowledgeId": "edu-reviewed-ch6-strategy-overview",
+      "title": "程序性",
+      "text": "由计划、规则和技能组成。",
+      "keywords": [
+        "程序性",
+        "计划规则技能"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）概念",
+        "2. 特点"
+      ],
+      "displayTitle": "（4）程序性",
+      "outline": "（一）概念"
+    },
+    {
+      "id": "edu-reviewed-ch6-strategy-overview-5",
+      "knowledgeId": "edu-reviewed-ch6-strategy-overview",
+      "title": "认知策略指向",
+      "text": "人对知识的思考。",
+      "keywords": [
+        "认知策略",
+        "知识"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类"
+      ],
+      "displayTitle": "1. 认知策略",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-strategy-overview-6",
+      "knowledgeId": "edu-reviewed-ch6-strategy-overview",
+      "title": "元认知策略指向",
+      "text": "人对大脑认知的思考。",
+      "keywords": [
+        "元认知策略",
+        "大脑认知"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类"
+      ],
+      "displayTitle": "2. 元认知策略",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-strategy-overview-7",
+      "knowledgeId": "edu-reviewed-ch6-strategy-overview",
+      "title": "资源管理策略指向",
+      "text": "人对资源的思考。",
+      "keywords": [
+        "资源管理策略",
+        "资源"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类"
+      ],
+      "displayTitle": "3. 资源管理策略",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-meaning-0",
+      "knowledgeId": "edu-reviewed-ch6-cognitive-meaning",
+      "title": "认知策略含义",
+      "text": "学习者进行信息加工的方法和技术，能使信息有效地从记忆中提取出来。",
+      "keywords": [
+        "信息加工",
+        "方法技术",
+        "记忆提取"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-meaning-1",
+      "knowledgeId": "edu-reviewed-ch6-cognitive-meaning",
+      "title": "加工整理",
+      "text": "对信息进行有效的加工和整理。",
+      "keywords": [
+        "有效加工",
+        "整理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 加工和整理"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-meaning-2",
+      "knowledgeId": "edu-reviewed-ch6-cognitive-meaning",
+      "title": "分类储存",
+      "text": "对信息进行分门别类的储存。",
+      "keywords": [
+        "分门别类",
+        "储存"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 分门别类的储存"
+    },
+    {
+      "id": "edu-reviewed-ch6-attention-0",
+      "knowledgeId": "edu-reviewed-ch6-attention",
+      "title": "注意含义",
+      "text": "学习者在学习情境中激活和维持学习的心理状态，即高度警觉。",
+      "keywords": [
+        "学习情境",
+        "激活维持",
+        "高度警觉"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch6-attention-1",
+      "knowledgeId": "edu-reviewed-ch6-attention",
+      "title": "区别",
+      "text": "培养学生区别重要信息与次要信息的能力。",
+      "keywords": [
+        "重要信息",
+        "次要信息"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略"
+      ],
+      "displayTitle": "（1）区别",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-attention-2",
+      "knowledgeId": "edu-reviewed-ch6-attention",
+      "title": "专注",
+      "text": "教给学生专注于重要信息的策略。",
+      "keywords": [
+        "专注",
+        "重要信息"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略"
+      ],
+      "displayTitle": "（2）专注",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-attention-3",
+      "knowledgeId": "edu-reviewed-ch6-attention",
+      "title": "引导",
+      "text": "以问题为导向，引导学生注意重要信息。",
+      "keywords": [
+        "问题导向",
+        "注意重要信息"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略"
+      ],
+      "displayTitle": "（3）引导",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-attention-4",
+      "knowledgeId": "edu-reviewed-ch6-attention",
+      "title": "吸引",
+      "text": "运用刺激物的特点，吸引学生的选择性注意。",
+      "keywords": [
+        "刺激物特点",
+        "选择性注意"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略"
+      ],
+      "displayTitle": "（4）吸引",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-0",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "精细加工含义",
+      "text": "通过把所学的新信息和已有的知识联系起来以增加新信息意义的策略。一个信息与其他信息联系得越多，能回忆出该信息原貌的途径就越多，提取的线索就越多。",
+      "keywords": [
+        "新旧联系",
+        "增加意义",
+        "提取线索"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-1",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "位置记忆法",
+      "text": "如背书总会想到知识在书的哪个位置。",
+      "keywords": [
+        "位置记忆",
+        "书中位置"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）简单知识的精细加工（记忆术）"
+      ],
+      "displayTitle": "①位置记忆法",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-2",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "首字联词法",
+      "text": "如认知“感知记思想”。",
+      "keywords": [
+        "首字联词",
+        "感知记思想"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）简单知识的精细加工（记忆术）"
+      ],
+      "displayTitle": "②首字联词法",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-3",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "限定词法",
+      "text": "限定词法（谐音联想法），如“3.14159——山巅一寺一壶酒”。",
+      "keywords": [
+        "限定词法",
+        "谐音联想"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）简单知识的精细加工（记忆术）"
+      ],
+      "displayTitle": "③限定词法（谐音联想法）",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-4",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "关键词法",
+      "text": "新词或概念与相似的声音，通过视觉表象联系。如“gas”（煤气）——该死。",
+      "keywords": [
+        "相似声音",
+        "视觉表象",
+        "gas"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）简单知识的精细加工（记忆术）"
+      ],
+      "displayTitle": "④关键词法",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-5",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "视觉想象",
+      "text": "将“飞机—箱子”想象为“飞机穿过箱子”。",
+      "keywords": [
+        "视觉想象",
+        "飞机穿过箱子"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）简单知识的精细加工（记忆术）"
+      ],
+      "displayTitle": "⑤视觉想象",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-6",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "琴栓单词法",
+      "text": "寻找信息间的内在联系。原书举例见下一页“琴栓—单词法示意图”。",
+      "keywords": [
+        "琴栓单词法",
+        "内在联系"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）简单知识的精细加工（记忆术）"
+      ],
+      "displayTitle": "⑥琴栓—单词法",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-7",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "意义识记",
+      "text": "有意找出信息之间的关系。如525636。",
+      "keywords": [
+        "信息关系",
+        "525636"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（2）复杂知识的精细加工（灵活处理信息）"
+      ],
+      "displayTitle": "①意义识记",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-8",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "主动应用",
+      "text": "主动应用。",
+      "keywords": [
+        "主动应用"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（2）复杂知识的精细加工（灵活处理信息）"
+      ],
+      "displayTitle": "②主动应用",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-9",
+      "knowledgeId": "edu-reviewed-ch6-elaboration",
+      "title": "背景知识",
+      "text": "利用背景知识。",
+      "keywords": [
+        "背景知识"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（2）复杂知识的精细加工（灵活处理信息）"
+      ],
+      "displayTitle": "③利用背景知识",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-organization-0",
+      "knowledgeId": "edu-reviewed-ch6-organization",
+      "title": "组织含义",
+      "text": "整合所学新知识之间、新旧知识之间的内在联系，形成新的知识结构的策略。",
+      "keywords": [
+        "新知识之间",
+        "新旧知识之间",
+        "新的知识结构"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch6-organization-1",
+      "knowledgeId": "edu-reviewed-ch6-organization",
+      "title": "组织方法",
+      "text": "将学习材料分成一些小的单元，并把这些小的单元置于适当的类别中，从而使每项信息和其他信息联系在一起。",
+      "keywords": [
+        "小单元",
+        "适当类别",
+        "信息联系"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 方法"
+    },
+    {
+      "id": "edu-reviewed-ch6-organization-2",
+      "knowledgeId": "edu-reviewed-ch6-organization",
+      "title": "列提纲",
+      "text": "列提纲。",
+      "keywords": [
+        "提纲"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 常用策略"
+      ],
+      "displayTitle": "（1）列提纲",
+      "outline": "3. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-organization-3",
+      "knowledgeId": "edu-reviewed-ch6-organization",
+      "title": "做图解",
+      "text": "做图解。",
+      "keywords": [
+        "图解"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 常用策略"
+      ],
+      "displayTitle": "（2）做图解",
+      "outline": "3. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-organization-4",
+      "knowledgeId": "edu-reviewed-ch6-organization",
+      "title": "做表格",
+      "text": "做表格。",
+      "keywords": [
+        "表格"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 常用策略"
+      ],
+      "displayTitle": "（3）做表格",
+      "outline": "3. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-0",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "复述含义",
+      "text": "在工作记忆中为了保持信息，而对信息反复学习的过程。",
+      "keywords": [
+        "工作记忆",
+        "保持信息",
+        "反复学习"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-1",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "避免干扰",
+      "text": "短时记忆容量有限，应避免干扰。",
+      "keywords": [
+        "短时记忆",
+        "容量有限"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律"
+      ],
+      "displayTitle": "①避免干扰",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-2",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "抑制含义",
+      "text": "前后信息存在消极影响。",
+      "keywords": [
+        "抑制",
+        "消极影响"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律",
+        "②抑制和促进",
+        "a. 抑制"
+      ],
+      "displayTitle": "含义",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-3",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "前摄抑制",
+      "text": "前面的信息对后面的信息产生消极影响，方向为前→后。",
+      "keywords": [
+        "前摄抑制",
+        "前对后",
+        "消极"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律",
+        "②抑制和促进",
+        "a. 抑制"
+      ],
+      "displayTitle": "前摄抑制",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-4",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "倒摄抑制",
+      "text": "后面的信息对前面的信息产生消极影响，方向为后→前。",
+      "keywords": [
+        "倒摄抑制",
+        "后对前",
+        "消极"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律",
+        "②抑制和促进",
+        "a. 抑制"
+      ],
+      "displayTitle": "倒摄抑制",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-5",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "促进含义",
+      "text": "前后信息存在积极影响。",
+      "keywords": [
+        "促进",
+        "积极影响"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律",
+        "②抑制和促进",
+        "b. 促进"
+      ],
+      "displayTitle": "含义",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-6",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "前摄促进",
+      "text": "前面的信息对后面的信息产生积极影响，方向为前→后。",
+      "keywords": [
+        "前摄促进",
+        "前对后",
+        "积极"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律",
+        "②抑制和促进",
+        "b. 促进"
+      ],
+      "displayTitle": "前摄促进",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-7",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "倒摄促进",
+      "text": "后面的信息对前面的信息产生积极影响，方向为后→前。",
+      "keywords": [
+        "倒摄促进",
+        "后对前",
+        "积极"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律",
+        "②抑制和促进",
+        "b. 促进"
+      ],
+      "displayTitle": "倒摄促进",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-8",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "首因效应",
+      "text": "更容易记住开始的事，倾注更多注意。",
+      "keywords": [
+        "开始",
+        "更多注意"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律",
+        "③首因效应和近因效应"
+      ],
+      "displayTitle": "a. 首因效应",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-9",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "近因效应",
+      "text": "更容易记住最近的事，几乎不存在干扰。",
+      "keywords": [
+        "最近",
+        "几乎无干扰"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（1）利用记忆规律",
+        "③首因效应和近因效应"
+      ],
+      "displayTitle": "b. 近因效应",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-10",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "及时复习",
+      "text": "复习的黄金2分钟：学习后10分钟进行复习，只用2分钟就能取得良好的复习效果。",
+      "keywords": [
+        "及时复习",
+        "10分钟",
+        "2分钟"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（2）合理复习"
+      ],
+      "displayTitle": "①及时复习",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-11",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "集中分散复习",
+      "text": "集中复习和分散复习。10分钟、1天、1周、1个月、2个月、半年……复习的间隔开始短，后来长。",
+      "keywords": [
+        "集中分散",
+        "间隔先短后长"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（2）合理复习"
+      ],
+      "displayTitle": "②集中复习和分散复习",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-12",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "整体部分学习",
+      "text": "整体学习和部分学习。",
+      "keywords": [
+        "整体",
+        "部分"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（2）合理复习"
+      ],
+      "displayTitle": "③整体学习和部分学习",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-13",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "自问自答",
+      "text": "自问自答或尝试背诵。自我测试，调整计划，分配努力。",
+      "keywords": [
+        "自我测试",
+        "调整计划",
+        "分配努力"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（2）合理复习"
+      ],
+      "displayTitle": "④自问自答或尝试背诵",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-14",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "过度学习",
+      "text": "过度学习。",
+      "keywords": [
+        "过度学习"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略",
+        "（2）合理复习"
+      ],
+      "displayTitle": "⑤过度学习",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-15",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "自动化",
+      "text": "复述的结果是所需注意力越来越少，是练习的结果。",
+      "keywords": [
+        "注意力越来越少",
+        "练习结果"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略"
+      ],
+      "displayTitle": "（3）自动化",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-16",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "亲自参与",
+      "text": "在实践中学习，多感官、多情境。",
+      "keywords": [
+        "实践",
+        "多感官",
+        "多情境"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略"
+      ],
+      "displayTitle": "（4）亲自参与",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-17",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "情境状态相似",
+      "text": "情境相似性和情绪生理状态相似性。情境相似，情绪相似，有助于回忆。",
+      "keywords": [
+        "情境相似",
+        "情绪生理状态",
+        "回忆"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略"
+      ],
+      "displayTitle": "（5）情境相似性和情绪生理状态相似性",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-rehearsal-18",
+      "knowledgeId": "edu-reviewed-ch6-rehearsal",
+      "title": "心理倾向",
+      "text": "心理倾向、态度和兴趣。符合兴趣，引导学生产生兴趣。",
+      "keywords": [
+        "心理倾向",
+        "态度",
+        "兴趣"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 常用策略"
+      ],
+      "displayTitle": "（6）心理倾向、态度和兴趣",
+      "outline": "2. 常用策略"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-organization-0",
+      "knowledgeId": "edu-reviewed-ch6-elaboration-organization",
+      "title": "相同点",
+      "text": "都是信息加工策略。",
+      "keywords": [
+        "信息加工策略"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 相同点"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-organization-1",
+      "knowledgeId": "edu-reviewed-ch6-elaboration-organization",
+      "title": "精细加工侧重",
+      "text": "重在新旧知识之间的联系，达到理解新知识的意义——左右逢源。",
+      "keywords": [
+        "新旧联系",
+        "理解意义",
+        "左右逢源"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 不同点"
+      ],
+      "displayTitle": "精细加工策略",
+      "outline": "2. 不同点"
+    },
+    {
+      "id": "edu-reviewed-ch6-elaboration-organization-2",
+      "knowledgeId": "edu-reviewed-ch6-elaboration-organization",
+      "title": "组织侧重",
+      "text": "重在新旧知识之间的组织方式，达到形成知识逻辑和层次结构——上下通达。",
+      "keywords": [
+        "组织方式",
+        "逻辑层次",
+        "上下通达"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 不同点"
+      ],
+      "displayTitle": "组织策略",
+      "outline": "2. 不同点"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-0",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "元认知含义",
+      "text": "对认知的认知，是个体对自己认知过程的知识以及调节认知过程的能力，是对思维和学习活动的认知和控制。",
+      "keywords": [
+        "认知的认知",
+        "知识与能力",
+        "认知和控制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-1",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "元认知知识",
+      "text": "对认知过程的知识和观念，存储在长时记忆中。",
+      "keywords": [
+        "知",
+        "知识观念",
+        "长时记忆"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构",
+        "1. 元认知知识（知）"
+      ],
+      "displayTitle": "含义",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-2",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "学习者本人",
+      "text": "有关学习者本人。",
+      "keywords": [
+        "学习者本人"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构",
+        "1. 元认知知识（知）"
+      ],
+      "displayTitle": "（1）有关学习者本人",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-3",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "任务",
+      "text": "有关任务。",
+      "keywords": [
+        "任务"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构",
+        "1. 元认知知识（知）"
+      ],
+      "displayTitle": "（2）有关任务",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-4",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "策略使用",
+      "text": "有关学习策略及其使用。",
+      "keywords": [
+        "学习策略",
+        "使用"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构",
+        "1. 元认知知识（知）"
+      ],
+      "displayTitle": "（3）有关学习策略及其使用",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-5",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "元认知体验",
+      "text": "个体对自己的认知的心得或教训的情绪感受。",
+      "keywords": [
+        "情",
+        "心得教训",
+        "情绪感受"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构"
+      ],
+      "displayTitle": "2. 元认知体验（情）",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-6",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "元认知控制",
+      "text": "对认知行为的调节和控制，存储在工作记忆中。",
+      "keywords": [
+        "行",
+        "调节控制",
+        "工作记忆"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构",
+        "3. 元认知控制（行）"
+      ],
+      "displayTitle": "含义",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-7",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "控制计划",
+      "text": "计划。",
+      "keywords": [
+        "计划"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构",
+        "3. 元认知控制（行）"
+      ],
+      "displayTitle": "（1）计划",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-8",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "控制监察",
+      "text": "监察。",
+      "keywords": [
+        "监察"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构",
+        "3. 元认知控制（行）"
+      ],
+      "displayTitle": "（2）监察",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-9",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "控制调节",
+      "text": "调节。",
+      "keywords": [
+        "调节"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）成分／结构",
+        "3. 元认知控制（行）"
+      ],
+      "displayTitle": "（3）调节",
+      "outline": "（二）成分／结构"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-10",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "效率效果",
+      "text": "提高认知活动的效率和效果。（知）",
+      "keywords": [
+        "效率效果",
+        "知"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）作用"
+      ],
+      "displayTitle": "1. 提高认知活动的效率和效果",
+      "outline": "（三）作用"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-11",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "智力发展",
+      "text": "促进个体智力的发展。（行）",
+      "keywords": [
+        "智力发展",
+        "行"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）作用"
+      ],
+      "displayTitle": "2. 促进个体智力的发展",
+      "outline": "（三）作用"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognition-12",
+      "knowledgeId": "edu-reviewed-ch6-metacognition",
+      "title": "主体性",
+      "text": "有助于个体发挥主体性。（情）",
+      "keywords": [
+        "主体性",
+        "情"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）作用"
+      ],
+      "displayTitle": "3. 有助于个体发挥主体性",
+      "outline": "（三）作用"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-0",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "策略含义",
+      "text": "对信息加工流程进行控制的策略。",
+      "keywords": [
+        "信息加工流程",
+        "控制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-1",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "计划策略",
+      "text": "设置学习目标、浏览材料、产生待解决的问题、分析如何完成任务。",
+      "keywords": [
+        "目标",
+        "浏览",
+        "问题",
+        "完成任务"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类别"
+      ],
+      "displayTitle": "1. 计划策略",
+      "outline": "（二）类别"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-2",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "领会监控",
+      "text": "监控目标是否达成。",
+      "keywords": [
+        "领会监控",
+        "目标达成"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类别",
+        "2. 监察策略"
+      ],
+      "displayTitle": "（1）领会监控",
+      "outline": "（二）类别"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-3",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "集中注意力",
+      "text": "排除干扰。",
+      "keywords": [
+        "集中注意力",
+        "排除干扰"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类别",
+        "2. 监察策略"
+      ],
+      "displayTitle": "（2）集中注意力",
+      "outline": "（二）类别"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-4",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "调节策略",
+      "text": "检查认知活动的结果并采取修正措施，调整认知策略。",
+      "keywords": [
+        "检查结果",
+        "修正",
+        "调整认知策略"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类别"
+      ],
+      "displayTitle": "3. 调节策略",
+      "outline": "（二）类别"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-5",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "教给知识",
+      "text": "教给学生元认知知识。",
+      "keywords": [
+        "元认知知识"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教学"
+      ],
+      "displayTitle": "1. 教给学生元认知知识",
+      "outline": "（三）教学"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-6",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "丰富体验",
+      "text": "丰富学生的元认知体验。",
+      "keywords": [
+        "元认知体验"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教学"
+      ],
+      "displayTitle": "2. 丰富学生的元认知体验",
+      "outline": "（三）教学"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-7",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "调节监控",
+      "text": "帮助学生调节和监控自己的学习过程。",
+      "keywords": [
+        "调节监控",
+        "学习过程"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教学"
+      ],
+      "displayTitle": "3. 帮助学生调节和监控自己的学习过程",
+      "outline": "（三）教学"
+    },
+    {
+      "id": "edu-reviewed-ch6-metacognitive-strategies-8",
+      "knowledgeId": "edu-reviewed-ch6-metacognitive-strategies",
+      "title": "反馈机会",
+      "text": "经常给学生提供反馈的机会。",
+      "keywords": [
+        "反馈",
+        "机会"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）教学"
+      ],
+      "displayTitle": "4. 经常给学生提供反馈的机会",
+      "outline": "（三）教学"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-metacognitive-0",
+      "knowledgeId": "edu-reviewed-ch6-cognitive-metacognitive",
+      "title": "同时使用",
+      "text": "两种策略经常同时使用。",
+      "keywords": [
+        "同时使用"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "相同点"
+      ],
+      "displayTitle": "1. 经常同时使用",
+      "outline": "相同点"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-metacognitive-1",
+      "knowledgeId": "edu-reviewed-ch6-cognitive-metacognitive",
+      "title": "程序知识",
+      "text": "都是程序性知识，都属于心智技能。",
+      "keywords": [
+        "程序性知识",
+        "心智技能"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "相同点"
+      ],
+      "displayTitle": "2. 都是程序性知识、心智技能",
+      "outline": "相同点"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-metacognitive-2",
+      "knowledgeId": "edu-reviewed-ch6-cognitive-metacognitive",
+      "title": "认知加工对象",
+      "text": "认知策略：信息加工的具体方法——人对外部知识的加工。",
+      "keywords": [
+        "具体方法",
+        "外部知识"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "不同点",
+        "1. 含义（包含指向对象）"
+      ],
+      "displayTitle": "（1）认知策略",
+      "outline": "不同点"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-metacognitive-3",
+      "knowledgeId": "edu-reviewed-ch6-cognitive-metacognitive",
+      "title": "元认知加工对象",
+      "text": "元认知策略：对信息加工过程的再思考和控制——人对内部认知过程的加工。",
+      "keywords": [
+        "再思考控制",
+        "内部认知过程"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "不同点",
+        "1. 含义（包含指向对象）"
+      ],
+      "displayTitle": "（2）元认知策略",
+      "outline": "不同点"
+    },
+    {
+      "id": "edu-reviewed-ch6-cognitive-metacognitive-4",
+      "knowledgeId": "edu-reviewed-ch6-cognitive-metacognitive",
+      "title": "发展时间",
+      "text": "学习者对认知策略的使用早于元认知策略。",
+      "keywords": [
+        "认知策略早于元认知策略"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "不同点"
+      ],
+      "displayTitle": "2. 发展时间",
+      "outline": "不同点"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-0",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "资源管理含义",
+      "text": "辅助学生管理可用环境和资源的策略。",
+      "keywords": [
+        "可用环境",
+        "资源",
+        "辅助管理"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-1",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "时间管理含义",
+      "text": "通过一定的方法合理安排时间、有效利用学习资源的策略。",
+      "keywords": [
+        "合理安排时间",
+        "学习资源"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "1. 时间管理策略"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-2",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "计划时间",
+      "text": "计划时间策略。",
+      "keywords": [
+        "计划时间"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "1. 时间管理策略",
+        "（2）方法"
+      ],
+      "displayTitle": "①计划时间策略",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-3",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "最优时间",
+      "text": "最优时间策略。",
+      "keywords": [
+        "最优时间"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "1. 时间管理策略",
+        "（2）方法"
+      ],
+      "displayTitle": "②最优时间策略",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-4",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "化零为整",
+      "text": "化零为整策略。",
+      "keywords": [
+        "化零为整"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "1. 时间管理策略",
+        "（2）方法"
+      ],
+      "displayTitle": "③化零为整策略",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-5",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "努力管理含义",
+      "text": "为了维持或促进意志努力，对自己的学习兴趣、态度、情绪状态等进行约束和调整。",
+      "keywords": [
+        "意志努力",
+        "兴趣态度情绪",
+        "约束调整"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "2. 努力管理策略"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-6",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "努力归因",
+      "text": "归因于努力，会更努力。",
+      "keywords": [
+        "归因于努力",
+        "更努力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "2. 努力管理策略",
+        "（2）具体策略"
+      ],
+      "displayTitle": "①归因于努力",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-7",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "调整心境",
+      "text": "排除消极情绪的干扰。",
+      "keywords": [
+        "调整心境",
+        "消极情绪"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "2. 努力管理策略",
+        "（2）具体策略"
+      ],
+      "displayTitle": "②调整心境",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-8",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "意志控制",
+      "text": "对学习具有较强的维持功能。",
+      "keywords": [
+        "意志控制",
+        "维持功能"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "2. 努力管理策略",
+        "（2）具体策略"
+      ],
+      "displayTitle": "③意志控制",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-9",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "自我强化",
+      "text": "自我管理、自我监督。",
+      "keywords": [
+        "自我管理",
+        "自我监督"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "2. 努力管理策略",
+        "（2）具体策略"
+      ],
+      "displayTitle": "④自我强化",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-10",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "环境管理含义",
+      "text": "人为地选择、改善与创设学习环境，使周围的环境更有利于学习活动的展开。",
+      "keywords": [
+        "选择改善创设",
+        "学习环境"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "3. 环境管理策略"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-11",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "自然条件",
+      "text": "注意调节自然条件。如空气、温度、光线、色彩。",
+      "keywords": [
+        "空气温度",
+        "光线色彩"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "3. 环境管理策略",
+        "（2）具体策略"
+      ],
+      "displayTitle": "①注意调节自然条件",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-12",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "学习空间",
+      "text": "设计好学习的空间。如空间范围、室内布置、用具摆放。",
+      "keywords": [
+        "空间范围",
+        "室内布置",
+        "用具摆放"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "3. 环境管理策略",
+        "（2）具体策略"
+      ],
+      "displayTitle": "②设计好学习的空间",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-13",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "学业求助含义",
+      "text": "学生在学习过程中遇到困难向他人寻求帮助以克服学习困难，提高学习效率的策略。",
+      "keywords": [
+        "学习困难",
+        "寻求帮助",
+        "学习效率"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "4. 学业求助策略"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-14",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "执行性求助",
+      "text": "他人“替”自己解决困难。",
+      "keywords": [
+        "执行性求助",
+        "替自己解决"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "4. 学业求助策略",
+        "（2）类型"
+      ],
+      "displayTitle": "①执行性求助",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-15",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "工具性求助",
+      "text": "他人提供思路和工具。",
+      "keywords": [
+        "工具性求助",
+        "思路工具"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "4. 学业求助策略",
+        "（2）类型"
+      ],
+      "displayTitle": "②工具性求助",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-16",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "正确看待求助",
+      "text": "正确看待求助。",
+      "keywords": [
+        "正确看待求助"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "4. 学业求助策略",
+        "（3）教学"
+      ],
+      "displayTitle": "①正确看待求助",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-17",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "发展求助能力",
+      "text": "发展求助能力。",
+      "keywords": [
+        "求助能力"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "4. 学业求助策略",
+        "（3）教学"
+      ],
+      "displayTitle": "②发展求助能力",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-18",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "采用工具性求助",
+      "text": "采用工具性求助。",
+      "keywords": [
+        "工具性求助"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "4. 学业求助策略",
+        "（3）教学"
+      ],
+      "displayTitle": "③采用工具性求助",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-19",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "营造良好氛围",
+      "text": "营造良好氛围。",
+      "keywords": [
+        "良好氛围"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "4. 学业求助策略",
+        "（3）教学"
+      ],
+      "displayTitle": "④营造良好氛围",
+      "outline": "（二）分类"
+    },
+    {
+      "id": "edu-reviewed-ch6-resource-management-20",
+      "knowledgeId": "edu-reviewed-ch6-resource-management",
+      "title": "强调元认知策略",
+      "text": "强调元认知策略。",
+      "keywords": [
+        "元认知策略"
+      ],
+      "order": 20,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）分类",
+        "4. 学业求助策略",
+        "（3）教学"
+      ],
+      "displayTitle": "⑤强调元认知策略",
+      "outline": "（二）分类"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch6-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 5,
+    "knowledge": 15,
+    "steps": 101,
+    "referenceOnly": 4
+  }
+}

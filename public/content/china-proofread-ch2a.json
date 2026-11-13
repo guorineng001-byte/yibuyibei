@@ -1,0 +1,2301 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch2a-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch2a-private-causes",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "私人讲学兴起的原因",
+      "section": "第一节 · 春秋战国时期的教育制度与实践",
+      "refs": [
+        {
+          "page": 14,
+          "rect": [
+            0.16,
+            0.21,
+            0.77,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 14189,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-development",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "私人讲学的发展表现",
+      "section": "第一节 · 春秋战国时期的教育制度与实践",
+      "refs": [
+        {
+          "page": 14,
+          "rect": [
+            0.16,
+            0.44,
+            0.77,
+            0.115
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 14396,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-significance",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "私人讲学兴起与发展的意义",
+      "section": "第一节 · 春秋战国时期的教育制度与实践",
+      "refs": [
+        {
+          "page": 14,
+          "rect": [
+            0.16,
+            0.56,
+            0.78,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 14504,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-background",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "稷下学宫：简介与创办条件",
+      "section": "第一节 · 春秋战国时期的教育制度与实践",
+      "refs": [
+        {
+          "page": 15,
+          "rect": [
+            0.15,
+            0.128,
+            0.77,
+            0.115
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 15115,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-nature",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "稷下学宫的性质",
+      "section": "第一节 · 春秋战国时期的教育制度与实践",
+      "refs": [
+        {
+          "page": 15,
+          "rect": [
+            0.15,
+            0.25,
+            0.78,
+            0.175
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 15225,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "稷下学宫的特点",
+      "section": "第一节 · 春秋战国时期的教育制度与实践",
+      "refs": [
+        {
+          "page": 15,
+          "rect": [
+            0.15,
+            0.427,
+            0.77,
+            0.173
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 15384,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-significance",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "稷下学宫的意义",
+      "section": "第一节 · 春秋战国时期的教育制度与实践",
+      "refs": [
+        {
+          "page": 15,
+          "rect": [
+            0.15,
+            0.607,
+            0.77,
+            0.098
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 15546,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子：人物与思想框架",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.095,
+            0.155,
+            0.82,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16139,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育实践",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.09,
+            0.371,
+            0.75,
+            0.079
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16333,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育作用观",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.09,
+            0.474,
+            0.84,
+            0.36
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16426,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-access",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育对象：“有教无类”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.09,
+            0.848,
+            0.84,
+            0.074
+          ]
+        },
+        {
+          "page": 17,
+          "rect": [
+            0.09,
+            0.079,
+            0.84,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16763,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-purpose",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育目的：“学而优则仕”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 17,
+          "rect": [
+            0.075,
+            0.192,
+            0.86,
+            0.244
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 17172,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育内容：“六经”",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 17,
+          "rect": [
+            0.075,
+            0.472,
+            0.86,
+            0.382
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 17424,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-six-arts-classics",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "“六艺”与“六经”的关系",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 18,
+          "rect": [
+            0.15,
+            0.077,
+            0.79,
+            0.222
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 18069,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-individual",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育方法：因材施教",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 18,
+          "rect": [
+            0.23,
+            0.304,
+            0.71,
+            0.141
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 18273,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-heuristic",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育方法：启发诱导",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 18,
+          "rect": [
+            0.23,
+            0.448,
+            0.71,
+            0.235
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 18403,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-learning",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育方法：学、思、行结合",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 18,
+          "rect": [
+            0.23,
+            0.689,
+            0.71,
+            0.172
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 18620,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-attitude",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的教育方法：好学求是",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 18,
+          "rect": [
+            0.23,
+            0.862,
+            0.71,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 18775,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-moral",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的道德教育",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 19,
+          "rect": [
+            0.075,
+            0.079,
+            0.86,
+            0.286
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 19071,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-teacher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子论教师",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 19,
+          "rect": [
+            0.075,
+            0.391,
+            0.86,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 19351,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-1",
+      "title": "孔子的历史影响与评价",
+      "section": "第二节 · 春秋战国时期各学派的教育思想 · 孔子",
+      "refs": [
+        {
+          "page": 19,
+          "rect": [
+            0.075,
+            0.622,
+            0.86,
+            0.273
+          ]
+        },
+        {
+          "page": 20,
+          "rect": [
+            0.085,
+            0.083,
+            0.86,
+            0.162
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 19559,
+      "reviewNote": "已对照扫描原页校对文字与层级；按原书整理，辅助说明标为只需阅读。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch2a-private-causes-0",
+      "knowledgeId": "china-reviewed-ch2a-private-causes",
+      "title": "经济：生产力的发展",
+      "text": "封建私有制逐渐代替井田制，促进了奴隶制的解体。“经济下移”与“政治下移”使私学建立在土地私有的个体经济基础上，这是私学产生的物质基础。",
+      "keywords": [
+        "生产力发展",
+        "土地私有",
+        "物质基础"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-causes-1",
+      "knowledgeId": "china-reviewed-ch2a-private-causes",
+      "title": "政治：官学衰落",
+      "text": "世袭制度造成贵族不重视教育；王权衰落导致学校荒废；战争动乱使学校难以维持。",
+      "keywords": [
+        "世袭制度",
+        "王权衰落",
+        "战争动乱"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-causes-2",
+      "knowledgeId": "china-reviewed-ch2a-private-causes",
+      "title": "文化：学术下移",
+      "text": "在官府任教的知识分子为了谋生，在民间以教授知识为业，造成了“天子失官，学在四夷”的局面。",
+      "keywords": [
+        "知识分子",
+        "民间授学",
+        "学在四夷"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-causes-3",
+      "knowledgeId": "china-reviewed-ch2a-private-causes",
+      "title": "阶层：士阶层的出现",
+      "text": "士阶层是奴隶制度下贵族的下层，在封建制度兴起时转化为平民阶级的上层。各诸侯国争相养士，大批自由民想成为士阶层，促使培养士的私学机构出现，私学随之兴盛。",
+      "keywords": [
+        "贵族下层",
+        "平民上层",
+        "养士",
+        "培养士"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-development-0",
+      "knowledgeId": "china-reviewed-ch2a-private-development",
+      "title": "养士之风盛行",
+      "text": "士阶层成为统治阶级的附庸。由于政治斗争的需要，养士出现了竞争，养士之风开始形成。",
+      "keywords": [
+        "士阶层",
+        "政治斗争",
+        "养士竞争"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-development-1",
+      "knowledgeId": "china-reviewed-ch2a-private-development",
+      "title": "百家争鸣",
+      "text": "“百家”是虚指，形容学派之多。春秋时期已经开始百家争鸣，战国时期百家争鸣达到高潮。",
+      "keywords": [
+        "百家虚指",
+        "春秋开始",
+        "战国高潮"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-development-2",
+      "knowledgeId": "china-reviewed-ch2a-private-development",
+      "title": "私学发展",
+      "text": "儒、墨、道、法四家在百家争鸣中影响最大，儒、墨两家更是被称为“显学”。",
+      "keywords": [
+        "儒墨道法",
+        "儒墨显学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-significance-0",
+      "knowledgeId": "china-reviewed-ch2a-private-significance",
+      "title": "打破垄断、扩大对象",
+      "text": "①打破教育垄断：教育活动与政治活动分离，成为独立的私学活动。\n②扩大教育对象：私学将教育对象扩大到社会平民。",
+      "keywords": [
+        "打破教育垄断",
+        "扩大到平民"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-significance-1",
+      "knowledgeId": "china-reviewed-ch2a-private-significance",
+      "title": "丰富内容、革新方式",
+      "text": "③丰富教育内容：各学派传授不同的政治观点、道德思想以及新知识、新技能。\n④革新教育方式：私学不一定有固定的教育场所，可以流动，灵活性强。",
+      "keywords": [
+        "新思想知识技能",
+        "流动灵活"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-significance-2",
+      "knowledgeId": "china-reviewed-ch2a-private-significance",
+      "title": "争鸣、自由与新时代",
+      "text": "⑤促进百家争鸣，推动传统教育理论的发展和论争。\n⑥体现自由原则：自由办学、自由讲学、自由竞争、自由游学、自由就学。\n⑦开辟教育新时代：从官学教育转向私学教育，开创中国古代教育的新模式、新阶段。",
+      "keywords": [
+        "百家争鸣",
+        "五大自由",
+        "官学转向私学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-private-significance-3",
+      "knowledgeId": "china-reviewed-ch2a-private-significance",
+      "title": "辅助理解：前世、当时、后世",
+      "text": "原书助记把七项意义分为：前世——打破教育垄断；当时——扩大对象、丰富内容、革新方式，并促进争鸣、体现自由；后世——开辟教育新时代。",
+      "keywords": [
+        "前世",
+        "当时",
+        "后世"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-background-0",
+      "knowledgeId": "china-reviewed-ch2a-jixia-background",
+      "title": "简介",
+      "text": "稷下学宫是战国时期齐国的齐桓公在都城临淄的稷门附近地区创办的一所著名学府，是战国时期百家争鸣的中心与缩影。创办约在公元前4世纪60年代，历时约150年。",
+      "keywords": [
+        "战国齐国",
+        "临淄稷门",
+        "百家争鸣中心"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-background-1",
+      "knowledgeId": "china-reviewed-ch2a-jixia-background",
+      "title": "创办条件",
+      "text": "①经济条件：齐国富裕、人口多。\n②政治需要：争霸需要招贤士。\n③养士需要：礼贤下士得民心。",
+      "keywords": [
+        "经济条件",
+        "政治需要",
+        "养士需要"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-nature-0",
+      "knowledgeId": "china-reviewed-ch2a-jixia-nature",
+      "title": "官家操办、私家主持",
+      "text": "稷下学宫是一所由官家操办而由私家主持的特殊形式的学校。",
+      "keywords": [
+        "官家操办",
+        "私家主持"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-nature-1",
+      "knowledgeId": "china-reviewed-ch2a-jixia-nature",
+      "title": "讲学、著述、育才与咨政议政",
+      "text": "稷下学宫是一所集讲学、著述、育才活动为一体，并兼有咨政议政作用的高等学府。讲学：定期举行期会（学术集会），《弟子职》使讲学活动更加制度化。著述：既有各家各派的著作，也有集体劳动的学术成果，如被誉为“稷下丛书”的《管子》。",
+      "keywords": [
+        "讲学",
+        "著述",
+        "育才",
+        "咨政议政"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-nature-2",
+      "knowledgeId": "china-reviewed-ch2a-jixia-nature",
+      "title": "育才与办学目的",
+      "text": "育才：不仅创造了良好的学术环境，而且将育才逐步制度化。咨政议政：突出办学目的的政治性特点。",
+      "keywords": [
+        "育才制度化",
+        "办学政治性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-features-0",
+      "knowledgeId": "china-reviewed-ch2a-jixia-features",
+      "title": "学术自由",
+      "text": "容纳百家，各派平等；老师与学生来去自由，相互争鸣。“不治而议论”：学者既不担任具体职务，也不加入官僚系统，却可以对国事发表批判性的言论。",
+      "keywords": [
+        "容纳百家",
+        "各派平等",
+        "来去自由",
+        "不治而议论"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-features-1",
+      "knowledgeId": "china-reviewed-ch2a-jixia-features",
+      "title": "待遇优厚",
+      "text": "物质待遇高，相当于上大夫的俸禄；政治待遇高，可以“不治而议论”。",
+      "keywords": [
+        "上大夫俸禄",
+        "政治待遇"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-features-2",
+      "knowledgeId": "china-reviewed-ch2a-jixia-features",
+      "title": "管理规范",
+      "text": "《弟子职》是我国第一个比较完备的学生守则，成为后世官学、私学、书院制定学则、学规的范本。",
+      "keywords": [
+        "弟子职",
+        "学生守则",
+        "后世范本"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-significance-0",
+      "knowledgeId": "china-reviewed-ch2a-jixia-significance",
+      "title": "思想学术与知识分子精神",
+      "text": "①促进了战国时期思想和学术的发展。\n②显示了中国古代知识分子的独立性和创造精神。",
+      "keywords": [
+        "思想学术发展",
+        "独立性",
+        "创造精神"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-jixia-significance-1",
+      "knowledgeId": "china-reviewed-ch2a-jixia-significance",
+      "title": "教育典范与启示",
+      "text": "③创造了一个出色的教育典范。\n④留下深刻的教育启示：切不可把教育作为促进国家发展的唯一力量。",
+      "keywords": [
+        "教育典范",
+        "教育启示"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-overview-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-overview",
+      "title": "人物与文献",
+      "text": "孔子名丘，字仲尼，春秋时期鲁国人。《论语》是孔子的弟子以及再传弟子记录孔子言行的书。",
+      "keywords": [
+        "丘",
+        "仲尼",
+        "鲁国",
+        "论语"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-overview-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-overview",
+      "title": "思想框架",
+      "text": "教育实践：创办私学、编订“六经”；教育作用：对社会、对个人；教育对象：“有教无类”；教育目的：“学而优则仕”；教育内容：“六经”；教育方法：因材施教、启发诱导、学思行结合、好学求是；道德教育：以“仁”“礼”为重；论教师：“学海以爱教知”（原书助记）；历史影响与评价。",
+      "keywords": [
+        "实践",
+        "作用",
+        "对象",
+        "目的",
+        "内容",
+        "方法",
+        "德育",
+        "教师",
+        "评价"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-practice-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-practice",
+      "title": "创办私学",
+      "text": "孔子并非第一个创办私学的人，但他创办的私学规模最大、数量最多、影响最深远。",
+      "keywords": [
+        "并非第一个",
+        "规模数量影响"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-practice-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-practice",
+      "title": "编订“六经”",
+      "text": "“六经”：《诗》《书》《礼》《乐》《易》《春秋》。",
+      "keywords": [
+        "诗书礼乐易春秋"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-role-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-role",
+      "title": "对社会：庶、富、教",
+      "text": "庶：较多劳动力；富：人民丰富的物质生活；教：政治伦理教育。孔子主张教育为政治服务，国家要实行德政。他是中国古代教育史上第一个论述教育与经济关系的教育家；庶、富是教化的前提。",
+      "keywords": [
+        "庶富教",
+        "为政治服务",
+        "经济与教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-role-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-role",
+      "title": "对个人：性相近也，习相远也",
+      "text": "人的先天素质没有多大差别，只是由于后天教育和社会环境的影响，才造成人的发展有重大的差别，所以教育的作用十分重大。",
+      "keywords": [
+        "先天相近",
+        "后天教育与环境",
+        "教育作用重大"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-role-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-role",
+      "title": "引申与评价",
+      "text": "原书列出：“生而知之者”——上智；“学而知之者”“困而学之”——中人；“困而不学”——下愚。积极方面：孔子首次论述教育与人的关系，说明教育的必要性和关键性，打破奴隶主贵族天赋高贵的传统，调动学习积极性。局限：“唯上智与下愚不移”是不科学的。",
+      "keywords": [
+        "教育与人",
+        "打破天赋高贵",
+        "上智下愚局限"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-access-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-access",
+      "title": "基本含义",
+      "text": "“有教无类”是孔子关于教育对象的基本主张：在教育对象上，不分贫富贵贱与种族，人人都可以入学校受教育。",
+      "keywords": [
+        "不分贫富贵贱种族",
+        "人人入学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-access-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-access",
+      "title": "教育实践",
+      "text": "只要学生有学习的愿望，行束脩礼，就可以成为其弟子。",
+      "keywords": [
+        "学习愿望",
+        "束脩礼"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-access-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-access",
+      "title": "评价",
+      "text": "①利于扩大教育对象：把受教育对象扩大到平民，满足平民入学受教育的愿望。\n②利于促进文化繁荣：促进文化下移、教育下移，进而促进文化繁荣。",
+      "keywords": [
+        "扩大对象",
+        "文化教育下移",
+        "文化繁荣"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-purpose-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-purpose",
+      "title": "培养目标",
+      "text": "孔子提出从平民中培养德才兼备的从政君子的教育目标，这条培养人才的路线可概括为“学而优则仕”。君子是孔子确立的人格理想，即有道德、有才能、可从政的人。",
+      "keywords": [
+        "平民",
+        "德才兼备",
+        "从政君子"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-purpose-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-purpose",
+      "title": "“学而优则仕”的含义",
+      "text": "教育的目的是培养官员，学习是通向做官的途径，学习成绩优良是做官的重要条件。",
+      "keywords": [
+        "培养官员",
+        "学习通向做官"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-purpose-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-purpose",
+      "title": "评价",
+      "text": "优点：①确立新型教育目的，意在以任人唯贤的选官制度取代任人唯亲的世袭制度，建立德才兼备的干部标准；②提供学习推力；③促进封建官僚制度建设。局限：成为功利读书观的思想源头。",
+      "keywords": [
+        "任人唯贤",
+        "学习推力",
+        "官僚制度",
+        "功利读书观"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-content-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-content",
+      "title": "“子以四教”与“六经”",
+      "text": "“子以四教：文、行、忠、信。”可归为文（文献）与德（品行、忠诚和信实）两类。“文”的内容主要是“六经”，道德与知识的学习都要基于“六经”。",
+      "keywords": [
+        "文行忠信",
+        "文与德",
+        "六经"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-content-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-content",
+      "title": "六部教材释义",
+      "text": "《诗》：中国最早的诗歌选集。《书》：又称《尚书》，古代历史文献汇编。《礼》：又称《士礼》，传于后世称《仪礼》，指君子应掌握的礼仪规范等。《乐》：各种美育形式的总称，内涵广泛，与诗、歌、舞、曲密切结合。《易》：又称周易，是一部卜筮之书，具有丰富的哲学内涵。《春秋》：我国现存第一部编年史，具有重要的历史价值。",
+      "keywords": [
+        "诗书礼乐易春秋"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-content-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-content",
+      "title": "教育内容的特点",
+      "text": "偏重社会人事；偏重文事；轻视科技与生产劳动。",
+      "keywords": [
+        "社会人事",
+        "文事",
+        "轻视科技劳动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-content-3",
+      "knowledgeId": "china-reviewed-ch2a-confucius-content",
+      "title": "评价",
+      "text": "优点：①“六经”作为六部教材，有利于实现孔子提出的培养目标；②开启以文献为教材的时代，引领后世封建社会各朝各代的教材风格；③不把宗教内容列为教学内容，成为中国古代非宗教性教育传统的开端。局限：孔子为教育与生产劳动相分离制造理论，产生了深远的历史影响。",
+      "keywords": [
+        "培养目标",
+        "文献教材",
+        "非宗教性教育",
+        "脱离生产劳动"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-six-arts-classics-0",
+      "knowledgeId": "china-reviewed-ch2a-six-arts-classics",
+      "title": "科目与教材的关系",
+      "text": "“六艺”是为培养未来官吏而开设的科目。“六经”是孔子编订的关于学习“六艺”中“礼”“乐”“书”“数”科目所用的六本教材。",
+      "keywords": [
+        "六艺科目",
+        "六经教材"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-six-arts-classics-1",
+      "knowledgeId": "china-reviewed-ch2a-six-arts-classics",
+      "title": "“艺”与“文”的关系",
+      "text": "“六艺”偏重技能行为训练，属于“艺”：礼乐是礼节、音乐、歌舞方面的技能训练；射御是射箭、驾车的技能训练；书数是书写、计算的技能训练。“六经”偏重文化知识学习，属于“文”。",
+      "keywords": [
+        "技能行为",
+        "文化知识",
+        "艺与文"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-six-arts-classics-2",
+      "knowledgeId": "china-reviewed-ch2a-six-arts-classics",
+      "title": "继承与发展的关系",
+      "text": "“六经”是在认同“六艺”学科设置的基础上编写的教材，但“六经”的内容又超越了“六艺”。",
+      "keywords": [
+        "认同学科设置",
+        "内容超越"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-individual-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-individual",
+      "title": "基本主张",
+      "text": "孔子是我国历史上首创因材施教的教育家，主张根据学生的个性特点和个体差异采取不同的教学方法。",
+      "keywords": [
+        "个性特点",
+        "个体差异",
+        "不同教法"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-individual-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-individual",
+      "title": "方法",
+      "text": "①承认学生间的个别差异。\n②了解学生的特点并做出评价。\n③依据学生特点进行有针对性的教育。",
+      "keywords": [
+        "承认差异",
+        "了解评价",
+        "针对性教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-individual-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-individual",
+      "title": "评价",
+      "text": "对教学：首创因材施教，培养了一批有才干的人才。对后世：因材施教在当今已经演变成公认的教学原则。",
+      "keywords": [
+        "培养人才",
+        "教学原则"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-heuristic-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-heuristic",
+      "title": "主张与原文",
+      "text": "孔子是世界上最早提出启发式教学的教育家，比古希腊教育家苏格拉底提出“助产术”早几十年。“不愤不启，不悱不发。举一隅不以三隅反，则不复也”体现了孔子的启发诱导思想。",
+      "keywords": [
+        "不愤不启",
+        "不悱不发",
+        "举一反三"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-heuristic-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-heuristic",
+      "title": "辅助解释：愤、悱、启、发",
+      "text": "朱熹《论语集注》解释：“愤者，心求通而未得之意，悱者，口欲言而未能之貌。启谓开其意，发谓达其辞。”",
+      "keywords": [
+        "心求通未得",
+        "口欲言未能",
+        "开其意",
+        "达其辞"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-heuristic-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-heuristic",
+      "title": "方法",
+      "text": "①“一以贯之”：综合各事物的本质特征形成一个基本的思想观点，并贯穿于一切处事接物的言行中。\n②“叩其两端”：从事物的正反两方面思考问题，进而解决问题。",
+      "keywords": [
+        "一以贯之",
+        "叩其两端"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-heuristic-3",
+      "knowledgeId": "china-reviewed-ch2a-confucius-heuristic",
+      "title": "评价",
+      "text": "①更多地强调启发的时机，强调激发学生的主动性和思考，锻炼思维能力。\n②启发方法仍是比较原始、简单的“原型启发”，主要是类比与比喻，在归纳程度上不如古希腊的苏格拉底。",
+      "keywords": [
+        "启发时机",
+        "主动思考",
+        "原型启发",
+        "类比比喻"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-learning-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-learning",
+      "title": "基本内容",
+      "text": "孔子提出的学、思、行结合的教学方法论，以具有唯物主义倾向的认识路线为基础。其含义包括：“学而知之”；“学而不思则罔，思而不学则殆”；“学以致用”。",
+      "keywords": [
+        "学而知之",
+        "学思结合",
+        "学以致用"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-learning-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-learning",
+      "title": "关系与影响",
+      "text": "揭示学、思、行之间的关系：学是手段，行是目的，行比学更重要，学与行离不开思。这一思想影响后世，如《中庸》继承这一思想，把学习过程分为学、问、思、辨、行五个阶段。",
+      "keywords": [
+        "学手段",
+        "行目的",
+        "离不开思",
+        "学问思辨行"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-attitude-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-attitude",
+      "title": "三种态度",
+      "text": "①好学乐学：“知之者不如好之者，好之者不如乐之者。”\n②不耻下问。\n③实事求是。",
+      "keywords": [
+        "好学乐学",
+        "不耻下问",
+        "实事求是"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-attitude-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-attitude",
+      "title": "评价",
+      "text": "孔子要求树立好学求是的态度，这对于学习具有重大意义。",
+      "keywords": [
+        "好学求是"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-moral-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-moral",
+      "title": "内容：仁与礼",
+      "text": "“仁”和“礼”是孔子道德教育的主要内容：“仁”为最高道德准则；“礼”为道德规范和行为规范。“仁”和“礼”是内容和形式的关系。",
+      "keywords": [
+        "仁最高准则",
+        "礼规范",
+        "内容与形式"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-moral-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-moral",
+      "title": "原则方法：立志、克己、力行",
+      "text": "立志：“三军可夺帅也，匹夫不可夺志也。”\n克己：“君子求诸己，小人求诸人。”\n力行：“言必信，行必果。”",
+      "keywords": [
+        "立志",
+        "克己",
+        "力行"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-moral-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-moral",
+      "title": "原则方法：中庸、内省、改过",
+      "text": "中庸：“中庸者，不偏不倚，无过不及，而平常之理。”孔子说：“过犹不及。”\n内省：“见贤思齐焉，见不贤而内自省也。”\n改过：“君子之过也，如日月之食焉。过也，人皆见之。更也，人皆仰之。”“过则勿惮改。”",
+      "keywords": [
+        "中庸",
+        "内省",
+        "改过"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-moral-3",
+      "knowledgeId": "china-reviewed-ch2a-confucius-moral",
+      "title": "评价",
+      "text": "孔子提供了明确的德育内容与方法，反对道德灌输。",
+      "keywords": [
+        "明确内容方法",
+        "反对灌输"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-teacher-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-teacher",
+      "title": "学而不厌、诲人不倦",
+      "text": "学而不厌：这是教人的前提条件，教师应该重视自身学习修养，掌握广博知识。诲人不倦：教师要以耐心说服的态度教育学生，给予学生高度的爱和责任。",
+      "keywords": [
+        "自身修养",
+        "广博知识",
+        "耐心教育",
+        "爱与责任"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-teacher-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-teacher",
+      "title": "以身作则、爱护学生",
+      "text": "以身作则：强调身教比言传更重要，“其身正，不令而行；其身不正，虽令不从。”爱护学生：爱护、尊重学生，对学生充满信心，提倡客观公正地对待学生。",
+      "keywords": [
+        "身教重于言传",
+        "尊重信任",
+        "客观公正"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-teacher-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-teacher",
+      "title": "教学相长、温故知新",
+      "text": "教学相长：教学中不是单方面的知识传授，师生可以经常切磋学问、教学相长。温故知新：教师有传递和发展文化知识的使命，既要注意继承，又要注意创新。",
+      "keywords": [
+        "切磋学问",
+        "双向学习",
+        "继承创新"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-teacher-3",
+      "knowledgeId": "china-reviewed-ch2a-confucius-teacher",
+      "title": "评价",
+      "text": "孔子是中国历史上教师的光辉典范，他的教师素养观已演变为中国教师的优良传统。",
+      "keywords": [
+        "教师典范",
+        "优良传统"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-impact-0",
+      "knowledgeId": "china-reviewed-ch2a-confucius-impact",
+      "title": "总体评价",
+      "text": "孔子是世界公认的伟大思想家与教育家。他毕生从事教育事业，建立丰功伟绩，其教育学说为中国古代教育奠定了理论基础。",
+      "keywords": [
+        "教育事业",
+        "理论基础"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-impact-1",
+      "knowledgeId": "china-reviewed-ch2a-confucius-impact",
+      "title": "教育贡献：作用、私学、对象、目的",
+      "text": "①提出“庶、富、教”和“性相近也，习相远也”，首次说明教育在社会发展与人的发展中的重要作用，强调重视教育。\n②成为早期创办私学的教育家之一和百家争鸣的先驱。\n③实行“有教无类”，扩大教育对象，促进文化教育下移。\n④提出“学而优则仕”的教育目的，引领后世读经做官教育模式的形成。",
+      "keywords": [
+        "教育作用",
+        "私学先驱",
+        "有教无类",
+        "学而优则仕"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-impact-2",
+      "knowledgeId": "china-reviewed-ch2a-confucius-impact",
+      "title": "教育贡献：教材、教法、德育、教师",
+      "text": "⑤重视古代典籍整理，编纂“六经”作为教材，有利于文化保存和教育发展。\n⑥总结教学实践，提出因材施教、启发诱导、学思行结合、好学求是等开创性方法。\n⑦重视以“仁”“礼”为核心的道德教育，确立古代社会的道德规范和思想。\n⑧尊师重道的教师观引领后世，并树立理想教师的典型形象。",
+      "keywords": [
+        "六经教材",
+        "教学方法",
+        "仁礼德育",
+        "教师典范"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-impact-3",
+      "knowledgeId": "china-reviewed-ch2a-confucius-impact",
+      "title": "社会、文化与国际影响",
+      "text": "社会方面：作为儒家学派创始人，孔子的思想学说深刻影响中国封建时代的政治、经济和文化，影响既有积极方面，也有消极方面，在不同历史阶段起到不同作用。文化方面：孔子的教育思想是中华民族珍贵文化遗产的一部分，应以历史唯物主义为指导，批判性继承这一珍贵教育遗产，以促进现代文化教育事业的发展。国际方面：孔子与苏格拉底齐名，是具有世界影响力的精神导师和世界公认的伟大思想家。",
+      "keywords": [
+        "儒家创始人",
+        "文化遗产",
+        "批判性继承",
+        "世界影响"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch2a-confucius-impact-4",
+      "knowledgeId": "china-reviewed-ch2a-confucius-impact",
+      "title": "局限",
+      "text": "教育对象上：提出“唯小人和女子难养也”，将奴隶和女性排除在教育对象之外。教育内容上：轻视科学和农业知识。",
+      "keywords": [
+        "对象局限",
+        "轻视科学农业"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p014-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "私人讲学的兴起与诸子百家私学的发展 · 第6页（1）",
+        "section": "第一节春秋战国时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 14,
+            "rect": [
+              0.10124,
+              0.21269,
+              0.82082,
+              0.41548
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 14196,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p014-k02-0-s0",
+          "knowledgeId": "china-p014-k02-0",
+          "title": "原文小步 1",
+          "text": "1.经济：生产力的发展。封建私有制逐渐代替了井田制，促进了奴隶制的解体。经\n济下移”与“政治下移”使私学建立在土地私有的个体\n经济基础上，这是私学产生的物质基础。\n2.政治：官学衰落。世袭制度造成贵族不重视教育；王权衰落导致学校荒废；战",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p014-k02-0-s1",
+          "knowledgeId": "china-p014-k02-0",
+          "title": "原因",
+          "text": "争动乱使学校难以维持。\n（一）原因\n3.文化：学术下移。在官府任教的知识分子为了谋生，在民间以教授知识为业，\n造成了“天子失官，学在四夷”的局面。\n4.阶层：士阶层的出现。士阶层是奴隶制度下贵族的下层，在封建制度兴起时转",
+          "keywords": [
+            "原因"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p014-k02-0-s2",
+          "knowledgeId": "china-p014-k02-0",
+          "title": "表现",
+          "text": "化为平民阶级的上层。各诸侯国争相养士+大批自由\n私人讲学的兴起与诸子百家私学的发展\n民想成为士阶层→促使出现培养士的私学机构，私学随\n之兴盛。\n1.养士之风盛行。士阶层成为统治阶级的附庸。由于政治斗争的需要，养士出现\n了竞争，养士之风开始形成。\n（二）表现",
+          "keywords": [
+            "表现"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p014-k02-0-s3",
+          "knowledgeId": "china-p014-k02-0",
+          "title": "(发展)",
+          "text": "2.百家争鸣。“百家”是虚指，形容学派之多。春秋时期已经开始百家争鸣，战\n(发展)\n国时期百家争鸣达到高潮。\n3.私学发展。儒、墨、道、法四家在百家争鸣中影响最大，儒、墨两家更是被称为\n“显学”。",
+          "keywords": [
+            "(发展)"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p014-k02-0-s4",
+          "knowledgeId": "china-p014-k02-0",
+          "title": "原文小步 5",
+          "text": "1.打破了教育垄断。教育活动与政治活动分离，成为独立的私学活动。\n2.扩大了教育对象。私学将教育对象扩大到社会平民。\n3.丰富了教育内容。各学派传授不同的政治观点、道德思想以及新知识、新技能。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p014-k02-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "私人讲学的兴起与诸子百家私学的发展 · 第6页（2）",
+        "section": "第一节春秋战国时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 14,
+            "rect": [
+              0.16429,
+              0.61977,
+              0.75846,
+              0.27997
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 14568,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p014-k02-1-s0",
+          "knowledgeId": "china-p014-k02-1",
+          "title": "意义",
+          "text": "4.革新了教育方式。私学不一定有固定的教育场所，可以流动，灵活性强。\n（三) 意义\n5.促进了百家争鸣。私学促进了传统教育理论的发展和论争。\n6.体现了自由原则。私学依靠自由办学、自由讲学、自由竞争、自由游学、自\n由就学五大自由来发展教育。",
+          "keywords": [
+            "意义"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p014-k02-1-s1",
+          "knowledgeId": "china-p014-k02-1",
+          "title": "凯程助记",
+          "text": "7.开辟了教育新时代。从官学教育转向私学教育，开创了中国古代教育的新模式、\n新阶段。\n井田\n凯程助记\n前世\n1.打破教育垄断。\n2.扩大教育对象。\n5.促进百家争鸣。\n（二）当时\n3.丰富教育内容。\n6.体现自由原则。\n4.革新教育方式。\n(三)后世\n7.开辟教育新时代。",
+          "keywords": [
+            "凯程助记",
+            "当时",
+            "后世"
+          ],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p015-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "齐国的稷下学宫 · 第7页（1）",
+        "section": "第一节春秋战国时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 15,
+            "rect": [
+              0.09301,
+              0.12938,
+              0.82083,
+              0.49969
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 15121,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p015-k01-0-s0",
+          "knowledgeId": "china-p015-k01-0",
+          "title": "简介",
+          "text": "（一）简介\n稷下学宫是战国时期齐国的齐桓公在都城临淄的稷门附近地区创办的一所著名学府，\n是战国时期百家争鸣的中心与缩影。（创办约在公元前4世纪60年代，历时约150年）\n1.经济条件：齐国富裕人口多。\n创办条件\n2.政治需要：争霸需要招贤士。",
+          "keywords": [
+            "简介",
+            "创办条件"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p015-k01-0-s1",
+          "knowledgeId": "china-p015-k01-0",
+          "title": "养士需要：礼贤下士得民心",
+          "text": "3.养士需要：礼贤下士得民心。\n-1. 稷下学宫是一所由官家操办而由私家主持的特殊形式的学校。\n（1）讲学：学宫定期举行期会（学术集会），《弟子职》\n2. 稷下学宫是一所\n将讲学活动更加制度化。\n(三) 性质\n集讲学、著述、育",
+          "keywords": [
+            "养士需要：礼贤下士得民心",
+            "稷下学宫是一所",
+            "性质"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p015-k01-0-s2",
+          "knowledgeId": "china-p015-k01-0",
+          "title": "才活动为一体并兼",
+          "text": "（2）著述：既有各家各派的著作，还有集体劳动的学\n才活动为一体并兼\n术成果，如被誉为“稷下丛书”的《管子》。\n齐国的稷下学宫\n有咨政议政作用的\n（3）育才：不仅创造了良好的学术环境，还将育才逐\n高等学府\n步制度化。\n（4）咨政议政：突出办学目的的政治性特点。",
+          "keywords": [
+            "才活动为一体并兼",
+            "齐国的稷下学宫",
+            "有咨政议政作用的"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p015-k01-0-s3",
+          "knowledgeId": "china-p015-k01-0",
+          "title": "学术自由",
+          "text": "（1）容纳百家。（2）各派平等。\n（3）来去自由（老师与学生)。（4）相互争鸣。\n1.学术自由\n（5）“不治而议论”。学者既不担任具体职务，也不加入官僚系\n统，却可以对国事发表批判性的言论，这是学术自由的表现。\n（四）特点",
+          "keywords": [
+            "学术自由",
+            "特点"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p015-k01-0-s4",
+          "knowledgeId": "china-p015-k01-0",
+          "title": "待遇优厚",
+          "text": "（1）物质待遇高：相当于上大夫的俸禄（薪水丰厚）。\n2. 待遇优厚\n（2）政治待遇高：“不治而议论”。\n3.管理规范\n我国第一个比较完备的学生守则《弟子职》，成为后世官学、私学、\n书院制定学则、学规的范本。\n1.稷下学宫促进了战国时期思想和学术的发展。",
+          "keywords": [
+            "待遇优厚",
+            "管理规范"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p015-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "齐国的稷下学宫 · 第7页（2）",
+        "section": "第一节春秋战国时期的教育制度与实践",
+        "refs": [
+          {
+            "page": 15,
+            "rect": [
+              0.16635,
+              0.62118,
+              0.74132,
+              0.08738
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 15569,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p015-k01-1-s0",
+          "knowledgeId": "china-p015-k01-1",
+          "title": "意义",
+          "text": "2.稷下学宫显示了中国古代知识分子的独立性和创造精神。\n（五）意义\n3.稷下学宫创造了一个出色的教育典范\n4.稷下学宫留下了深刻的教育启示。切不可把教育作为促进国家发展的唯一\n力量。",
+          "keywords": [
+            "意义"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p016-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第8页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 16,
+            "rect": [
+              0.10192,
+              0.16374,
+              0.81672,
+              0.6479
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 16152,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p016-k02-0-s0",
+          "knowledgeId": "china-p016-k02-0",
+          "title": "原文小步 1",
+          "text": "（一）教育实践：创办私学；编订“六经”\n（二）教育作用：对社会；对个人\n（三）教育对象：“有教无类”\n（四）教育目的：“学而优则仕”\n孔子\n（五）教育内容：“六经”\n（六）教育方法：“好学启因”\n扫码回复“相关古文”\n（七）道德教育：“仁”“礼”为重",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p016-k02-0-s1",
+          "knowledgeId": "china-p016-k02-0",
+          "title": "创办私学",
+          "text": "（孔子：名丘，字仲尼，春秋时期鲁国人）\n（八）论教师：“学诲以爱教知”\n《论语》：孔子的弟子以及再传弟子记录孔\n（九）历史影响与评价\n子言行的书。\n1.创办私学\n孔子并非第一个创办私学的人，但他创办的私学规模最大、数量最多、\n影响最深远。\n(一)屋\n教育实践",
+          "keywords": [
+            "创办私学",
+            "教育实践"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p016-k02-0-s2",
+          "knowledgeId": "china-p016-k02-0",
+          "title": "编订“六经”",
+          "text": "2.编订“六经”\n《诗》《书》《礼》《乐》《易》《春秋》。\n（1）庶：较多劳动力。\n（2）富：人民丰富的物质生活。\n1. 对社会：\n（3）教：政治伦理教育。\n孔子主张教育为政治服务，国家要实行德政。\n庶、富、教",
+          "keywords": [
+            "编订“六经”",
+            "对社会",
+            "庶、富、教"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p016-k02-0-s3",
+          "knowledgeId": "china-p016-k02-0",
+          "title": "教育作用",
+          "text": "孔子是中国古代教育史上第一个论述教育与经济关系的教育家。庶、\n富是教化的前提。\n教育作用\n(1)含义\n人的先天素质没有多大差别，只是由于后天教\n(C)\n育和社会环境的影响作用，才造成人的发展有\n重大的差别。所以，教育的作用十分重大。\n“生而知之者”→上智。",
+          "keywords": [
+            "教育作用",
+            "含义",
+            "(C)"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p016-k02-0-s4",
+          "knowledgeId": "china-p016-k02-0",
+          "title": "对个人",
+          "text": "2.对个人：\n(2)引申\n“学而知之者”“困而学之”→中人。\n性相近也，习相远也\n“困而不学”→下愚。\n①积极：孔子首次论述了教育与人的关系，说\n明了教育的必要性和关键性，打破了\n(3）评价\n奴隶主贵族天赋高贵的传统，提高了\n人们求学的积极性。",
+          "keywords": [
+            "对个人",
+            "引申",
+            "性相近也，习相远也"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p016-k02-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第8页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 16,
+            "rect": [
+              0.0985,
+              0.80426,
+              0.8174,
+              0.12226
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 16734,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p016-k02-1-s0",
+          "knowledgeId": "china-p016-k02-1",
+          "title": "教育对象",
+          "text": "②局限：“唯上智与下愚不移”是不科学的。\n（三）教育对象：\n1.简介\n孔子关于教育对象的基本主张是“有教无类”。\n“有教无类”\n2. 含义\n“有教无类”的本意是在教育对象上，不分贫富贵贱与种族，人人都可以入\n学接受教育。",
+          "keywords": [
+            "教育对象",
+            "简介",
+            "“有教无类”"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p017-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第9页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 17,
+            "rect": [
+              0.09184,
+              0.07708,
+              0.82112,
+              0.56635
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 17074,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p017-k00-0-s0",
+          "knowledgeId": "china-p017-k00-0",
+          "title": "实践",
+          "text": "3.实践\n只要学生有学习的愿望，行束礼，就可以成为其弟子。\n（三）教育对象：\n“有教无类”\n（1）利于扩大教育对象。把受教育的对象扩大到平民，满足了平民入学\n4.评价\n受教育的愿望。\n（2）利于促进文化繁荣。促进文化下移、教育下移，进而促进文化繁荣。\n1.简介",
+          "keywords": [
+            "实践",
+            "教育对象",
+            "“有教无类”"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p017-k00-0-s1",
+          "knowledgeId": "china-p017-k00-0",
+          "title": "含义",
+          "text": "孔子提出从平民中培养德才兼备的从政君子的教育目标，这条培育人才的路\n线可概括为“学而优则仕”。\n（1）“德才兼备的从政君子”。经过教育培养有道德、有才能、可从政的君子，\n2. 含义\n君子是孔子确立的人格理想。\n（四）教育目的：",
+          "keywords": [
+            "含义",
+            "教育目的"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p017-k00-0-s2",
+          "knowledgeId": "china-p017-k00-0",
+          "title": "“学而优则仕”",
+          "text": "（2）“学而优则仕”。教育的目的是培养官员，学习是通向做官的途径，\n“学而优则仕”\n学习成绩优良是做官的重要条件。\n①确立了新型的教育目的。意在以任人唯贤的选官制度\n取代任人唯亲的世袭制度，建立德才兼备的干部标准。\n(1) 优点\n②提供了学习推力。\n3.评价",
+          "keywords": [
+            "“学而优则仕”",
+            "优点",
+            "②提供了学习推力"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p017-k00-0-s3",
+          "knowledgeId": "china-p017-k00-0",
+          "title": "③促进了封建官僚制度的建设",
+          "text": "③促进了封建官僚制度的建设。\n(2)局限\n功利读书观的思想源头。\n子以四教：文、行、忠、信。”归为两类：文（文献）与德（品行、忠诚\n1. 简介\n和信实）。\n“文”的内容主要是“六经”。道德与知识的学习都要基于“六经”。\n《诗》是中国最早的诗歌选集。",
+          "keywords": [
+            "③促进了封建官僚制度的建设",
+            "局限",
+            "功利读书观的思想源头"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p017-k00-0-s4",
+          "knowledgeId": "china-p017-k00-0",
+          "title": "内容",
+          "text": "《书》又称《尚书》，古代历史文献汇编。\n2.内容\n《礼》又称《士礼》，传于后世称为《仪礼》，指君子应掌握的礼仪规范等。\n（教材）\n《乐》是各种美育形式的总称，内涵广泛，与诗、歌、舞、曲密切结合在一起。\n（五）教育内容：",
+          "keywords": [
+            "内容",
+            "（教材）",
+            "教育内容"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p017-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第9页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 17,
+            "rect": [
+              0.08909,
+              0.61503,
+              0.81838,
+              0.24379
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 17563,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p017-k00-1-s0",
+          "knowledgeId": "china-p017-k00-1",
+          "title": "“六经”",
+          "text": "《易》又称周易，是一部卜签（bushi）之书，具有丰富的哲学内涵。\n“六经”\n《春秋》是我国现存第一部编年史，具有重要的历史价值。\n★★★吉吉\n3. 特点\n（1）偏重社会人事；（2）偏重文事；（3）轻视科技与生产劳动。",
+          "keywords": [
+            "“六经”",
+            "★★★吉吉",
+            "特点"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p017-k00-1-s1",
+          "knowledgeId": "china-p017-k00-1",
+          "title": "优点",
+          "text": "①“六经”作为六部教材，在实现孔子提出的培养目标\n方面大有作用。\n②孔子开启了以文献为教材的时代，引领了后世封建社\n(1) 优点\n会各朝各代的教材风格。\n4.评价\n③孔子不把宗教内容列为教学内容，这成为中国古代非\n宗教性教育传统的开端。\n(2) 局限",
+          "keywords": [
+            "优点",
+            "评价",
+            "局限"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p017-k00-1-s2",
+          "knowledgeId": "china-p017-k00-1",
+          "title": "原文小步 8",
+          "text": "孔子为教育与生产劳动相分离制造理论，产生了深远的历史\n影响。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p018-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第10页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 18,
+            "rect": [
+              0.16327,
+              0.07964,
+              0.75794,
+              0.42585
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 18077,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p018-k00-0-s0",
+          "knowledgeId": "china-p018-k00-0",
+          "title": "“六艺”与“六经”的关系",
+          "text": "“六艺”与“六经”的关系：\n（1）“六艺”与“六经”之间是“科目”和“教材”的关系。\n①“六艺”是为培养未来官吏而开设的科目。\n②“六经”是孔子编订的关于学习“六艺”中“礼”“乐”“书”“数”科目所用的六本教材。",
+          "keywords": [
+            "“六艺”与“六经”的关系"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p018-k00-0-s1",
+          "knowledgeId": "china-p018-k00-0",
+          "title": "深化",
+          "text": "（2）“六艺”与“六经”是“艺”与“文”的关系。\n5.深化\n①“六艺”偏重于技能行为的训练，属于“艺”的范围。其中，“礼”“乐”是关于礼节、\n音乐、歌舞方面的技能训练；“射”“御”是射箭、驾车的技能训练；“书”“数”是书写、\n计算的技能训练。",
+          "keywords": [
+            "深化"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p018-k00-0-s2",
+          "knowledgeId": "china-p018-k00-0",
+          "title": "原文小步 3",
+          "text": "②“六经”偏重于文化知识的学习，属于“文”的范围。\n（3）“六经”对“六艺”是继承与发展的关系。“六经”是在认同“六艺”学科设置的基\n础上编写的教材，但“六经”的内容又超越了“六艺”。\n（1）简介：孔子是我国历史上首创因材施教的教育家。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p018-k00-0-s3",
+          "knowledgeId": "china-p018-k00-0",
+          "title": "因材施教",
+          "text": "（2）含义：孔子主张根据学生的个性特点和个体差异采取不同的教学方法。\n（3）方法：①承认学生间的个别差异。\n1.因材施教\n②了解学生的特点并做出评价\n③依据学生特点进行有针对性的教育。\n（4）评价：①对教学。孔子首创因材施教，培养了一批有才干的人才。",
+          "keywords": [
+            "因材施教",
+            "②了解学生的特点并做出评价"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p018-k00-0-s4",
+          "knowledgeId": "china-p018-k00-0",
+          "title": "原文小步 5",
+          "text": "②对后世。因材施教在当今已经演变成公认的教学原则。\n（1）简介：孔子是世界上最早提出启发式教学的教育家，比古希腊教育家苏格拉\n底提出“助产术”早几十年。\n（2）含义：“不愤不启，不不发。举一隅不以三隅反，则不复也”体现了孔子的",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p018-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第10页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 18,
+            "rect": [
+              0.09253,
+              0.4981,
+              0.82936,
+              0.43919
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 18458,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p018-k00-1-s0",
+          "knowledgeId": "china-p018-k00-1",
+          "title": "启发诱导",
+          "text": "启发诱导思想。朱熹《论语集注》解释道：“愤者，心求通而未得之意，\n排者，口欲言而未能之貌。启谓开其意，发谓达其辞。”\n2.启发诱导\n（3）方法：①“一以贯之”。综合各事物的本质特征形成一个基本的思想观点，并\n贯穿于一切处事接物的言行中。\n六教育方法",
+          "keywords": [
+            "启发诱导",
+            "教育方法"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p018-k00-1-s1",
+          "knowledgeId": "china-p018-k00-1",
+          "title": "原文小步 7",
+          "text": "②“叩其两端”。从事物的正反两方面思考问题，进而解决问题。\n（4）评价：①孔子更多地强调了启发的时机。强调激发学生的主动性和思考，锻\n炼学生的思维能力。\n②启发的方法仍是比较原始、简单的“原型启发”，主要是类比与比喻。\n在归纳程度上不如古希腊的苏格拉底。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p018-k00-1-s2",
+          "knowledgeId": "china-p018-k00-1",
+          "title": "学思、行",
+          "text": "一（1）简介：孔子提出的学、思、行结合的教学方法论是以具有唯物主义倾向的\n认识路线为基础的。\n3.学思、行\n(2）含义①“学而知之”。\n结合\n②“学而不思则罔，思而不学则殆”。\n③“学以致用”。",
+          "keywords": [
+            "学思、行",
+            "含义①“学而知之”",
+            "③“学以致用”"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p018-k00-1-s3",
+          "knowledgeId": "china-p018-k00-1",
+          "title": "原文小步 9",
+          "text": "（3）评价：①揭示了学、思、行之间的关系。学是手段，行是目的，行比学更重要，\n学与行离不开思。\n2影响后世。如《中庸》继承孔子这一思想，把学习过程分为学、问、思、辨、\n行五个阶段。\n（1）内容：①好学乐学的态度。子日：“知之者不如好之者，好之者不如乐之者。”",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p018-k00-1-s4",
+          "knowledgeId": "china-p018-k00-1",
+          "title": "好学求是",
+          "text": "4.好学求是\n②不耻下问的态度。\n的态度（必\n③实事求是的态度。\n要补充点）",
+          "keywords": [
+            "好学求是",
+            "②不耻下问的态度",
+            "的态度（必"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p019-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第11页（1）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 19,
+            "rect": [
+              0.09527,
+              0.07913,
+              0.81358,
+              0.52431
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 19076,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p019-k00-0-s0",
+          "knowledgeId": "china-p019-k00-0",
+          "title": "内容",
+          "text": "“仁”为最高道德准则。\n（1）“仁”和“礼”是孔子道德教育的主要内容\n“礼”为道德规范和行为规范。\n1.内容\n（2）“仁”和“礼”的关系就是内容和形式的关系\n（1）立志。“三军可夺帅也，匹夫不可夺志也。”\n（2）克己。“君子求诸己，小人求诸人。”\n2.原则方法",
+          "keywords": [
+            "内容",
+            "原则方法"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p019-k00-0-s1",
+          "knowledgeId": "china-p019-k00-0",
+          "title": "原文小步 2",
+          "text": "（3）力行。“言必信，行必果。”\n（4）中庸。“中庸者，不偏不倚，无过不及，而平常之理。”子日：“过犹不及。”\n（5）内省。“见贤思齐焉，见不贤而内自省也。”\n（6）改过。“君子之过也，如日月之食焉，过也，人皆见之，更也，人皆仰之。”“过\n则勿惮改。”",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p019-k00-0-s2",
+          "knowledgeId": "china-p019-k00-0",
+          "title": "评价",
+          "text": "（1）孔子提供了明确的德育内容与方法。\n3.评价\n(2）孔子反对道德灌输。\n1.简介\n孔子探讨了优秀教师应具备的素养这一问题。\n（1）学而不厌。这是教人的前提条件，教师应该重视自身的学习修养，掌握广博的知识。",
+          "keywords": [
+            "评价",
+            "孔子反对道德灌输",
+            "简介"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p019-k00-0-s3",
+          "knowledgeId": "china-p019-k00-0",
+          "title": "内容",
+          "text": "（2）诲人不倦。教师要以耐心说服的态度去教育学生，给予学生高度的爱和责任。\n（3）以身作则。孔子强调身教比言传更重要。“其身正，不令而行；其身不正，虽令不从。”\n（4）爱护学生。孔子爱护、尊重学生，对学生充满信心，提倡客观公正地对待学生。\n2. 内容\n食食市",
+          "keywords": [
+            "内容",
+            "食食市"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p019-k00-0-s4",
+          "knowledgeId": "china-p019-k00-0",
+          "title": "评价",
+          "text": "（5）教学相长。孔子认为在教学过程中教师对学生不是单方面的知识传授，师生可\n以经常切学问，是可以教学相长的。\n（6）温故知新。教师有传递和发展文化知识的使命，既要注意继承，又要注意创新。\n3.评价",
+          "keywords": [
+            "评价"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p019-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第11页（2）",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 19,
+            "rect": [
+              0.15297,
+              0.574,
+              0.75312,
+              0.31918
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 19527,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p019-k00-1-s0",
+          "knowledgeId": "china-p019-k00-1",
+          "title": "教育方面",
+          "text": "孔子是中国历史上教师的光辉典范，他的教师素养观已演变为中国教师的优良传统。\n1.简介：孔子是世界公认的伟大思想家与教育家，他毕生从事教育事业，建立了丰功伟绩，他的教\n育学说为中国古代教育奠定了理论基础。\n2. 教育方面:",
+          "keywords": [
+            "教育方面"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p019-k00-1-s1",
+          "knowledgeId": "china-p019-k00-1",
+          "title": "原文小步 7",
+          "text": "（1）孔子提出“庶、富、教”和“性相近也，习相远也”，首次说明教育在社会发展与人的发展中的\n重要作用，强调重视教育。\n（2）孔子成为早期创办私学的教育家之一，成为百家争鸣的先驱。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p019-k00-1-s2",
+          "knowledgeId": "china-p019-k00-1",
+          "title": "原文小步 8",
+          "text": "（3）孔子实行“有教无类”的教育方针，扩大教育对象的范围，促进文化和教育的下移。\n（4）孔子提出“学而优则仕”的教育目的，引领后世读经做官教育模式的形成。\n（5）孔子重视古籍整理，编纂“六经”作为教材，有利于文化的保存，促进了教育的发展。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p019-k00-1-s3",
+          "knowledgeId": "china-p019-k00-1",
+          "title": "原文小步 9",
+          "text": "（6）孔子总结了教学实践经验，提出了因材施教，启发诱导，学、思、行结合，好学求是等具有\n开创性的教学方法。\n（7）孔子重视以“仁”和“礼”为核心的道德教育，确立了我国整个古代社会的道德规范和思想。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p019-k00-1-s4",
+          "knowledgeId": "china-p019-k00-1",
+          "title": "原文小步 10",
+          "text": "（8）孔子尊师重道的教师观引领了中国后世的教师观，他本人也树立了一个理想教师的典型形象。",
+          "keywords": [],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p020-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-1",
+        "title": "孔子的教育实践与教育思想 · 第12页",
+        "section": "第二节春秋战国时期各学派的教育思想",
+        "refs": [
+          {
+            "page": 20,
+            "rect": [
+              0.16052,
+              0.08067,
+              0.76069,
+              0.16635
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 20078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p020-k00-0-s0",
+          "knowledgeId": "china-p020-k00-0",
+          "title": "原文小步 1",
+          "text": "3.社会方面：孔子是儒家学派的创始人，而儒家学派与中国封建社会的发展密切相关。因此，孔子\n的思想学说深刻地影响着中国封建时代的政治、经济和文化，这种影响既有积极方面也有消极方面，\n在不同历史阶段起到了不同的作用。",
+          "keywords": [],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p020-k00-0-s1",
+          "knowledgeId": "china-p020-k00-0",
+          "title": "原文小步 2",
+          "text": "4.文化方面：孔子的教育思想是中华民族珍贵文化遗产的一部分。我们应当以历史唯物主义为指导，\n批判地继承这一份珍贵的教育遗产，以促进现代文化教育事业的发展。\n5.国际影响力方面：孔子与苏格拉底齐名。孔子是具有世界影响力的精神导师，是世界公认的伟大思想家。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p020-k00-0-s2",
+          "knowledgeId": "china-p020-k00-0",
+          "title": "原文小步 3",
+          "text": "6.局限：（1）在教育对象上，孔子提出“唯小人和女子难养也”，将奴隶和女性排除在教育对象之外。\n（2）在教育内容上，孔子也轻视科学和农业知识。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 7,
+    "knowledge": 21,
+    "steps": 65,
+    "readOnlySteps": 6,
+    "replacedDrafts": 13
+  }
+}

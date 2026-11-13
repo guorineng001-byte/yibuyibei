@@ -1,0 +1,3467 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch3-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch3-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "学习动机：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 38,
+          "rect": [
+            0.07,
+            0.125,
+            0.86,
+            0.345
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 38112,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "学习动机概述",
+      "section": "第一节 · 学习动机的实质与作用 · 考点一",
+      "refs": [
+        {
+          "page": 38,
+          "rect": [
+            0.07,
+            0.58,
+            0.86,
+            0.34
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 38522,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-classification-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "学习动机四种划分依据与类型原表",
+      "section": "第一节 · 学习动机的实质与作用 · 考点一 · （三）分类",
+      "refs": [
+        {
+          "page": 38,
+          "rect": [
+            0.07,
+            0.645,
+            0.86,
+            0.275
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 38580,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "学习动机与学习效果的关系（必要补充点）",
+      "section": "第一节 · 学习动机的实质与作用 · 考点二",
+      "refs": [
+        {
+          "page": 39,
+          "rect": [
+            0.07,
+            0.12,
+            0.86,
+            0.445
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 39108,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-yerkes-dodson-curves",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "倒U型曲线及任务难度对应图",
+      "section": "第一节 · 学习动机的实质与作用 · 考点二 · 耶克斯—多德森定律",
+      "refs": [
+        {
+          "page": 39,
+          "rect": [
+            0.385,
+            0.22,
+            0.53,
+            0.34
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 39198,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-reinforcement",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "学习动机的强化理论（行为主义心理学家）",
+      "section": "第二节 · 学习动机的主要理论 · 考点一",
+      "refs": [
+        {
+          "page": 39,
+          "rect": [
+            0.07,
+            0.685,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 39616,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "（一）需要层次理论（马斯洛）",
+      "section": "第二节 · 学习动机的主要理论 · 考点二 · 学习动机的人本主义理论",
+      "refs": [
+        {
+          "page": 40,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 40117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-pyramid",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "马斯洛七层需要与两类需要图",
+      "section": "第二节 · 学习动机的主要理论 · 考点二 · （一）需要层次理论",
+      "refs": [
+        {
+          "page": 40,
+          "rect": [
+            0.35,
+            0.405,
+            0.5,
+            0.28
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 40364,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "（二）自由学习理论（罗杰斯）",
+      "section": "第二节 · 学习动机的主要理论 · 考点二 · 学习动机的人本主义理论",
+      "refs": [
+        {
+          "page": 40,
+          "rect": [
+            0.07,
+            0.68,
+            0.86,
+            0.24
+          ]
+        },
+        {
+          "page": 41,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 40612,
+      "reviewNote": "PDF41原书旁注“考生不需要背诵”作为来源备注保留；十种应用均完整提取，学习方式仍由使用者决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-application-reference",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "自由学习十种应用及原书旁注",
+      "section": "第二节 · 学习动机的主要理论 · 考点二 · （二）自由学习理论",
+      "refs": [
+        {
+          "page": 41,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 41067,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "（一）期望—价值理论（成就动机理论）（阿特金森）",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论",
+      "refs": [
+        {
+          "page": 41,
+          "rect": [
+            0.07,
+            0.3,
+            0.86,
+            0.61
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 41270,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-formulas",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "成就动机公式、变量含义与总强度对应原表",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论 · （一）期望—价值理论",
+      "refs": [
+        {
+          "page": 41,
+          "rect": [
+            0.07,
+            0.385,
+            0.86,
+            0.42
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 41346,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "（二）成败归因理论（韦纳）",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.39
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-dimensions-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "韦纳三个维度、六个因素与成败情绪原表",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论 · （二）成败归因理论",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.195
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 42117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-deepening",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "凯程深化：失败归因、情感体验及后继行为原表",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论 · （二）成败归因理论",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.07,
+            0.48,
+            0.86,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 42432,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-self-efficacy",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "（三）自我效能感理论（班杜拉）",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论",
+      "refs": [
+        {
+          "page": 42,
+          "rect": [
+            0.07,
+            0.695,
+            0.86,
+            0.225
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 42625,
+      "reviewNote": "原书“2. 应用”标注略去，与影响因素相同；保留来源说明，不重复生成同一组叶节点。"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "（四）自我价值理论（科温顿）",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论",
+      "refs": [
+        {
+          "page": 43,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.295
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 43067,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-grid",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "追求成功×避免失败四象限原图",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论 · （四）自我价值理论",
+      "refs": [
+        {
+          "page": 43,
+          "rect": [
+            0.405,
+            0.12,
+            0.425,
+            0.175
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 43108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "（五）目标定向理论（德维克）",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论",
+      "refs": [
+        {
+          "page": 43,
+          "rect": [
+            0.07,
+            0.4,
+            0.86,
+            0.5
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 43360,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "能力观、两类目标定向与趋近回避对应原表",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论 · （五）目标定向理论",
+      "refs": [
+        {
+          "page": 43,
+          "rect": [
+            0.23,
+            0.425,
+            0.64,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 43382,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "（六）自我决定理论（德西、瑞安）",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论",
+      "refs": [
+        {
+          "page": 44,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.53
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 44081,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-regulation-continuum",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "有机整合理论：三类动机与六种调节连续体原图",
+      "section": "第二节 · 学习动机的主要理论 · 考点三 · 学习动机的认知理论 · （六）自我决定理论",
+      "refs": [
+        {
+          "page": 44,
+          "rect": [
+            0.34,
+            0.24,
+            0.61,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 44216,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-theory-summary",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "学习动机九种主要理论总结原表",
+      "section": "第二节 · 学习动机的主要理论 · 主要理论总结",
+      "refs": [
+        {
+          "page": 45,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.81
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 45081,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "学习动机的培养与激发",
+      "section": "第三节 · 学习动机的培养与激发",
+      "refs": [
+        {
+          "page": 46,
+          "rect": [
+            0.07,
+            0.155,
+            0.86,
+            0.33
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 46139,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch3-cultivation-mnemonics",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-2",
+      "title": "学习动机培养与激发：两组凯程助记",
+      "section": "第三节 · 学习动机的培养与激发 · 凯程助记",
+      "refs": [
+        {
+          "page": 46,
+          "rect": [
+            0.65,
+            0.135,
+            0.25,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 46121,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-0",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "实质",
+      "text": "学习动机是指引发与维持学生的学习行为，并使之指向一定学业目标的动力倾向。",
+      "keywords": [
+        "引发维持",
+        "学习行为",
+        "学业目标",
+        "动力倾向"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）实质"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-1",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "作用",
+      "text": "引发、定向、维持、调节。",
+      "keywords": [
+        "引发",
+        "定向",
+        "维持",
+        "调节"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）作用"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-2",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "内部动机",
+      "text": "对学习本身的内在需要所引起的动机。",
+      "keywords": [
+        "学习本身",
+        "内在需要"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "学习动机的动力来源"
+      ],
+      "displayTitle": "内部动机",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-3",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "外部动机",
+      "text": "由外界诱因引起的动机。",
+      "keywords": [
+        "外界诱因"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "学习动机的动力来源"
+      ],
+      "displayTitle": "外部动机",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-4",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "认知内驱力",
+      "text": "个体了解、理解和掌握知识，以及系统地阐述问题并解决问题的需要。",
+      "keywords": [
+        "了解理解掌握",
+        "阐述解决问题"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "学生的学业成就动机（奥苏伯尔）"
+      ],
+      "displayTitle": "认知内驱力",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-5",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "自我提高内驱力",
+      "text": "个体因自己的胜任能力或工作能力而赢得相应地位的需要。",
+      "keywords": [
+        "胜任工作能力",
+        "相应地位"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "学生的学业成就动机（奥苏伯尔）"
+      ],
+      "displayTitle": "自我提高内驱力",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-6",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "附属内驱力",
+      "text": "个体为了获得和保持长者的赞许或认可而表现出的把工作做好的一种需要。",
+      "keywords": [
+        "长者赞许认可",
+        "把工作做好"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "学生的学业成就动机（奥苏伯尔）"
+      ],
+      "displayTitle": "附属内驱力",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-7",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "个人动机",
+      "text": "与个体自身的需求、信念和价值观以及性格特征密切相关的动机。",
+      "keywords": [
+        "自身需求",
+        "信念价值观",
+        "性格"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "学习动机起作用的范围"
+      ],
+      "displayTitle": "个人动机",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-8",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "情境动机",
+      "text": "与情境因素密切相关的动机。",
+      "keywords": [
+        "情境因素"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "学习动机起作用的范围"
+      ],
+      "displayTitle": "情境动机",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-9",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "交往动机",
+      "text": "与交往需要相关的动机。",
+      "keywords": [
+        "交往需要"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "学习动机起作用的范围"
+      ],
+      "displayTitle": "交往动机",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-10",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "近景直接动机",
+      "text": "与近期目标相联系的一类动机。",
+      "keywords": [
+        "近期目标",
+        "直接性"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "动机的作用与学习活动关系的远近"
+      ],
+      "displayTitle": "近景的直接性动机",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-overview-11",
+      "knowledgeId": "edu-reviewed-ch3-motivation-overview",
+      "title": "远景间接动机",
+      "text": "与长远目标相联系的一类动机。",
+      "keywords": [
+        "长远目标",
+        "间接性"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）分类",
+        "动机的作用与学习活动关系的远近"
+      ],
+      "displayTitle": "远景的间接性动机",
+      "outline": "（三）分类"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect-0",
+      "knowledgeId": "edu-reviewed-ch3-motivation-effect",
+      "title": "重要因素",
+      "text": "学习动机是影响学习效果的一个重要因素，但不是唯一因素。",
+      "keywords": [
+        "重要因素",
+        "不是唯一"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）重要因素（不唯一）"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect-1",
+      "knowledgeId": "edu-reviewed-ch3-motivation-effect",
+      "title": "行为中介",
+      "text": "学习动机通过学习行为影响学习效果，不是直接影响，而是以学习行为为中介。",
+      "keywords": [
+        "学习行为",
+        "中介",
+        "非直接"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）学习动机→学习行为→学习效果"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect-2",
+      "knowledgeId": "edu-reviewed-ch3-motivation-effect",
+      "title": "倒U关系",
+      "text": "动机强度与效率的关系为倒U型曲线。",
+      "keywords": [
+        "动机强度",
+        "效率",
+        "倒U型"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）动机强度与效率的关系（耶克斯—多德森定律）"
+      ],
+      "displayTitle": "1. 关系",
+      "outline": "（三）动机强度与效率的关系（耶克斯—多德森定律）"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect-3",
+      "knowledgeId": "edu-reviewed-ch3-motivation-effect",
+      "title": "最佳水平",
+      "text": "学习动机存在一个最佳水平，最佳水平因人而异。",
+      "keywords": [
+        "最佳水平",
+        "因人而异"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）动机强度与效率的关系（耶克斯—多德森定律）",
+        "2. 最佳水平"
+      ],
+      "displayTitle": "因人而异",
+      "outline": "（三）动机强度与效率的关系（耶克斯—多德森定律）"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect-4",
+      "knowledgeId": "edu-reviewed-ch3-motivation-effect",
+      "title": "曲线两侧",
+      "text": "根据原书图示，达到最佳水平前，动机增强、效率提高；超过最佳水平后，动机增强、效率降低。",
+      "keywords": [
+        "最佳水平前后",
+        "提高降低"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）动机强度与效率的关系（耶克斯—多德森定律）",
+        "2. 最佳水平"
+      ],
+      "displayTitle": "原图的两个区间",
+      "outline": "（三）动机强度与效率的关系（耶克斯—多德森定律）"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect-5",
+      "knowledgeId": "edu-reviewed-ch3-motivation-effect",
+      "title": "困难任务",
+      "text": "困难或复杂的任务，最佳动机水平较低。",
+      "keywords": [
+        "困难复杂",
+        "低动机水平"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）动机强度与效率的关系（耶克斯—多德森定律）",
+        "3. 难易不同的任务，动机最佳水平不同"
+      ],
+      "displayTitle": "难：低",
+      "outline": "（三）动机强度与效率的关系（耶克斯—多德森定律）"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect-6",
+      "knowledgeId": "edu-reviewed-ch3-motivation-effect",
+      "title": "适中任务",
+      "text": "难易适中的任务，最佳动机水平适中。",
+      "keywords": [
+        "难易适中",
+        "适中动机"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）动机强度与效率的关系（耶克斯—多德森定律）",
+        "3. 难易不同的任务，动机最佳水平不同"
+      ],
+      "displayTitle": "中：中",
+      "outline": "（三）动机强度与效率的关系（耶克斯—多德森定律）"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-effect-7",
+      "knowledgeId": "edu-reviewed-ch3-motivation-effect",
+      "title": "容易任务",
+      "text": "容易或简单的任务，最佳动机水平较高。",
+      "keywords": [
+        "容易简单",
+        "高动机水平"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）动机强度与效率的关系（耶克斯—多德森定律）",
+        "3. 难易不同的任务，动机最佳水平不同"
+      ],
+      "displayTitle": "易：高",
+      "outline": "（三）动机强度与效率的关系（耶克斯—多德森定律）"
+    },
+    {
+      "id": "edu-reviewed-ch3-reinforcement-0",
+      "knowledgeId": "edu-reviewed-ch3-reinforcement",
+      "title": "核心",
+      "text": "人之所以具有某种行为倾向，是因为这种行为受到了强化。",
+      "keywords": [
+        "行为倾向",
+        "受到强化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）观点"
+      ],
+      "displayTitle": "1. 核心",
+      "outline": "（一）观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-reinforcement-1",
+      "knowledgeId": "edu-reviewed-ch3-reinforcement",
+      "title": "得到强化",
+      "text": "得到强化，产生动机并维持动机。",
+      "keywords": [
+        "得到强化",
+        "产生维持动机"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）观点",
+        "2. 表现"
+      ],
+      "displayTitle": "得到强化",
+      "outline": "（一）观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-reinforcement-2",
+      "knowledgeId": "edu-reviewed-ch3-reinforcement",
+      "title": "没有强化",
+      "text": "没有强化，缺乏动机。",
+      "keywords": [
+        "没有强化",
+        "缺乏动机"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）观点",
+        "2. 表现"
+      ],
+      "displayTitle": "没有强化",
+      "outline": "（一）观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-reinforcement-3",
+      "knowledgeId": "edu-reviewed-ch3-reinforcement",
+      "title": "受到惩罚",
+      "text": "受到惩罚，逃避学习。",
+      "keywords": [
+        "受到惩罚",
+        "逃避学习"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）观点",
+        "2. 表现"
+      ],
+      "displayTitle": "受到惩罚",
+      "outline": "（一）观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-reinforcement-4",
+      "knowledgeId": "edu-reviewed-ch3-reinforcement",
+      "title": "正负强化",
+      "text": "增加正强化，如表扬，并合理地利用负强化。",
+      "keywords": [
+        "正强化",
+        "合理负强化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用"
+      ],
+      "displayTitle": "1. 增加强化",
+      "outline": "（二）应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-reinforcement-5",
+      "knowledgeId": "edu-reviewed-ch3-reinforcement",
+      "title": "外部强化手段",
+      "text": "利用外部强化手段，如评分、奖赏、竞赛等。",
+      "keywords": [
+        "评分",
+        "奖赏",
+        "竞赛"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）应用"
+      ],
+      "displayTitle": "2. 外部强化手段",
+      "outline": "（二）应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-0",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "自我实现",
+      "text": "自我实现的需要。",
+      "keywords": [
+        "自我实现"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）成长需要"
+      ],
+      "displayTitle": "①自我实现的需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-1",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "审美",
+      "text": "审美的需要：秩序、真理和美。",
+      "keywords": [
+        "秩序",
+        "真理",
+        "美"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）成长需要"
+      ],
+      "displayTitle": "②审美的需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-2",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "求知理解",
+      "text": "求知和理解的需要：认知与理解。",
+      "keywords": [
+        "求知",
+        "认知",
+        "理解"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）成长需要"
+      ],
+      "displayTitle": "③求知和理解的需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-3",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "尊重",
+      "text": "尊重的需要：自尊、受到别人尊重。",
+      "keywords": [
+        "自尊",
+        "别人尊重"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）缺失需要"
+      ],
+      "displayTitle": "④尊重的需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-4",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "归属与爱",
+      "text": "归属与爱的需要：结交朋友、追求爱情。",
+      "keywords": [
+        "结交朋友",
+        "追求爱情"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）缺失需要"
+      ],
+      "displayTitle": "⑤归属与爱的需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-5",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "安全",
+      "text": "安全的需要：稳定、安全、受到保护、避免焦虑。",
+      "keywords": [
+        "稳定安全",
+        "保护",
+        "避免焦虑"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）缺失需要"
+      ],
+      "displayTitle": "⑥安全的需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-6",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "生理",
+      "text": "生理的需要：食物、水分、空气、睡眠。",
+      "keywords": [
+        "食物",
+        "水分",
+        "空气",
+        "睡眠"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）缺失需要"
+      ],
+      "displayTitle": "⑦生理的需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-7",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "层次顺序",
+      "text": "层次化、顺序化。",
+      "keywords": [
+        "层次化",
+        "顺序化"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "特点"
+      ],
+      "displayTitle": "1. 层次化、顺序化",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-8",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "低高关系",
+      "text": "有低才有高，高会引导低。",
+      "keywords": [
+        "低高需要",
+        "引导"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "特点"
+      ],
+      "displayTitle": "2. 低与高的关系",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-9",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "满足基本需要",
+      "text": "满足基本需要。",
+      "keywords": [
+        "基本需要"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（1）满足基本需要",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-10",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "给予爱尊重",
+      "text": "给予爱和尊重。学生在学校里最重要的缺失需要是爱和尊重。",
+      "keywords": [
+        "爱",
+        "尊重",
+        "学校缺失需要"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（2）给予爱和尊重",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-11",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "追求成长需要",
+      "text": "追求成长需要。",
+      "keywords": [
+        "成长需要"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（3）追求成长需要",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-maslow-12",
+      "knowledgeId": "edu-reviewed-ch3-maslow",
+      "title": "化为内部动机",
+      "text": "化为内部动机。",
+      "keywords": [
+        "内部动机"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（4）化为内部动机",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-0",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "学生观",
+      "text": "自动、自发、全身心投入的学习才会产生良好的学习效果。",
+      "keywords": [
+        "自动自发",
+        "全身心投入",
+        "良好效果"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）内容"
+      ],
+      "displayTitle": "①学生观",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-1",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "学习观",
+      "text": "有意义学习可以帮助学生达到自由学习的状态。",
+      "keywords": [
+        "有意义学习",
+        "自由学习"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）内容"
+      ],
+      "displayTitle": "②学习观",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-2",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "教学观",
+      "text": "非指导性教学可以帮助学生达到自由学习的状态。",
+      "keywords": [
+        "非指导性教学",
+        "自由学习"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）内容"
+      ],
+      "displayTitle": "③教学观",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-3",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "师生关系",
+      "text": "真诚友好的师生关系和教师成为“促进者”，可以帮助学生达到自由学习的状态。",
+      "keywords": [
+        "真诚友好",
+        "促进者",
+        "自由学习"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）内容"
+      ],
+      "displayTitle": "④师生关系",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-4",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "个人参与",
+      "text": "个人参与。",
+      "keywords": [
+        "个人参与"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）原则"
+      ],
+      "displayTitle": "①个人参与",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-5",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "自我发动",
+      "text": "自我发动。",
+      "keywords": [
+        "自我发动"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）原则"
+      ],
+      "displayTitle": "②自我发动",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-6",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "全面发展",
+      "text": "全面发展。",
+      "keywords": [
+        "全面发展"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）原则"
+      ],
+      "displayTitle": "③全面发展",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-7",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "自我评价",
+      "text": "自我评价。",
+      "keywords": [
+        "自我评价"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）原则"
+      ],
+      "displayTitle": "④自我评价",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-8",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "真实问题",
+      "text": "构建真实的问题情境。",
+      "keywords": [
+        "真实问题情境"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（1）构建真实的问题情境",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-9",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "学习资源",
+      "text": "提供学习资源。",
+      "keywords": [
+        "学习资源"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（2）提供学习资源",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-10",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "利用社区",
+      "text": "利用社区。",
+      "keywords": [
+        "社区"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（3）利用社区",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-11",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "使用合约",
+      "text": "使用合约。",
+      "keywords": [
+        "合约"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（4）使用合约",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-12",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "同伴教学",
+      "text": "同伴教学。",
+      "keywords": [
+        "同伴教学"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（5）同伴教学",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-13",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "程序教学",
+      "text": "程序教学。",
+      "keywords": [
+        "程序教学"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（6）程序教学",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-14",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "探究训练",
+      "text": "探究训练。",
+      "keywords": [
+        "探究训练"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（7）探究训练",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-15",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "分组学习",
+      "text": "分组学习。",
+      "keywords": [
+        "分组学习"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（8）分组学习",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-16",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "交朋友小组",
+      "text": "交朋友小组。",
+      "keywords": [
+        "交朋友小组"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（9）交朋友小组",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-rogers-17",
+      "knowledgeId": "edu-reviewed-ch3-rogers",
+      "title": "自我评价应用",
+      "text": "自我评价。",
+      "keywords": [
+        "自我评价"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（10）自我评价",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-0",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "成就动机含义",
+      "text": "成就动机源于成就需要，是追求卓越和成功的动机。",
+      "keywords": [
+        "成就需要",
+        "卓越成功"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-1",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "避免失败者",
+      "text": "避免失败的动机强于力求成功的动机，倾向于选择非常难或非常容易的任务。",
+      "keywords": [
+        "避免失败",
+        "非常难",
+        "非常容易"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）分类"
+      ],
+      "displayTitle": "①避免失败者",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-2",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "力求成功者",
+      "text": "力求成功的动机强于避免失败的动机，倾向于选择难度适中、富有挑战性的任务。",
+      "keywords": [
+        "力求成功",
+        "适中",
+        "挑战"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）分类"
+      ],
+      "displayTitle": "②力求成功者",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-3",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "成功倾向公式",
+      "text": "追求成功的倾向：Ts = Ms × Ps × Is。",
+      "keywords": [
+        "Ts",
+        "Ms",
+        "Ps",
+        "Is"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "①追求成功的倾向（Ts）"
+      ],
+      "displayTitle": "公式",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-4",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "成功动机",
+      "text": "Ms相对稳定，是个体因成功而感到自豪的能量。",
+      "keywords": [
+        "Ms",
+        "成功",
+        "自豪"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "①追求成功的倾向（Ts）"
+      ],
+      "displayTitle": "Ms",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-5",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "成功可能性",
+      "text": "Ps是成功的可能性。",
+      "keywords": [
+        "Ps",
+        "成功可能性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "①追求成功的倾向（Ts）"
+      ],
+      "displayTitle": "Ps",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-6",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "成功诱因",
+      "text": "Is是成功后体验到的积极情绪。",
+      "keywords": [
+        "Is",
+        "积极情绪"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "①追求成功的倾向（Ts）"
+      ],
+      "displayTitle": "Is",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-7",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "避免失败公式",
+      "text": "避免失败的倾向：Taf = Maf × Paf × Iaf。",
+      "keywords": [
+        "Taf",
+        "Maf",
+        "Paf",
+        "Iaf"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "②避免失败的倾向（Taf）"
+      ],
+      "displayTitle": "公式",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-8",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "避免失败动机",
+      "text": "Maf是个体因避免失败而感到羞愧的能量。",
+      "keywords": [
+        "Maf",
+        "避免失败",
+        "羞愧"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "②避免失败的倾向（Taf）"
+      ],
+      "displayTitle": "Maf",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-9",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "失败可能性",
+      "text": "Paf是失败的可能性。",
+      "keywords": [
+        "Paf",
+        "失败可能性"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "②避免失败的倾向（Taf）"
+      ],
+      "displayTitle": "Paf",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-10",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "失败诱因",
+      "text": "Iaf是失败后体验到的消极情绪。",
+      "keywords": [
+        "Iaf",
+        "消极情绪"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "②避免失败的倾向（Taf）"
+      ],
+      "displayTitle": "Iaf",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-11",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "总强度公式",
+      "text": "成就动机的总强度：T = Ts − Taf。",
+      "keywords": [
+        "T",
+        "Ts",
+        "Taf"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "③成就动机的总强度（T）"
+      ],
+      "displayTitle": "公式",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-12",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "总强度正值",
+      "text": "T > 0，Ts > Taf：力求成功者。积极、自信，敢于挑战。",
+      "keywords": [
+        "正值",
+        "力求成功",
+        "积极自信挑战"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "③成就动机的总强度（T）"
+      ],
+      "displayTitle": "T > 0",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-13",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "总强度负值",
+      "text": "T < 0，Ts < Taf：避免失败者。退缩、焦虑、迟疑，下调目标。",
+      "keywords": [
+        "负值",
+        "避免失败",
+        "下调目标"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "③成就动机的总强度（T）"
+      ],
+      "displayTitle": "T < 0",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-14",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "总强度零值",
+      "text": "T = 0，Ts = Taf：不产生追求目标的行为。纠结、迷茫、冲突，什么都不干或迷茫地继续干。",
+      "keywords": [
+        "零值",
+        "纠结迷茫冲突"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）",
+        "③成就动机的总强度（T）"
+      ],
+      "displayTitle": "T = 0",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-15",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "成功概率互补",
+      "text": "Ps + Is = 1，两者互补；当Ps和Is都为0.5时，乘积最大，主观估计成功率为50%的任务最能激发成就动机。",
+      "keywords": [
+        "互补",
+        "0.5",
+        "50%",
+        "乘积最大"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）量化描述（阿特金森）"
+      ],
+      "displayTitle": "④成功可能性与诱因的关系",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-16",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "力求成功者教学",
+      "text": "对力求成功者，安排难度适中的任务、竞争性强的情境，评分严格。",
+      "keywords": [
+        "难度适中",
+        "竞争强",
+        "严格"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "①力求成功者",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-atkinson-17",
+      "knowledgeId": "edu-reviewed-ch3-atkinson",
+      "title": "避免失败者教学",
+      "text": "对避免失败者，安排简单的任务、竞争性弱的情境，评分宽松，多表扬和鼓励。",
+      "keywords": [
+        "简单",
+        "竞争弱",
+        "宽松",
+        "表扬鼓励"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "②避免失败者",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-0",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "归因含义",
+      "text": "归因是个体对自己或他人活动结果的原因所作的解释和评价。",
+      "keywords": [
+        "自己他人",
+        "结果原因",
+        "解释评价"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-1",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "能力高低",
+      "text": "稳定、内部、不可控。成功时开心、自信；失败时失望、自卑。",
+      "keywords": [
+        "稳定",
+        "内部",
+        "不可控",
+        "能力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）核心：三个维度、六个因素"
+      ],
+      "displayTitle": "能力高低",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-2",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "努力程度",
+      "text": "不稳定、内部、可控。成功时开心、自信，积极性提高；失败时失望、自卑，积极性下降。",
+      "keywords": [
+        "不稳定",
+        "内部",
+        "可控",
+        "努力"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）核心：三个维度、六个因素"
+      ],
+      "displayTitle": "努力程度",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-3",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "任务难度",
+      "text": "稳定、外部、不可控。成功时幸运、开心；失败时生气、怨恨。",
+      "keywords": [
+        "稳定",
+        "外部",
+        "不可控",
+        "难度"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）核心：三个维度、六个因素"
+      ],
+      "displayTitle": "任务难度",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-4",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "运气好坏",
+      "text": "不稳定、外部、不可控。成功时幸运、开心；失败时生气、怨恨。",
+      "keywords": [
+        "不稳定",
+        "外部",
+        "不可控",
+        "运气"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）核心：三个维度、六个因素"
+      ],
+      "displayTitle": "运气好坏",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-5",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "身心状态",
+      "text": "不稳定、内部、不可控。成功时幸运、开心；失败时生气、怨恨。",
+      "keywords": [
+        "不稳定",
+        "内部",
+        "不可控",
+        "身心"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）核心：三个维度、六个因素"
+      ],
+      "displayTitle": "身心状态",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-6",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "外界环境",
+      "text": "不稳定、外部、不可控。成功时幸运、开心；失败时生气、怨恨。",
+      "keywords": [
+        "不稳定",
+        "外部",
+        "不可控",
+        "环境"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）核心：三个维度、六个因素"
+      ],
+      "displayTitle": "外界环境",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-7",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "自我知觉",
+      "text": "自我知觉：对自己能力的看法。",
+      "keywords": [
+        "自我知觉",
+        "能力看法"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）影响归因的因素"
+      ],
+      "displayTitle": "①自我知觉",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-8",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "先前观念",
+      "text": "先前观念：以往经验或行为结果的历史。",
+      "keywords": [
+        "先前观念",
+        "以往经验",
+        "结果历史"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）影响归因的因素"
+      ],
+      "displayTitle": "②先前观念",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-9",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "他人信息",
+      "text": "他人信息：他人操作的有关信息。",
+      "keywords": [
+        "他人信息",
+        "操作"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）影响归因的因素"
+      ],
+      "displayTitle": "③他人信息",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-10",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "其他因素",
+      "text": "其他因素：教师或权威的期待、奖惩、性格、教育训练等。",
+      "keywords": [
+        "期待",
+        "奖惩",
+        "性格",
+        "教育训练"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）影响归因的因素"
+      ],
+      "displayTitle": "④其他因素",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-11",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "正确归因",
+      "text": "引导学生进行正确的归因，将成败归于内部、不稳定、可控的因素，即努力而非能力。",
+      "keywords": [
+        "内部",
+        "不稳定",
+        "可控",
+        "努力"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "①引导正确归因",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-12",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "积极自我概念",
+      "text": "培养学生积极的自我概念。",
+      "keywords": [
+        "积极",
+        "自我概念"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "②培养积极自我概念",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-attribution-13",
+      "knowledgeId": "edu-reviewed-ch3-attribution",
+      "title": "避免极端归因",
+      "text": "不能极端地把一切都归因于努力，避免产生习得性无助。",
+      "keywords": [
+        "不能极端",
+        "一切",
+        "努力",
+        "习得性无助"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "③不能把一切归因于努力",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-efficacy-0",
+      "knowledgeId": "edu-reviewed-ch3-self-efficacy",
+      "title": "自我效能感含义",
+      "text": "自我效能感是个体对自己能否成功进行某一成就行为的主观判断。",
+      "keywords": [
+        "能否成功",
+        "成就行为",
+        "主观判断"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-efficacy-1",
+      "knowledgeId": "edu-reviewed-ch3-self-efficacy",
+      "title": "结果期望",
+      "text": "结果期望：我希望考上东北师大。",
+      "keywords": [
+        "结果期望",
+        "希望"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）分类"
+      ],
+      "displayTitle": "①结果期望",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-efficacy-2",
+      "knowledgeId": "edu-reviewed-ch3-self-efficacy",
+      "title": "效能期望",
+      "text": "效能期望：我认为我能考上东北师大。",
+      "keywords": [
+        "效能期望",
+        "认为能"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）分类"
+      ],
+      "displayTitle": "②效能期望",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-efficacy-3",
+      "knowledgeId": "edu-reviewed-ch3-self-efficacy",
+      "title": "直接经验",
+      "text": "直接经验：体验成功。",
+      "keywords": [
+        "直接经验",
+        "体验成功"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）影响因素"
+      ],
+      "displayTitle": "①直接经验",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-efficacy-4",
+      "knowledgeId": "edu-reviewed-ch3-self-efficacy",
+      "title": "替代经验",
+      "text": "替代经验：提供合适的榜样。",
+      "keywords": [
+        "替代经验",
+        "合适榜样"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）影响因素"
+      ],
+      "displayTitle": "②替代经验",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-efficacy-5",
+      "knowledgeId": "edu-reviewed-ch3-self-efficacy",
+      "title": "言语说服",
+      "text": "言语说服：可信的说服、及时反馈、民主交流。",
+      "keywords": [
+        "可信",
+        "及时反馈",
+        "民主交流"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）影响因素"
+      ],
+      "displayTitle": "③言语说服",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-efficacy-6",
+      "knowledgeId": "edu-reviewed-ch3-self-efficacy",
+      "title": "情绪唤醒",
+      "text": "情绪唤醒：激励，但不过度。",
+      "keywords": [
+        "激励",
+        "不过度"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）影响因素"
+      ],
+      "displayTitle": "④情绪唤醒",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-0",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "自我价值含义",
+      "text": "认为自己是优秀的、有能力的个体的一种信念，为此努力保持积极的、有能力的自我形象。",
+      "keywords": [
+        "优秀",
+        "有能力",
+        "积极自我形象"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-1",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "逃避失败者",
+      "text": "低趋高避型：追求成功低、避免失败高。逃避失败者怕失败，不努力。",
+      "keywords": [
+        "低趋高避",
+        "怕失败",
+        "不努力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）分类"
+      ],
+      "displayTitle": "逃避失败者（低趋高避型）",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-2",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "过度努力者",
+      "text": "高趋高避型：追求成功高、避免失败高。过度努力者隐讳努力。",
+      "keywords": [
+        "高趋高避",
+        "隐讳努力"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）分类"
+      ],
+      "displayTitle": "过度努力者（高趋高避型）",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-3",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "失败接受者",
+      "text": "低趋低避型：追求成功低、避免失败低。失败接受者“漠不关心”。",
+      "keywords": [
+        "低趋低避",
+        "漠不关心"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）分类"
+      ],
+      "displayTitle": "失败接受者（低趋低避型）",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-4",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "乐观主义者",
+      "text": "高趋低避型：追求成功高、避免失败低。乐观主义者自信、机智、接受挑战。",
+      "keywords": [
+        "高趋低避",
+        "自信机智",
+        "接受挑战"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）分类"
+      ],
+      "displayTitle": "乐观主义者（高趋低避型）",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-5",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "正确学习动机",
+      "text": "培养正确的学习动机。",
+      "keywords": [
+        "正确",
+        "学习动机"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（1）培养正确的学习动机",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-6",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "解释教育现象",
+      "text": "合理解释教育现象。",
+      "keywords": [
+        "合理解释",
+        "教育现象"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（2）合理解释教育现象",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-7",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "合作与因材施教",
+      "text": "小组合作，因材施教。",
+      "keywords": [
+        "小组合作",
+        "因材施教"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（3）小组合作，因材施教",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-worth-8",
+      "knowledgeId": "edu-reviewed-ch3-self-worth",
+      "title": "保护自我价值",
+      "text": "保护学生的自我价值。",
+      "keywords": [
+        "保护",
+        "自我价值"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（4）保护学生的自我价值",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-0",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "实体观",
+      "text": "能力实体观：能力不会改变。",
+      "keywords": [
+        "实体观",
+        "不会改变"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力实体观与成绩目标定向"
+      ],
+      "displayTitle": "能力内隐观",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-1",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "成绩目标",
+      "text": "成绩目标定向，又称自我卷入、表现目标定向。",
+      "keywords": [
+        "成绩目标",
+        "自我卷入",
+        "表现目标"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力实体观与成绩目标定向"
+      ],
+      "displayTitle": "目标定向",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-2",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "表现自己",
+      "text": "学习的目的在于表现自己；有展示才智的意向，但极力回避表现低能的情境。",
+      "keywords": [
+        "表现自己",
+        "展示才智",
+        "回避低能"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力实体观与成绩目标定向",
+        "特点"
+      ],
+      "displayTitle": "学习目的与情境",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-3",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "容易的工作",
+      "text": "选择容易实现、证明自己有能力的工作。",
+      "keywords": [
+        "容易实现",
+        "证明有能力"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力实体观与成绩目标定向",
+        "特点"
+      ],
+      "displayTitle": "任务选择",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-4",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "群体参照",
+      "text": "群体参照。",
+      "keywords": [
+        "群体参照"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力实体观与成绩目标定向",
+        "特点"
+      ],
+      "displayTitle": "参照标准",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-5",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "表现趋近回避",
+      "text": "由成绩目标定向发展出表现趋近目标、表现回避目标。",
+      "keywords": [
+        "表现趋近",
+        "表现回避"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力实体观与成绩目标定向"
+      ],
+      "displayTitle": "理论的发展",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-6",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "增长观",
+      "text": "能力增长观：能力可以不断增长。",
+      "keywords": [
+        "增长观",
+        "不断增长"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力增长观与学习目标定向"
+      ],
+      "displayTitle": "能力内隐观",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-7",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "学习目标",
+      "text": "学习目标定向，又称任务卷入、掌握目标定向。",
+      "keywords": [
+        "学习目标",
+        "任务卷入",
+        "掌握目标"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力增长观与学习目标定向"
+      ],
+      "displayTitle": "目标定向",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-8",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "掌握提高",
+      "text": "学习的目的在于掌握任务、提高能力。",
+      "keywords": [
+        "掌握任务",
+        "提高能力"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力增长观与学习目标定向",
+        "特点"
+      ],
+      "displayTitle": "学习目的",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-9",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "挑战与努力",
+      "text": "选择有挑战性的任务，通过努力发展自己的才能。",
+      "keywords": [
+        "挑战性任务",
+        "努力发展才能"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力增长观与学习目标定向",
+        "特点"
+      ],
+      "displayTitle": "任务选择",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-10",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "个体参照",
+      "text": "个体参照。",
+      "keywords": [
+        "个体参照"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力增长观与学习目标定向",
+        "特点"
+      ],
+      "displayTitle": "参照标准",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-11",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "掌握趋近回避",
+      "text": "由学习目标定向发展出掌握趋近目标、掌握回避目标。",
+      "keywords": [
+        "掌握趋近",
+        "掌握回避"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（1）基本观点",
+        "能力增长观与学习目标定向"
+      ],
+      "displayTitle": "理论的发展",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-12",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "掌握趋近",
+      "text": "掌握知识、完成任务、提高能力。举例：这些知识太有趣了，我想深入探究。",
+      "keywords": [
+        "掌握",
+        "完成",
+        "提高",
+        "深入探究"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）理论的发展"
+      ],
+      "displayTitle": "①掌握趋近目标",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-13",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "掌握回避",
+      "text": "避免任务没有完成或内容没有被掌握。举例：我这么努力，我只是不想这个知识有盲区。",
+      "keywords": [
+        "避免未完成",
+        "避免未掌握",
+        "盲区"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）理论的发展"
+      ],
+      "displayTitle": "②掌握回避目标",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-14",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "表现趋近",
+      "text": "展现自己的能力，表现比别人优秀。举例：这次考试我一定要考进前三名，让老师再说我不行！",
+      "keywords": [
+        "展现能力",
+        "比别人优秀",
+        "前三名"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）理论的发展"
+      ],
+      "displayTitle": "③表现趋近目标",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-15",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "表现回避",
+      "text": "避免表现差劲，避免显示自己的无能。举例：我要赶紧学，千万不能当倒数。",
+      "keywords": [
+        "避免差劲",
+        "避免无能",
+        "倒数"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）理论的发展"
+      ],
+      "displayTitle": "④表现回避目标",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-16",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "表现目标教学",
+      "text": "表现目标定向：正确看待成绩，强调学习内容的意义，淡化分数。",
+      "keywords": [
+        "正确成绩",
+        "内容意义",
+        "淡化分数"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（1）表现目标定向",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-goal-orientation-17",
+      "knowledgeId": "edu-reviewed-ch3-goal-orientation",
+      "title": "掌握目标教学",
+      "text": "掌握目标定向：发挥优势，提供挑战性任务，适当利用激励作用，引导学生更加努力、自信。",
+      "keywords": [
+        "发挥优势",
+        "挑战任务",
+        "激励",
+        "努力自信"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（2）掌握目标定向",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-0",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "自我决定含义",
+      "text": "自我决定指个体在充分认识自身需要和环境信息的基础上，对行动作出的自由选择。",
+      "keywords": [
+        "自身需要",
+        "环境信息",
+        "自由选择"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-1",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "自主需要",
+      "text": "自主需要：自主选择感。举例：我对从事的活动有自主选择的能力。",
+      "keywords": [
+        "自主需要",
+        "自主选择感"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）三种心理需要"
+      ],
+      "displayTitle": "①自主需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-2",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "能力需要",
+      "text": "能力需要：胜任感。举例：能够胜任这个活动的信念。",
+      "keywords": [
+        "能力需要",
+        "胜任感"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）三种心理需要"
+      ],
+      "displayTitle": "②能力需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-3",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "关系需要",
+      "text": "关系需要：归属感。举例：我对于集体的归属感。",
+      "keywords": [
+        "关系需要",
+        "归属感"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（2）三种心理需要"
+      ],
+      "displayTitle": "③关系需要",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-4",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "连续体",
+      "text": "有机整合理论将人的动机看作一个从无动机、外部动机到内部动机，自我决定程度不断增加的连续体。",
+      "keywords": [
+        "无动机",
+        "外部",
+        "内部",
+        "程度递增"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）有机整合理论"
+      ],
+      "displayTitle": "自我决定程度递增的连续体",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-5",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "缺乏调节",
+      "text": "无动机——缺乏调节：个体没有动机。举例：我不喜欢数学，所以我不学。",
+      "keywords": [
+        "无动机",
+        "缺乏调节"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）有机整合理论",
+        "无动机"
+      ],
+      "displayTitle": "缺乏调节",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-6",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "外部调节",
+      "text": "做某事完全依靠外部奖惩。举例：我不学数学，妈妈就惩罚我，所以我学。",
+      "keywords": [
+        "外部调节",
+        "外部奖惩"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）有机整合理论",
+        "外部动机"
+      ],
+      "displayTitle": "外部调节",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-7",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "内摄调节",
+      "text": "依靠内部奖惩去做事，已经成了表现目标。举例：我学好数学，是一件很有面子的事情。",
+      "keywords": [
+        "内摄调节",
+        "内部奖惩",
+        "表现目标"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）有机整合理论",
+        "外部动机"
+      ],
+      "displayTitle": "内摄调节",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-8",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "认同调节",
+      "text": "个体认识到做某事是有用的。举例：数学在高考中很重要，我要好好学。",
+      "keywords": [
+        "认同调节",
+        "有用"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）有机整合理论",
+        "外部动机"
+      ],
+      "displayTitle": "认同调节",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-9",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "整合调节",
+      "text": "个体完全意识到做某事是有价值、有意义的。举例：数学是帮助人安身立命的重要知识，我要好好学。",
+      "keywords": [
+        "整合调节",
+        "有价值",
+        "有意义"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）有机整合理论",
+        "外部动机"
+      ],
+      "displayTitle": "整合调节",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-10",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "内部调节",
+      "text": "内部动机——内部调节：做某事完全依照快乐和兴趣原则。举例：数学太有趣了，我爱学数学。",
+      "keywords": [
+        "内部动机",
+        "内部调节",
+        "快乐兴趣"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 观点",
+        "（3）有机整合理论",
+        "内部动机"
+      ],
+      "displayTitle": "内部调节",
+      "outline": "1. 观点"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-11",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "内部目标",
+      "text": "引导树立内部目标：引导学生关注任务对自身成长的价值。",
+      "keywords": [
+        "内部目标",
+        "自身成长价值"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（1）引导树立内部目标",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-12",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "自主支持",
+      "text": "提供自主性支持：教学留有余地，提供独立工作和决策的机会。",
+      "keywords": [
+        "自主支持",
+        "独立工作",
+        "决策机会"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（2）提供自主性支持",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-13",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "适度挑战",
+      "text": "设置适度挑战任务：获得胜任感。",
+      "keywords": [
+        "适度挑战",
+        "胜任感"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（3）设置适度挑战任务",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-14",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "信息指导",
+      "text": "呈现信息性的指导、规则、反馈、评价和奖励，传达个体能够胜任或如何更好地胜任的信息。",
+      "keywords": [
+        "信息性指导",
+        "规则反馈",
+        "评价奖励",
+        "胜任"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（4）呈现信息性的指导",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-self-determination-15",
+      "knowledgeId": "edu-reviewed-ch3-self-determination",
+      "title": "和谐人际",
+      "text": "营造和谐的人际关系氛围：获得归属感。",
+      "keywords": [
+        "和谐人际",
+        "归属感"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用"
+      ],
+      "displayTitle": "（5）营造和谐的人际关系氛围",
+      "outline": "2. 应用"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-0",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "学习目标",
+      "text": "设置明确、具体、适当的学习目标。",
+      "keywords": [
+        "明确",
+        "具体",
+        "适当"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）外部动机的激发"
+      ],
+      "displayTitle": "1. 设置学习目标",
+      "outline": "（一）外部动机的激发"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-1",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "反馈与评价",
+      "text": "及时反馈与评价。",
+      "keywords": [
+        "及时",
+        "反馈评价"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）外部动机的激发"
+      ],
+      "displayTitle": "2. 及时反馈与评价",
+      "outline": "（一）外部动机的激发"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-2",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "奖惩",
+      "text": "合理奖励与惩罚。",
+      "keywords": [
+        "合理",
+        "奖励惩罚"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）外部动机的激发"
+      ],
+      "displayTitle": "3. 合理奖励与惩罚",
+      "outline": "（一）外部动机的激发"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-3",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "教学吸引",
+      "text": "教学吸引。",
+      "keywords": [
+        "教学吸引"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内部动机的激发"
+      ],
+      "displayTitle": "1. 教学吸引",
+      "outline": "（二）内部动机的激发"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-4",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "兴趣激发",
+      "text": "兴趣激发。",
+      "keywords": [
+        "兴趣激发"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内部动机的激发"
+      ],
+      "displayTitle": "2. 兴趣激发",
+      "outline": "（二）内部动机的激发"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-5",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "动机信念",
+      "text": "建立合理的动机信念。",
+      "keywords": [
+        "合理",
+        "动机信念"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内部动机的激发"
+      ],
+      "displayTitle": "3. 建立合理的动机信念",
+      "outline": "（二）内部动机的激发"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-6",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "竞争合作",
+      "text": "竞争与合作。",
+      "keywords": [
+        "竞争",
+        "合作"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内部动机的激发"
+      ],
+      "displayTitle": "4. 竞争与合作",
+      "outline": "（二）内部动机的激发"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-7",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "动机迁移",
+      "text": "学习动机的迁移。",
+      "keywords": [
+        "学习动机",
+        "迁移"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）内部动机的激发"
+      ],
+      "displayTitle": "5. 学习动机的迁移",
+      "outline": "（二）内部动机的激发"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-8",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "缺乏动机时",
+      "text": "当学生没有学习动机时，应创设外部条件，以激发学习动机。",
+      "keywords": [
+        "没有动机",
+        "外部条件"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）外部动机和内部动机相互交替、转化"
+      ],
+      "displayTitle": "1. 没有学习动机",
+      "outline": "（三）外部动机和内部动机相互交替、转化"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-9",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "形成外部动机后",
+      "text": "当学生有了一定的外部学习动机时，应有目的、有计划地培养其内部学习动机。",
+      "keywords": [
+        "一定外部动机",
+        "有目的计划",
+        "内部培养"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）外部动机和内部动机相互交替、转化"
+      ],
+      "displayTitle": "2. 有了一定的外部学习动机",
+      "outline": "（三）外部动机和内部动机相互交替、转化"
+    },
+    {
+      "id": "edu-reviewed-ch3-motivation-cultivation-10",
+      "knowledgeId": "edu-reviewed-ch3-motivation-cultivation",
+      "title": "强烈内部动机时",
+      "text": "当学生有了强烈而持久的内部学习动机时，仍然要不断地激发其外部学习动机，使内部学习动机和外部学习动机共同推进学习活动。",
+      "keywords": [
+        "强烈持久",
+        "仍然",
+        "外部激发",
+        "共同推进"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）外部动机和内部动机相互交替、转化"
+      ],
+      "displayTitle": "3. 有了强烈而持久的内部学习动机",
+      "outline": "（三）外部动机和内部动机相互交替、转化"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch3-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 9,
+    "knowledge": 25,
+    "steps": 150,
+    "referenceOnly": 13
+  }
+}

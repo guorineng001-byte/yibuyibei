@@ -1,0 +1,946 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch15-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch15-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "第三章章节框架",
+      "section": "外教 · 古罗马教育 · 章节框架",
+      "refs": [
+        {
+          "page": 122,
+          "rect": [
+            0.28,
+            0.55,
+            0.64,
+            0.39
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 122495,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-early",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "共和早期教育",
+      "section": "第三章 · 第一节 教育制度与教育实践",
+      "refs": [
+        {
+          "page": 123,
+          "rect": [
+            0.07,
+            0.11,
+            0.85,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 123099,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-late",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "共和后期教育",
+      "section": "第三章 · 第一节 教育制度与教育实践",
+      "refs": [
+        {
+          "page": 123,
+          "rect": [
+            0.07,
+            0.25,
+            0.85,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 123225,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-empire",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "帝国时期教育",
+      "section": "第三章 · 第一节 教育制度与教育实践",
+      "refs": [
+        {
+          "page": 123,
+          "rect": [
+            0.07,
+            0.4,
+            0.85,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 123360,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-christian",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "基督教的兴起与早期教会教育",
+      "section": "第三章 · 第一节 · 帝国时期",
+      "refs": [
+        {
+          "page": 123,
+          "rect": [
+            0.17,
+            0.6,
+            0.75,
+            0.34
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 123540,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "西塞罗的教育思想及其影响",
+      "section": "第三章 · 第二节 教育思想 · 考点一",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.17,
+            0.08,
+            0.75,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124072,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "昆体良：教育观",
+      "section": "第三章 · 第二节 教育思想 · 考点二",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.17,
+            0.39,
+            0.75,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124351,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "昆体良：教学观与教师观",
+      "section": "第三章 · 第二节 教育思想 · 考点二",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.28,
+            0.63,
+            0.64,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124567,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "昆体良：影响",
+      "section": "第三章 · 第二节 教育思想 · 考点二",
+      "refs": [
+        {
+          "page": 124,
+          "rect": [
+            0.17,
+            0.87,
+            0.75,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 124783,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch15-comparison",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-14",
+      "title": "西塞罗和昆体良教育思想对比表",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.1,
+            0.05,
+            0.8,
+            0.38
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "referenceOnly": true,
+      "order": 125045,
+      "reviewNote": "原书表格或流程图按整体关系对照，不拆成脱离表头的散句。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch15-outline-0",
+      "knowledgeId": "foreign-reviewed-ch15-outline",
+      "title": "制度与实践",
+      "text": "共和早期、共和后期、帝国时期及早期基督教教育。",
+      "keywords": [
+        "共和早期",
+        "共和后期",
+        "帝国时期",
+        "基督教"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-outline-1",
+      "knowledgeId": "foreign-reviewed-ch15-outline",
+      "title": "教育思想",
+      "text": "西塞罗、昆体良。",
+      "keywords": [
+        "西塞罗",
+        "昆体良"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-early-0",
+      "knowledgeId": "foreign-reviewed-ch15-republic-early",
+      "title": "机构制度",
+      "text": "尚未出现专门教育机构，实行家长制家庭教育。",
+      "keywords": [
+        "家长制",
+        "家庭教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-early-1",
+      "knowledgeId": "foreign-reviewed-ch15-republic-early",
+      "title": "目的",
+      "text": "培养农民、军人。",
+      "keywords": [
+        "农民",
+        "军人"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-early-2",
+      "knowledgeId": "foreign-reviewed-ch15-republic-early",
+      "title": "内容",
+      "text": "以道德和公民教育为核心，还有农事、军事、《十二铜表法》。",
+      "keywords": [
+        "道德公民",
+        "农事军事",
+        "十二铜表法"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-early-3",
+      "knowledgeId": "foreign-reviewed-ch15-republic-early",
+      "title": "方法",
+      "text": "在生产和生活中教育。",
+      "keywords": [
+        "生产生活"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-late-0",
+      "knowledgeId": "foreign-reviewed-ch15-republic-late",
+      "title": "机构",
+      "text": "初等为初级学校（卢达斯），中等为文法学校，高等为修辞学校（雄辩术学校）。",
+      "keywords": [
+        "卢达斯",
+        "文法学校",
+        "修辞学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-late-1",
+      "knowledgeId": "foreign-reviewed-ch15-republic-late",
+      "title": "语言学校",
+      "text": "希腊语学校与拉丁语学校并行发展。",
+      "keywords": [
+        "希腊语学校",
+        "拉丁语学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-late-2",
+      "knowledgeId": "foreign-reviewed-ch15-republic-late",
+      "title": "目的",
+      "text": "培养雄辩家。",
+      "keywords": [
+        "雄辩家"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-late-3",
+      "knowledgeId": "foreign-reviewed-ch15-republic-late",
+      "title": "内容",
+      "text": "希腊文、拉丁文、修辞、逻辑、法律。",
+      "keywords": [
+        "希腊文拉丁文",
+        "修辞逻辑法律"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-republic-late-4",
+      "knowledgeId": "foreign-reviewed-ch15-republic-late",
+      "title": "方法制度",
+      "text": "讲解、听写、背诵；实行私立教育。",
+      "keywords": [
+        "讲解听写背诵",
+        "私立教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-empire-0",
+      "knowledgeId": "foreign-reviewed-ch15-empire",
+      "title": "初等",
+      "text": "针对平民子女。",
+      "keywords": [
+        "初等教育",
+        "平民子女"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-empire-1",
+      "knowledgeId": "foreign-reviewed-ch15-empire",
+      "title": "中等",
+      "text": "拉丁语学校压倒希腊语学校，盛行形式主义分析教学法。",
+      "keywords": [
+        "拉丁语学校",
+        "形式主义分析"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-empire-2",
+      "knowledgeId": "foreign-reviewed-ch15-empire",
+      "title": "高等",
+      "text": "拉丁修辞学校成为主流，但走向形式主义。",
+      "keywords": [
+        "拉丁修辞学校",
+        "形式主义"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-empire-3",
+      "knowledgeId": "foreign-reviewed-ch15-empire",
+      "title": "专门学校",
+      "text": "医科、建筑、法律、哲学学校等。",
+      "keywords": [
+        "医科学校",
+        "建筑学校",
+        "法律学校",
+        "哲学学校"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-empire-4",
+      "knowledgeId": "foreign-reviewed-ch15-empire",
+      "title": "目的内容",
+      "text": "培养官吏和顺民；重视文法文学，减少实用科目。",
+      "keywords": [
+        "官吏顺民",
+        "文法文学",
+        "实用科目"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-empire-5",
+      "knowledgeId": "foreign-reviewed-ch15-empire",
+      "title": "制度",
+      "text": "私立、国立教育并存，出现基督教教育系统；教师改由国家委派、地位提高。",
+      "keywords": [
+        "国立私立",
+        "基督教系统",
+        "教师地位"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-christian-0",
+      "knowledgeId": "foreign-reviewed-ch15-christian",
+      "title": "第一阶段",
+      "text": "公元1世纪左右为产生期，帝国残酷迫害基督徒但未阻止传播。",
+      "keywords": [
+        "公元1世纪",
+        "产生期",
+        "迫害"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "发展过程"
+    },
+    {
+      "id": "foreign-reviewed-ch15-christian-1",
+      "knowledgeId": "foreign-reviewed-ch15-christian",
+      "title": "第二阶段",
+      "text": "公元2世纪后期为接受期，成为帝国精神统治工具。",
+      "keywords": [
+        "公元2世纪",
+        "接受期",
+        "精神统治"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "发展过程"
+    },
+    {
+      "id": "foreign-reviewed-ch15-christian-2",
+      "knowledgeId": "foreign-reviewed-ch15-christian",
+      "title": "第三阶段",
+      "text": "公元4世纪初为合法期，被皇帝宣布为合法宗教。",
+      "keywords": [
+        "公元4世纪初",
+        "合法期"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "发展过程"
+    },
+    {
+      "id": "foreign-reviewed-ch15-christian-3",
+      "knowledgeId": "foreign-reviewed-ch15-christian",
+      "title": "第四阶段",
+      "text": "公元4世纪末为国教期，被定为罗马帝国国教。",
+      "keywords": [
+        "公元4世纪末",
+        "国教期"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "发展过程"
+    },
+    {
+      "id": "foreign-reviewed-ch15-christian-4",
+      "knowledgeId": "foreign-reviewed-ch15-christian",
+      "title": "初级教义学校",
+      "text": "以成人为教育对象。",
+      "keywords": [
+        "初级教义学校",
+        "成人"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育活动"
+    },
+    {
+      "id": "foreign-reviewed-ch15-christian-5",
+      "knowledgeId": "foreign-reviewed-ch15-christian",
+      "title": "高级教义学校",
+      "text": "供年轻基督教学者深入研究基督教理论和古希腊、古罗马世俗文化。",
+      "keywords": [
+        "高级教义学校",
+        "基督教理论",
+        "世俗文化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育活动"
+    },
+    {
+      "id": "foreign-reviewed-ch15-christian-6",
+      "knowledgeId": "foreign-reviewed-ch15-christian",
+      "title": "儿童教育",
+      "text": "免费的堂区学校、唱歌学校等。",
+      "keywords": [
+        "堂区学校",
+        "唱歌学校"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育活动"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero-0",
+      "knowledgeId": "foreign-reviewed-ch15-cicero",
+      "title": "简介",
+      "text": "古罗马共和后期最杰出的演说家和教育家，著有《论雄辩家》。",
+      "keywords": [
+        "西塞罗",
+        "论雄辩家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero-1",
+      "knowledgeId": "foreign-reviewed-ch15-cicero",
+      "title": "1.目的",
+      "text": "培养能就任何问题演讲的雄辩家。",
+      "keywords": [
+        "雄辩家"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero-2",
+      "knowledgeId": "foreign-reviewed-ch15-cicero",
+      "title": "2.（1）广博学识",
+      "text": "特别重视哲学和雄辩术。",
+      "keywords": [
+        "广博学识",
+        "哲学",
+        "雄辩术"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero-3",
+      "knowledgeId": "foreign-reviewed-ch15-cicero",
+      "title": "2.（2）修辞修养",
+      "text": "重视修辞修养。",
+      "keywords": [
+        "修辞修养"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero-4",
+      "knowledgeId": "foreign-reviewed-ch15-cicero",
+      "title": "2.（3）举止风度",
+      "text": "重视举止风度。",
+      "keywords": [
+        "举止风度"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育内容"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero-5",
+      "knowledgeId": "foreign-reviewed-ch15-cicero",
+      "title": "3.方法",
+      "text": "练习，主要包括模拟演说和写作。",
+      "keywords": [
+        "练习",
+        "模拟演说",
+        "写作"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero-6",
+      "knowledgeId": "foreign-reviewed-ch15-cicero",
+      "title": "对古罗马",
+      "text": "反映古罗马教育发展趋势，对罗马帝国及欧洲教育有重大影响，并影响昆体良。",
+      "keywords": [
+        "古罗马",
+        "昆体良"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "影响"
+    },
+    {
+      "id": "foreign-reviewed-ch15-cicero-7",
+      "knowledgeId": "foreign-reviewed-ch15-cicero",
+      "title": "对后世",
+      "text": "对中世纪和文艺复兴有积极作用，也形成“西塞罗主义”。",
+      "keywords": [
+        "中世纪",
+        "文艺复兴",
+        "西塞罗主义"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "影响"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view-0",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-view",
+      "title": "简介",
+      "text": "罗马帝国时期最有成就的教育家和雄辩家；《雄辩术原理》（《论演说家的培养》）是西方第一本教育教学著作。",
+      "keywords": [
+        "昆体良",
+        "雄辩术原理",
+        "第一本教育教学著作"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view-1",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-view",
+      "title": "（1）目的",
+      "text": "培养善良的雄辩家，善良第一，雄辩术第二。",
+      "keywords": [
+        "善良的雄辩家",
+        "善良第一"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view-2",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-view",
+      "title": "（2）作用",
+      "text": "遵循儿童天性，充分肯定教育的巨大作用。",
+      "keywords": [
+        "儿童天性",
+        "教育作用"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view-3",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-view",
+      "title": "（3）①德行",
+      "text": "德行是雄辩家的首要品质。",
+      "keywords": [
+        "德行",
+        "首要品质"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育任务"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view-4",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-view",
+      "title": "（3）②学校教育",
+      "text": "学校教育优于家庭教育。",
+      "keywords": [
+        "学校教育",
+        "家庭教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "教育任务"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view-5",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-view",
+      "title": "（3）③a学前知识",
+      "text": "7岁前应该学习知识。",
+      "keywords": [
+        "7岁前",
+        "学习知识"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "重视学前教育"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view-6",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-view",
+      "title": "（3）③b双语",
+      "text": "首次提出双语教育，先学希腊语，再学拉丁语。",
+      "keywords": [
+        "双语教育",
+        "希腊语",
+        "拉丁语"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "重视学前教育"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-view-7",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-view",
+      "title": "（3）③c快乐教育",
+      "text": "让最初教育成为娱乐，不能让儿童尚未热爱学习便厌恶学习。",
+      "keywords": [
+        "快乐教育",
+        "娱乐",
+        "热爱学习"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "重视学前教育"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-0",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "组织形式",
+      "text": "班级授课制思想的萌芽。",
+      "keywords": [
+        "班级授课制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.教学观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-1",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "课程设置",
+      "text": "专业教育建立在广博知识之上，但不重视哲学。",
+      "keywords": [
+        "专业教育",
+        "广博知识",
+        "哲学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.教学观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-2",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "教学方法",
+      "text": "启发诱导和提问解答。",
+      "keywords": [
+        "启发诱导",
+        "提问解答"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.教学观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-3",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "教学原则",
+      "text": "激发学生兴趣和意愿。",
+      "keywords": [
+        "兴趣",
+        "意愿"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.教学观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-4",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "教师1",
+      "text": "教师应德才兼备。",
+      "keywords": [
+        "德才兼备"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.教师观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-5",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "教师2",
+      "text": "教师应宽严相济。",
+      "keywords": [
+        "宽严相济"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.教师观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-6",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "教师3",
+      "text": "教师应因材施教。",
+      "keywords": [
+        "因材施教"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.教师观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-7",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "教师4",
+      "text": "教师应有耐心。",
+      "keywords": [
+        "耐心"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.教师观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-teaching-8",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-teaching",
+      "title": "教师5",
+      "text": "教师应懂教学艺术。",
+      "keywords": [
+        "教学艺术"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.教师观"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-impact-0",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-impact",
+      "title": "对前代",
+      "text": "总结古希腊、古罗马教育理论和实践。",
+      "keywords": [
+        "总结归纳"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-impact-1",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-impact",
+      "title": "对当时",
+      "text": "为整个罗马帝国学校教师重视和效法。",
+      "keywords": [
+        "罗马帝国",
+        "重视效法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch15-quintilian-impact-2",
+      "knowledgeId": "foreign-reviewed-ch15-quintilian-impact",
+      "title": "对后世",
+      "text": "影响夸美纽斯和马丁·路德。",
+      "keywords": [
+        "夸美纽斯",
+        "马丁·路德"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "stats": {
+    "pages": 4,
+    "knowledge": 10,
+    "steps": 52,
+    "referenceOnly": 1
+  }
+}

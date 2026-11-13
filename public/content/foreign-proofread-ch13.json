@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch13-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch13-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "第一章章节框架",
+      "section": "外教 · 东方文明古国的教育 · 章节框架",
+      "refs": [
+        {
+          "page": 113,
+          "rect": [
+            0.28,
+            0.54,
+            0.64,
+            0.38
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 113486,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch13-babylon",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "古代巴比伦教育",
+      "section": "第一章 · 东方文明古国的教育",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.08,
+            0.08,
+            0.84,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114072,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch13-egypt",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "古代埃及教育",
+      "section": "第一章 · 东方文明古国的教育",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.08,
+            0.2,
+            0.84,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114180,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-brahman",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "古代印度：婆罗门教育",
+      "section": "第一章 · 东方文明古国的教育",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.08,
+            0.37,
+            0.84,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114333,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-buddhist",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "古代印度：佛教教育",
+      "section": "第一章 · 东方文明古国的教育",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.08,
+            0.48,
+            0.84,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114432,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch13-hebrew",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "古代希伯来教育",
+      "section": "第一章 · 东方文明古国的教育",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.08,
+            0.59,
+            0.84,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114531,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch13-china",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "古代中国教育（对照）",
+      "section": "第一章 · 东方文明古国的教育",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.08,
+            0.73,
+            0.84,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114657,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch13-common",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "东方文明古国的共同教育特点",
+      "section": "第一章 · 东方文明古国的教育",
+      "refs": [
+        {
+          "page": 114,
+          "rect": [
+            0.15,
+            0.82,
+            0.77,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 114738,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-compare",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-12",
+      "title": "婆罗门教育与佛教教育对比表",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 115,
+          "rect": [
+            0.1,
+            0.05,
+            0.8,
+            0.38
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "referenceOnly": true,
+      "order": 115045,
+      "reviewNote": "原书表格或流程图按整体关系对照，不拆成脱离表头的散句。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch13-outline-0",
+      "knowledgeId": "foreign-reviewed-ch13-outline",
+      "title": "范围",
+      "text": "古代巴比伦、古代埃及、古代印度、古代希伯来及共同教育特点。",
+      "keywords": [
+        "巴比伦",
+        "埃及",
+        "印度",
+        "希伯来",
+        "共同特点"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-babylon-0",
+      "knowledgeId": "foreign-reviewed-ch13-babylon",
+      "title": "教育机构",
+      "text": "苏美尔有泥板书舍；巴比伦有寺庙学校，后分初级和高级教育。",
+      "keywords": [
+        "泥板书舍",
+        "寺庙学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-babylon-1",
+      "knowledgeId": "foreign-reviewed-ch13-babylon",
+      "title": "教育目的",
+      "text": "苏美尔培养书吏；巴比伦培养书吏和官吏。",
+      "keywords": [
+        "书吏",
+        "官吏"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-babylon-2",
+      "knowledgeId": "foreign-reviewed-ch13-babylon",
+      "title": "教育内容",
+      "text": "苏美尔学习楔形文字、读写算等；巴比伦内容渐丰富，包括文学与科学。",
+      "keywords": [
+        "楔形文字",
+        "文学科学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-babylon-3",
+      "knowledgeId": "foreign-reviewed-ch13-babylon",
+      "title": "教育方法",
+      "text": "简单机械、灌输体罚、师徒传授制。",
+      "keywords": [
+        "灌输体罚",
+        "师徒传授制"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-babylon-4",
+      "knowledgeId": "foreign-reviewed-ch13-babylon",
+      "title": "特点",
+      "text": "人类最早学校的摇篮，人类正式教育的起点。",
+      "keywords": [
+        "最早学校摇篮",
+        "正式教育起点"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-egypt-0",
+      "knowledgeId": "foreign-reviewed-ch13-egypt",
+      "title": "宫廷学校",
+      "text": "古王国时期的世俗学校，培养国家官吏，以世俗知识为主。",
+      "keywords": [
+        "宫廷学校",
+        "古王国",
+        "国家官吏"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-egypt-1",
+      "knowledgeId": "foreign-reviewed-ch13-egypt",
+      "title": "僧侣学校",
+      "text": "中王国时期的宗教学校，培养高级僧侣和学术人才，学习高深科技知识。",
+      "keywords": [
+        "僧侣学校",
+        "高级僧侣",
+        "科技知识"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-egypt-2",
+      "knowledgeId": "foreign-reviewed-ch13-egypt",
+      "title": "职官学校",
+      "text": "中王国时期的世俗学校，培养一般官员，学习普通文化和职业教育。",
+      "keywords": [
+        "职官学校",
+        "一般官员"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-egypt-3",
+      "knowledgeId": "foreign-reviewed-ch13-egypt",
+      "title": "文士学校",
+      "text": "中王国时期的世俗学校，培养书写计算者，学习书写、算和律令知识。",
+      "keywords": [
+        "文士学校",
+        "书写计算",
+        "律令"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-egypt-4",
+      "knowledgeId": "foreign-reviewed-ch13-egypt",
+      "title": "方法与特点",
+      "text": "简单机械、灌输体罚；学校等级制森严。",
+      "keywords": [
+        "灌输体罚",
+        "等级制森严"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-brahman-0",
+      "knowledgeId": "foreign-reviewed-ch13-india-brahman",
+      "title": "机构",
+      "text": "以家庭教育为主的古儒学校，具有宗教性。",
+      "keywords": [
+        "古儒学校",
+        "家庭教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-brahman-1",
+      "knowledgeId": "foreign-reviewed-ch13-india-brahman",
+      "title": "对象与内容",
+      "text": "培养婆罗门教教徒，学习《吠陀》经。",
+      "keywords": [
+        "婆罗门教",
+        "吠陀"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-brahman-2",
+      "knowledgeId": "foreign-reviewed-ch13-india-brahman",
+      "title": "方法",
+      "text": "简单机械、灌输体罚、口授法、导生制。",
+      "keywords": [
+        "口授法",
+        "导生制",
+        "体罚"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-brahman-3",
+      "knowledgeId": "foreign-reviewed-ch13-india-brahman",
+      "title": "特点",
+      "text": "具有贵族性，教师称为古儒。",
+      "keywords": [
+        "贵族性",
+        "古儒"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-buddhist-0",
+      "knowledgeId": "foreign-reviewed-ch13-india-buddhist",
+      "title": "机构",
+      "text": "寺院学校兼具学术研究与宗教性质。",
+      "keywords": [
+        "寺院学校",
+        "学术研究"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-buddhist-1",
+      "knowledgeId": "foreign-reviewed-ch13-india-buddhist",
+      "title": "对象与内容",
+      "text": "培养佛教教徒（比丘或比丘尼），学习佛教经典。",
+      "keywords": [
+        "比丘",
+        "比丘尼",
+        "佛教经典"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-buddhist-2",
+      "knowledgeId": "foreign-reviewed-ch13-india-buddhist",
+      "title": "方法",
+      "text": "讲解与个人钻研相结合，使用地方语教学。",
+      "keywords": [
+        "讲解钻研",
+        "地方语"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-india-buddhist-3",
+      "knowledgeId": "foreign-reviewed-ch13-india-buddhist",
+      "title": "特点",
+      "text": "具有平民性，女子可以接受教育。",
+      "keywords": [
+        "平民性",
+        "女子教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-hebrew-0",
+      "knowledgeId": "foreign-reviewed-ch13-hebrew",
+      "title": "机构演变",
+      "text": "第一时期以家庭教育为主；第二时期以学校教育为主，分初级、中级、高级教育，兼具世俗与宗教性。",
+      "keywords": [
+        "家庭教育",
+        "学校教育",
+        "初中高"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-hebrew-1",
+      "knowledgeId": "foreign-reviewed-ch13-hebrew",
+      "title": "目的与内容",
+      "text": "培养犹太教教徒，学习《圣经·旧约》。",
+      "keywords": [
+        "犹太教",
+        "圣经旧约"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-hebrew-2",
+      "knowledgeId": "foreign-reviewed-ch13-hebrew",
+      "title": "方法",
+      "text": "简单机械、灌输体罚，但相对民主，鼓励发问和互相帮助。",
+      "keywords": [
+        "相对民主",
+        "鼓励发问",
+        "互相帮助"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-hebrew-3",
+      "knowledgeId": "foreign-reviewed-ch13-hebrew",
+      "title": "特点1",
+      "text": "教育具有普及性。",
+      "keywords": [
+        "普及性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-hebrew-4",
+      "knowledgeId": "foreign-reviewed-ch13-hebrew",
+      "title": "特点2",
+      "text": "形成尊师风尚，教师称为拉比，地位极高。",
+      "keywords": [
+        "尊师",
+        "拉比"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-hebrew-5",
+      "knowledgeId": "foreign-reviewed-ch13-hebrew",
+      "title": "特点3",
+      "text": "初等学校兼顾世俗性和宗教性。",
+      "keywords": [
+        "初等学校",
+        "世俗宗教"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-china-0",
+      "knowledgeId": "foreign-reviewed-ch13-china",
+      "title": "机构与目的",
+      "text": "成均、庠、序、校、学等世俗机构，培养国家官吏。",
+      "keywords": [
+        "成均",
+        "庠序校学",
+        "国家官吏"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-china-1",
+      "knowledgeId": "foreign-reviewed-ch13-china",
+      "title": "内容",
+      "text": "“六艺”：礼、乐、射、御、书、数；文武兼备、各育兼顾。",
+      "keywords": [
+        "六艺",
+        "文武兼备"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-china-2",
+      "knowledgeId": "foreign-reviewed-ch13-china",
+      "title": "方法与特点",
+      "text": "简单机械、灌输体罚；“学在官府”。",
+      "keywords": [
+        "灌输体罚",
+        "学在官府"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-common-0",
+      "knowledgeId": "foreign-reviewed-ch13-common",
+      "title": "1.产生",
+      "text": "产生了学校、文字和科学。",
+      "keywords": [
+        "学校",
+        "文字",
+        "科学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-common-1",
+      "knowledgeId": "foreign-reviewed-ch13-common",
+      "title": "2.学校性质",
+      "text": "具有阶级性、等级性。",
+      "keywords": [
+        "阶级性",
+        "等级性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-common-2",
+      "knowledgeId": "foreign-reviewed-ch13-common",
+      "title": "3.学校机构",
+      "text": "种类繁多。",
+      "keywords": [
+        "机构繁多"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-common-3",
+      "knowledgeId": "foreign-reviewed-ch13-common",
+      "title": "4.教育内容",
+      "text": "包括德育、智育、宗教。",
+      "keywords": [
+        "德智宗教"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-common-4",
+      "knowledgeId": "foreign-reviewed-ch13-common",
+      "title": "5.教育方法",
+      "text": "以灌输和体罚为主。",
+      "keywords": [
+        "灌输体罚"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-common-5",
+      "knowledgeId": "foreign-reviewed-ch13-common",
+      "title": "6.教师",
+      "text": "教师地位较高。",
+      "keywords": [
+        "教师地位"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch13-common-6",
+      "knowledgeId": "foreign-reviewed-ch13-common",
+      "title": "7.延续性",
+      "text": "中国教育延续，其他古国教育中断。",
+      "keywords": [
+        "教育延续性",
+        "中国延续"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "stats": {
+    "pages": 3,
+    "knowledge": 9,
+    "steps": 35,
+    "referenceOnly": 1
+  }
+}

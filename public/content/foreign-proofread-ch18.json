@@ -1,0 +1,2240 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch18-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch18-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "第六章章节框架",
+      "section": "外教 · 英国的近现代教育制度 · 章节框架",
+      "refs": [
+        {
+          "page": 132,
+          "rect": [
+            0.07,
+            0.19,
+            0.86,
+            0.63
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 132171,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-schools",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "17—18世纪：初等教育与文法学校",
+      "section": "第一节 · （一）初等教育、（二）中等教育",
+      "refs": [
+        {
+          "page": 133,
+          "rect": [
+            0.07,
+            0.14,
+            0.86,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 133126,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "17—18世纪：公学",
+      "section": "第一节 · （二）中等教育 · 2.公学",
+      "refs": [
+        {
+          "page": 133,
+          "rect": [
+            0.07,
+            0.2,
+            0.86,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 133180,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-academy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "17—18世纪：学园",
+      "section": "第一节 · （二）中等教育 · 3.学园",
+      "refs": [
+        {
+          "page": 133,
+          "rect": [
+            0.07,
+            0.51,
+            0.86,
+            0.04
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 133459,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-higher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "17—18世纪：高等教育与教育管理",
+      "section": "第一节 · （三）高等教育、（四）教育管理",
+      "refs": [
+        {
+          "page": 133,
+          "rect": [
+            0.07,
+            0.56,
+            0.86,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 133504,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-note",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "九大公学知识小贴士（原书）",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 133,
+          "rect": [
+            0.07,
+            0.73,
+            0.86,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 133657,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch18-monitorial",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "19世纪：导生制与《工厂法》",
+      "section": "第二节 · （一）初等教育",
+      "refs": [
+        {
+          "page": 134,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 134081,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《初等教育法》（福斯特法案）",
+      "section": "第二节 · （一）初等教育 · 3.《初等教育法》",
+      "refs": [
+        {
+          "page": 134,
+          "rect": [
+            0.07,
+            0.27,
+            0.86,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 134243,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-nineteenth-secondary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "19世纪：中等教育",
+      "section": "第二节 · （二）中等教育",
+      "refs": [
+        {
+          "page": 134,
+          "rect": [
+            0.07,
+            0.47,
+            0.86,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 134423,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-new-universities",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "19世纪：新大学运动",
+      "section": "第二节 · （三）高等教育 · 1.新大学运动",
+      "refs": [
+        {
+          "page": 134,
+          "rect": [
+            0.07,
+            0.53,
+            0.86,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 134477,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-extension",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "19世纪：大学推广运动",
+      "section": "第二节 · （三）高等教育 · 2.大学推广运动",
+      "refs": [
+        {
+          "page": 134,
+          "rect": [
+            0.07,
+            0.66,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 134594,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-state-intervention",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "国家干预教育的开端",
+      "section": "第二节 · （四）教育管理",
+      "refs": [
+        {
+          "page": 134,
+          "rect": [
+            0.07,
+            0.82,
+            0.86,
+            0.06
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 134738,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-balfour",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《巴尔福教育法》与教育行政管理体制的变化",
+      "section": "第三节 · 考点一",
+      "refs": [
+        {
+          "page": 135,
+          "rect": [
+            0.07,
+            0.15,
+            0.86,
+            0.37
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 135135,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《费舍教育法》",
+      "section": "第三节 · 考点二 初等教育",
+      "refs": [
+        {
+          "page": 135,
+          "rect": [
+            0.07,
+            0.57,
+            0.86,
+            0.39
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 135513,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-hadow",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《哈多报告》",
+      "section": "第三节 · 考点三 中等教育",
+      "refs": [
+        {
+          "page": 136,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.43
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 136117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-spens",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《斯宾斯报告》",
+      "section": "第三节 · 考点三 中等教育",
+      "refs": [
+        {
+          "page": 136,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.43
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 136117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-secondary-chart",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《哈多报告》和《斯宾斯报告》学制对照图",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 136,
+          "rect": [
+            0.07,
+            0.12,
+            0.86,
+            0.44
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 136108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《1944年教育法》（巴特勒教育法）：简介与内容",
+      "section": "第四节 · 考点一 综合改革",
+      "refs": [
+        {
+          "page": 136,
+          "rect": [
+            0.07,
+            0.66,
+            0.86,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 136594,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《1944年教育法》：评价与综合中学",
+      "section": "第四节 · 考点一 综合改革",
+      "refs": [
+        {
+          "page": 137,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 137081,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-content",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《1988年教育改革法》：简介与内容",
+      "section": "第四节 · 考点二 综合改革",
+      "refs": [
+        {
+          "page": 137,
+          "rect": [
+            0.07,
+            0.36,
+            0.86,
+            0.34
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 137324,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《1988年教育改革法》：评价",
+      "section": "第四节 · 考点二 综合改革",
+      "refs": [
+        {
+          "page": 137,
+          "rect": [
+            0.07,
+            0.7,
+            0.86,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 137630,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-robbins",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "20世纪60年代：“罗宾斯原则”",
+      "section": "第四节 · 考点三 高等教育的改革",
+      "refs": [
+        {
+          "page": 138,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.07
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 138117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-james",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "20世纪70年代：《詹姆斯报告》",
+      "section": "第四节 · 考点三 高等教育的改革",
+      "refs": [
+        {
+          "page": 138,
+          "rect": [
+            0.07,
+            0.2,
+            0.86,
+            0.25
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 138180,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-leverhulme",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "20世纪80年代：高等教育改革",
+      "section": "第四节 · 考点三 高等教育的改革",
+      "refs": [
+        {
+          "page": 138,
+          "rect": [
+            0.07,
+            0.47,
+            0.86,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 138423,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-higher1992",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《1992年继续教育和高等教育法》",
+      "section": "第四节 · 考点三 · （四）20世纪90年代",
+      "refs": [
+        {
+          "page": 138,
+          "rect": [
+            0.07,
+            0.62,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 138558,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-dearing",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "《学习社会中的高等教育》（《迪尔英报告》）",
+      "section": "第四节 · 考点三 · （四）20世纪90年代",
+      "refs": [
+        {
+          "page": 138,
+          "rect": [
+            0.07,
+            0.79,
+            0.86,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 138711,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch18-uk-summary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-17",
+      "title": "英国的近现代教育制度总结表",
+      "section": "原书图表参考",
+      "refs": [
+        {
+          "page": 139,
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 139000,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch18-outline-0",
+      "knowledgeId": "foreign-reviewed-ch18-outline",
+      "title": "第一节",
+      "text": "17—18世纪：初等教育、中等教育（文法学校、公学、学园）、高等教育（古典大学、苏格兰大学）、教育管理。",
+      "keywords": [
+        "文法学校",
+        "公学",
+        "学园",
+        "古典大学",
+        "苏格兰大学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-outline-1",
+      "knowledgeId": "foreign-reviewed-ch18-outline",
+      "title": "第二节",
+      "text": "19世纪：导生制、《工厂法》、《初等教育法》；中等教育；新大学运动、大学推广运动；国家干预教育的开端。",
+      "keywords": [
+        "导生制",
+        "工厂法",
+        "初等教育法",
+        "新大学",
+        "大学推广"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-outline-2",
+      "knowledgeId": "foreign-reviewed-ch18-outline",
+      "title": "第三节",
+      "text": "20世纪上半叶：《巴尔福教育法》《费舍教育法》《哈多报告》《斯宾斯报告》。",
+      "keywords": [
+        "巴尔福",
+        "费舍",
+        "哈多",
+        "斯宾斯"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-outline-3",
+      "knowledgeId": "foreign-reviewed-ch18-outline",
+      "title": "第四节",
+      "text": "20世纪下半叶：《1944年教育法》《1988年教育改革法》及高等教育改革。",
+      "keywords": [
+        "1944",
+        "1988",
+        "高等教育改革"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-schools-0",
+      "knowledgeId": "foreign-reviewed-ch18-early-schools",
+      "title": "（一）初等教育",
+      "text": "平民接受慈善学校教育，富人聘请家庭教师。",
+      "keywords": [
+        "慈善学校",
+        "家庭教师"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-schools-1",
+      "knowledgeId": "foreign-reviewed-ch18-early-schools",
+      "title": "1.文法学校",
+      "text": "以培养神职人员和官吏为目标的私立寄宿制中等教育机构。",
+      "keywords": [
+        "神职人员",
+        "官吏",
+        "私立寄宿制"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）中等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-0",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "（1）简介",
+      "text": "由公众团体集资兴办，培养一般公职人员，学生在公开场所接受教育的中等私立贵族学校；以伊顿、温彻斯特、圣保罗等九大公学为代表。",
+      "keywords": [
+        "公众集资",
+        "公职人员",
+        "公开场所",
+        "私立贵族中学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-1",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "①教育对象",
+      "text": "贵族子弟。",
+      "keywords": [
+        "贵族子弟"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-2",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "②教育目的",
+      "text": "升入学术型大学。",
+      "keywords": [
+        "学术型大学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-3",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "③师资条件",
+      "text": "师资更好、设施更好、收费更高。",
+      "keywords": [
+        "师资",
+        "设施",
+        "收费"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-4",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "④教育内容",
+      "text": "古典语言、古典知识、上层礼仪、体育军事。",
+      "keywords": [
+        "古典语言知识",
+        "上层礼仪",
+        "体育军事"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-5",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "⑤教育经费",
+      "text": "高昂学费与私人捐助。",
+      "keywords": [
+        "学费",
+        "私人捐助"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-6",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "⑥教育管理",
+      "text": "属于私立学校，不受国家教育行政部门干涉。",
+      "keywords": [
+        "私立学校",
+        "不受干涉"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-7",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "①优点",
+      "text": "培养了很多精英人才，被誉为“英国绅士的摇篮”。",
+      "keywords": [
+        "精英人才",
+        "英国绅士的摇篮"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-public-school-8",
+      "knowledgeId": "foreign-reviewed-ch18-public-school",
+      "title": "②缺点",
+      "text": "只满足贵族子弟的需要，不向平民开放，是教育不平等的产物。",
+      "keywords": [
+        "贵族",
+        "教育不平等"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-academy-0",
+      "knowledgeId": "foreign-reviewed-ch18-academy",
+      "title": "学园",
+      "text": "弥尔顿设想的学校叫作学园，也叫学院、专科学校或文实中学等，兼顾升学与就业。",
+      "keywords": [
+        "弥尔顿",
+        "学园",
+        "升学就业"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-higher-0",
+      "knowledgeId": "foreign-reviewed-ch18-early-higher",
+      "title": "1.古典大学",
+      "text": "牛津大学、剑桥大学一直是英国高等教育的标志。",
+      "keywords": [
+        "牛津",
+        "剑桥"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-higher-1",
+      "knowledgeId": "foreign-reviewed-ch18-early-higher",
+      "title": "2.苏格兰大学",
+      "text": "原书记述15—16世纪先后创办5所大学，合称苏格兰大学；注重自然科学和现代外语，高度自治，面向中小资产阶级子弟，学费低廉。",
+      "keywords": [
+        "苏格兰大学",
+        "自然科学",
+        "现代外语",
+        "高度自治",
+        "学费低廉"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-higher-2",
+      "knowledgeId": "foreign-reviewed-ch18-early-higher",
+      "title": "1.管理放任",
+      "text": "国家不管理教育，处于自由放任状态。",
+      "keywords": [
+        "自由放任"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（四）教育管理"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-higher-3",
+      "knowledgeId": "foreign-reviewed-ch18-early-higher",
+      "title": "2.等级制",
+      "text": "等级制森严。",
+      "keywords": [
+        "等级制"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（四）教育管理"
+    },
+    {
+      "id": "foreign-reviewed-ch18-early-higher-4",
+      "knowledgeId": "foreign-reviewed-ch18-early-higher",
+      "title": "3.学制",
+      "text": "呈现双轨制。",
+      "keywords": [
+        "双轨制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（四）教育管理"
+    },
+    {
+      "id": "foreign-reviewed-ch18-monitorial-0",
+      "knowledgeId": "foreign-reviewed-ch18-monitorial",
+      "title": "（1）导生制简介",
+      "text": "19世纪上半叶初等教育师资极为短缺，贝尔和兰卡斯特创立“导生制”，也称“贝尔—兰卡斯特制”或“相互教学制”。",
+      "keywords": [
+        "贝尔",
+        "兰卡斯特",
+        "导生制",
+        "相互教学制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.导生制"
+    },
+    {
+      "id": "foreign-reviewed-ch18-monitorial-1",
+      "knowledgeId": "foreign-reviewed-ch18-monitorial",
+      "title": "（2）内容",
+      "text": "教师先教年龄大且成绩好的学生（导生），再由导生教其他学生。",
+      "keywords": [
+        "教师",
+        "导生",
+        "其他学生"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.导生制"
+    },
+    {
+      "id": "foreign-reviewed-ch18-monitorial-2",
+      "knowledgeId": "foreign-reviewed-ch18-monitorial",
+      "title": "（3）评价",
+      "text": "增加学生数额，弥补师资短缺，因而受欢迎，但难保教育质量。",
+      "keywords": [
+        "师资短缺",
+        "教育质量"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.导生制"
+    },
+    {
+      "id": "foreign-reviewed-ch18-monitorial-3",
+      "knowledgeId": "foreign-reviewed-ch18-monitorial",
+      "title": "2.《工厂法》",
+      "text": "9～13岁的童工每天应在工作时间内接受两个小时的义务教育。",
+      "keywords": [
+        "9～13岁",
+        "两个小时",
+        "义务教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster-0",
+      "knowledgeId": "foreign-reviewed-ch18-forster",
+      "title": "（1）背景",
+      "text": "随着工业革命完成，普及义务教育成为社会关注的主要问题；1870年英国政府颁布《初等教育法》。",
+      "keywords": [
+        "1870",
+        "福斯特法案",
+        "义务教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster-1",
+      "knowledgeId": "foreign-reviewed-ch18-forster",
+      "title": "①国家",
+      "text": "国家对教育有补助权和监督权。",
+      "keywords": [
+        "补助权",
+        "监督权"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster-2",
+      "knowledgeId": "foreign-reviewed-ch18-forster",
+      "title": "②地方",
+      "text": "全国划分若干学区，设学校委员会管理地方教育。",
+      "keywords": [
+        "学区",
+        "学校委员会"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster-3",
+      "knowledgeId": "foreign-reviewed-ch18-forster",
+      "title": "③强迫性",
+      "text": "原书概括为对5～12岁儿童实施强迫性初等教育。",
+      "keywords": [
+        "5～12岁",
+        "强迫性初等教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster-4",
+      "knowledgeId": "foreign-reviewed-ch18-forster",
+      "title": "④私人设学",
+      "text": "无学校的地方，允许私人在一年内设校；过期由地方委员会设立公立学校。",
+      "keywords": [
+        "私人",
+        "一年",
+        "公立学校"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster-5",
+      "knowledgeId": "foreign-reviewed-ch18-forster",
+      "title": "⑤分离",
+      "text": "学校中世俗科目与宗教科目分离。",
+      "keywords": [
+        "世俗科目",
+        "宗教科目",
+        "分离"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster-6",
+      "knowledgeId": "foreign-reviewed-ch18-forster",
+      "title": "①优点",
+      "text": "标志着英国初等国民教育制度正式形成。",
+      "keywords": [
+        "初等国民教育制度"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-forster-7",
+      "knowledgeId": "foreign-reviewed-ch18-forster",
+      "title": "②缺点",
+      "text": "形成公立体制与民办体制并存的格局；小学与中学不衔接。",
+      "keywords": [
+        "公立民办",
+        "初中不衔接"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（3）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-nineteenth-secondary-0",
+      "knowledgeId": "foreign-reviewed-ch18-nineteenth-secondary",
+      "title": "1.实情",
+      "text": "沿袭旧制，主要设立文法学校和公学。",
+      "keywords": [
+        "文法学校",
+        "公学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-nineteenth-secondary-1",
+      "knowledgeId": "foreign-reviewed-ch18-nineteenth-secondary",
+      "title": "2.设想",
+      "text": "汤顿委员会建议设立面向贵族和大资产阶级子弟的文法中学、面向中产阶级子弟的实科中学、面向中下层平民子弟的职业中学，该建议未被采纳。",
+      "keywords": [
+        "汤顿委员会",
+        "文法中学",
+        "实科中学",
+        "职业中学",
+        "未采纳"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-new-universities-0",
+      "knowledgeId": "foreign-reviewed-ch18-new-universities",
+      "title": "（1）简介",
+      "text": "工业革命和近代科学发展要求产生新大学。",
+      "keywords": [
+        "工业革命",
+        "近代科学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-new-universities-1",
+      "knowledgeId": "foreign-reviewed-ch18-new-universities",
+      "title": "（2）发展",
+      "text": "原书以1828年伦敦大学学院的成立为新大学运动开始的标志，其后建立伦敦大学，再发展城市学院。",
+      "keywords": [
+        "1828",
+        "伦敦大学学院",
+        "伦敦大学",
+        "城市学院"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-new-universities-2",
+      "knowledgeId": "foreign-reviewed-ch18-new-universities",
+      "title": "（3）①管理",
+      "text": "民众办理。",
+      "keywords": [
+        "民众办理"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-new-universities-3",
+      "knowledgeId": "foreign-reviewed-ch18-new-universities",
+      "title": "（3）②目的",
+      "text": "培养高等专门技术型人才。",
+      "keywords": [
+        "专门技术人才"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-new-universities-4",
+      "knowledgeId": "foreign-reviewed-ch18-new-universities",
+      "title": "（3）③内容",
+      "text": "重实用而非古典。",
+      "keywords": [
+        "实用",
+        "古典"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-new-universities-5",
+      "knowledgeId": "foreign-reviewed-ch18-new-universities",
+      "title": "（3）④对象",
+      "text": "以中产阶级为对象。",
+      "keywords": [
+        "中产阶级"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch18-new-universities-6",
+      "knowledgeId": "foreign-reviewed-ch18-new-universities",
+      "title": "（4）评价",
+      "text": "打破牛津、剑桥独霸高等教育的格局；拓展中产阶级接受高等教育的机会；促使科学教育步入大学讲坛。",
+      "keywords": [
+        "打破独霸",
+        "中产阶级",
+        "科学教育"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-extension-0",
+      "knowledgeId": "foreign-reviewed-ch18-extension",
+      "title": "（1）简介",
+      "text": "原书列于19世纪40年代：新大学运动拓展中产阶级机会，大学推广运动满足普通民众接受高等教育的需要。",
+      "keywords": [
+        "普通民众",
+        "高等教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-extension-1",
+      "knowledgeId": "foreign-reviewed-ch18-extension",
+      "title": "（2）形式",
+      "text": "伦敦大学、牛津大学、剑桥大学等全日制大学，以校内或校外讲座形式把教育推广到非全日制学生。",
+      "keywords": [
+        "讲座",
+        "非全日制学生"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-extension-2",
+      "knowledgeId": "foreign-reviewed-ch18-extension",
+      "title": "（2）奠基人",
+      "text": "剑桥大学的斯图尔特，设想利用大学师资优势创办巡回授课大学。",
+      "keywords": [
+        "斯图尔特",
+        "巡回授课大学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-extension-3",
+      "knowledgeId": "foreign-reviewed-ch18-extension",
+      "title": "（3）①职能",
+      "text": "增加高校服务社会的职能，加强大学与社会联系。",
+      "keywords": [
+        "服务社会"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-extension-4",
+      "knowledgeId": "foreign-reviewed-ch18-extension",
+      "title": "（3）②对象",
+      "text": "满足中下层子弟接受高等教育的需要。",
+      "keywords": [
+        "中下层子弟"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-state-intervention-0",
+      "knowledgeId": "foreign-reviewed-ch18-state-intervention",
+      "title": "1.拨款干预教育",
+      "text": "1833年《教育补助金法案》决定国家开始通过拨款间接干预教育。",
+      "keywords": [
+        "1833",
+        "教育补助金法案",
+        "间接干预"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-state-intervention-1",
+      "knowledgeId": "foreign-reviewed-ch18-state-intervention",
+      "title": "2.建立管理机构",
+      "text": "1899年成立国家教育委员会，统一管理初等及中等教育事业的发展。",
+      "keywords": [
+        "1899",
+        "国家教育委员会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-balfour-0",
+      "knowledgeId": "foreign-reviewed-ch18-balfour",
+      "title": "（一）简介",
+      "text": "19世纪末尚未建立有效的教育管理体制，地方分治与自由主义传统导致管理无序；1902年颁布《巴尔福教育法》，加强地方教育管理。",
+      "keywords": [
+        "1902",
+        "巴尔福",
+        "地方管理"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-balfour-1",
+      "knowledgeId": "foreign-reviewed-ch18-balfour",
+      "title": "1.新设机构",
+      "text": "设地方教育当局代替原地方教育委员会，尤其享有设立公立中学的权力。",
+      "keywords": [
+        "地方教育当局",
+        "公立中学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-balfour-2",
+      "knowledgeId": "foreign-reviewed-ch18-balfour",
+      "title": "2.管理学校",
+      "text": "地方教育当局对初等、中等、师范、私立和教会教育有管理权。",
+      "keywords": [
+        "地方教育当局",
+        "管理权"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-balfour-3",
+      "knowledgeId": "foreign-reviewed-ch18-balfour",
+      "title": "3.管理教师",
+      "text": "地方教育当局可否决不合格的校长和教师，并负责支付教师工资。",
+      "keywords": [
+        "否决权",
+        "教师工资"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-balfour-4",
+      "knowledgeId": "foreign-reviewed-ch18-balfour",
+      "title": "1.行政体制",
+      "text": "促成中央教育委员会与地方教育当局结合，形成以地方教育当局为主体的教育行政体制，突出中央和地方的合作伙伴方式。",
+      "keywords": [
+        "地方为主体",
+        "合作伙伴"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-balfour-5",
+      "knowledgeId": "foreign-reviewed-ch18-balfour",
+      "title": "2.初中衔接",
+      "text": "首次讨论初等教育与中等教育衔接，把中等教育纳入地方教育部门管理，为统一的国家公共教育制度奠基。",
+      "keywords": [
+        "初中衔接",
+        "公共教育"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-balfour-6",
+      "knowledgeId": "foreign-reviewed-ch18-balfour",
+      "title": "3.公立中等教育",
+      "text": "创办公立中学和现代中学，使社会中下层接受中等教育的人数大增。",
+      "keywords": [
+        "公立中学",
+        "现代中学"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher-0",
+      "knowledgeId": "foreign-reviewed-ch18-fisher",
+      "title": "（一）简介",
+      "text": "1918年，针对初中教育不衔接、初等教育未免费、产业工人缺乏一定教育、中学发展缓慢等问题，颁布《费舍教育法》。",
+      "keywords": [
+        "1918",
+        "费舍教育法"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher-1",
+      "knowledgeId": "foreign-reviewed-ch18-fisher",
+      "title": "1.权限",
+      "text": "明确中央和地方权限，加强地方当局发展教育的权力和国家教育委员会制约地方当局的权限。",
+      "keywords": [
+        "中央地方",
+        "权限"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher-2",
+      "knowledgeId": "foreign-reviewed-ch18-fisher",
+      "title": "2.基础教育",
+      "text": "为2～5岁儿童开设幼儿学校；规定5～14岁为义务教育阶段，小学一律免费。",
+      "keywords": [
+        "2～5岁",
+        "5～14岁",
+        "小学免费"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher-3",
+      "knowledgeId": "foreign-reviewed-ch18-fisher",
+      "title": "3.继续教育",
+      "text": "地方当局建立继续教育学校，为14～16岁年轻人免费提供一定的学习课程和教育训练。",
+      "keywords": [
+        "14～16岁",
+        "继续教育",
+        "免费"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher-4",
+      "knowledgeId": "foreign-reviewed-ch18-fisher",
+      "title": "1.职责",
+      "text": "中央教育委员会监督全国教育，地方教育当局对各级各类学校有直接办学权和管理权。",
+      "keywords": [
+        "中央监督",
+        "地方办学管理"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher-5",
+      "knowledgeId": "foreign-reviewed-ch18-fisher",
+      "title": "2.公共教育制度",
+      "text": "第一次明确宣布立法实施应考虑建立面向全体有能力受益者的全国公共教育制度，为完整国民教育体系奠基。",
+      "keywords": [
+        "公共教育制度",
+        "国民教育体系"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher-6",
+      "knowledgeId": "foreign-reviewed-ch18-fisher",
+      "title": "3.免费教育",
+      "text": "真正实现公立初等学校的免费教育。",
+      "keywords": [
+        "公立初等学校",
+        "免费"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-fisher-7",
+      "knowledgeId": "foreign-reviewed-ch18-fisher",
+      "title": "4.局限",
+      "text": "以“补习教育”掩盖初等学校与中等学校之间的社会等级性，实质上未触及双轨制问题。",
+      "keywords": [
+        "补习教育",
+        "社会等级性",
+        "双轨制"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-hadow-0",
+      "knowledgeId": "foreign-reviewed-ch18-hadow",
+      "title": "简介",
+      "text": "为改变双轨制局面，工党提出“人人有权接受中等教育”的口号。",
+      "keywords": [
+        "人人有权",
+        "双轨制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-hadow-1",
+      "knowledgeId": "foreign-reviewed-ch18-hadow",
+      "title": "内容",
+      "text": "初等教育后经11岁考试分流到文法学校与现代中学；原图的现代中学分支包括选择性现代中学、非选择性现代中学、公立小学高级班或高级小学。",
+      "keywords": [
+        "11岁考试",
+        "文法学校",
+        "现代中学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-hadow-2",
+      "knowledgeId": "foreign-reviewed-ch18-hadow",
+      "title": "1.优点",
+      "text": "促进教育民主化；第一次阐明初等教育和中等教育衔接，力图改变双轨制。",
+      "keywords": [
+        "教育民主化",
+        "初中衔接"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-hadow-3",
+      "knowledgeId": "foreign-reviewed-ch18-hadow",
+      "title": "2.局限",
+      "text": "依旧受传统双轨制的制约。",
+      "keywords": [
+        "双轨制"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-spens-0",
+      "knowledgeId": "foreign-reviewed-ch18-spens",
+      "title": "简介",
+      "text": "继续探索如何改革中等教育。",
+      "keywords": [
+        "中等教育改革"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-spens-1",
+      "knowledgeId": "foreign-reviewed-ch18-spens",
+      "title": "内容",
+      "text": "初等教育后，经11岁考试分流到文法中学、现代中学、技术中学。",
+      "keywords": [
+        "11岁",
+        "文法中学",
+        "现代中学",
+        "技术中学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-spens-2",
+      "knowledgeId": "foreign-reviewed-ch18-spens",
+      "title": "1.评价",
+      "text": "被誉为“英国中等教育发展的最有价值的设计草图”；基本形成三类学校，“人人受中等教育”的观念已被社会接受。",
+      "keywords": [
+        "设计草图",
+        "人人受中等教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-spens-3",
+      "knowledgeId": "foreign-reviewed-ch18-spens",
+      "title": "2.影响",
+      "text": "“多科性中学”的设想促进未来综合中学的发展。",
+      "keywords": [
+        "多科性中学",
+        "综合中学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-content-0",
+      "knowledgeId": "foreign-reviewed-ch18-butler-content",
+      "title": "（一）简介",
+      "text": "“二战”期间，“人人受中等教育”深入人心；为结束战时教育混乱、恢复稳定发展，颁布《1944年教育法》，也称《巴特勒教育法》。",
+      "keywords": [
+        "1944",
+        "巴特勒"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-content-1",
+      "knowledgeId": "foreign-reviewed-ch18-butler-content",
+      "title": "1.国家领导",
+      "text": "废除教育委员会，设教育部统一领导全国教育；设中央教育咨询委员会向教育部长提供咨询和建议。",
+      "keywords": [
+        "教育部",
+        "中央教育咨询委员会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-content-2",
+      "knowledgeId": "foreign-reviewed-ch18-butler-content",
+      "title": "2.地方权限",
+      "text": "地方当局设立由初等教育、中等教育和继续教育组成的公共教育系统。",
+      "keywords": [
+        "初等",
+        "中等",
+        "继续教育",
+        "公共教育系统"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-content-3",
+      "knowledgeId": "foreign-reviewed-ch18-butler-content",
+      "title": "3.义务与免费教育",
+      "text": "实施5～15岁义务教育，为超龄者提供全日制和业余教育；中等学校一律免费。",
+      "keywords": [
+        "5～15岁",
+        "超龄者",
+        "中等免费"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-content-4",
+      "knowledgeId": "foreign-reviewed-ch18-butler-content",
+      "title": "4.其他",
+      "text": "提出宗教教育、师范教育和高等教育等改革要求。",
+      "keywords": [
+        "宗教教育",
+        "师范教育",
+        "高等教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-impact-0",
+      "knowledgeId": "foreign-reviewed-ch18-butler-impact",
+      "title": "1.国民教育制度",
+      "text": "建立初等、中等和继续教育相互衔接的公共教育制度，基本形成现代英国国民教育制度，是里程碑式法案。",
+      "keywords": [
+        "国民教育制度",
+        "相互衔接",
+        "里程碑"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-impact-1",
+      "knowledgeId": "foreign-reviewed-ch18-butler-impact",
+      "title": "2.管理关系",
+      "text": "进一步确立和完善中央与地方在教育行政管理体制上的合作伙伴关系。",
+      "keywords": [
+        "合作伙伴关系"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-impact-2",
+      "knowledgeId": "foreign-reviewed-ch18-butler-impact",
+      "title": "3.普及教育",
+      "text": "向所有学生提供免费中等教育，基本实现普及10年义务教育的发展目标。",
+      "keywords": [
+        "免费中等教育",
+        "10年义务教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-butler-impact-3",
+      "knowledgeId": "foreign-reviewed-ch18-butler-impact",
+      "title": "综合中学",
+      "text": "20世纪60—70年代，为促进教育机会均等，英国工党政府将文法中学、现代中学和技术中学合并为新型“综合中学”。",
+      "keywords": [
+        "教育机会均等",
+        "综合中学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "知识小贴士"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-content-0",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-content",
+      "title": "（一）简介",
+      "text": "为刺激经济发展并触动传统教育管理模式，1988年教育大臣贝克对英国教育体制进行全面改革。",
+      "keywords": [
+        "1988",
+        "贝克"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-content-1",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-content",
+      "title": "（1）统一课程",
+      "text": "5～16岁义务教育阶段开设核心课程、基础课程和附加课程。",
+      "keywords": [
+        "5～16岁",
+        "核心课程",
+        "基础课程",
+        "附加课程"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基础教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-content-2",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-content",
+      "title": "（2）统一考试",
+      "text": "义务教育阶段四次考试：7岁、11岁、14岁、16岁各一次。",
+      "keywords": [
+        "7岁",
+        "11岁",
+        "14岁",
+        "16岁"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基础教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-content-3",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-content",
+      "title": "（3）“摆脱选择”",
+      "text": "所有中学和规模较大的小学可直接由中央管辖。",
+      "keywords": [
+        "摆脱选择",
+        "中央管辖"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基础教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-content-4",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-content",
+      "title": "（4）自由择校",
+      "text": "赋予家长为子女自由选择学校的权利。",
+      "keywords": [
+        "家长",
+        "自由择校"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 1.基础教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-content-5",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-content",
+      "title": "（5）城市技术学校",
+      "text": "建立新型城市技术学校。",
+      "keywords": [
+        "城市技术学校"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 2.职业教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-content-6",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-content",
+      "title": "（6）废除“双重制”",
+      "text": "原各类学院由地方管理、大学由中央管理；新规定使多科技术学院和其他学院脱离地方管辖，改由中央管理，获得与大学同等的法人地位。",
+      "keywords": [
+        "双重制",
+        "多科技术学院",
+        "中央管理",
+        "法人地位"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（二）内容 · 3.高等教育"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-impact-0",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-impact",
+      "title": "总评",
+      "text": "英国教育改革的里程碑法案。",
+      "keywords": [
+        "里程碑"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-impact-1",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-impact",
+      "title": "（1）加强集权",
+      "text": "动摇传统教育管理模式，削弱地方权限，强化中央权力。",
+      "keywords": [
+        "地方权限",
+        "中央权力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.积极"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-impact-2",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-impact",
+      "title": "（2）自由竞争",
+      "text": "以准市场化手段在学校之间引入竞争机制，提高教育水准。",
+      "keywords": [
+        "准市场化",
+        "竞争机制"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.积极"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-impact-3",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-impact",
+      "title": "（3）提升质量",
+      "text": "结束各地教育混乱，确定各地义务教育基本水准。",
+      "keywords": [
+        "义务教育",
+        "基本水准"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.积极"
+    },
+    {
+      "id": "foreign-reviewed-ch18-reform1988-impact-4",
+      "knowledgeId": "foreign-reviewed-ch18-reform1988-impact",
+      "title": "2.争议",
+      "text": "统一国家课程忽略儿童个性化需要；统一考试不利于能力培养；家长择校权增大容易造成学校布局失调等。",
+      "keywords": [
+        "个性化",
+        "能力培养",
+        "学校布局"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-robbins-0",
+      "knowledgeId": "foreign-reviewed-ch18-robbins",
+      "title": "1.内涵",
+      "text": "应为所有能力和成绩合格、并愿意接受高等教育的人提供高等教育课程。",
+      "keywords": [
+        "能力成绩合格",
+        "有意愿",
+        "高等教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-robbins-1",
+      "knowledgeId": "foreign-reviewed-ch18-robbins",
+      "title": "2.发展",
+      "text": "创办开放大学，扩大成人教育规模。",
+      "keywords": [
+        "开放大学",
+        "成人教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-james-0",
+      "knowledgeId": "foreign-reviewed-ch18-james",
+      "title": "1.简介",
+      "text": "针对英国师范教育的弊端。",
+      "keywords": [
+        "师范教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-james-1",
+      "knowledgeId": "foreign-reviewed-ch18-james",
+      "title": "（1）批判旧制",
+      "text": "地区师资培训组织“过于学术化”，培训组织效率低。",
+      "keywords": [
+        "学术化",
+        "效率低"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-james-2",
+      "knowledgeId": "foreign-reviewed-ch18-james",
+      "title": "（2）师资培训三段法",
+      "text": "普通高等教育阶段 → 职前培训阶段 → 职后培训阶段。",
+      "keywords": [
+        "普通高等教育",
+        "职前培训",
+        "职后培训"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-james-3",
+      "knowledgeId": "foreign-reviewed-ch18-james",
+      "title": "（3）非定向",
+      "text": "实行非定向师资培养。",
+      "keywords": [
+        "非定向"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-james-4",
+      "knowledgeId": "foreign-reviewed-ch18-james",
+      "title": "（1）地位与管理",
+      "text": "提高师范教育地位，加强对师范教育的管控。",
+      "keywords": [
+        "师范教育地位",
+        "管控"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-james-5",
+      "knowledgeId": "foreign-reviewed-ch18-james",
+      "title": "（2）模式",
+      "text": "以师资培训三段法和非定向培养规范师范教育发展模式。",
+      "keywords": [
+        "三段法",
+        "非定向"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-james-6",
+      "knowledgeId": "foreign-reviewed-ch18-james",
+      "title": "（3）称号",
+      "text": "被誉为英国的“教师教育宪章”。",
+      "keywords": [
+        "教师教育宪章"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch18-leverhulme-0",
+      "knowledgeId": "foreign-reviewed-ch18-leverhulme",
+      "title": "（1）招生",
+      "text": "扩大入学途径。",
+      "keywords": [
+        "入学途径"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.《雷弗休姆报告》"
+    },
+    {
+      "id": "foreign-reviewed-ch18-leverhulme-1",
+      "knowledgeId": "foreign-reviewed-ch18-leverhulme",
+      "title": "（2）课程",
+      "text": "改革课程结构，适应知识综合化和职业多变化的需要。",
+      "keywords": [
+        "课程结构",
+        "知识综合化",
+        "职业多变化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.《雷弗休姆报告》"
+    },
+    {
+      "id": "foreign-reviewed-ch18-leverhulme-2",
+      "knowledgeId": "foreign-reviewed-ch18-leverhulme",
+      "title": "（3）管理",
+      "text": "加强专业化管理，提高教学和科研水平。",
+      "keywords": [
+        "专业化管理",
+        "教学科研"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.《雷弗休姆报告》"
+    },
+    {
+      "id": "foreign-reviewed-ch18-leverhulme-3",
+      "knowledgeId": "foreign-reviewed-ch18-leverhulme",
+      "title": "（4）奖金",
+      "text": "开辟奖助金新途径。",
+      "keywords": [
+        "奖助金"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.《雷弗休姆报告》"
+    },
+    {
+      "id": "foreign-reviewed-ch18-leverhulme-4",
+      "knowledgeId": "foreign-reviewed-ch18-leverhulme",
+      "title": "改革要点",
+      "text": "开始废除“双重制”；实行摆脱政策。",
+      "keywords": [
+        "双重制",
+        "摆脱政策"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.《1988年教育改革法》"
+    },
+    {
+      "id": "foreign-reviewed-ch18-higher1992-0",
+      "knowledgeId": "foreign-reviewed-ch18-higher1992",
+      "title": "（1）简介",
+      "text": "为继续推进废除高等教育“双重制”而颁布。",
+      "keywords": [
+        "1992",
+        "双重制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-higher1992-1",
+      "knowledgeId": "foreign-reviewed-ch18-higher1992",
+      "title": "①提高地位",
+      "text": "原书概括为：国家学位授予委员会赋予多科技术学院学位授予权，同意将其改名为大学，使其具有和大学相等的地位。",
+      "keywords": [
+        "国家学位授予委员会",
+        "多科技术学院",
+        "学位授予权",
+        "改名大学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-higher1992-2",
+      "knowledgeId": "foreign-reviewed-ch18-higher1992",
+      "title": "②规范拨款",
+      "text": "统一拨款机构，将教学和科研拨款分开。",
+      "keywords": [
+        "拨款机构",
+        "教学科研"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-higher1992-3",
+      "knowledgeId": "foreign-reviewed-ch18-higher1992",
+      "title": "③评估质量",
+      "text": "建立新的高等教育质量保证体系。",
+      "keywords": [
+        "质量保证体系"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-higher1992-4",
+      "knowledgeId": "foreign-reviewed-ch18-higher1992",
+      "title": "（3）评价",
+      "text": "标志英国高等教育“双重制”彻底终结，形成新型高等教育大众化框架。",
+      "keywords": [
+        "双重制终结",
+        "大众化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-dearing-0",
+      "knowledgeId": "foreign-reviewed-ch18-dearing",
+      "title": "（1）简介",
+      "text": "为制定面向21世纪的高等教育改革框架与发展战略而颁布。原书总结表标注为1997年。",
+      "keywords": [
+        "1997",
+        "21世纪",
+        "迪尔英报告"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch18-dearing-1",
+      "knowledgeId": "foreign-reviewed-ch18-dearing",
+      "title": "①反思成果",
+      "text": "院校规模小、人均拨款少、不能多样化、能力培养少。",
+      "keywords": [
+        "规模小",
+        "拨款少",
+        "多样化",
+        "能力培养"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-dearing-2",
+      "knowledgeId": "foreign-reviewed-ch18-dearing",
+      "title": "②制定战略",
+      "text": "扩大规模、终身学习、服务社会、提高回报。",
+      "keywords": [
+        "扩大规模",
+        "终身学习",
+        "服务社会",
+        "提高回报"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch18-dearing-3",
+      "knowledgeId": "foreign-reviewed-ch18-dearing",
+      "title": "（3）评价",
+      "text": "纲领性文件。",
+      "keywords": [
+        "纲领性文件"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {
+    "139": 90
+  },
+  "stats": {
+    "pages": 8,
+    "knowledge": 27,
+    "steps": 116,
+    "referenceOnly": 3
+  }
+}

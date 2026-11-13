@@ -1,0 +1,3451 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch4-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch4-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识的建构：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 47,
+          "rect": [
+            0.07,
+            0.12,
+            0.86,
+            0.205
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 47108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识及其类型",
+      "section": "第一节 · 知识及知识建构 · 考点一",
+      "refs": [
+        {
+          "page": 47,
+          "rect": [
+            0.07,
+            0.465,
+            0.86,
+            0.425
+          ]
+        },
+        {
+          "page": 48,
+          "rect": [
+            0.07,
+            0.06,
+            0.86,
+            0.84
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 47418,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-declarative-procedural-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "陈述性与程序性知识：区别与联系原表",
+      "section": "第一节 · 知识及知识建构 · 考点一 · （二）主要类型",
+      "refs": [
+        {
+          "page": 47,
+          "rect": [
+            0.295,
+            0.51,
+            0.61,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 47459,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-classification-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "七种分类依据与知识类型原表",
+      "section": "第一节 · 知识及知识建构 · 考点一 · （三）其他分类",
+      "refs": [
+        {
+          "page": 48,
+          "rect": [
+            0.07,
+            0.06,
+            0.86,
+            0.84
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 48054,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-explicit-tacit-conversion",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "显性知识与隐性知识的转化",
+      "section": "第一节 · 知识及知识建构 · 考点一 · （三）其他分类 · 凯程深化",
+      "refs": [
+        {
+          "page": 49,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.385
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 49072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-conversion-arrows",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "显性与隐性知识四种转化箭头原图",
+      "section": "第一节 · 知识及知识建构 · 考点一 · 凯程深化",
+      "refs": [
+        {
+          "page": 49,
+          "rect": [
+            0.33,
+            0.335,
+            0.3,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 49301,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-construction-mechanisms",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识建构的基本机制",
+      "section": "第一节 · 知识及知识建构 · 考点二",
+      "refs": [
+        {
+          "page": 49,
+          "rect": [
+            0.07,
+            0.52,
+            0.86,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 49468,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-production-sequence",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "产生式结构：“如果”与“那么”的对应原图",
+      "section": "第一节 · 知识及知识建构 · 考点二 · （二）程序性知识",
+      "refs": [
+        {
+          "page": 49,
+          "rect": [
+            0.31,
+            0.617,
+            0.48,
+            0.045
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 49555,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识理解的含义和类型",
+      "section": "第二节 · 知识的理解 · 考点一",
+      "refs": [
+        {
+          "page": 50,
+          "rect": [
+            0.07,
+            0.155,
+            0.86,
+            0.355
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 50139,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "陈述性知识和程序性知识的表征",
+      "section": "第二节 · 知识的理解 · 考点一 · 凯程深化",
+      "refs": [
+        {
+          "page": 50,
+          "rect": [
+            0.07,
+            0.55,
+            0.86,
+            0.26
+          ]
+        },
+        {
+          "page": 51,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.83
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 50495,
+      "reviewNote": "表征定义和各方式的文字完整提取；命题网络、午饭脚本与倒车入库图另保留原图，跨页保持同一父路径。倒车图的原书说明为既是图式又是产生式。"
+    },
+    {
+      "id": "edu-reviewed-ch4-representation-framework",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识表征七种方式跨页原图",
+      "section": "第二节 · 知识的理解 · 考点一 · 凯程深化",
+      "refs": [
+        {
+          "page": 50,
+          "rect": [
+            0.07,
+            0.55,
+            0.86,
+            0.26
+          ]
+        },
+        {
+          "page": 51,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.83
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 50495,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-proposition-network",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "命题网络举例：鸟、鱼及下位种类原图",
+      "section": "第二节 · 知识的理解 · 考点一 · 凯程深化 · （二）方式 · 4. 命题网络",
+      "refs": [
+        {
+          "page": 51,
+          "rect": [
+            0.2,
+            0.1,
+            0.68,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 51090,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-lunch-script",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "事件图式：“午饭”脚本（Berk，1991）原图",
+      "section": "第二节 · 知识的理解 · 考点一 · 凯程深化 · （二）方式 · 6. 图式",
+      "refs": [
+        {
+          "page": 51,
+          "rect": [
+            0.61,
+            0.425,
+            0.22,
+            0.195
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 51382,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-parking-diagram",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "倒车入库原图：既是图式，又是产生式",
+      "section": "第二节 · 知识的理解 · 考点一 · 凯程深化",
+      "refs": [
+        {
+          "page": 51,
+          "rect": [
+            0.3,
+            0.662,
+            0.42,
+            0.255
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 51595,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识理解的过程",
+      "section": "第二节 · 知识的理解 · 考点二",
+      "refs": [
+        {
+          "page": 52,
+          "rect": [
+            0.07,
+            0.125,
+            0.86,
+            0.325
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 52112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-flowchart",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "理解生成过程：鲸鱼例子与重新检索回路原图",
+      "section": "第二节 · 知识的理解 · 考点二 · （一）理解的生成过程",
+      "refs": [
+        {
+          "page": 52,
+          "rect": [
+            0.165,
+            0.165,
+            0.78,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 52148,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-factors",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "影响知识理解的因素",
+      "section": "第二节 · 知识的理解 · 考点三",
+      "refs": [
+        {
+          "page": 52,
+          "rect": [
+            0.07,
+            0.52,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 52468,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识的整合与深化",
+      "section": "第三节 · 知识的整合与应用 · 考点一",
+      "refs": [
+        {
+          "page": 53,
+          "rect": [
+            0.07,
+            0.165,
+            0.86,
+            0.54
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 53148,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-forgetting-mnemonic",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "五种遗忘原因凯程助记",
+      "section": "第三节 · 知识的整合与应用 · 考点一 · （二）遗忘 · 凯程助记",
+      "refs": [
+        {
+          "page": 53,
+          "rect": [
+            0.405,
+            0.55,
+            0.35,
+            0.05
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 53495,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-forgetting-curves",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "艾宾浩斯遗忘曲线与记忆法原图",
+      "section": "第三节 · 知识的整合与应用 · 考点一 · （二）遗忘",
+      "refs": [
+        {
+          "page": 53,
+          "rect": [
+            0.07,
+            0.72,
+            0.86,
+            0.195
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 53648,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-application",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "（一）知识的应用",
+      "section": "第三节 · 知识的整合与应用 · 考点二 · 知识的应用与迁移",
+      "refs": [
+        {
+          "page": 54,
+          "rect": [
+            0.07,
+            0.11,
+            0.86,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 54099,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识的迁移：含义与类型",
+      "section": "第三节 · 知识的整合与应用 · 考点二 · 知识的应用与迁移 · （二）知识的迁移",
+      "refs": [
+        {
+          "page": 54,
+          "rect": [
+            0.07,
+            0.238,
+            0.86,
+            0.63
+          ]
+        },
+        {
+          "page": 55,
+          "rect": [
+            0.07,
+            0.1,
+            0.86,
+            0.65
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 54214,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-classification-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "迁移九种分类依据及类型跨页原表",
+      "section": "第三节 · 知识的整合与应用 · 考点二 · 知识的应用与迁移 · （二）知识的迁移 · 2. 类型",
+      "refs": [
+        {
+          "page": 54,
+          "rect": [
+            0.07,
+            0.335,
+            0.86,
+            0.54
+          ]
+        },
+        {
+          "page": 55,
+          "rect": [
+            0.07,
+            0.1,
+            0.86,
+            0.65
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 54301,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-mnemonic",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "迁移类型凯程助记",
+      "section": "第三节 · 知识的整合与应用 · 考点二 · 知识的应用与迁移 · （二）知识的迁移 · 2. 类型 · 凯程助记",
+      "refs": [
+        {
+          "page": 55,
+          "rect": [
+            0.07,
+            0.775,
+            0.86,
+            0.075
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 55697,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识迁移的五种理论",
+      "section": "第三节 · 知识的整合与应用 · 考点二 · 知识的应用与迁移 · （二）知识的迁移 · 3. 理论",
+      "refs": [
+        {
+          "page": 56,
+          "rect": [
+            0.07,
+            0.085,
+            0.86,
+            0.267
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 56076,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-factors",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "知识迁移的影响因素",
+      "section": "第三节 · 知识的整合与应用 · 考点二 · 知识的应用与迁移 · （二）知识的迁移 · 4. 影响因素",
+      "refs": [
+        {
+          "page": 56,
+          "rect": [
+            0.07,
+            0.363,
+            0.86,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 56326,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-measures",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "促进知识迁移的措施",
+      "section": "第三节 · 知识的整合与应用 · 考点二 · 知识的应用与迁移 · （二）知识的迁移 · 5. 措施",
+      "refs": [
+        {
+          "page": 56,
+          "rect": [
+            0.07,
+            0.492,
+            0.86,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 56442,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-matrix",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-3",
+      "title": "正负迁移×顺逆迁移四象限凯程深化原图",
+      "section": "第三节 · 知识的整合与应用 · 考点二 · 知识的应用与迁移 · （二）知识的迁移 · 凯程深化",
+      "refs": [
+        {
+          "page": 56,
+          "rect": [
+            0.07,
+            0.642,
+            0.86,
+            0.282
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 56577,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-0",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "广义知识",
+      "text": "广义的知识：人们所获得的经验，包括知识、技能和策略。",
+      "keywords": [
+        "经验",
+        "知识技能策略"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "1. 广义的知识",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-1",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "狭义知识",
+      "text": "狭义的知识：个体获得的各种主观表征，仅含知识。",
+      "keywords": [
+        "主观表征",
+        "仅含知识"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "2. 狭义的知识",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-2",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "陈述性含义",
+      "text": "陈述性知识是关于“是什么”的知识。举例：北京的著名景点有哪些。",
+      "keywords": [
+        "是什么",
+        "北京景点"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "含义"
+      ],
+      "displayTitle": "陈述性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-3",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "程序性含义",
+      "text": "程序性知识是关于“怎么做”的知识。举例：用勾股定理解应用题。",
+      "keywords": [
+        "怎么做",
+        "勾股定理"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "含义"
+      ],
+      "displayTitle": "程序性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-4",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "陈述性形态",
+      "text": "陈述性知识是静态的、描述性的。",
+      "keywords": [
+        "静态",
+        "描述性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "区别",
+        "知识形态"
+      ],
+      "displayTitle": "陈述性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-5",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "程序性形态",
+      "text": "程序性知识是动态的，包括许多具体过程或操作步骤。",
+      "keywords": [
+        "动态",
+        "过程",
+        "操作步骤"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "区别",
+        "知识形态"
+      ],
+      "displayTitle": "程序性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-6",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "陈述性获得",
+      "text": "陈述性知识较容易获得，但也容易遗忘。",
+      "keywords": [
+        "容易获得",
+        "容易遗忘"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "区别",
+        "知识获得"
+      ],
+      "displayTitle": "陈述性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-7",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "程序性获得",
+      "text": "程序性知识较复杂、较难获得，一旦获得，就不容易遗忘。",
+      "keywords": [
+        "较难获得",
+        "不易遗忘"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "区别",
+        "知识获得"
+      ],
+      "displayTitle": "程序性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-8",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "陈述性言传",
+      "text": "陈述性知识大多时候可以言传。",
+      "keywords": [
+        "大多时候",
+        "可以言传"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "区别",
+        "知识是否言传"
+      ],
+      "displayTitle": "陈述性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-9",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "程序性言传",
+      "text": "程序性知识不可言传。",
+      "keywords": [
+        "不可言传"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "区别",
+        "知识是否言传"
+      ],
+      "displayTitle": "程序性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-10",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "陈述性机制",
+      "text": "陈述性知识通过同化和顺应建构，需要通过理解和记忆来获得。",
+      "keywords": [
+        "同化顺应",
+        "理解记忆"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "区别",
+        "知识建构机制"
+      ],
+      "displayTitle": "陈述性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-11",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "程序性机制",
+      "text": "程序性知识的建构机制是产生式，它的学习包括模式识别和动作序列两个相互联系的部分，需要通过大量练习和实践才能得到。",
+      "keywords": [
+        "产生式",
+        "模式识别",
+        "动作序列",
+        "练习实践"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "区别",
+        "知识建构机制"
+      ],
+      "displayTitle": "程序性知识",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-12",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "相互促进",
+      "text": "陈述性知识常常可以为执行某个实际操作程序提供必要的信息；程序性知识的掌握也会促进陈述性知识的深化。",
+      "keywords": [
+        "相互促进",
+        "必要信息",
+        "深化"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "联系"
+      ],
+      "displayTitle": "1. 相互促进",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-13",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "发展基础",
+      "text": "程序性知识是在陈述性知识的基础上发展起来的。",
+      "keywords": [
+        "陈述性基础",
+        "程序性发展"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主要类型",
+        "联系"
+      ],
+      "displayTitle": "2. 发展的基础",
+      "outline": "（二）主要类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-14",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "直接经验知识",
+      "text": "直接经验知识来自个体亲身体验。举例：我亲自尝试后，发现这种蘑菇有毒。",
+      "keywords": [
+        "亲身体验",
+        "直接经验"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "获得知识的方式"
+      ],
+      "displayTitle": "直接经验知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-15",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "间接经验知识",
+      "text": "间接经验知识来自书本和大众媒体等。举例：通过书中的描述，我学会了辨别蘑菇是否有毒的方法。",
+      "keywords": [
+        "书本",
+        "大众媒体",
+        "间接经验"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "获得知识的方式"
+      ],
+      "displayTitle": "间接经验知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-16",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "感性知识",
+      "text": "感性知识是对事物的外部特征和外部联系的反映。举例：教师向儿童展示金鱼的图片，之后提到“金鱼”一词时，儿童头脑中会浮现金鱼的形象。",
+      "keywords": [
+        "外部特征",
+        "外部联系",
+        "金鱼形象"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "抽象水平"
+      ],
+      "displayTitle": "感性知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-17",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "理性知识",
+      "text": "理性知识是对事物的本质特征与内在联系的反映。举例：我们总结了教育的本质，即教育是有目的地培养人的社会活动。",
+      "keywords": [
+        "本质特征",
+        "内在联系",
+        "教育本质"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "抽象水平"
+      ],
+      "displayTitle": "理性知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-18",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "主观知识",
+      "text": "主观知识指个人对事实的解释。举例：我认为教育不应该与资本挂钩。主观与客观知识的划分是相对而言的。",
+      "keywords": [
+        "个人解释",
+        "划分相对"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识的客观性（两类知识的划分是相对而言的）"
+      ],
+      "displayTitle": "主观知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-19",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "客观知识",
+      "text": "客观知识是相对约定俗成的知识，但也不是一成不变的。举例：地球绕着太阳转，这已经成为公理。主观与客观知识的划分是相对而言的。",
+      "keywords": [
+        "约定俗成",
+        "不是一成不变",
+        "划分相对"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识的客观性（两类知识的划分是相对而言的）"
+      ],
+      "displayTitle": "客观知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-20",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "个人知识",
+      "text": "个人知识是个人独特的知识。举例：个人的学习方法、反思能力等。",
+      "keywords": [
+        "个人独特",
+        "学习方法",
+        "反思"
+      ],
+      "order": 20,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识的所有权"
+      ],
+      "displayTitle": "个人知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-21",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "公众知识",
+      "text": "公众知识是社会所享有的。举例：牛顿定律、交通规则等。",
+      "keywords": [
+        "社会享有",
+        "牛顿定律",
+        "交通规则"
+      ],
+      "order": 21,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识的所有权"
+      ],
+      "displayTitle": "公众知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-22",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "显性知识",
+      "text": "显性知识是能用语言解释清楚的知识。举例：通过语言说明如何发射火箭。",
+      "keywords": [
+        "能用语言",
+        "解释清楚"
+      ],
+      "order": 22,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识与言语的关系"
+      ],
+      "displayTitle": "显性知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-23",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "隐性知识",
+      "text": "隐性知识是不能用语言充分表达的知识。举例：教师怎样拥有教育机智；学生怎样才算有悟性。",
+      "keywords": [
+        "不能充分表达",
+        "教育机智",
+        "悟性"
+      ],
+      "order": 23,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识与言语的关系"
+      ],
+      "displayTitle": "隐性知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-24",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "结构良好领域知识",
+      "text": "结构良好领域知识是由明确的事实、概念和规则构成的结构化的知识。举例：万有引力定律、运算规则等。",
+      "keywords": [
+        "明确事实概念规则",
+        "结构化"
+      ],
+      "order": 24,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识及其应用的复杂多变程度"
+      ],
+      "displayTitle": "结构良好领域知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-25",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "结构不良领域知识",
+      "text": "结构不良领域知识是有关知识被灵活应用的知识。举例：你认为如何能更好地为教师减负。",
+      "keywords": [
+        "灵活应用",
+        "教师减负"
+      ],
+      "order": 25,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识及其应用的复杂多变程度"
+      ],
+      "displayTitle": "结构不良领域知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-26",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "状态陈述性知识",
+      "text": "陈述性知识是关于“是什么”的知识。举例：北京的著名景点有哪些。",
+      "keywords": [
+        "是什么",
+        "陈述性"
+      ],
+      "order": 26,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识的状态和表现方式"
+      ],
+      "displayTitle": "陈述性知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-types-27",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-types",
+      "title": "状态程序性知识",
+      "text": "程序性知识是关于“怎么做”的知识，解决这一类问题需要一定的程序。举例：用勾股定理解应用题。",
+      "keywords": [
+        "怎么做",
+        "一定程序"
+      ],
+      "order": 27,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）其他分类",
+        "知识的状态和表现方式"
+      ],
+      "displayTitle": "程序性知识",
+      "outline": "（三）其他分类"
+    },
+    {
+      "id": "edu-reviewed-ch4-explicit-tacit-conversion-0",
+      "knowledgeId": "edu-reviewed-ch4-explicit-tacit-conversion",
+      "title": "社会化",
+      "text": "隐性知识社会化：隐性知识→隐性知识。我们分享别人的经验与经历，理解别人的思想与感情。举例：经常读鲁迅的文章，写的作文也有鲁迅的风格。",
+      "keywords": [
+        "社会化",
+        "隐性到隐性",
+        "分享经验"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "隐性知识社会化"
+    },
+    {
+      "id": "edu-reviewed-ch4-explicit-tacit-conversion-1",
+      "knowledgeId": "edu-reviewed-ch4-explicit-tacit-conversion",
+      "title": "外化",
+      "text": "隐性知识外化：隐性知识→显性知识。我们用他人可以理解的方式，将隐性知识表达出来。举例：写一篇论文《鲁迅写作特点与技巧》。",
+      "keywords": [
+        "外化",
+        "隐性到显性",
+        "表达"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "隐性知识外化"
+    },
+    {
+      "id": "edu-reviewed-ch4-explicit-tacit-conversion-2",
+      "knowledgeId": "edu-reviewed-ch4-explicit-tacit-conversion",
+      "title": "综合化",
+      "text": "显性知识综合化：显性知识→显性知识。将显性知识综合成更有体系的显性知识。举例：《写作三十六计——别再为写作发愁》。",
+      "keywords": [
+        "综合化",
+        "显性到显性",
+        "更有体系"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "显性知识综合化"
+    },
+    {
+      "id": "edu-reviewed-ch4-explicit-tacit-conversion-3",
+      "knowledgeId": "edu-reviewed-ch4-explicit-tacit-conversion",
+      "title": "内化",
+      "text": "显性知识内化：显性知识→隐性知识。把显性知识与自己已有的经验相结合，转换成个人的隐性知识。举例：我的作文信手拈来，写得出神入化。",
+      "keywords": [
+        "内化",
+        "显性到隐性",
+        "已有经验"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "显性知识内化"
+    },
+    {
+      "id": "edu-reviewed-ch4-construction-mechanisms-0",
+      "knowledgeId": "edu-reviewed-ch4-construction-mechanisms",
+      "title": "同化",
+      "text": "同化：连续性、累积性。",
+      "keywords": [
+        "连续性",
+        "累积性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）陈述性知识"
+      ],
+      "displayTitle": "1. 同化",
+      "outline": "（一）陈述性知识"
+    },
+    {
+      "id": "edu-reviewed-ch4-construction-mechanisms-1",
+      "knowledgeId": "edu-reviewed-ch4-construction-mechanisms",
+      "title": "顺应",
+      "text": "顺应：对立性、改造性。",
+      "keywords": [
+        "对立性",
+        "改造性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）陈述性知识"
+      ],
+      "displayTitle": "2. 顺应",
+      "outline": "（一）陈述性知识"
+    },
+    {
+      "id": "edu-reviewed-ch4-construction-mechanisms-2",
+      "knowledgeId": "edu-reviewed-ch4-construction-mechanisms",
+      "title": "同化顺应关系",
+      "text": "同化与顺应互相依存，不可分割。",
+      "keywords": [
+        "互相依存",
+        "不可分割"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）陈述性知识"
+      ],
+      "displayTitle": "3. 二者互相依存，不可分割",
+      "outline": "（一）陈述性知识"
+    },
+    {
+      "id": "edu-reviewed-ch4-construction-mechanisms-3",
+      "knowledgeId": "edu-reviewed-ch4-construction-mechanisms",
+      "title": "产生式结构",
+      "text": "产生式结构是一系列“如果……那么……”的联合；原图将“如果”对应模式识别、“那么”对应动作序列。",
+      "keywords": [
+        "如果那么",
+        "联合",
+        "模式识别",
+        "动作序列"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）程序性知识"
+      ],
+      "displayTitle": "1. 产生式结构",
+      "outline": "（二）程序性知识"
+    },
+    {
+      "id": "edu-reviewed-ch4-construction-mechanisms-4",
+      "knowledgeId": "edu-reviewed-ch4-construction-mechanisms",
+      "title": "自动化",
+      "text": "自动化。",
+      "keywords": [
+        "自动化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）程序性知识",
+        "2. 特点"
+      ],
+      "displayTitle": "（1）自动化",
+      "outline": "（二）程序性知识"
+    },
+    {
+      "id": "edu-reviewed-ch4-construction-mechanisms-5",
+      "knowledgeId": "edu-reviewed-ch4-construction-mechanisms",
+      "title": "产生式系统",
+      "text": "形成产生式系统。",
+      "keywords": [
+        "产生式系统"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）程序性知识",
+        "2. 特点"
+      ],
+      "displayTitle": "（2）形成产生式系统",
+      "outline": "（二）程序性知识"
+    },
+    {
+      "id": "edu-reviewed-ch4-construction-mechanisms-6",
+      "knowledgeId": "edu-reviewed-ch4-construction-mechanisms",
+      "title": "长时储存",
+      "text": "储存在长时记忆中。",
+      "keywords": [
+        "长时记忆"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）程序性知识",
+        "2. 特点"
+      ],
+      "displayTitle": "（3）储存在长时记忆中",
+      "outline": "（二）程序性知识"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-0",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "知识理解含义",
+      "text": "学生运用已有经验、知识去认识事物的联系、关系，直至认识其本质、规律的一种逐步深入的思维活动，是掌握知识的中心环节。",
+      "keywords": [
+        "已有经验知识",
+        "联系关系",
+        "本质规律",
+        "中心环节"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-1",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "符号类型",
+      "text": "符号。举例：Sun。",
+      "keywords": [
+        "符号",
+        "Sun"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "1. 陈述性知识",
+        "（1）知识类型"
+      ],
+      "displayTitle": "①符号",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-2",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "事实类型",
+      "text": "事实。举例：太阳是恒星。",
+      "keywords": [
+        "事实",
+        "太阳恒星"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "1. 陈述性知识",
+        "（1）知识类型"
+      ],
+      "displayTitle": "②事实",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-3",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "有组织知识",
+      "text": "有组织的知识。举例：太阳从东方升起，西方落下；月亮和星星也是如此。",
+      "keywords": [
+        "有组织知识"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "1. 陈述性知识",
+        "（1）知识类型"
+      ],
+      "displayTitle": "③有组织的知识",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-4",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "表征学习",
+      "text": "表征学习，也叫符号学习。举例：Sun。",
+      "keywords": [
+        "表征学习",
+        "符号学习"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "1. 陈述性知识",
+        "（2）知识理解类型"
+      ],
+      "displayTitle": "①表征学习（也叫符号学习）",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-5",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "概念学习",
+      "text": "概念学习。举例：Sun及其本质属性。",
+      "keywords": [
+        "概念学习",
+        "本质属性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "1. 陈述性知识",
+        "（2）知识理解类型"
+      ],
+      "displayTitle": "②概念学习",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-6",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "命题学习",
+      "text": "命题学习。举例：太阳从东方升起，西方落下。",
+      "keywords": [
+        "命题学习"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "1. 陈述性知识",
+        "（2）知识理解类型"
+      ],
+      "displayTitle": "③命题学习",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-7",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "智慧技能",
+      "text": "智慧技能。举例：写作、心算。",
+      "keywords": [
+        "智慧技能",
+        "写作",
+        "心算"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "2. 程序性知识",
+        "（1）知识类型"
+      ],
+      "displayTitle": "①智慧技能",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-8",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "认知策略",
+      "text": "认知策略。举例：我使用口诀记住考研知识。",
+      "keywords": [
+        "认知策略",
+        "口诀"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "2. 程序性知识",
+        "（1）知识类型"
+      ],
+      "displayTitle": "②认知策略",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-9",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "动作技能",
+      "text": "动作技能。举例：做饭、体操。",
+      "keywords": [
+        "动作技能",
+        "做饭",
+        "体操"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "2. 程序性知识",
+        "（1）知识类型"
+      ],
+      "displayTitle": "③动作技能",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-10",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "模式识别学习",
+      "text": "模式识别学习。举例：看到题干“三个人分9个苹果，每人分几个”，立刻想到除法模式。",
+      "keywords": [
+        "模式识别",
+        "除法模式"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "2. 程序性知识",
+        "（2）知识理解类型"
+      ],
+      "displayTitle": "①模式识别学习",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-types-11",
+      "knowledgeId": "edu-reviewed-ch4-understanding-types",
+      "title": "动作步骤学习",
+      "text": "动作步骤学习。举例：学生用除法规则（9÷3）进行计算得出答案的过程。",
+      "keywords": [
+        "动作步骤",
+        "除法规则",
+        "9÷3"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）类型",
+        "2. 程序性知识",
+        "（2）知识理解类型"
+      ],
+      "displayTitle": "②动作步骤学习",
+      "outline": "（二）类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-0",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "表征含义",
+      "text": "知识在头脑中的表现形式和组织结构。",
+      "keywords": [
+        "头脑",
+        "表现形式",
+        "组织结构"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "知识表征的含义",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-1",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "陈述性表征",
+      "text": "陈述性知识的表征：符号、概念、命题、命题网络、表象、图式。",
+      "keywords": [
+        "符号",
+        "概念",
+        "命题",
+        "命题网络",
+        "表象",
+        "图式"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "陈述性知识",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-2",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "程序性表征",
+      "text": "程序性知识的表征：产生式、图式。",
+      "keywords": [
+        "产生式",
+        "图式"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）含义"
+      ],
+      "displayTitle": "程序性知识",
+      "outline": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-3",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "符号含义",
+      "text": "各种事物的名称或标记，用来代表知识的意义。",
+      "keywords": [
+        "名称标记",
+        "知识意义"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "1. 符号"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-4",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "符号例子",
+      "text": "“book”在英文中表示“书”。",
+      "keywords": [
+        "book",
+        "书"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "1. 符号"
+      ],
+      "displayTitle": "（2）举例",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-5",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "概念含义",
+      "text": "描述事物的基本属性、基本特征。",
+      "keywords": [
+        "基本属性",
+        "基本特征"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "2. 概念"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-6",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "概念例子",
+      "text": "学习是由于经验所引起的行为或思维的较为持久的变化。",
+      "keywords": [
+        "经验",
+        "行为思维",
+        "较为持久"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "2. 概念"
+      ],
+      "displayTitle": "（2）举例",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-7",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "命题含义",
+      "text": "概念或事物之间的关系，以句子的形式表达。",
+      "keywords": [
+        "概念事物关系",
+        "句子"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "3. 命题"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-8",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "命题例子",
+      "text": "小张在看书；小张在教室里；小张在教室里看书。",
+      "keywords": [
+        "小张",
+        "看书",
+        "教室"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "3. 命题"
+      ],
+      "displayTitle": "（2）举例",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-9",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "命题网络含义",
+      "text": "命题之间的相互关系。原书举例为鸟、鱼及其下位种类与属性构成的命题网络图，另保留整图参考。",
+      "keywords": [
+        "命题间相互关系",
+        "原图"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "4. 命题网络"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-10",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "表象含义",
+      "text": "人们头脑中形成的与现实世界的情境相类似的心理图像。",
+      "keywords": [
+        "现实情境",
+        "心理图像"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "5. 表象"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-11",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "表象例子",
+      "text": "闭上眼睛想象老师的样子。",
+      "keywords": [
+        "眼睛",
+        "想象老师"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "5. 表象"
+      ],
+      "displayTitle": "（2）举例",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-12",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "图式含义",
+      "text": "有组织的知识结构，概念、命题、表象的组合。",
+      "keywords": [
+        "有组织",
+        "知识结构",
+        "概念命题表象"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "6. 图式"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-13",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "物体图式",
+      "text": "物体图式：如教室的图式，包括与教室相关的教师、学生、黑板、课桌、讲台等。",
+      "keywords": [
+        "物体图式",
+        "教室"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "6. 图式",
+        "（2）举例"
+      ],
+      "displayTitle": "①物体图式",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-14",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "事件图式",
+      "text": "事件图式：脚本，如原图“午饭”脚本（Berk，1991）。",
+      "keywords": [
+        "事件图式",
+        "脚本",
+        "午饭"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "6. 图式",
+        "（2）举例"
+      ],
+      "displayTitle": "②事件图式",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-15",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "动作图式",
+      "text": "动作图式：如骑自行车的图式。",
+      "keywords": [
+        "动作图式",
+        "骑自行车"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "6. 图式",
+        "（2）举例"
+      ],
+      "displayTitle": "③动作图式",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-16",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "产生式含义",
+      "text": "一系列“如果……那么……”的联合。",
+      "keywords": [
+        "如果那么",
+        "联合"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "7. 产生式"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-representation-17",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-representation",
+      "title": "产生式例子",
+      "text": "如果累了，（那么）就停下来放松一下。",
+      "keywords": [
+        "如果累了",
+        "放松"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）方式",
+        "7. 产生式"
+      ],
+      "displayTitle": "（2）举例",
+      "outline": "（二）方式"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-0",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "理解前提",
+      "text": "理解前提。举例：学生已经储存了哺乳动物的知识。",
+      "keywords": [
+        "已有知识",
+        "理解前提"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理解的生成过程"
+      ],
+      "displayTitle": "理解前提",
+      "outline": "（一）理解的生成过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-1",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "引起动机",
+      "text": "引起动机。举例：老师上课让学生观看鲸鱼的视频。",
+      "keywords": [
+        "动机",
+        "鲸鱼视频"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理解的生成过程"
+      ],
+      "displayTitle": "引起动机",
+      "outline": "（一）理解的生成过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-2",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "建立联系",
+      "text": "建立联系。举例：学生意识到鲸鱼产崽的现象与自己学过的知识有联系。",
+      "keywords": [
+        "建立联系",
+        "产崽",
+        "已有知识"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理解的生成过程"
+      ],
+      "displayTitle": "建立联系",
+      "outline": "（一）理解的生成过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-3",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "建构意义",
+      "text": "建构意义。举例：学生发现鲸鱼是哺乳动物。",
+      "keywords": [
+        "建构意义",
+        "哺乳动物"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理解的生成过程"
+      ],
+      "displayTitle": "建构意义",
+      "outline": "（一）理解的生成过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-4",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "理解不成功",
+      "text": "理解不成功，重新检索。举例：认为鲸鱼是一种鱼，需要重新检索头脑中的知识，原图箭头返回建立联系。",
+      "keywords": [
+        "不成功",
+        "重新检索",
+        "返回联系"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理解的生成过程"
+      ],
+      "displayTitle": "理解不成功，重新检索",
+      "outline": "（一）理解的生成过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-5",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "理解成功",
+      "text": "理解成功。举例：哺乳动物不仅生活在陆地上，还生活在海洋中。",
+      "keywords": [
+        "成功",
+        "陆地海洋"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理解的生成过程"
+      ],
+      "displayTitle": "理解成功",
+      "outline": "（一）理解的生成过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-6",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "改变图式",
+      "text": "原图的结果：改变图式，促进记忆。",
+      "keywords": [
+        "改变图式",
+        "促进记忆"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理解的生成过程"
+      ],
+      "displayTitle": "改变图式，促进记忆",
+      "outline": "（一）理解的生成过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-7",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "概念形成",
+      "text": "由学习者从大量同类事物的不同例证中独立发现，对应概念发现学习。",
+      "keywords": [
+        "大量同类",
+        "不同例证",
+        "独立发现"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）概念获得的过程"
+      ],
+      "displayTitle": "1. 概念形成",
+      "outline": "（二）概念获得的过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-process-8",
+      "knowledgeId": "edu-reviewed-ch4-understanding-process",
+      "title": "概念同化",
+      "text": "利用学习者认知结构中原有的概念，以定义的方法直接给学习者讲授概念，对应概念接受学习。",
+      "keywords": [
+        "原有概念",
+        "定义",
+        "讲授",
+        "接受学习"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）概念获得的过程"
+      ],
+      "displayTitle": "2. 概念同化",
+      "outline": "（二）概念获得的过程"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-factors-0",
+      "knowledgeId": "edu-reviewed-ch4-understanding-factors",
+      "title": "材料内容",
+      "text": "学习材料的内容。",
+      "keywords": [
+        "学习材料",
+        "内容"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）客观因素"
+      ],
+      "displayTitle": "1. 学习材料的内容",
+      "outline": "（一）客观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-factors-1",
+      "knowledgeId": "edu-reviewed-ch4-understanding-factors",
+      "title": "材料形式",
+      "text": "学习材料的形式。",
+      "keywords": [
+        "学习材料",
+        "形式"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）客观因素"
+      ],
+      "displayTitle": "2. 学习材料的形式",
+      "outline": "（一）客观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-factors-2",
+      "knowledgeId": "edu-reviewed-ch4-understanding-factors",
+      "title": "教师指导",
+      "text": "教师的言语指导与指示。",
+      "keywords": [
+        "教师",
+        "言语指导",
+        "指示"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）客观因素"
+      ],
+      "displayTitle": "3. 教师的言语指导与指示",
+      "outline": "（一）客观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-factors-3",
+      "knowledgeId": "edu-reviewed-ch4-understanding-factors",
+      "title": "原有经验",
+      "text": "学习者原有的知识经验背景（知）。",
+      "keywords": [
+        "原有知识经验",
+        "知"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主观因素"
+      ],
+      "displayTitle": "1. 原有的知识经验背景（知）",
+      "outline": "（二）主观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-factors-4",
+      "knowledgeId": "edu-reviewed-ch4-understanding-factors",
+      "title": "意识方法",
+      "text": "学习者有主动理解的意识（情）和方法（行）。",
+      "keywords": [
+        "主动理解",
+        "意识情",
+        "方法行"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主观因素"
+      ],
+      "displayTitle": "2. 主动理解的意识（情）和方法（行）",
+      "outline": "（二）主观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-factors-5",
+      "knowledgeId": "edu-reviewed-ch4-understanding-factors",
+      "title": "认知结构",
+      "text": "学习者的认知结构特征（知）。",
+      "keywords": [
+        "认知结构特征",
+        "知"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主观因素"
+      ],
+      "displayTitle": "3. 认知结构特征（知）",
+      "outline": "（二）主观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-understanding-factors-6",
+      "knowledgeId": "edu-reviewed-ch4-understanding-factors",
+      "title": "能力水平",
+      "text": "学习者的能力水平（行）。",
+      "keywords": [
+        "能力水平",
+        "行"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）主观因素"
+      ],
+      "displayTitle": "4. 能力水平（行）",
+      "outline": "（二）主观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-0",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "记忆",
+      "text": "瞬时记忆、短时记忆、长时记忆。",
+      "keywords": [
+        "瞬时",
+        "短时",
+        "长时"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）记忆"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-1",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "遗忘特点",
+      "text": "艾宾浩斯遗忘曲线。原图显示记忆保持率先迅速下降，随后下降趋缓；原曲线和复习示意另保留原图参考。",
+      "keywords": [
+        "艾宾浩斯",
+        "先快后慢",
+        "原曲线"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘"
+      ],
+      "displayTitle": "1. 特点",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-2",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "痕迹衰退含义",
+      "text": "由于记忆印象浅，记忆随着时间延长而衰退。",
+      "keywords": [
+        "印象浅",
+        "时间延长",
+        "衰退"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（1）记忆痕迹衰退说"
+      ],
+      "displayTitle": "含义",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-3",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "痕迹衰退例子",
+      "text": "小学时的一些事情，我已经记不起来了。",
+      "keywords": [
+        "小学事情",
+        "记不起来"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（1）记忆痕迹衰退说"
+      ],
+      "displayTitle": "举例",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-4",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "材料干扰含义",
+      "text": "新旧材料彼此干扰，会妨碍记忆效果。",
+      "keywords": [
+        "新旧材料",
+        "彼此干扰"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（2）材料间的干扰说"
+      ],
+      "displayTitle": "含义",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-5",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "材料干扰例子",
+      "text": "早上先学习语文，再学习其他科目，结果语文遗忘得最多。",
+      "keywords": [
+        "语文",
+        "其他科目",
+        "干扰"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（2）材料间的干扰说"
+      ],
+      "displayTitle": "举例",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-6",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "检索困难含义",
+      "text": "难以找到线索。",
+      "keywords": [
+        "检索",
+        "线索"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（3）检索困难说"
+      ],
+      "displayTitle": "含义",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-7",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "检索困难例子",
+      "text": "“昨天发生什么事了？”→“昨天你在商场遇到谁了？”",
+      "keywords": [
+        "商场",
+        "遇到谁",
+        "线索"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（3）检索困难说"
+      ],
+      "displayTitle": "举例",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-8",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "知识同化含义",
+      "text": "人们容易记住高一级的观念而忘记低一级的观念。",
+      "keywords": [
+        "高一级",
+        "低一级",
+        "观念"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（4）知识同化说"
+      ],
+      "displayTitle": "含义",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-9",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "知识同化例子",
+      "text": "记住了每章的宏观框架，但是里面的细节忘记了。",
+      "keywords": [
+        "宏观框架",
+        "细节"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（4）知识同化说"
+      ],
+      "displayTitle": "举例",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-10",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "动机遗忘含义",
+      "text": "选择性失忆。",
+      "keywords": [
+        "选择性失忆"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（5）动机性遗忘说"
+      ],
+      "displayTitle": "含义",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-11",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "动机遗忘例子",
+      "text": "有些事情很痛苦，所以我不愿意记。",
+      "keywords": [
+        "痛苦",
+        "不愿意记"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）遗忘",
+        "2. 原因",
+        "（5）动机性遗忘说"
+      ],
+      "displayTitle": "举例",
+      "outline": "（二）遗忘"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-12",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "加工水平",
+      "text": "提高对知识的加工水平。",
+      "keywords": [
+        "知识加工水平"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）促进整合措施"
+      ],
+      "displayTitle": "1. 提高对知识的加工水平",
+      "outline": "（三）促进整合措施"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-13",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "多重编码",
+      "text": "多重编码，对应后续的“精细加工策略”。",
+      "keywords": [
+        "多重编码",
+        "精细加工策略"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）促进整合措施"
+      ],
+      "displayTitle": "2. 多重编码",
+      "outline": "（三）促进整合措施"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-14",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "知识结构化",
+      "text": "将知识结构化，对应后续的“组织策略”。",
+      "keywords": [
+        "知识结构化",
+        "组织策略"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）促进整合措施"
+      ],
+      "displayTitle": "3. 将知识结构化",
+      "outline": "（三）促进整合措施"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-15",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "过度学习回忆",
+      "text": "过度学习与试图回忆相结合。",
+      "keywords": [
+        "过度学习",
+        "试图回忆"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）促进整合措施"
+      ],
+      "displayTitle": "4. 过度学习与试图回忆相结合",
+      "outline": "（三）促进整合措施"
+    },
+    {
+      "id": "edu-reviewed-ch4-integration-deepening-16",
+      "knowledgeId": "edu-reviewed-ch4-integration-deepening",
+      "title": "及时复习",
+      "text": "及时且多重复习。",
+      "keywords": [
+        "及时",
+        "多重复习"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）促进整合措施"
+      ],
+      "displayTitle": "5. 及时且多重复习",
+      "outline": "（三）促进整合措施"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-application-0",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-application",
+      "title": "广义应用",
+      "text": "广义：用已有知识解决问题。",
+      "keywords": [
+        "已有知识",
+        "解决问题"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 含义"
+      ],
+      "displayTitle": "（1）广义",
+      "outline": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-application-1",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-application",
+      "title": "狭义应用",
+      "text": "狭义：在领会教材的基础上，依据知识解决同类课题。",
+      "keywords": [
+        "领会教材",
+        "同类课题"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "1. 含义"
+      ],
+      "displayTitle": "（2）狭义",
+      "outline": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-application-2",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-application",
+      "title": "应用促进迁移",
+      "text": "应用可以促进迁移发生。",
+      "keywords": [
+        "应用",
+        "促进迁移"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用与迁移的关系"
+      ],
+      "displayTitle": "（1）应用可以促进迁移发生",
+      "outline": "2. 应用与迁移的关系"
+    },
+    {
+      "id": "edu-reviewed-ch4-knowledge-application-3",
+      "knowledgeId": "edu-reviewed-ch4-knowledge-application",
+      "title": "迁移存在应用",
+      "text": "迁移过程中存在应用。",
+      "keywords": [
+        "迁移过程",
+        "应用"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 应用与迁移的关系"
+      ],
+      "displayTitle": "（2）迁移过程中存在应用",
+      "outline": "2. 应用与迁移的关系"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-0",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "迁移含义",
+      "text": "一种学习对另一种学习的影响，指已经获得的知识、技能、方法和态度等对新知识、新技能的影响。影响可以是积极的，也可以是消极的。",
+      "keywords": [
+        "一种对另一种",
+        "知识技能方法态度",
+        "积极消极"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-1",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "正迁移",
+      "text": "一种学习对另一种学习的积极影响。举例：学会骑自行车就容易学骑摩托车。",
+      "keywords": [
+        "积极影响",
+        "自行车摩托车"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移的影响效果看"
+      ],
+      "displayTitle": "正迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-2",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "负迁移",
+      "text": "一种学习对另一种学习的消极影响。举例：学会汉语拼音会干扰英语音标的学习。",
+      "keywords": [
+        "消极影响",
+        "拼音音标"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移的影响效果看"
+      ],
+      "displayTitle": "负迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-3",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "顺向迁移",
+      "text": "前面学习对后面学习的影响。举例：在物理中学习“平衡”的概念，对以后学习“化学平衡”“生态平衡”“心理平衡”产生影响。",
+      "keywords": [
+        "前对后",
+        "平衡"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移的方向看（时间顺序）"
+      ],
+      "displayTitle": "顺向迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-4",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "逆向迁移",
+      "text": "后面学习对前面学习的影响。举例：发展心理学和教育心理学的学习对先前普通心理学的理解产生影响。",
+      "keywords": [
+        "后对前",
+        "普通心理学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移的方向看（时间顺序）"
+      ],
+      "displayTitle": "逆向迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-5",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "近迁移",
+      "text": "在相似的情境中迁移。举例：学会解决汽车路程应用题后，利用时间、速度、路程的关系解决坐飞机、骑自行车、坐轮船或步行等情境中的路程问题。",
+      "keywords": [
+        "相似情境",
+        "路程问题"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移的不同程度看"
+      ],
+      "displayTitle": "近迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-6",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "远迁移",
+      "text": "在极不相似的情境中迁移。举例：利用时间、速度、路程的关系解决工程问题的应用题，其中隐含天数、每天完成的工作数量与总工作数量的关系。",
+      "keywords": [
+        "极不相似",
+        "工程问题"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移的不同程度看"
+      ],
+      "displayTitle": "远迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-7",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "知技迁移",
+      "text": "一种知识与动作技能的获得对另一种知识与动作技能形成的影响。举例：学会一门外语，有助于学习同一语系的第二门、第三门外语。",
+      "keywords": [
+        "知识",
+        "动作技能",
+        "同一语系"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移发生的学习类型或领域看"
+      ],
+      "displayTitle": "知识与动作技能的迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-8",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "情态迁移",
+      "text": "一种情境中情感与态度的养成对另一种情境中情感与态度形成的影响。举例：某学科教师要求作业卷面整洁、有条理，这也许能培养学生对其他学科作业卷面都严格要求的态度和习惯。",
+      "keywords": [
+        "情感态度",
+        "作业卷面"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移发生的学习类型或领域看"
+      ],
+      "displayTitle": "情感与态度的迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-9",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "低通路迁移",
+      "text": "反复练习的技能自动化的迁移。举例：驾驶不同类型的汽车。",
+      "keywords": [
+        "反复练习",
+        "自动化"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移发生的自动化程度看"
+      ],
+      "displayTitle": "低通路迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-10",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "高通路迁移",
+      "text": "有意识地将抽象知识运用到新的情境中。举例：利用做笔记策略来阅读文章。",
+      "keywords": [
+        "有意识",
+        "抽象知识",
+        "新情境"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移发生的自动化程度看"
+      ],
+      "displayTitle": "高通路迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-11",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "特殊迁移",
+      "text": "特殊迁移，又称具体迁移：某一领域的学习直接对学习另一领域产生的影响。举例：会打羽毛球，所以更容易学会打网球。",
+      "keywords": [
+        "特殊具体",
+        "领域直接影响"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移发生的方式和范围看"
+      ],
+      "displayTitle": "特殊迁移（具体迁移）",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-12",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "非特殊迁移",
+      "text": "非特殊迁移，又称一般迁移：一般原理、方法、策略、态度的迁移。举例：把框架式学习方法运用到具体的语文学习中。",
+      "keywords": [
+        "非特殊一般",
+        "原理方法策略态度"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移发生的方式和范围看"
+      ],
+      "displayTitle": "非特殊迁移（一般迁移）",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-13",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "横向迁移",
+      "text": "横向迁移，又称水平迁移：同一抽象概括水平之间的影响。举例：学习了哺乳动物“老虎”“狮子”的概念以后，这些概念可用于对不熟悉的鲸或海豚的识别。",
+      "keywords": [
+        "横向水平",
+        "同一抽象概括水平"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移内容的抽象和概括水平看"
+      ],
+      "displayTitle": "横向迁移（水平迁移）",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-14",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "竖向迁移",
+      "text": "竖向迁移，又称垂直迁移：不同抽象概括水平之间的相互影响。",
+      "keywords": [
+        "竖向垂直",
+        "不同抽象概括水平"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移内容的抽象和概括水平看",
+        "竖向迁移（垂直迁移）"
+      ],
+      "displayTitle": "含义",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-15",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "同化性迁移",
+      "text": "同化性迁移，自上而下。举例：学习“树木”的概念特征，影响对“柳树”“杨树”等的认识。",
+      "keywords": [
+        "同化性",
+        "自上而下",
+        "树木柳树杨树"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移内容的抽象和概括水平看",
+        "竖向迁移（垂直迁移）",
+        "举例"
+      ],
+      "displayTitle": "（1）同化性迁移（自上而下）",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-16",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "顺应性迁移",
+      "text": "顺应性迁移，自下而上。举例：学习植物、动物、微生物等知识，影响对“生态圈”的学习。",
+      "keywords": [
+        "顺应性",
+        "自下而上",
+        "生态圈"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从迁移内容的抽象和概括水平看",
+        "竖向迁移（垂直迁移）",
+        "举例"
+      ],
+      "displayTitle": "（2）顺应性迁移（自下而上）",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-17",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "重组性迁移",
+      "text": "重新组合原有认知结构中的某些构成要素或成分，调整各成分之间的关系或建立新联系，并将其应用于新的学习情境。举例：各种舞蹈动作重组，编成新舞蹈。",
+      "keywords": [
+        "重新组合",
+        "调整关系",
+        "新联系"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "其他"
+      ],
+      "displayTitle": "重组性迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-types-18",
+      "knowledgeId": "edu-reviewed-ch4-transfer-types",
+      "title": "类比迁移",
+      "text": "迁移是通过问题空间的类比来实现的。举例：人们利用鸟飞翔的原理创造了飞机。",
+      "keywords": [
+        "问题空间",
+        "类比"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 类型",
+        "从问题解决过程中的迁移现象看"
+      ],
+      "displayTitle": "类比迁移",
+      "outline": "2. 类型"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-0",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "形式训练观点",
+      "text": "越加强学生的官能训练，越有利于迁移。",
+      "keywords": [
+        "官能训练",
+        "迁移"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）形式训练说"
+      ],
+      "displayTitle": "观点",
+      "outline": "（1）形式训练说"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-1",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "形式训练例子",
+      "text": "推理能力的训练。",
+      "keywords": [
+        "推理能力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）形式训练说"
+      ],
+      "displayTitle": "举例",
+      "outline": "（1）形式训练说"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-2",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "相同元素观点",
+      "text": "相同要素越多，迁移程度越高。",
+      "keywords": [
+        "相同要素",
+        "迁移程度"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）相同元素说"
+      ],
+      "displayTitle": "观点",
+      "outline": "（2）相同元素说"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-3",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "相同元素例子",
+      "text": "语文和历史中都提到了李白。",
+      "keywords": [
+        "语文历史",
+        "李白"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）相同元素说"
+      ],
+      "displayTitle": "举例",
+      "outline": "（2）相同元素说"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-4",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "概括化观点",
+      "text": "概括水平越高，迁移效果越好。",
+      "keywords": [
+        "概括水平",
+        "迁移效果"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）概括化理论"
+      ],
+      "displayTitle": "观点",
+      "outline": "（3）概括化理论"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-5",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "概括化例子",
+      "text": "贾德的水中打靶实验。",
+      "keywords": [
+        "贾德",
+        "水中打靶"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）概括化理论"
+      ],
+      "displayTitle": "举例",
+      "outline": "（3）概括化理论"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-6",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "关系理论观点",
+      "text": "越是顿悟了两种学习经验之间存在的共同关系，越有利于迁移。",
+      "keywords": [
+        "顿悟",
+        "共同关系"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）关系理论"
+      ],
+      "displayTitle": "观点",
+      "outline": "（4）关系理论"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-7",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "关系理论例子",
+      "text": "小鸡啄米实验中，在黑色和灰色纸下只有灰色纸有米可啄；经过多次实验，将黑色的纸换成更浅的灰色纸，大部分小鸡会在更浅的灰色纸下啄米。",
+      "keywords": [
+        "小鸡啄米",
+        "黑色灰色",
+        "更浅灰色"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）关系理论"
+      ],
+      "displayTitle": "举例",
+      "outline": "（4）关系理论"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-8",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "认知结构观点",
+      "text": "越能搭建知识结构，越有利于迁移。",
+      "keywords": [
+        "搭建知识结构",
+        "迁移"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（5）认知结构迁移理论"
+      ],
+      "displayTitle": "观点",
+      "outline": "（5）认知结构迁移理论"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-theories-9",
+      "knowledgeId": "edu-reviewed-ch4-transfer-theories",
+      "title": "认知结构例子",
+      "text": "对知识结构了解越清晰，越有利于做题。",
+      "keywords": [
+        "结构清晰",
+        "做题"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（5）认知结构迁移理论"
+      ],
+      "displayTitle": "举例",
+      "outline": "（5）认知结构迁移理论"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-factors-0",
+      "knowledgeId": "edu-reviewed-ch4-transfer-factors",
+      "title": "主观相似性",
+      "text": "相似性：个体加工学习材料过程的相似性。",
+      "keywords": [
+        "个体加工过程",
+        "相似性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）主观因素"
+      ],
+      "displayTitle": "①相似性",
+      "outline": "（1）主观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-factors-1",
+      "knowledgeId": "edu-reviewed-ch4-transfer-factors",
+      "title": "经验概括水平",
+      "text": "已有经验的概括水平。",
+      "keywords": [
+        "已有经验",
+        "概括水平"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）主观因素"
+      ],
+      "displayTitle": "②已有经验的概括水平",
+      "outline": "（1）主观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-factors-2",
+      "knowledgeId": "edu-reviewed-ch4-transfer-factors",
+      "title": "态度定势",
+      "text": "学习的态度和定势。",
+      "keywords": [
+        "态度",
+        "定势"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）主观因素"
+      ],
+      "displayTitle": "③学习的态度和定势",
+      "outline": "（1）主观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-factors-3",
+      "knowledgeId": "edu-reviewed-ch4-transfer-factors",
+      "title": "年龄智力发展",
+      "text": "个体年龄、智力水平、身心发展规律。",
+      "keywords": [
+        "年龄",
+        "智力",
+        "身心发展"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（1）主观因素"
+      ],
+      "displayTitle": "④个体年龄、智力水平、身心发展规律",
+      "outline": "（1）主观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-factors-4",
+      "knowledgeId": "edu-reviewed-ch4-transfer-factors",
+      "title": "客观相似性",
+      "text": "相似性：学习材料、问题和情境。",
+      "keywords": [
+        "学习材料",
+        "问题",
+        "情境"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）客观因素"
+      ],
+      "displayTitle": "①相似性",
+      "outline": "（2）客观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-factors-5",
+      "knowledgeId": "edu-reviewed-ch4-transfer-factors",
+      "title": "教学指导提示",
+      "text": "教学指导、外界提示语。",
+      "keywords": [
+        "教学指导",
+        "外界提示语"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）客观因素"
+      ],
+      "displayTitle": "②教学指导、外界提示语",
+      "outline": "（2）客观因素"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-measures-0",
+      "knowledgeId": "edu-reviewed-ch4-transfer-measures",
+      "title": "整合学科",
+      "text": "整合学科内容。",
+      "keywords": [
+        "整合",
+        "学科内容"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）整合学科内容"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-measures-1",
+      "knowledgeId": "edu-reviewed-ch4-transfer-measures",
+      "title": "迁移意识",
+      "text": "培养迁移意识。",
+      "keywords": [
+        "培养",
+        "迁移意识"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（2）培养迁移意识"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-measures-2",
+      "knowledgeId": "edu-reviewed-ch4-transfer-measures",
+      "title": "知识联系",
+      "text": "加强知识联系。",
+      "keywords": [
+        "加强",
+        "知识联系"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（3）加强知识联系"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-measures-3",
+      "knowledgeId": "edu-reviewed-ch4-transfer-measures",
+      "title": "学习策略",
+      "text": "重视学习策略。",
+      "keywords": [
+        "重视",
+        "学习策略"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（4）重视学习策略"
+    },
+    {
+      "id": "edu-reviewed-ch4-transfer-measures-4",
+      "knowledgeId": "edu-reviewed-ch4-transfer-measures",
+      "title": "概括总结",
+      "text": "强调概括总结。",
+      "keywords": [
+        "强调",
+        "概括总结"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（5）强调概括总结"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch4-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 10,
+    "knowledge": 28,
+    "steps": 146,
+    "referenceOnly": 15
+  }
+}

@@ -1,0 +1,3162 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch10-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch10-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育与社会发展：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 89,
+          "rect": [
+            0.05,
+            0.12,
+            0.92,
+            0.7
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 89108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育独立论",
+      "section": "第一节 · 关于教育与社会关系的主要理论 · 考点一 · （一）教育独立论",
+      "refs": [
+        {
+          "page": 90,
+          "rect": [
+            0.05,
+            0.195,
+            0.92,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 90175,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-relative-independence",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育的相对独立性",
+      "section": "第一节 · 关于教育与社会关系的主要理论 · 考点一 · （二）教育的相对独立性",
+      "refs": [
+        {
+          "page": 90,
+          "rect": [
+            0.05,
+            0.48,
+            0.92,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 90432,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-omnipotence",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育万能论",
+      "section": "第一节 · 关于教育与社会关系的主要理论 · 考点二",
+      "refs": [
+        {
+          "page": 90,
+          "rect": [
+            0.05,
+            0.755,
+            0.92,
+            0.145
+          ]
+        },
+        {
+          "page": 91,
+          "rect": [
+            0.05,
+            0.08,
+            0.92,
+            0.085
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 90679,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "人力资本论",
+      "section": "第一节 · 关于教育与社会关系的主要理论 · 考点三",
+      "refs": [
+        {
+          "page": 91,
+          "rect": [
+            0.05,
+            0.245,
+            0.92,
+            0.3
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 91220,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "筛选假设理论（文凭理论）",
+      "section": "第一节 · 关于教育与社会关系的主要理论 · 考点四",
+      "refs": [
+        {
+          "page": 91,
+          "rect": [
+            0.05,
+            0.61,
+            0.92,
+            0.215
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 91549,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "劳动力市场理论",
+      "section": "第一节 · 关于教育与社会关系的主要理论 · 考点五",
+      "refs": [
+        {
+          "page": 92,
+          "rect": [
+            0.05,
+            0.115,
+            0.92,
+            0.215
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 92103,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "再生产理论",
+      "section": "第一节 · 关于教育与社会关系的主要理论 · 考点六",
+      "refs": [
+        {
+          "page": 92,
+          "rect": [
+            0.05,
+            0.39,
+            0.92,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 92351,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-theories-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育与社会关系主要理论：知识速练原图",
+      "section": "第一节 · 关于教育与社会关系的主要理论 · 知识速练",
+      "refs": [
+        {
+          "page": 92,
+          "rect": [
+            0.05,
+            0.64,
+            0.92,
+            0.275
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 92576,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育的社会制约性",
+      "section": "第二节 · 教育的社会制约性",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.125,
+            0.49500000000000005,
+            0.835,
+            0.425
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育的社会功能",
+      "section": "第三节 · 教育的社会功能",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.125,
+            0.07500000000000001,
+            0.835,
+            0.425
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 93450,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-constraints-functions-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "社会制约性与社会功能：横向对照、助记及思考原图",
+      "section": "第二、三节 · 原书对照表与助记",
+      "refs": [
+        {
+          "page": 93,
+          "rect": [
+            0.09,
+            0.06500000000000006,
+            0.875,
+            0.86
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 93067,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch10-modernization",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "现代化与教育变革（教育现代化）",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.15,
+            0.92,
+            0.048
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94135,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-informatization",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "信息社会与教育变革（教育信息化）",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.197,
+            0.92,
+            0.068
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94177,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "人工智能与教育变革（人工智能＋教育）",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.265,
+            0.92,
+            0.087
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94238,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-knowledge-economy",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "知识经济与教育变革（知识经济）",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.35,
+            0.92,
+            0.07
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94315,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-globalization",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "全球化与教育变革（教育全球化）",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.42,
+            0.92,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94378,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-localization-nationalization",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "本土化、民族化与教育变革",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战 · 教育本土化、民族化",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.54,
+            0.92,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94486,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-democratization",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "民主化与教育变革（教育民主化）",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.635,
+            0.92,
+            0.071
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94571,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-multicultural",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "多元文化与教育变革（多元文化教育）",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.706,
+            0.92,
+            0.048
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94635,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-learning-society",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "学习化社会与教育变革（学习化社会）",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.753,
+            0.92,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94677,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-challenges-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "当代社会发展对教育的需求与挑战：分类、内涵与变革对照表原图",
+      "section": "第四节 · 当代社会发展对教育的需求与挑战 · 原书对照表",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.05,
+            0.12,
+            0.92,
+            0.72
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 94108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch10-education-priority",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育先行",
+      "section": "凯程深化 · 教育先行",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.05,
+            0.105,
+            0.92,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95094,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch10-priority-quiz",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-9",
+      "title": "教育先行：知识速练原图",
+      "section": "凯程深化 · 教育先行 · 知识速练",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.05,
+            0.325,
+            0.92,
+            0.155
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 95292,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch10-education-independence-0",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "人物著作",
+      "text": "蔡元培《教育独立议》。",
+      "keywords": [
+        "蔡元培",
+        "教育独立议"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 人物"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence-1",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "经费独立",
+      "text": "教育经费独立。",
+      "keywords": [
+        "教育经费"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（1）教育经费独立",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence-2",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "行政独立",
+      "text": "教育行政独立。",
+      "keywords": [
+        "教育行政"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（2）教育行政独立",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence-3",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "内容独立",
+      "text": "教育内容独立。",
+      "keywords": [
+        "教育内容"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（3）教育内容独立",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence-4",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "脱离宗教",
+      "text": "教育脱离宗教而独立。",
+      "keywords": [
+        "脱离宗教"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 内容"
+      ],
+      "displayTitle": "（4）教育脱离宗教而独立",
+      "outline": "2. 内容"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence-5",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "反文化侵略",
+      "text": "反对帝国主义国家的文化侵略，推动了收回教育权运动的发展。",
+      "keywords": [
+        "文化侵略",
+        "收回教育权"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价",
+        "（1）积极影响"
+      ],
+      "displayTitle": "①反对文化侵略",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence-6",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "摆脱军阀控制",
+      "text": "摆脱军阀政府对教育的控制，对维持教育基本生存状态有其合理性。",
+      "keywords": [
+        "军阀控制",
+        "基本生存"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价",
+        "（1）积极影响"
+      ],
+      "displayTitle": "②摆脱军阀控制",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence-7",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "理论行不通",
+      "text": "教育独立在理论上行不通。因为教育独立性是相对的，教育由政治经济制度和生产力所决定。",
+      "keywords": [
+        "相对独立",
+        "政治经济制度",
+        "生产力"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价",
+        "（2）消极影响"
+      ],
+      "displayTitle": "①理论上行不通",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-independence-8",
+      "knowledgeId": "edu-reviewed-ch10-education-independence",
+      "title": "实践行不通",
+      "text": "教育独立在实践上行不通。政府与统治阶级不答应教育可以独立，文化、经济与教育发展在客观上存在千丝万缕的联系，教育也做不到绝对独立。",
+      "keywords": [
+        "政府统治阶级",
+        "文化经济联系",
+        "非绝对独立"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价",
+        "（2）消极影响"
+      ],
+      "displayTitle": "②实践上行不通",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-relative-independence-0",
+      "knowledgeId": "edu-reviewed-ch10-relative-independence",
+      "title": "相对独立含义",
+      "text": "教育作为社会的一个子系统，它对社会其他系统有能动的反作用，如教育具有政治功能、经济功能和文化功能等。",
+      "keywords": [
+        "社会子系统",
+        "能动反作用",
+        "政治经济文化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 含义"
+    },
+    {
+      "id": "edu-reviewed-ch10-relative-independence-1",
+      "knowledgeId": "edu-reviewed-ch10-relative-independence",
+      "title": "通过培养人作用社会",
+      "text": "教育是有目的地培养人的活动，主要通过所培养的人作用于社会。",
+      "keywords": [
+        "有目的培养人",
+        "作用社会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 表现"
+      ],
+      "displayTitle": "（1）通过所培养的人作用于社会",
+      "outline": "2. 表现"
+    },
+    {
+      "id": "edu-reviewed-ch10-relative-independence-2",
+      "knowledgeId": "edu-reviewed-ch10-relative-independence",
+      "title": "自身原理特点规律",
+      "text": "教育具有自身的活动原理、特点与规律。如教育与政治、经济、文化发展不同步，教育往往具有滞后性和长效性。",
+      "keywords": [
+        "自身规律",
+        "不同步",
+        "滞后性长效性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 表现"
+      ],
+      "displayTitle": "（2）自身的活动原理、特点与规律",
+      "outline": "2. 表现"
+    },
+    {
+      "id": "edu-reviewed-ch10-relative-independence-3",
+      "knowledgeId": "edu-reviewed-ch10-relative-independence",
+      "title": "继承连续",
+      "text": "教育具有自身发展的继承性与连续性。",
+      "keywords": [
+        "继承性",
+        "连续性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 表现"
+      ],
+      "displayTitle": "（3）继承性与连续性",
+      "outline": "2. 表现"
+    },
+    {
+      "id": "edu-reviewed-ch10-relative-independence-4",
+      "knowledgeId": "edu-reviewed-ch10-relative-independence",
+      "title": "非绝对独立的制约",
+      "text": "我们不能说教育具有绝对独立性。教育的发展最终由政治经济制度和生产力决定，“超经济”“超文化”“超政治”的教育是不存在的。",
+      "keywords": [
+        "非绝对独立",
+        "政治经济制度",
+        "生产力"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 注意"
+      ],
+      "displayTitle": "（1）教育受社会制约",
+      "outline": "3. 注意"
+    },
+    {
+      "id": "edu-reviewed-ch10-relative-independence-5",
+      "knowledgeId": "edu-reviewed-ch10-relative-independence",
+      "title": "绝对独立的后果",
+      "text": "如果错误地认为教育有绝对独立性，那么将会丧失教育发展的社会基础和动力。",
+      "keywords": [
+        "绝对独立",
+        "丧失社会基础动力"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 注意"
+      ],
+      "displayTitle": "（2）错误理解的后果",
+      "outline": "3. 注意"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-omnipotence-0",
+      "knowledgeId": "edu-reviewed-ch10-education-omnipotence",
+      "title": "代表人物",
+      "text": "爱尔维修。",
+      "keywords": [
+        "爱尔维修"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）人物"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-omnipotence-1",
+      "knowledgeId": "edu-reviewed-ch10-education-omnipotence",
+      "title": "启蒙背景",
+      "text": "在启蒙运动时期，爱尔维修在抨击人的天赋不平等以及教育等级制的贵族理论时提出教育万能论。",
+      "keywords": [
+        "启蒙运动",
+        "抨击天赋不平等",
+        "教育等级制"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）背景"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-omnipotence-2",
+      "knowledgeId": "edu-reviewed-ch10-education-omnipotence",
+      "title": "教育环境决定成长",
+      "text": "人的成长归因于教育与环境，“人受了什么样的教育，就成为什么样的人”。",
+      "keywords": [
+        "教育环境",
+        "成长"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "1. 人的成长归因于教育与环境",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-omnipotence-3",
+      "knowledgeId": "edu-reviewed-ch10-education-omnipotence",
+      "title": "天赋平等教育决定",
+      "text": "充分肯定了人生来天赋平等，人的发展完全由教育决定。",
+      "keywords": [
+        "天赋平等",
+        "教育决定"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "2. 天赋平等与教育决定发展",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-omnipotence-4",
+      "knowledgeId": "edu-reviewed-ch10-education-omnipotence",
+      "title": "理论优点",
+      "text": "在理论上，教育万能论高度肯定了教育在人的发展中的作用和意义。",
+      "keywords": [
+        "人的发展",
+        "作用意义"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（1）理论上",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-omnipotence-5",
+      "knowledgeId": "edu-reviewed-ch10-education-omnipotence",
+      "title": "时局优点",
+      "text": "在时局上，针对当时天赋不平等的旧观念有革新意义。",
+      "keywords": [
+        "天赋不平等",
+        "革新意义"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（2）时局上",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-omnipotence-6",
+      "knowledgeId": "edu-reviewed-ch10-education-omnipotence",
+      "title": "夸大教育作用",
+      "text": "该理论将教育视为人发展的决定因素，夸大了教育的作用，走向了极端。",
+      "keywords": [
+        "决定因素",
+        "夸大作用",
+        "极端"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "2. 缺点",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-0",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "代表人物",
+      "text": "舒尔茨。",
+      "keywords": [
+        "舒尔茨"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）人物"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-1",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "人力资本含义",
+      "text": "人力资本就是指凝聚在劳动者身上的知识、技能及其表现出来的能力。",
+      "keywords": [
+        "劳动者",
+        "知识技能能力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 含义",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-2",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "对个体作用",
+      "text": "人力资本与个人收入成正比。人力资本投资是劳动收入增加的根本原因。",
+      "keywords": [
+        "个人收入",
+        "正比",
+        "人力资本投资"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 人力资本对个体的作用",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-3",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "对社会作用",
+      "text": "人力资本可以提高国家的经济效益。",
+      "keywords": [
+        "国家",
+        "经济效益"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 人力资本对社会的作用",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-4",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "教育投资核心",
+      "text": "重视教育投资对人力资本的作用。教育投资是人力资本的核心。",
+      "keywords": [
+        "教育投资",
+        "人力资本核心"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 人力资本从哪里来",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-5",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "理论视角",
+      "text": "理论上，揭示了教育对经济的促进作用，为研究二者的关系提供全新视角。",
+      "keywords": [
+        "教育促进经济",
+        "全新视角"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（1）理论上",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-6",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "实践投资",
+      "text": "实践上，促使各国加大教育投资，重视教育的经济功能。",
+      "keywords": [
+        "教育投资",
+        "经济功能"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（2）实践上",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-7",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "忽视表征",
+      "text": "忽视了教育的表征功能。",
+      "keywords": [
+        "表征功能"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "（1）忽视表征功能",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-human-capital-8",
+      "knowledgeId": "edu-reviewed-ch10-human-capital",
+      "title": "忽视市场分类",
+      "text": "忽视了人力资本论成立的分类前提，即对劳动力市场的划分。",
+      "keywords": [
+        "成立前提",
+        "劳动力市场划分"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "2. 缺点"
+      ],
+      "displayTitle": "（2）忽视分类前提",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening-0",
+      "knowledgeId": "edu-reviewed-ch10-screening",
+      "title": "代表人物",
+      "text": "迈克尔·斯宾塞。该理论也叫文凭理论。",
+      "keywords": [
+        "迈克尔斯宾塞",
+        "文凭理论"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）人物"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening-1",
+      "knowledgeId": "edu-reviewed-ch10-screening",
+      "title": "基本前提",
+      "text": "求职过程中体现的不完全信息和不确定投资。",
+      "keywords": [
+        "求职",
+        "不完全信息",
+        "不确定投资"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 基本假定前提",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening-2",
+      "knowledgeId": "edu-reviewed-ch10-screening",
+      "title": "信号",
+      "text": "信号和标识可以表明一个人的生产能力。信号是可观察到的属于个人并且可以改变的属性，如学历。",
+      "keywords": [
+        "生产能力",
+        "可以改变",
+        "学历"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "2. 信号和标识"
+      ],
+      "displayTitle": "信号",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening-3",
+      "knowledgeId": "edu-reviewed-ch10-screening",
+      "title": "标识",
+      "text": "标识是可观察到的但不能改变的个人属性，如年龄。",
+      "keywords": [
+        "不能改变",
+        "年龄"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点",
+        "2. 信号和标识"
+      ],
+      "displayTitle": "标识",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening-4",
+      "knowledgeId": "edu-reviewed-ch10-screening",
+      "title": "教育表征功能",
+      "text": "该理论认为，教育并不能提高一个人的能力，只能表征一个人的能力。",
+      "keywords": [
+        "表征能力",
+        "不能提高能力"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 教育具有表征功能",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening-5",
+      "knowledgeId": "edu-reviewed-ch10-screening",
+      "title": "教育工资关系",
+      "text": "教育与工资呈正相关。",
+      "keywords": [
+        "教育工资",
+        "正相关"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 教育与工资",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening-6",
+      "knowledgeId": "edu-reviewed-ch10-screening",
+      "title": "筛选优点",
+      "text": "解释了文凭膨胀现象，教育还有表征人的能力的功能。",
+      "keywords": [
+        "文凭膨胀",
+        "表征能力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 优点",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-screening-7",
+      "knowledgeId": "edu-reviewed-ch10-screening",
+      "title": "筛选缺点",
+      "text": "片面强调教育的筛选作用，否定了人力资本论的观点，认为教育不能提高人的能力；原书指出这一观点是错误的。",
+      "keywords": [
+        "片面筛选",
+        "否定人力资本",
+        "不能提高能力"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 缺点",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-0",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "代表人物",
+      "text": "皮奥雷、多林格、戈登等。",
+      "keywords": [
+        "皮奥雷",
+        "多林格",
+        "戈登"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）人物"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-1",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "市场划分",
+      "text": "劳动力市场划分为主要与次要劳动力市场，两种市场之间具有相对的封闭性。",
+      "keywords": [
+        "主要次要",
+        "相对封闭"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 劳动力市场的划分",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-2",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "主要市场",
+      "text": "工资高、培训完善、福利好、安全保障、晋升较多、环境优越等。",
+      "keywords": [
+        "工资培训福利",
+        "安全晋升环境"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 主要劳动力市场",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-3",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "次要市场",
+      "text": "工资低、培训较少、福利差、安全无保、晋升较少、环境恶劣等。",
+      "keywords": [
+        "低少差",
+        "无保障少晋升恶劣环境"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 次要劳动力市场",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-4",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "两市场教育收入",
+      "text": "在主要劳动力市场中，提高受教育程度能增加收入；而在次要劳动力市场中则不能显著改变。",
+      "keywords": [
+        "主要增加",
+        "次要不显著"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 受教育程度与收入",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-5",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "教育决定进入市场",
+      "text": "教育是决定个体进入哪种劳动力市场的重要因素之一。",
+      "keywords": [
+        "进入市场",
+        "重要因素之一"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "5. 教育与市场进入",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-6",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "补充分市场前提",
+      "text": "为人力资本论补充了劳动力市场划分的依据和前提。",
+      "keywords": [
+        "人力资本论",
+        "划分依据前提"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "1. 补充依据和前提",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-7",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "主要市场成立",
+      "text": "在主要劳动力市场，教育程度与个体薪资成正比，人力资本论成立。",
+      "keywords": [
+        "主要市场",
+        "正比",
+        "成立"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 主要劳动力市场",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-labor-market-8",
+      "knowledgeId": "edu-reviewed-ch10-labor-market",
+      "title": "次要市场不成立",
+      "text": "在次要劳动力市场，教育程度未必与个体薪资成正比，人力资本论不成立。",
+      "keywords": [
+        "次要市场",
+        "未必正比",
+        "不成立"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "3. 次要劳动力市场",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction-0",
+      "knowledgeId": "edu-reviewed-ch10-reproduction",
+      "title": "人物著作",
+      "text": "布尔迪厄与巴塞朗《教育、文化和社会再生产》。原书介绍布尔迪厄为社会学中的“分层理论家”和教育学中的“再生产理论家”。",
+      "keywords": [
+        "布尔迪厄",
+        "巴塞朗",
+        "教育文化和社会再生产"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）代表人物"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction-1",
+      "knowledgeId": "edu-reviewed-ch10-reproduction",
+      "title": "符号暴力",
+      "text": "学校教育行为是一种符号暴力。",
+      "keywords": [
+        "学校教育",
+        "符号暴力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 学校教育行为",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction-2",
+      "knowledgeId": "edu-reviewed-ch10-reproduction",
+      "title": "文化再生产",
+      "text": "学校通过符号暴力，实现文化再生产。",
+      "keywords": [
+        "符号暴力",
+        "文化再生产"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 文化再生产",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction-3",
+      "knowledgeId": "edu-reviewed-ch10-reproduction",
+      "title": "社会再生产",
+      "text": "文化再生产导致社会再生产。",
+      "keywords": [
+        "文化再生产",
+        "社会再生产"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 社会再生产",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction-4",
+      "knowledgeId": "edu-reviewed-ch10-reproduction",
+      "title": "身份认同合法化",
+      "text": "自身身份的认同，不平等的合法化。",
+      "keywords": [
+        "身份认同",
+        "不平等合法化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 身份认同与不平等合法化",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction-5",
+      "knowledgeId": "edu-reviewed-ch10-reproduction",
+      "title": "揭示社会分层",
+      "text": "揭示教育对社会分层的影响，固化社会阶层，加剧社会分化。",
+      "keywords": [
+        "社会分层",
+        "固化阶层",
+        "加剧分化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（1）揭示社会分层影响",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction-6",
+      "knowledgeId": "edu-reviewed-ch10-reproduction",
+      "title": "揭示教育不平等",
+      "text": "揭示教育不平等的现象，批判精英主义，这是沉默的暴力。",
+      "keywords": [
+        "教育不平等",
+        "精英主义",
+        "沉默暴力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 优点"
+      ],
+      "displayTitle": "（2）揭示教育不平等",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-reproduction-7",
+      "knowledgeId": "edu-reviewed-ch10-reproduction",
+      "title": "忽视正规教育优势",
+      "text": "忽视了正规教育的优势，否定了正规教育的价值与积极作用。",
+      "keywords": [
+        "正规教育优势",
+        "价值积极作用"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "2. 缺点",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-0",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "生产力规格",
+      "text": "影响人才培养的规格。原书标注“总目标”。",
+      "keywords": [
+        "人才培养规格",
+        "总目标"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生产力"
+      ],
+      "displayTitle": "1. 影响人才培养的规格",
+      "outline": "生产力"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-1",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "生产力规模结构",
+      "text": "影响教育事业发展的速度、规模、教育结构。原书标注“宏观”。",
+      "keywords": [
+        "速度规模结构",
+        "宏观"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生产力"
+      ],
+      "displayTitle": "2. 影响教育事业发展的速度、规模、教育结构",
+      "outline": "生产力"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-2",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "生产力课程内容",
+      "text": "影响课程设置与教育内容。原书标注“中观”。",
+      "keywords": [
+        "课程内容",
+        "中观"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生产力"
+      ],
+      "displayTitle": "3. 影响课程设置与教育内容",
+      "outline": "生产力"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-3",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "生产力教学方式",
+      "text": "影响教学手段、方法与组织形式。原书标注“微观”。",
+      "keywords": [
+        "教学手段方法组织",
+        "微观"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生产力"
+      ],
+      "displayTitle": "4. 影响教学手段、方法与组织形式",
+      "outline": "生产力"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-4",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "政治教育性质",
+      "text": "决定教育性质。",
+      "keywords": [
+        "决定",
+        "教育性质"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治"
+      ],
+      "displayTitle": "1. 决定教育性质",
+      "outline": "政治"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-5",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "政治教育目的",
+      "text": "影响教育目的。",
+      "keywords": [
+        "教育目的"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治"
+      ],
+      "displayTitle": "2. 影响教育目的",
+      "outline": "政治"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-6",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "政治领导权",
+      "text": "影响教育的领导权。",
+      "keywords": [
+        "教育领导权"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治"
+      ],
+      "displayTitle": "3. 影响教育的领导权",
+      "outline": "政治"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-7",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "政治受教育权",
+      "text": "影响受教育权。",
+      "keywords": [
+        "受教育权"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治"
+      ],
+      "displayTitle": "4. 影响受教育权",
+      "outline": "政治"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-8",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "政治内容结构管理",
+      "text": "制约教育内容、结构、管理。",
+      "keywords": [
+        "教育内容结构管理"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治"
+      ],
+      "displayTitle": "5. 制约教育内容、结构、管理",
+      "outline": "政治"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-9",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "文化教育观念",
+      "text": "影响教育观念。",
+      "keywords": [
+        "教育观念"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "文化"
+      ],
+      "displayTitle": "1. 影响教育观念",
+      "outline": "文化"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-10",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "文化教育目标",
+      "text": "影响教育目标。",
+      "keywords": [
+        "教育目标"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "文化"
+      ],
+      "displayTitle": "2. 影响教育目标",
+      "outline": "文化"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-11",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "文化内容方法",
+      "text": "影响教育内容和方法。",
+      "keywords": [
+        "教育内容方法"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "文化"
+      ],
+      "displayTitle": "3. 影响教育内容和方法",
+      "outline": "文化"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-12",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "科技教育观念",
+      "text": "影响教育观念。",
+      "keywords": [
+        "教育观念"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "科技"
+      ],
+      "displayTitle": "1. 影响教育观念",
+      "outline": "科技"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-13",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "科技教育对象",
+      "text": "影响教育对象。",
+      "keywords": [
+        "教育对象"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "科技"
+      ],
+      "displayTitle": "2. 影响教育对象",
+      "outline": "科技"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-14",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "科技教育环节",
+      "text": "渗透到教育一切环节之中。",
+      "keywords": [
+        "一切环节"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "科技"
+      ],
+      "displayTitle": "3. 渗透到教育一切环节之中",
+      "outline": "科技"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-15",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "人口数量",
+      "text": "人口数量对教育的制约。原书列为“人口数量”。",
+      "keywords": [
+        "人口数量"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人口"
+      ],
+      "displayTitle": "1. 人口数量",
+      "outline": "人口"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-16",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "人口质量",
+      "text": "人口质量对教育的制约。原书列为“人口质量”。",
+      "keywords": [
+        "人口质量"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人口"
+      ],
+      "displayTitle": "2. 人口质量",
+      "outline": "人口"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-17",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "人口结构",
+      "text": "人口结构对教育的制约。原书列为“人口结构”。",
+      "keywords": [
+        "人口结构"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人口"
+      ],
+      "displayTitle": "3. 人口结构",
+      "outline": "人口"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-18",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "媒介发展规模",
+      "text": "影响教育的发展规模。",
+      "keywords": [
+        "教育发展规模"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "媒介"
+      ],
+      "displayTitle": "1. 影响教育的发展规模",
+      "outline": "媒介"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-19",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "媒介教师模式",
+      "text": "改变教师的教学模式。",
+      "keywords": [
+        "教师教学模式"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "媒介"
+      ],
+      "displayTitle": "2. 改变教师的教学模式",
+      "outline": "媒介"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-constraints-20",
+      "knowledgeId": "edu-reviewed-ch10-social-constraints",
+      "title": "媒介学生体验",
+      "text": "丰富学生的学习体验。",
+      "keywords": [
+        "学生学习体验"
+      ],
+      "order": 20,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "媒介"
+      ],
+      "displayTitle": "3. 丰富学生的学习体验",
+      "outline": "媒介"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-0",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "促进经济增长",
+      "text": "促进经济增长。",
+      "keywords": [
+        "经济增长"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "经济功能"
+      ],
+      "displayTitle": "1. 促进经济增长",
+      "outline": "经济功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-1",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "推动科技发展",
+      "text": "推动科技发展。",
+      "keywords": [
+        "科技发展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "经济功能"
+      ],
+      "displayTitle": "2. 推动科技发展",
+      "outline": "经济功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-2",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "提高劳动者素质",
+      "text": "提高劳动者素质。",
+      "keywords": [
+        "劳动者素质"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "经济功能"
+      ],
+      "displayTitle": "3. 提高劳动者素质",
+      "outline": "经济功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-3",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "维系政治稳定",
+      "text": "维系社会政治稳定。",
+      "keywords": [
+        "社会政治稳定"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治功能"
+      ],
+      "displayTitle": "1. 维系社会政治稳定",
+      "outline": "政治功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-4",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "提高政治文明",
+      "text": "提高社会政治文明水平。",
+      "keywords": [
+        "政治文明水平"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治功能"
+      ],
+      "displayTitle": "2. 提高社会政治文明水平",
+      "outline": "政治功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-5",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "促进政治变革",
+      "text": "促进社会政治变革。",
+      "keywords": [
+        "社会政治变革"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治功能"
+      ],
+      "displayTitle": "3. 促进社会政治变革",
+      "outline": "政治功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-6",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "培养政治人才",
+      "text": "培养社会政治人才。",
+      "keywords": [
+        "社会政治人才"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "政治功能"
+      ],
+      "displayTitle": "4. 培养社会政治人才",
+      "outline": "政治功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-7",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "文化传承",
+      "text": "传递、保存。",
+      "keywords": [
+        "传递保存"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "文化功能"
+      ],
+      "displayTitle": "1. 传承功能",
+      "outline": "文化功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-8",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "文化融合",
+      "text": "传播、交流与丰富。",
+      "keywords": [
+        "传播交流丰富"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "文化功能"
+      ],
+      "displayTitle": "2. 融合功能",
+      "outline": "文化功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-9",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "文化选择",
+      "text": "选择、提升。",
+      "keywords": [
+        "选择提升"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "文化功能"
+      ],
+      "displayTitle": "3. 选择功能",
+      "outline": "文化功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-10",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "文化创新",
+      "text": "创造、更新。",
+      "keywords": [
+        "创造更新"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "文化功能"
+      ],
+      "displayTitle": "4. 创新功能",
+      "outline": "文化功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-11",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "培育科技人才",
+      "text": "培育科技人才。",
+      "keywords": [
+        "科技人才"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "科技功能"
+      ],
+      "displayTitle": "1. 培育科技人才",
+      "outline": "科技功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-12",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "传播科学知识",
+      "text": "传播科学知识。",
+      "keywords": [
+        "科学知识"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "科技功能"
+      ],
+      "displayTitle": "2. 传播科学知识",
+      "outline": "科技功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-13",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "更新科学方法",
+      "text": "更新科学方法。",
+      "keywords": [
+        "科学方法"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "科技功能"
+      ],
+      "displayTitle": "3. 更新科学方法",
+      "outline": "科技功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-14",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "培养科学精神",
+      "text": "培养科学精神。",
+      "keywords": [
+        "科学精神"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "科技功能"
+      ],
+      "displayTitle": "4. 培养科学精神",
+      "outline": "科技功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-15",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "控制人口增长",
+      "text": "控制人口增长。",
+      "keywords": [
+        "人口增长"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人口功能"
+      ],
+      "displayTitle": "1. 控制人口增长",
+      "outline": "人口功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-16",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "提高人口素质",
+      "text": "提高人口素质。",
+      "keywords": [
+        "人口素质"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人口功能"
+      ],
+      "displayTitle": "2. 提高人口素质",
+      "outline": "人口功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-17",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "影响人口迁移",
+      "text": "影响人口迁移。",
+      "keywords": [
+        "人口迁移"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人口功能"
+      ],
+      "displayTitle": "3. 影响人口迁移",
+      "outline": "人口功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-18",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "优化人口结构",
+      "text": "优化人口结构。",
+      "keywords": [
+        "人口结构"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "人口功能"
+      ],
+      "displayTitle": "4. 优化人口结构",
+      "outline": "人口功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-19",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "生态文明理念",
+      "text": "树立建设生态文明的理念。",
+      "keywords": [
+        "生态文明理念"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生态功能"
+      ],
+      "displayTitle": "1. 树立建设生态文明的理念",
+      "outline": "生态功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-20",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "生态文明知识",
+      "text": "普及生态文明知识。",
+      "keywords": [
+        "生态文明知识"
+      ],
+      "order": 20,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生态功能"
+      ],
+      "displayTitle": "2. 普及生态文明知识",
+      "outline": "生态功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-social-functions-21",
+      "knowledgeId": "edu-reviewed-ch10-social-functions",
+      "title": "生态文明活动",
+      "text": "引导建设生态文明的社会活动。",
+      "keywords": [
+        "生态文明社会活动"
+      ],
+      "order": 21,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "生态功能"
+      ],
+      "displayTitle": "3. 引导建设生态文明的社会活动",
+      "outline": "生态功能"
+    },
+    {
+      "id": "edu-reviewed-ch10-modernization-0",
+      "knowledgeId": "edu-reviewed-ch10-modernization",
+      "title": "教育现代化内涵",
+      "text": "把社会现代化的理念、要求、方法、手段、技术等逐渐实现的过程。",
+      "keywords": [
+        "社会现代化",
+        "理念要求方法手段技术"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-modernization-1",
+      "knowledgeId": "edu-reviewed-ch10-modernization",
+      "title": "教育现代化变革",
+      "text": "教育观念、制度、内容、设备和教师素质现代化。",
+      "keywords": [
+        "观念制度内容",
+        "设备教师素质"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-informatization-0",
+      "knowledgeId": "edu-reviewed-ch10-informatization",
+      "title": "教育信息化内涵",
+      "text": "在教育中普遍运用教育信息技术，提高学生信息素养。",
+      "keywords": [
+        "普遍运用",
+        "教育信息技术",
+        "信息素养"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-informatization-1",
+      "knowledgeId": "edu-reviewed-ch10-informatization",
+      "title": "信息培养目标",
+      "text": "变革培养目标。",
+      "keywords": [
+        "培养目标"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "1. 变革培养目标",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-informatization-2",
+      "knowledgeId": "edu-reviewed-ch10-informatization",
+      "title": "信息教育管理",
+      "text": "变革教育管理。",
+      "keywords": [
+        "教育管理"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "2. 变革教育管理",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-informatization-3",
+      "knowledgeId": "edu-reviewed-ch10-informatization",
+      "title": "信息教育方式",
+      "text": "变革教育方式。",
+      "keywords": [
+        "教育方式"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "3. 变革教育方式",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-informatization-4",
+      "knowledgeId": "edu-reviewed-ch10-informatization",
+      "title": "信息学习时空",
+      "text": "拓展学习时空。",
+      "keywords": [
+        "学习时空"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "4. 拓展学习时空",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-informatization-5",
+      "knowledgeId": "edu-reviewed-ch10-informatization",
+      "title": "信息教学条件",
+      "text": "变革教学条件。",
+      "keywords": [
+        "教学条件"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "5. 变革教学条件",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-0",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "人工智能教育内涵",
+      "text": "把人工智能作为教育整体变革的内生变量，支撑引领教育创新发展。",
+      "keywords": [
+        "内生变量",
+        "整体变革",
+        "教育创新"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-1",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "智能培养目标",
+      "text": "变革培养目标。",
+      "keywords": [
+        "培养目标"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "1. 变革培养目标",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-2",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "智能学习方式",
+      "text": "变革学习方式。",
+      "keywords": [
+        "学习方式"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "2. 变革学习方式",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-3",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "智能教学方式",
+      "text": "变革教学方式。",
+      "keywords": [
+        "教学方式"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "3. 变革教学方式",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-4",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "智能教学内容",
+      "text": "变革教学内容。",
+      "keywords": [
+        "教学内容"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "4. 变革教学内容",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-5",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "智能评价方式",
+      "text": "变革教学评价方式。",
+      "keywords": [
+        "教学评价方式"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "5. 变革教学评价方式",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-6",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "智能师生关系",
+      "text": "变革师生关系。",
+      "keywords": [
+        "师生关系"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "6. 变革师生关系",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-7",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "智能教师角色",
+      "text": "变革教师角色。",
+      "keywords": [
+        "教师角色"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "7. 变革教师角色",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-artificial-intelligence-8",
+      "knowledgeId": "edu-reviewed-ch10-artificial-intelligence",
+      "title": "智能教育管理",
+      "text": "变革教育管理。",
+      "keywords": [
+        "教育管理"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "8. 变革教育管理",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-knowledge-economy-0",
+      "knowledgeId": "edu-reviewed-ch10-knowledge-economy",
+      "title": "知识经济内涵",
+      "text": "以知识为基础的经济。",
+      "keywords": [
+        "知识",
+        "基础"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-knowledge-economy-1",
+      "knowledgeId": "edu-reviewed-ch10-knowledge-economy",
+      "title": "科教兴国",
+      "text": "实施科教兴国战略。",
+      "keywords": [
+        "科教兴国战略"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "1. 实施科教兴国战略",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-knowledge-economy-2",
+      "knowledgeId": "edu-reviewed-ch10-knowledge-economy",
+      "title": "创新人才",
+      "text": "培养创新型人才。",
+      "keywords": [
+        "创新型人才"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "2. 培养创新型人才",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-knowledge-economy-3",
+      "knowledgeId": "edu-reviewed-ch10-knowledge-economy",
+      "title": "学科壁垒",
+      "text": "打破学科壁垒。",
+      "keywords": [
+        "学科壁垒"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "3. 打破学科壁垒",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-knowledge-economy-4",
+      "knowledgeId": "edu-reviewed-ch10-knowledge-economy",
+      "title": "营造学习化社会",
+      "text": "营造学习化社会。",
+      "keywords": [
+        "学习化社会"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "4. 营造学习化社会",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-knowledge-economy-5",
+      "knowledgeId": "edu-reviewed-ch10-knowledge-economy",
+      "title": "教育市场化",
+      "text": "推进教育市场化。",
+      "keywords": [
+        "教育市场化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "5. 推进教育市场化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-globalization-0",
+      "knowledgeId": "edu-reviewed-ch10-globalization",
+      "title": "教育全球化内涵",
+      "text": "各国教育跨越空间障碍和制度、文化等社会障碍，在全球范围内实现充分沟通，达成更多共识的过程。",
+      "keywords": [
+        "空间社会障碍",
+        "全球沟通共识"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-globalization-1",
+      "knowledgeId": "edu-reviewed-ch10-globalization",
+      "title": "全球本土定位",
+      "text": "正确把握全球化与本土化的关系，明确教育发展的定位。",
+      "keywords": [
+        "全球化本土化",
+        "发展定位"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "1. 明确教育发展的定位",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-globalization-2",
+      "knowledgeId": "edu-reviewed-ch10-globalization",
+      "title": "抵御全球化风险",
+      "text": "辨识全球化对教育带来的影响，有意识地抵御全球化风险。",
+      "keywords": [
+        "辨识影响",
+        "抵御风险"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "2. 辨识影响与抵御风险",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-globalization-3",
+      "knowledgeId": "edu-reviewed-ch10-globalization",
+      "title": "全球意识教育",
+      "text": "拓展全球视野，加强国际理解和全球意识教育。",
+      "keywords": [
+        "全球视野",
+        "国际理解",
+        "全球意识"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "3. 国际理解和全球意识教育",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-localization-nationalization-0",
+      "knowledgeId": "edu-reviewed-ch10-localization-nationalization",
+      "title": "教育本土化",
+      "text": "外来文化在与本土文化融合中积极适应我国教育现状的过程。",
+      "keywords": [
+        "外来本土文化融合",
+        "适应现状"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "内涵"
+      ],
+      "displayTitle": "教育本土化",
+      "outline": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-localization-nationalization-1",
+      "knowledgeId": "edu-reviewed-ch10-localization-nationalization",
+      "title": "教育民族化",
+      "text": "对外来文化进行精细的鉴别、选择和改造，使其与本民族文化的优良基因相交融的过程。",
+      "keywords": [
+        "鉴别选择改造",
+        "民族文化优良基因"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "内涵"
+      ],
+      "displayTitle": "教育民族化",
+      "outline": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-localization-nationalization-2",
+      "knowledgeId": "edu-reviewed-ch10-localization-nationalization",
+      "title": "统一关系",
+      "text": "全球性和本土性相统一，国际性和民族性相统一。此为原表两行共用的教育变革单元格。",
+      "keywords": [
+        "全球本土统一",
+        "国际民族统一"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-democratization-0",
+      "knowledgeId": "edu-reviewed-ch10-democratization",
+      "title": "教育民主化内涵",
+      "text": "对教育等级化、特权化和专制化的否定，要求教育具有平等、民主、合作、能调动教育者和受教育者的积极性等特点。",
+      "keywords": [
+        "否定等级特权专制",
+        "平等民主合作"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-democratization-1",
+      "knowledgeId": "edu-reviewed-ch10-democratization",
+      "title": "教育机会均等",
+      "text": "教育机会均等。",
+      "keywords": [
+        "机会均等"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "1. 教育机会均等",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-democratization-2",
+      "knowledgeId": "edu-reviewed-ch10-democratization",
+      "title": "师生关系民主",
+      "text": "师生关系的民主化。",
+      "keywords": [
+        "师生关系民主"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "2. 师生关系的民主化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-democratization-3",
+      "knowledgeId": "edu-reviewed-ch10-democratization",
+      "title": "教育过程民主",
+      "text": "教育过程民主化。",
+      "keywords": [
+        "教育过程民主"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "3. 教育过程民主化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-democratization-4",
+      "knowledgeId": "edu-reviewed-ch10-democratization",
+      "title": "教育管理民主",
+      "text": "教育管理民主化。",
+      "keywords": [
+        "教育管理民主"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "4. 教育管理民主化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-democratization-5",
+      "knowledgeId": "edu-reviewed-ch10-democratization",
+      "title": "教育自由化",
+      "text": "追求教育自由化。",
+      "keywords": [
+        "教育自由化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "5. 追求教育自由化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-multicultural-0",
+      "knowledgeId": "edu-reviewed-ch10-multicultural",
+      "title": "多元文化教育内涵",
+      "text": "为促进不同文化间的相互理解，实施的一种共同平等的教育。",
+      "keywords": [
+        "不同文化相互理解",
+        "共同平等"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-multicultural-1",
+      "knowledgeId": "edu-reviewed-ch10-multicultural",
+      "title": "倡导教育公平",
+      "text": "倡导教育公平。",
+      "keywords": [
+        "教育公平"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "1. 倡导教育公平",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-multicultural-2",
+      "knowledgeId": "edu-reviewed-ch10-multicultural",
+      "title": "促进课程变革",
+      "text": "促进课程变革。",
+      "keywords": [
+        "课程变革"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "2. 促进课程变革",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-multicultural-3",
+      "knowledgeId": "edu-reviewed-ch10-multicultural",
+      "title": "促进教学变革",
+      "text": "促进教学变革。",
+      "keywords": [
+        "教学变革"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "3. 促进教学变革",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-learning-society-0",
+      "knowledgeId": "edu-reviewed-ch10-learning-society",
+      "title": "学习化社会内涵",
+      "text": "国家采用相应的机制和手段来建立一个保障全民学习和终身学习的社会。",
+      "keywords": [
+        "国家机制手段",
+        "全民学习",
+        "终身学习"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "内涵"
+    },
+    {
+      "id": "edu-reviewed-ch10-learning-society-1",
+      "knowledgeId": "edu-reviewed-ch10-learning-society",
+      "title": "年限场所变化",
+      "text": "教育年限和教育场所的变化。",
+      "keywords": [
+        "教育年限场所"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "1. 教育年限和教育场所的变化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-learning-society-2",
+      "knowledgeId": "edu-reviewed-ch10-learning-society",
+      "title": "资源方式变化",
+      "text": "教育资源和教育方式的变化。",
+      "keywords": [
+        "教育资源方式"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "2. 教育资源和教育方式的变化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-learning-society-3",
+      "knowledgeId": "edu-reviewed-ch10-learning-society",
+      "title": "教师师生变化",
+      "text": "教师角色和师生关系的变化。",
+      "keywords": [
+        "教师角色",
+        "师生关系"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "3. 教师角色和师生关系的变化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-learning-society-4",
+      "knowledgeId": "edu-reviewed-ch10-learning-society",
+      "title": "新型教育体系变化",
+      "text": "新型教育体系的变化。",
+      "keywords": [
+        "新型教育体系"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "教育变革"
+      ],
+      "displayTitle": "4. 新型教育体系的变化",
+      "outline": "教育变革"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-priority-0",
+      "knowledgeId": "edu-reviewed-ch10-education-priority",
+      "title": "教育先行含义",
+      "text": "把教育优先发展的战略叫作教育先行模式，即在本国经济能力可承载的情况下，教育适度地先于其他行业或经济发展的现有状态而超前、提前发展。教育优先发展并不代表教育的盲目发展，优先发展必须适度。",
+      "keywords": [
+        "经济承载",
+        "适度超前",
+        "非盲目"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）含义"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-priority-1",
+      "knowledgeId": "edu-reviewed-ch10-education-priority",
+      "title": "教育先行理论基础",
+      "text": "人力资本论。",
+      "keywords": [
+        "人力资本论"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（二）理论基础"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-priority-2",
+      "knowledgeId": "edu-reviewed-ch10-education-priority",
+      "title": "基础性",
+      "text": "教育是国家基础性的事业，教育通过培养人而作用于社会发展。",
+      "keywords": [
+        "基础性",
+        "培养人",
+        "社会发展"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）原因"
+      ],
+      "displayTitle": "1. 基础性",
+      "outline": "（三）原因"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-priority-3",
+      "knowledgeId": "edu-reviewed-ch10-education-priority",
+      "title": "全局性",
+      "text": "教育对社会主义现代化建设具有全局性的作用。",
+      "keywords": [
+        "社会主义现代化",
+        "全局性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）原因"
+      ],
+      "displayTitle": "2. 全局性",
+      "outline": "（三）原因"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-priority-4",
+      "knowledgeId": "edu-reviewed-ch10-education-priority",
+      "title": "先导性",
+      "text": "教育是国家先导性的事业，教育的发展对社会主义现代化建设具有引领作用。",
+      "keywords": [
+        "先导性",
+        "引领作用"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）原因"
+      ],
+      "displayTitle": "3. 先导性",
+      "outline": "（三）原因"
+    },
+    {
+      "id": "edu-reviewed-ch10-education-priority-5",
+      "knowledgeId": "edu-reviewed-ch10-education-priority",
+      "title": "教育发展战略地位",
+      "text": "原书将我国教育发展战略具体表述为科教兴国战略与人才强国战略。",
+      "keywords": [
+        "科教兴国",
+        "人才强国"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（四）地位"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {
+    "93": 90
+  },
+  "outlineRevision": "edu-ch10-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 7,
+    "knowledge": 24,
+    "steps": 150,
+    "referenceOnly": 5
+  }
+}

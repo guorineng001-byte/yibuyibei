@@ -1,0 +1,5952 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch26-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch26-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "近现代教育思潮：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 204,
+          "rect": [
+            0.07,
+            0.125,
+            0.86,
+            0.45
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 204112,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "自然主义教育思潮",
+      "section": "第一节 · 19世纪的近代教育思潮 · 考点一",
+      "refs": [
+        {
+          "page": 204,
+          "rect": [
+            0.07,
+            0.655,
+            0.86,
+            0.255
+          ]
+        },
+        {
+          "page": 205,
+          "rect": [
+            0.07,
+            0.084,
+            0.86,
+            0.35
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 204589,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "教育心理学化思潮",
+      "section": "第一节 · 考点二",
+      "refs": [
+        {
+          "page": 205,
+          "rect": [
+            0.07,
+            0.461,
+            0.86,
+            0.46
+          ]
+        },
+        {
+          "page": 206,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.119
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 205414,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "科学教育思潮",
+      "section": "第一节 · 考点三",
+      "refs": [
+        {
+          "page": 206,
+          "rect": [
+            0.07,
+            0.213,
+            0.86,
+            0.431
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 206191,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "国家主义教育思潮",
+      "section": "第一节 · 考点四",
+      "refs": [
+        {
+          "page": 206,
+          "rect": [
+            0.07,
+            0.662,
+            0.86,
+            0.274
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 206595,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-overview-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育与进步教育：概览对照表",
+      "section": "第二节 · 考点一 · 原表参考",
+      "refs": [
+        {
+          "page": 207,
+          "rect": [
+            0.07,
+            0.162,
+            0.86,
+            0.635
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 207145,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "欧洲新教育运动：概览",
+      "section": "第二节 · 19世纪末20世纪初的教育思潮 · 考点一 · 欧洲新教育运动",
+      "refs": [
+        {
+          "page": 207,
+          "rect": [
+            0.085,
+            0.162,
+            0.46,
+            0.635
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 207145,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "美国进步教育运动：概览",
+      "section": "第二节 · 考点一 · 美国进步教育运动",
+      "refs": [
+        {
+          "page": 207,
+          "rect": [
+            0.546,
+            0.162,
+            0.367,
+            0.635
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 207145,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-experiment-theory-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育运动：实验与理论原表",
+      "section": "第二节 · 考点二 · 原表参考",
+      "refs": [
+        {
+          "page": 208,
+          "rect": [
+            0.07,
+            0.126,
+            0.86,
+            0.638
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 208113,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-experiments",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育运动：四所实验学校",
+      "section": "第二节 · 考点二 · 新教育运动的实验与理论 · 新教育实验",
+      "refs": [
+        {
+          "page": 208,
+          "rect": [
+            0.085,
+            0.126,
+            0.282,
+            0.594
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 208113,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-experimental-pedagogy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育理论：实验教育学",
+      "section": "第二节 · 考点二 · 新教育理论 · 德国梅伊曼、拉伊",
+      "refs": [
+        {
+          "page": 208,
+          "rect": [
+            0.369,
+            0.3,
+            0.543,
+            0.067
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 208270,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育理论：公民教育与劳作学校",
+      "section": "第二节 · 考点二 · 新教育理论 · 德国凯兴斯泰纳",
+      "refs": [
+        {
+          "page": 208,
+          "rect": [
+            0.369,
+            0.367,
+            0.543,
+            0.283
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 208330,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-montessori-mention",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育理论：蒙台梭利",
+      "section": "第二节 · 考点二 · 新教育理论",
+      "refs": [
+        {
+          "page": 208,
+          "rect": [
+            0.369,
+            0.717,
+            0.543,
+            0.046
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 208645,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-mnemonic",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育运动：人物与活动助记",
+      "section": "第二节 · 考点二 · 凯程助记",
+      "refs": [
+        {
+          "page": 208,
+          "rect": [
+            0.07,
+            0.785,
+            0.86,
+            0.137
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 208706,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-quincy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "进步教育实验：昆西教学法",
+      "section": "第二节 · 考点三 · 进步教育运动中的重要实验 · （一）昆西教学法",
+      "refs": [
+        {
+          "page": 209,
+          "rect": [
+            0.07,
+            0.134,
+            0.86,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 209120,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-quincy-mnemonic",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "昆西教学法：助记",
+      "section": "第二节 · 考点三 · 凯程助记",
+      "refs": [
+        {
+          "page": 209,
+          "rect": [
+            0.07,
+            0.285,
+            0.86,
+            0.053
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 209256,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "进步教育实验：有机教育学校",
+      "section": "第二节 · 考点三 · （二）有机教育学校",
+      "refs": [
+        {
+          "page": 209,
+          "rect": [
+            0.07,
+            0.362,
+            0.86,
+            0.284
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 209325,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-mnemonic",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "有机教育学校：助记",
+      "section": "第二节 · 考点三 · 凯程助记",
+      "refs": [
+        {
+          "page": 209,
+          "rect": [
+            0.07,
+            0.668,
+            0.86,
+            0.151
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 209601,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "进步教育实验：葛雷制",
+      "section": "第二节 · 考点三 · （三）葛雷制",
+      "refs": [
+        {
+          "page": 210,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.293
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 210072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-mnemonic",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "葛雷制：助记",
+      "section": "第二节 · 考点三 · 凯程助记",
+      "refs": [
+        {
+          "page": 210,
+          "rect": [
+            0.07,
+            0.382,
+            0.86,
+            0.051
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 210343,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-winnetka",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "进步教育实验：文纳特卡计划",
+      "section": "第二节 · 考点三 · （四）文纳特卡计划",
+      "refs": [
+        {
+          "page": 210,
+          "rect": [
+            0.07,
+            0.44,
+            0.86,
+            0.293
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 210396,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-dalton",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "进步教育实验：道尔顿制",
+      "section": "第二节 · 考点三 · （五）道尔顿制",
+      "refs": [
+        {
+          "page": 210,
+          "rect": [
+            0.07,
+            0.754,
+            0.86,
+            0.179
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 210678,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "进步教育实验：设计教学法",
+      "section": "第二节 · 考点三 · （六）设计教学法",
+      "refs": [
+        {
+          "page": 211,
+          "rect": [
+            0.07,
+            0.084,
+            0.86,
+            0.196
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 211075,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-experiment-evaluation-reference",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "六种教学实验：评价助记",
+      "section": "第二节 · 考点三 · 凯程助记",
+      "refs": [
+        {
+          "page": 211,
+          "rect": [
+            0.07,
+            0.31,
+            0.86,
+            0.247
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 211279,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-summary-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育与进步教育：总结对照表",
+      "section": "第二节 · 考点四 · 总结新教育运动和进步教育运动 · 原表参考",
+      "refs": [
+        {
+          "page": 212,
+          "rect": [
+            0.07,
+            0.117,
+            0.86,
+            0.763
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 212105,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育与进步教育：不同点",
+      "section": "第二节 · 考点四 · 不同点",
+      "refs": [
+        {
+          "page": 212,
+          "rect": [
+            0.07,
+            0.142,
+            0.86,
+            0.163
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 212127,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育与进步教育：相同点",
+      "section": "第二节 · 考点四 · 相同点 · 时代背景、共同观点与改革措施",
+      "refs": [
+        {
+          "page": 212,
+          "rect": [
+            0.07,
+            0.305,
+            0.86,
+            0.358
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 212274,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新教育与进步教育：历史影响",
+      "section": "第二节 · 考点四 · 相同点 · 历史影响",
+      "refs": [
+        {
+          "page": 212,
+          "rect": [
+            0.07,
+            0.663,
+            0.86,
+            0.215
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 212596,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-modern-thought-table",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代欧美教育思潮：八类对照表",
+      "section": "第三节 · 20世纪中后期的现代欧美教育思潮 · 原表参考",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.121,
+            0.86,
+            0.705
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 213108,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代教育思潮：改造主义教育",
+      "section": "第三节 · 从实用主义教育中分裂出来",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.16,
+            0.86,
+            0.069
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 213144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代教育思潮：要素主义教育",
+      "section": "第三节 · 新传统教育派的教育思潮",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.229,
+            0.86,
+            0.094
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 213206,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代教育思潮：永恒主义教育",
+      "section": "第三节 · 新传统教育派的教育思潮",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.323,
+            0.86,
+            0.074
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 213290,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-thomism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代教育思潮：新托马斯主义教育",
+      "section": "第三节 · 新传统教育派的教育思潮",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.397,
+            0.86,
+            0.073
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 213357,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代教育思潮：存在主义教育",
+      "section": "第三节 · 以哲学为基础的教育思潮",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.47,
+            0.86,
+            0.093
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 213423,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代教育思潮：结构主义教育",
+      "section": "第三节 · 以心理学为基础的教育思潮",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.563,
+            0.86,
+            0.095
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 213506,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-humanism",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代教育思潮：人本主义教育",
+      "section": "第三节 · 以心理学为基础的教育思潮",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.658,
+            0.86,
+            0.094
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 213592,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-lifelong",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "现代教育思潮：终身教育",
+      "section": "第三节 · 作为未来教育战略的教育思潮",
+      "refs": [
+        {
+          "page": 213,
+          "rect": [
+            0.07,
+            0.752,
+            0.86,
+            0.074
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 213676,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新传统教育派：共同观点与影响",
+      "section": "第三节 · 凯程深化 · 新传统教育派教育思潮的共同观点与影响",
+      "refs": [
+        {
+          "page": 214,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.584
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 214072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-reference",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "新传统教育派：共同观点与影响原图",
+      "section": "第三节 · 凯程深化 · 原图参考",
+      "refs": [
+        {
+          "page": 214,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.584
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 214072,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "foreign-reviewed-ch26-closing-quote",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-25",
+      "title": "原书结语",
+      "section": "章节结语 · 原图参考",
+      "refs": [
+        {
+          "page": 214,
+          "rect": [
+            0.07,
+            0.684,
+            0.86,
+            0.194
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 214615,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch26-naturalism-0",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "时代背景1",
+      "text": "启蒙运动为自然主义教育思潮的产生提供了舆论氛围。",
+      "keywords": [
+        "启蒙运动",
+        "舆论氛围"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）时代背景"
+      ],
+      "displayTitle": "1. 启蒙运动",
+      "outline": "（一）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-1",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "时代背景2",
+      "text": "资本主义发展的需要是自然主义教育思潮的客观要求。",
+      "keywords": [
+        "资本主义发展",
+        "客观要求"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）时代背景"
+      ],
+      "displayTitle": "2. 资本主义发展",
+      "outline": "（一）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-2",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "时代背景3",
+      "text": "封建教会教育的没落成为自然主义教育思想发展的契机。",
+      "keywords": [
+        "封建教会",
+        "没落",
+        "契机"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）时代背景"
+      ],
+      "displayTitle": "3. 封建教会教育没落",
+      "outline": "（一）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-3",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "萌芽阶段",
+      "text": "亚里士多德首次提出教育遵循自然的原则。",
+      "keywords": [
+        "亚里士多德",
+        "遵循自然"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展阶段"
+      ],
+      "displayTitle": "1. 萌芽阶段",
+      "outline": "（二）发展阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-4",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "形成阶段",
+      "text": "夸美纽斯将教育适应自然作为贯穿整个教育理论体系的一条根本指导性原则。",
+      "keywords": [
+        "夸美纽斯",
+        "适应自然",
+        "根本指导原则"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展阶段"
+      ],
+      "displayTitle": "2. 形成阶段",
+      "outline": "（二）发展阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-5",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "体系阶段",
+      "text": "卢梭在《爱弥儿》中论述了自然主义教育思想体系。",
+      "keywords": [
+        "卢梭",
+        "爱弥儿",
+        "自然主义"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展阶段"
+      ],
+      "displayTitle": "3. 体系阶段",
+      "outline": "（二）发展阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-6",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "深化阶段",
+      "text": "裴斯泰洛齐首次提出“教育心理学化”的口号；巴西多引领了泛爱运动；福禄培尔将自然主义教育思想引入幼儿教育领域。",
+      "keywords": [
+        "裴斯泰洛齐",
+        "巴西多",
+        "福禄培尔"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展阶段"
+      ],
+      "displayTitle": "4. 深化阶段",
+      "outline": "（二）发展阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-7",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "教育目的",
+      "text": "教育目的是培养人的自然本性。尊重人的自由与天性，反对压制和束缚儿童，起到反封建、反宗教的作用。",
+      "keywords": [
+        "自然本性",
+        "自由",
+        "天性",
+        "反封建"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "1. 教育目的",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-8",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "年龄分期",
+      "text": "主张儿童发展年龄分期论，如婴儿期、儿童期、少年期、青年期等。",
+      "keywords": [
+        "年龄分期",
+        "婴儿期",
+        "青年期"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "2. 年龄分期",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-9",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "课程论",
+      "text": "主张内容丰富的课程论，如“泛智”课程思想等。",
+      "keywords": [
+        "课程",
+        "泛智"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "3. 课程论",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-10",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "教学原则与方法",
+      "text": "教育教学的原则与方法都要体现教育适应自然；实物直观很实用，兴趣游戏就主动，废除体罚育美德。",
+      "keywords": [
+        "适应自然",
+        "实物直观",
+        "兴趣游戏",
+        "废除体罚"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "4. 教学原则与方法",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-11",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "理论价值",
+      "text": "促进教育理论科学化。",
+      "keywords": [
+        "教育理论",
+        "科学化"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价（同卢梭的自然教育的评价）",
+        "1. 积极影响"
+      ],
+      "displayTitle": "（1）理论价值",
+      "outline": "（四）评价（同卢梭的自然教育的评价）"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-12",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "教育对象",
+      "text": "确立儿童在教育中的中心地位。",
+      "keywords": [
+        "儿童",
+        "中心地位"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价（同卢梭的自然教育的评价）",
+        "1. 积极影响"
+      ],
+      "displayTitle": "（2）教育对象",
+      "outline": "（四）评价（同卢梭的自然教育的评价）"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-13",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "教育实践",
+      "text": "促使教育实践变革。",
+      "keywords": [
+        "教育实践",
+        "变革"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价（同卢梭的自然教育的评价）",
+        "1. 积极影响"
+      ],
+      "displayTitle": "（3）教育实践",
+      "outline": "（四）评价（同卢梭的自然教育的评价）"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-14",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "历史影响",
+      "text": "反封建、反宗教，促进教育近代化。",
+      "keywords": [
+        "反封建",
+        "反宗教",
+        "近代化"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价（同卢梭的自然教育的评价）",
+        "1. 积极影响"
+      ],
+      "displayTitle": "（4）历史影响",
+      "outline": "（四）评价（同卢梭的自然教育的评价）"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-15",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "理论缺陷",
+      "text": "概念界定不清。",
+      "keywords": [
+        "概念",
+        "界定不清"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价（同卢梭的自然教育的评价）",
+        "2. 局限性"
+      ],
+      "displayTitle": "（1）理论缺陷",
+      "outline": "（四）评价（同卢梭的自然教育的评价）"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-16",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "实践弊病",
+      "text": "可行性很弱。",
+      "keywords": [
+        "可行性"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价（同卢梭的自然教育的评价）",
+        "2. 局限性"
+      ],
+      "displayTitle": "（2）实践弊病",
+      "outline": "（四）评价（同卢梭的自然教育的评价）"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-17",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "价值取向",
+      "text": "忽视教育的社会制约性。",
+      "keywords": [
+        "社会制约性"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价（同卢梭的自然教育的评价）",
+        "2. 局限性"
+      ],
+      "displayTitle": "（3）价值取向",
+      "outline": "（四）评价（同卢梭的自然教育的评价）"
+    },
+    {
+      "id": "foreign-reviewed-ch26-naturalism-18",
+      "knowledgeId": "foreign-reviewed-ch26-naturalism",
+      "title": "研究方法",
+      "text": "方法粗浅，结论缺乏严谨性。",
+      "keywords": [
+        "方法粗浅",
+        "严谨性"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价（同卢梭的自然教育的评价）",
+        "2. 局限性"
+      ],
+      "displayTitle": "（4）研究方法",
+      "outline": "（四）评价（同卢梭的自然教育的评价）"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-0",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "理论渊源1",
+      "text": "古希腊、古罗马哲学家的教育思想遗产。",
+      "keywords": [
+        "古希腊",
+        "古罗马",
+        "教育思想"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论渊源"
+      ],
+      "displayTitle": "1. 古代思想遗产",
+      "outline": "（一）理论渊源"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-1",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "理论渊源2",
+      "text": "自然主义教育思想。",
+      "keywords": [
+        "自然主义"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论渊源"
+      ],
+      "displayTitle": "2. 自然主义教育思想",
+      "outline": "（一）理论渊源"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-2",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "理论渊源3",
+      "text": "哲学和心理学理论。",
+      "keywords": [
+        "哲学",
+        "心理学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论渊源"
+      ],
+      "displayTitle": "3. 哲学与心理学",
+      "outline": "（一）理论渊源"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-3",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "开启阶段",
+      "text": "裴斯泰洛齐首次提出教育心理学化的概念，开启了教育心理学化的思潮。",
+      "keywords": [
+        "裴斯泰洛齐",
+        "教育心理学化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展阶段"
+      ],
+      "displayTitle": "1. 开启阶段",
+      "outline": "（二）发展阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-4",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "系统阶段",
+      "text": "赫尔巴特为教育心理学化奠定了理论基础，从而使教育心理学化思想系统化。",
+      "keywords": [
+        "赫尔巴特",
+        "理论基础",
+        "系统化"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展阶段"
+      ],
+      "displayTitle": "2. 系统阶段",
+      "outline": "（二）发展阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-5",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "深化阶段",
+      "text": "福禄培尔将心理学应用于幼儿教育中，使教育心理学化思潮进一步深化。",
+      "keywords": [
+        "福禄培尔",
+        "心理学",
+        "幼儿教育"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展阶段"
+      ],
+      "displayTitle": "3. 深化阶段",
+      "outline": "（二）发展阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-6",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "应用阶段",
+      "text": "第斯多惠使“教育适应自然”这一术语直接被“教育心理学化”所代替。",
+      "keywords": [
+        "第斯多惠",
+        "适应自然",
+        "心理学化"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）发展阶段"
+      ],
+      "displayTitle": "4. 应用阶段",
+      "outline": "（二）发展阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-7",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "总论",
+      "text": "教育要尊重儿童的身心发展规律与年龄特点，让心理学成为教育学的理论基础，促进教育学科学化发展。",
+      "keywords": [
+        "身心发展规律",
+        "年龄特点",
+        "理论基础"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "1. 总论",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-8",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "内容要求",
+      "text": "应当依据儿童心理特点来选择教育内容。",
+      "keywords": [
+        "心理特点",
+        "教育内容"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "2. 内容"
+      ],
+      "displayTitle": "选择依据",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-9",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "内容（1）",
+      "text": "选择学生可接受的内容。",
+      "keywords": [
+        "学生",
+        "可接受"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "2. 内容"
+      ],
+      "displayTitle": "（1）学生可接受的",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-10",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "内容（2）",
+      "text": "选择有趣的内容。",
+      "keywords": [
+        "有趣"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "2. 内容"
+      ],
+      "displayTitle": "（2）有趣的",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-11",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "组织（1）",
+      "text": "裴斯泰洛齐认为课程编制以各学科的基本要素为核心。",
+      "keywords": [
+        "裴斯泰洛齐",
+        "基本要素"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "3. 组织"
+      ],
+      "displayTitle": "（1）裴斯泰洛齐",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-12",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "组织（2）",
+      "text": "赫尔巴特认为课程设置以经验和兴趣为课程的分类依据。",
+      "keywords": [
+        "赫尔巴特",
+        "经验",
+        "兴趣"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "3. 组织"
+      ],
+      "displayTitle": "（2）赫尔巴特",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-13",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "组织（3）",
+      "text": "福禄培尔认为课程设置和教育内容主要以游戏、活动和作业为主。",
+      "keywords": [
+        "福禄培尔",
+        "游戏",
+        "活动",
+        "作业"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "3. 组织"
+      ],
+      "displayTitle": "（3）福禄培尔",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-14",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "组织（4）",
+      "text": "第斯多惠认为课程设置应遵循儿童天性，不能一味地灌输。",
+      "keywords": [
+        "第斯多惠",
+        "儿童天性",
+        "灌输"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "3. 组织"
+      ],
+      "displayTitle": "（4）第斯多惠",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-15",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "方法（1）",
+      "text": "裴斯泰洛齐在教学中采用要素教学法。",
+      "keywords": [
+        "裴斯泰洛齐",
+        "要素教学法"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "4. 方法"
+      ],
+      "displayTitle": "（1）裴斯泰洛齐",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-16",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "方法（2）",
+      "text": "赫尔巴特在教学中采用阶段教学法。",
+      "keywords": [
+        "赫尔巴特",
+        "阶段教学法"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "4. 方法"
+      ],
+      "displayTitle": "（2）赫尔巴特",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-17",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "方法（3）",
+      "text": "福禄培尔在教学中采用恩物、作业，以游戏的方式教学。",
+      "keywords": [
+        "福禄培尔",
+        "恩物",
+        "作业",
+        "游戏"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "4. 方法"
+      ],
+      "displayTitle": "（3）福禄培尔",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-18",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "方法（4）",
+      "text": "第斯多惠在教学中采用启发性教学法。",
+      "keywords": [
+        "第斯多惠",
+        "启发性"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "4. 方法"
+      ],
+      "displayTitle": "（4）第斯多惠",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-19",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "评价1",
+      "text": "教育心理学化思潮加强了教育和心理的联系。",
+      "keywords": [
+        "教育",
+        "心理",
+        "联系"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "1. 加强教育与心理联系",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-20",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "评价2",
+      "text": "教育心理学化思潮促进了教育理论科学化。",
+      "keywords": [
+        "教育理论",
+        "科学化"
+      ],
+      "order": 20,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "2. 促进理论科学化",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-psychologization-21",
+      "knowledgeId": "foreign-reviewed-ch26-psychologization",
+      "title": "评价3",
+      "text": "教育心理学化思潮提高了教师培训的质量。",
+      "keywords": [
+        "教师培训",
+        "质量"
+      ],
+      "order": 21,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "3. 提高教师培训质量",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-0",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "代表人物",
+      "text": "培根、斯宾塞等。",
+      "keywords": [
+        "培根",
+        "斯宾塞"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）代表人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-1",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "背景1",
+      "text": "传统教育缺乏实用性。",
+      "keywords": [
+        "传统教育",
+        "实用性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）时代背景"
+      ],
+      "displayTitle": "1. 传统教育",
+      "outline": "（二）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-2",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "背景2",
+      "text": "资本主义生产的发展。",
+      "keywords": [
+        "资本主义",
+        "生产发展"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）时代背景"
+      ],
+      "displayTitle": "2. 生产发展",
+      "outline": "（二）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-3",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "背景3",
+      "text": "科学兴起的文化思想环境。",
+      "keywords": [
+        "科学兴起",
+        "文化思想"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）时代背景"
+      ],
+      "displayTitle": "3. 文化思想环境",
+      "outline": "（二）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-4",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "背景4",
+      "text": "科学革命时代的到来。",
+      "keywords": [
+        "科学革命"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）时代背景"
+      ],
+      "displayTitle": "4. 科学革命",
+      "outline": "（二）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-5",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "批判旧教育",
+      "text": "批判古典教育和经院主义教育空疏无用、束缚思想。",
+      "keywords": [
+        "古典教育",
+        "经院主义",
+        "束缚思想"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "1. 批判旧教育",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-6",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "教育目的",
+      "text": "培养经世致用的科学人才和实用人才。",
+      "keywords": [
+        "经世致用",
+        "科学人才",
+        "实用人才"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "2. 教育目的",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-7",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "教育内容",
+      "text": "建立以科学知识为核心的课程体系。",
+      "keywords": [
+        "科学知识",
+        "课程体系"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "3. 教育内容",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-8",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "学校",
+      "text": "催生了实科中学、新大学运动、大学推广运动等新事物。",
+      "keywords": [
+        "实科中学",
+        "新大学运动",
+        "大学推广"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "4. 教育实践"
+      ],
+      "displayTitle": "（1）学校",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-9",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "方法",
+      "text": "推崇直观教学法、循序渐进教学法等实用有趣的方法。",
+      "keywords": [
+        "直观",
+        "循序渐进",
+        "实用有趣"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容",
+        "4. 教育实践"
+      ],
+      "displayTitle": "（2）方法",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-10",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "理论论争",
+      "text": "引发对古典教育和科学教育的大讨论。",
+      "keywords": [
+        "古典教育",
+        "科学教育",
+        "讨论"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）内容"
+      ],
+      "displayTitle": "5. 理论论争",
+      "outline": "（三）内容"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-11",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "经济与社会",
+      "text": "促进资本主义发展，顺应时代要求。",
+      "keywords": [
+        "资本主义",
+        "时代要求"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "1. 对经济与社会的影响",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-12",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "科学革命（1）",
+      "text": "自然科学知识获得空前增长。",
+      "keywords": [
+        "自然科学",
+        "知识增长"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 对科学革命的影响"
+      ],
+      "displayTitle": "（1）自然科学知识",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-13",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "科学革命（2）",
+      "text": "科学研究方法取得突破性进展。",
+      "keywords": [
+        "研究方法",
+        "突破"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 对科学革命的影响"
+      ],
+      "displayTitle": "（2）研究方法",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-14",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "科学革命（3）",
+      "text": "科学理性精神得以形成。",
+      "keywords": [
+        "科学理性精神"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "2. 对科学革命的影响"
+      ],
+      "displayTitle": "（3）理性精神",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-15",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "教育改革（1）",
+      "text": "完善课程设置和教学内容。",
+      "keywords": [
+        "课程设置",
+        "教学内容"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "3. 对教育改革的影响"
+      ],
+      "displayTitle": "（1）课程与内容",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-16",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "教育改革（2）",
+      "text": "推动欧美各国课程改革，促进教育理论与实践发展。",
+      "keywords": [
+        "欧美",
+        "课程改革",
+        "理论实践"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "3. 对教育改革的影响"
+      ],
+      "displayTitle": "（2）课程改革",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-scientific-17",
+      "knowledgeId": "foreign-reviewed-ch26-scientific",
+      "title": "教育改革（3）",
+      "text": "促进教育近代化、世俗化。",
+      "keywords": [
+        "近代化",
+        "世俗化"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价",
+        "3. 对教育改革的影响"
+      ],
+      "displayTitle": "（3）近代化与世俗化",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-0",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "代表人物",
+      "text": "法国拉夏洛泰、孔多塞，德国费希特等。",
+      "keywords": [
+        "拉夏洛泰",
+        "孔多塞",
+        "费希特"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）代表人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-1",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "背景1",
+      "text": "教会教育不再适应生产力的发展。",
+      "keywords": [
+        "教会教育",
+        "生产力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）时代背景"
+      ],
+      "displayTitle": "1. 生产力发展",
+      "outline": "（二）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-2",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "背景2",
+      "text": "封建教育不再适应社会政治的变革。",
+      "keywords": [
+        "封建教育",
+        "社会政治"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）时代背景"
+      ],
+      "displayTitle": "2. 社会政治变革",
+      "outline": "（二）时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-3",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "观点1",
+      "text": "强调教育的社会功能。",
+      "keywords": [
+        "社会功能"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点"
+      ],
+      "displayTitle": "1. 社会功能",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-4",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "观点2",
+      "text": "强调培养国家公民。",
+      "keywords": [
+        "国家公民"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点"
+      ],
+      "displayTitle": "2. 国家公民",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-5",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "观点3",
+      "text": "主张普及教育和免费教育。",
+      "keywords": [
+        "普及教育",
+        "免费教育"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点"
+      ],
+      "displayTitle": "3. 普及与免费教育",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-6",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "观点4",
+      "text": "提倡国家开办和管理教育。",
+      "keywords": [
+        "国家",
+        "开办",
+        "管理"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点"
+      ],
+      "displayTitle": "4. 国家办学与管理",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-7",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "观点5",
+      "text": "主张教育要有公平、公正的基本原则。",
+      "keywords": [
+        "公平",
+        "公正"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）观点"
+      ],
+      "displayTitle": "5. 公平公正",
+      "outline": "（三）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-8",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "评价1",
+      "text": "推动教育国家化。",
+      "keywords": [
+        "教育国家化"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "1. 教育国家化",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-9",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "评价2",
+      "text": "建立国民教育制度。",
+      "keywords": [
+        "国民教育制度"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "2. 国民教育制度",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-nationalism-10",
+      "knowledgeId": "foreign-reviewed-ch26-nationalism",
+      "title": "评价3",
+      "text": "建立教育行政体制。",
+      "keywords": [
+        "教育行政体制"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）评价"
+      ],
+      "displayTitle": "3. 教育行政体制",
+      "outline": "（四）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-0",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "简介",
+      "text": "“新教育运动”亦称“新学校运动”。这场教育改革运动于19世纪末20世纪初在欧洲兴起，以乡村私立新学校为“实验室”。",
+      "keywords": [
+        "新学校运动",
+        "欧洲",
+        "乡村私立学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-1",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "兴起",
+      "text": "英国雷迪建立阿博茨霍尔姆学校。",
+      "keywords": [
+        "雷迪",
+        "阿博茨霍尔姆"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展"
+      ],
+      "displayTitle": "1. 兴起",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-2",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "成型",
+      "text": "协会有“国际新学校局”“新教育联谊会”；杂志为《新时代的教育》。",
+      "keywords": [
+        "国际新学校局",
+        "新教育联谊会",
+        "新时代的教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展"
+      ],
+      "displayTitle": "2. 成型",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-3",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "发展",
+      "text": "以儿童中心为目标，提出“七项原则”。",
+      "keywords": [
+        "儿童中心",
+        "七项原则"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展"
+      ],
+      "displayTitle": "3. 发展",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-4",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "衰落",
+      "text": "“新教育联谊会”改名为“世界教育联谊会”，标志着结束。",
+      "keywords": [
+        "世界教育联谊会",
+        "结束"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展"
+      ],
+      "displayTitle": "4. 衰落",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-5",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "实验1",
+      "text": "英国雷迪的阿博茨霍尔姆学校，被誉为欧洲新学校的“典范”。",
+      "keywords": [
+        "英国",
+        "雷迪",
+        "典范"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "1. 阿博茨霍尔姆学校",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-6",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "实验2",
+      "text": "英国尼尔的夏山学校（萨默希尔学校）。",
+      "keywords": [
+        "英国",
+        "尼尔",
+        "夏山",
+        "萨默希尔"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "2. 夏山学校",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-7",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "实验3",
+      "text": "法国德莫林的罗歇斯学校（“运动学校”）。",
+      "keywords": [
+        "法国",
+        "德莫林",
+        "罗歇斯"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "3. 罗歇斯学校",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-8",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "实验4",
+      "text": "德国利茨的乡村教育之家。",
+      "keywords": [
+        "德国",
+        "利茨",
+        "乡村教育之家"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "4. 乡村教育之家",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-9",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "理论1",
+      "text": "德国梅伊曼、拉伊的实验教育学；凯兴斯泰纳的“公民教育”与“劳作学校”。",
+      "keywords": [
+        "梅伊曼",
+        "拉伊",
+        "凯兴斯泰纳"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "理论"
+      ],
+      "displayTitle": "1. 德国",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-overview-10",
+      "knowledgeId": "foreign-reviewed-ch26-new-overview",
+      "title": "理论2",
+      "text": "意大利蒙台梭利的“儿童之家”（详见第十三章第七节）。",
+      "keywords": [
+        "意大利",
+        "蒙台梭利",
+        "儿童之家"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "理论"
+      ],
+      "displayTitle": "2. 意大利",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-0",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "简介",
+      "text": "19世纪末到20世纪50年代，美国进行了进步教育运动。它的性质虽与欧洲新教育思潮相似，但主要以城市公立学校为“实验室”。",
+      "keywords": [
+        "美国",
+        "20世纪50年代",
+        "城市公立学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-1",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "兴起",
+      "text": "帕克的昆西教学法是第一个；另有杜威的芝加哥实验学校等。",
+      "keywords": [
+        "帕克",
+        "昆西教学法",
+        "杜威",
+        "芝加哥"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展"
+      ],
+      "displayTitle": "1. 兴起",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-2",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "成型",
+      "text": "协会为“进步教育协会”；杂志为《进步教育》；中心为哥伦比亚大学师范学院。",
+      "keywords": [
+        "进步教育协会",
+        "进步教育",
+        "哥伦比亚"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展"
+      ],
+      "displayTitle": "2. 成型",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-3",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "转向①",
+      "text": "发生转向：个人自由转向社会职能，初等教育转向中等教育。",
+      "keywords": [
+        "个人自由",
+        "社会职能",
+        "初等",
+        "中等"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展",
+        "3. 转折"
+      ],
+      "displayTitle": "①发生转向",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-4",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "转折②",
+      "text": "分裂阵营：“儿童中心”“社会中心”。",
+      "keywords": [
+        "儿童中心",
+        "社会中心"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展",
+        "3. 转折"
+      ],
+      "displayTitle": "②分裂阵营",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-5",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "转折③",
+      "text": "受到攻击：新保守主义针对放纵儿童这一点进行攻击。",
+      "keywords": [
+        "新保守主义",
+        "放纵儿童"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展",
+        "3. 转折"
+      ],
+      "displayTitle": "③受到攻击",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-6",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "衰落",
+      "text": "“进步教育协会”改名为“美国教育联谊会”；《进步教育》杂志停办，标志着结束。",
+      "keywords": [
+        "美国教育联谊会",
+        "停办",
+        "结束"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "形成发展"
+      ],
+      "displayTitle": "4. 衰落",
+      "outline": "形成发展"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-7",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "实验1",
+      "text": "帕克：昆西教学法。",
+      "keywords": [
+        "帕克",
+        "昆西教学法"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "1. 昆西教学法",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-8",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "实验2",
+      "text": "约翰逊：有机教育学校。",
+      "keywords": [
+        "约翰逊",
+        "有机教育学校"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "2. 有机教育学校",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-9",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "实验3",
+      "text": "沃特：葛雷制。",
+      "keywords": [
+        "沃特",
+        "葛雷制"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "3. 葛雷制",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-10",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "实验4",
+      "text": "华虚朋：文纳特卡计划。",
+      "keywords": [
+        "华虚朋",
+        "文纳特卡计划"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "4. 文纳特卡计划",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-11",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "实验5",
+      "text": "帕克赫斯特：道尔顿制。",
+      "keywords": [
+        "帕克赫斯特",
+        "道尔顿制"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "5. 道尔顿制",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-12",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "实验6",
+      "text": "克伯屈：设计教学法。",
+      "keywords": [
+        "克伯屈",
+        "设计教学法"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论",
+        "实验"
+      ],
+      "displayTitle": "6. 设计教学法",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-progressive-overview-13",
+      "knowledgeId": "foreign-reviewed-ch26-progressive-overview",
+      "title": "理论",
+      "text": "依据杜威的实用主义教育思想。",
+      "keywords": [
+        "杜威",
+        "实用主义"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "著名实验和理论"
+      ],
+      "displayTitle": "理论",
+      "outline": "著名实验和理论"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-experiments-0",
+      "knowledgeId": "foreign-reviewed-ch26-new-experiments",
+      "title": "英国雷迪",
+      "text": "雷迪被称为“新教育之父”，创办了阿博茨霍尔姆学校（欧洲第一所新学校），该学校被誉为欧洲“新学校”的典范。",
+      "keywords": [
+        "雷迪",
+        "新教育之父",
+        "欧洲第一所"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "英国——雷迪"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-experiments-1",
+      "knowledgeId": "foreign-reviewed-ch26-new-experiments",
+      "title": "英国尼尔",
+      "text": "夏山学校也叫萨默希尔学校，被称为“最富人性化的快乐学校”，倡导自由。",
+      "keywords": [
+        "尼尔",
+        "夏山",
+        "萨默希尔",
+        "自由"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "英国——尼尔"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-experiments-2",
+      "knowledgeId": "foreign-reviewed-ch26-new-experiments",
+      "title": "德国利茨",
+      "text": "利茨是“乡村之家运动”的奠基人，开办了乡村教育之家，该学校是德国第一所新式学校。",
+      "keywords": [
+        "利茨",
+        "乡村之家运动",
+        "德国第一所"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "德国——利茨"
+    },
+    {
+      "id": "foreign-reviewed-ch26-new-experiments-3",
+      "knowledgeId": "foreign-reviewed-ch26-new-experiments",
+      "title": "法国德莫林",
+      "text": "罗歇斯学校（“运动学校”）是法国第一所新学校，重视体育、师生家庭式亲密关系。",
+      "keywords": [
+        "德莫林",
+        "罗歇斯",
+        "运动学校",
+        "体育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "法国——德莫林"
+    },
+    {
+      "id": "foreign-reviewed-ch26-experimental-pedagogy-0",
+      "knowledgeId": "foreign-reviewed-ch26-experimental-pedagogy",
+      "title": "代表人物",
+      "text": "德国梅伊曼、拉伊：实验教育学。",
+      "keywords": [
+        "德国",
+        "梅伊曼",
+        "拉伊"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "代表人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-experimental-pedagogy-1",
+      "knowledgeId": "foreign-reviewed-ch26-experimental-pedagogy",
+      "title": "特点1",
+      "text": "反对思辨的研究方法。",
+      "keywords": [
+        "思辨",
+        "研究方法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点"
+      ],
+      "displayTitle": "1. 反对思辨",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-experimental-pedagogy-2",
+      "knowledgeId": "foreign-reviewed-ch26-experimental-pedagogy",
+      "title": "特点2",
+      "text": "主张量化、统计和实验的研究方法。",
+      "keywords": [
+        "量化",
+        "统计",
+        "实验"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点"
+      ],
+      "displayTitle": "2. 量化、统计与实验",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-0",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "简介",
+      "text": "凯兴斯泰纳倡导“公民教育”“劳作学校”，引起劳作教育思潮；著作有《德国青年的公民教育》《公民教育要义》。",
+      "keywords": [
+        "凯兴斯泰纳",
+        "公民教育",
+        "劳作学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-1",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "教育目的",
+      "text": "以公民教育为教育目的：“有用的国家公民”具有知识、能力、品质三品。",
+      "keywords": [
+        "公民教育",
+        "目的",
+        "知识",
+        "能力",
+        "品质"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点",
+        "1. 以公民教育为教育目的"
+      ],
+      "displayTitle": "三品",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-2",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "公民（1）",
+      "text": "关于国家的任务的知识（知识）。",
+      "keywords": [
+        "国家任务",
+        "知识"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点",
+        "1. 以公民教育为教育目的"
+      ],
+      "displayTitle": "（1）知识",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-3",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "公民（2）",
+      "text": "为国家服务的能力（能力）。",
+      "keywords": [
+        "国家服务",
+        "能力"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点",
+        "1. 以公民教育为教育目的"
+      ],
+      "displayTitle": "（2）能力",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-4",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "公民（3）",
+      "text": "为国家效力的热情（品质）。",
+      "keywords": [
+        "国家效力",
+        "热情",
+        "品质"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点",
+        "1. 以公民教育为教育目的"
+      ],
+      "displayTitle": "（3）品质",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-5",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "职业教育",
+      "text": "以职业教育为教育手段。",
+      "keywords": [
+        "职业教育",
+        "手段"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点"
+      ],
+      "displayTitle": "2. 以职业教育为教育手段",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-6",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "劳作学校",
+      "text": "以劳作学校为教育机构。",
+      "keywords": [
+        "劳作学校",
+        "教育机构"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点",
+        "3. 以劳作学校为教育机构"
+      ],
+      "displayTitle": "教育机构",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-7",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "学校（1）",
+      "text": "“职业陶冶的准备”：帮助学生担任一种工作或职务。",
+      "keywords": [
+        "职业陶冶",
+        "工作",
+        "职务"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点",
+        "3. 以劳作学校为教育机构"
+      ],
+      "displayTitle": "（1）职业陶冶的准备",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-8",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "学校（2）",
+      "text": "“职业陶冶的伦理化”：有职业道德。",
+      "keywords": [
+        "职业道德",
+        "伦理化"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点",
+        "3. 以劳作学校为教育机构"
+      ],
+      "displayTitle": "（2）职业陶冶的伦理化",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-9",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "学校（3）",
+      "text": "“团体的伦理化”：合作和团结的精神。",
+      "keywords": [
+        "团体",
+        "合作",
+        "团结"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点",
+        "3. 以劳作学校为教育机构"
+      ],
+      "displayTitle": "（3）团体的伦理化",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-10",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "三者关系",
+      "text": "强调公民教育、职业教育和劳作学校的关系是目的、手段与机构的关系。",
+      "keywords": [
+        "公民教育",
+        "职业教育",
+        "劳作学校",
+        "目的",
+        "手段",
+        "机构"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点"
+      ],
+      "displayTitle": "4. 三者关系",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-kerschensteiner-11",
+      "knowledgeId": "foreign-reviewed-ch26-kerschensteiner",
+      "title": "宗旨",
+      "text": "让学生在自动的、创造性的劳动活动中得到性格的陶冶。",
+      "keywords": [
+        "自动",
+        "创造性",
+        "劳动",
+        "性格陶冶"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "特点"
+      ],
+      "displayTitle": "5. 宗旨",
+      "outline": "特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-montessori-mention-0",
+      "knowledgeId": "foreign-reviewed-ch26-montessori-mention",
+      "title": "蒙台梭利",
+      "text": "意大利蒙台梭利是幼儿教育家；原书提示第十三章已讲解。",
+      "keywords": [
+        "意大利",
+        "蒙台梭利",
+        "幼儿教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "蒙台梭利"
+    },
+    {
+      "id": "foreign-reviewed-ch26-quincy-0",
+      "knowledgeId": "foreign-reviewed-ch26-quincy",
+      "title": "简介",
+      "text": "昆西教学法的创始人帕克是美国进步教育运动的先驱，第一个用进步教育思想改革学校的人；代表作为《关于教学的谈话》。杜威称帕克是“进步教育之父”。",
+      "keywords": [
+        "帕克",
+        "昆西教学法",
+        "关于教学的谈话",
+        "进步教育之父"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-quincy-1",
+      "knowledgeId": "foreign-reviewed-ch26-quincy",
+      "title": "特点（1）",
+      "text": "强调儿童应处于学校教育的中心。",
+      "keywords": [
+        "儿童",
+        "中心"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（1）儿童中心",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-quincy-2",
+      "knowledgeId": "foreign-reviewed-ch26-quincy",
+      "title": "特点（2）",
+      "text": "重视学校的社会功能。",
+      "keywords": [
+        "学校",
+        "社会功能"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（2）社会功能",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-quincy-3",
+      "knowledgeId": "foreign-reviewed-ch26-quincy",
+      "title": "特点（3）",
+      "text": "主张学校课程应尽可能与实践活动相联系。",
+      "keywords": [
+        "课程",
+        "实践活动"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（3）课程联系实践",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-quincy-4",
+      "knowledgeId": "foreign-reviewed-ch26-quincy",
+      "title": "特点（4）",
+      "text": "强调培养儿童的自我探索和创造的精神。",
+      "keywords": [
+        "自我探索",
+        "创造精神"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（4）探索与创造",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school-0",
+      "knowledgeId": "foreign-reviewed-ch26-organic-school",
+      "title": "简介",
+      "text": "约翰逊是美国教育家、进步教育协会的创始人之一，创办了费尔霍普学校，以“有机教育学校”闻名。杜威把约翰逊的教育实验称作“教育即自然发展的一个实验”。",
+      "keywords": [
+        "约翰逊",
+        "费尔霍普",
+        "有机教育学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school-1",
+      "knowledgeId": "foreign-reviewed-ch26-organic-school",
+      "title": "教育方法",
+      "text": "采用“有机的”方法，源于卢梭的自然主义教育思想；“有机”就是遵循学生的自然生长。",
+      "keywords": [
+        "有机",
+        "卢梭",
+        "自然生长"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（1）教育方法",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school-2",
+      "knowledgeId": "foreign-reviewed-ch26-organic-school",
+      "title": "教育目的",
+      "text": "发展人的整体功能，而不是以获得知识的分量来作为教育目标。",
+      "keywords": [
+        "整体功能",
+        "知识分量"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（2）教育目的",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school-3",
+      "knowledgeId": "foreign-reviewed-ch26-organic-school",
+      "title": "教育任务",
+      "text": "为儿童提供有助于发展的作业和活动，建立“生活班”。",
+      "keywords": [
+        "作业",
+        "活动",
+        "生活班"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（3）教育任务",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school-4",
+      "knowledgeId": "foreign-reviewed-ch26-organic-school",
+      "title": "课程实施",
+      "text": "以活动为主，取消强迫的作业、指定的课文和通常的考试。",
+      "keywords": [
+        "活动",
+        "取消强迫作业",
+        "考试"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（4）课程实施",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school-5",
+      "knowledgeId": "foreign-reviewed-ch26-organic-school",
+      "title": "道德教育",
+      "text": "培养社会意识，培养学生无私、坦率、合作等品质。",
+      "keywords": [
+        "社会意识",
+        "无私",
+        "坦率",
+        "合作"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（5）道德教育",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school-6",
+      "knowledgeId": "foreign-reviewed-ch26-organic-school",
+      "title": "学校管理",
+      "text": "约翰逊反对放纵儿童，重视纪律。",
+      "keywords": [
+        "反对放纵",
+        "纪律"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（6）学校管理",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-organic-school-7",
+      "knowledgeId": "foreign-reviewed-ch26-organic-school",
+      "title": "评价",
+      "text": "有机教育学校里儿童中心的色彩非常浓厚。",
+      "keywords": [
+        "儿童中心"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-0",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "简介",
+      "text": "葛雷制亦称“双校制”“二部制”或“分团学制”，由沃特创办；他把葛雷学校称作“工读游乐学校”。",
+      "keywords": [
+        "葛雷制",
+        "双校制",
+        "二部制",
+        "分团学制",
+        "沃特"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-1",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "理论基础",
+      "text": "杜威的教育思想：“教育即生活”“学校即社会”和“从做中学”。",
+      "keywords": [
+        "杜威",
+        "生活",
+        "社会",
+        "从做中学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（1）理论基础",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-2",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "课程改革",
+      "text": "以具有社会性质的作业为学校的基本课程。",
+      "keywords": [
+        "社会性质",
+        "作业",
+        "基本课程"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程改革"
+      ],
+      "displayTitle": "基本课程",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-3",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "体育运动场",
+      "text": "学校的体育运动场，对应课程的体育和游戏。",
+      "keywords": [
+        "体育运动场",
+        "体育",
+        "游戏"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程改革",
+        "学校四个部分与课程四个方面"
+      ],
+      "displayTitle": "体育运动场 → 体育和游戏",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-4",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "教室",
+      "text": "学校的教室，对应课程的学术工作和科学。",
+      "keywords": [
+        "教室",
+        "学术工作",
+        "科学"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程改革",
+        "学校四个部分与课程四个方面"
+      ],
+      "displayTitle": "教室 → 学术工作和科学",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-5",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "工厂和商店",
+      "text": "学校的工厂和商店，对应课程的工艺和家政。",
+      "keywords": [
+        "工厂",
+        "商店",
+        "工艺",
+        "家政"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程改革",
+        "学校四个部分与课程四个方面"
+      ],
+      "displayTitle": "工厂和商店 → 工艺和家政",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-6",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "礼堂",
+      "text": "学校的礼堂，对应课程的团体活动。",
+      "keywords": [
+        "礼堂",
+        "团体活动"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程改革",
+        "学校四个部分与课程四个方面"
+      ],
+      "displayTitle": "礼堂 → 团体活动",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-7",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "教学制度",
+      "text": "采用二重编法：将全校学生一分为二，一部分在教室上课，另一部分在体育运动场、工厂和商店、礼堂等场所活动，上下午对调。",
+      "keywords": [
+        "二重编法",
+        "一分为二",
+        "上下午对调"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（3）教学制度",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-gary-8",
+      "knowledgeId": "foreign-reviewed-ch26-gary",
+      "title": "评价",
+      "text": "葛雷制曾被认为是“美国进步教育运动中最卓越的例子”。",
+      "keywords": [
+        "进步教育",
+        "最卓越"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-winnetka-0",
+      "knowledgeId": "foreign-reviewed-ch26-winnetka",
+      "title": "简介",
+      "text": "文纳特卡计划是美国教育家华虚朋推行的教育实验计划。",
+      "keywords": [
+        "文纳特卡",
+        "华虚朋"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-winnetka-1",
+      "knowledgeId": "foreign-reviewed-ch26-winnetka",
+      "title": "办学宗旨",
+      "text": "注重儿童个别差异。",
+      "keywords": [
+        "儿童",
+        "个别差异"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（1）办学宗旨",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-winnetka-2",
+      "knowledgeId": "foreign-reviewed-ch26-winnetka",
+      "title": "课程设置",
+      "text": "两种课程为共同知识或技能，以及创造性兼社会性的作业。",
+      "keywords": [
+        "共同知识",
+        "技能",
+        "创造性",
+        "社会性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程设置"
+      ],
+      "displayTitle": "两种课程",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-winnetka-3",
+      "knowledgeId": "foreign-reviewed-ch26-winnetka",
+      "title": "共同知识或技能",
+      "text": "采用个别学习：按学科进行，学生自学，教师个别辅导，有确定程序，考试。",
+      "keywords": [
+        "个别学习",
+        "学科",
+        "自学",
+        "个别辅导",
+        "考试"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程设置",
+        "两种课程、两种方式与具体表现"
+      ],
+      "displayTitle": "共同知识或技能",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-winnetka-4",
+      "knowledgeId": "foreign-reviewed-ch26-winnetka",
+      "title": "创造性兼社会性的作业",
+      "text": "采用小组学习：按活动进行，小组活动，教师适当指导，无确定程序，不考试。",
+      "keywords": [
+        "小组学习",
+        "活动",
+        "适当指导",
+        "不考试"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程设置",
+        "两种课程、两种方式与具体表现"
+      ],
+      "displayTitle": "创造性兼社会性的作业",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-winnetka-5",
+      "knowledgeId": "foreign-reviewed-ch26-winnetka",
+      "title": "教学方式",
+      "text": "个别学习和小组学习相结合。",
+      "keywords": [
+        "个别学习",
+        "小组学习"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（3）教学方式",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-winnetka-6",
+      "knowledgeId": "foreign-reviewed-ch26-winnetka",
+      "title": "评价",
+      "text": "该方法传播迅速，影响力大。",
+      "keywords": [
+        "传播迅速",
+        "影响力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-dalton-0",
+      "knowledgeId": "foreign-reviewed-ch26-dalton",
+      "title": "简介",
+      "text": "帕克赫斯特针对班级授课制的弊病，提出一种个别教学制度，即道尔顿制。",
+      "keywords": [
+        "帕克赫斯特",
+        "班级授课制",
+        "个别教学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-dalton-1",
+      "knowledgeId": "foreign-reviewed-ch26-dalton",
+      "title": "公约式",
+      "text": "废除传统教学制度，代之以“公约”或“合同式”的学习。",
+      "keywords": [
+        "公约",
+        "合同式"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（1）公约式",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-dalton-2",
+      "knowledgeId": "foreign-reviewed-ch26-dalton",
+      "title": "作业室或实验室",
+      "text": "将教室改为各科作业室或实验室，供学生使用。",
+      "keywords": [
+        "各科",
+        "作业室",
+        "实验室"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（2）作业室或实验室",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-dalton-3",
+      "knowledgeId": "foreign-reviewed-ch26-dalton",
+      "title": "表格法",
+      "text": "用“表格法”了解学生学习的进度。",
+      "keywords": [
+        "表格法",
+        "进度"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（3）表格法",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-dalton-4",
+      "knowledgeId": "foreign-reviewed-ch26-dalton",
+      "title": "自由与合作",
+      "text": "自由与合作是帕克赫斯特倡导的两大原则。",
+      "keywords": [
+        "自由",
+        "合作"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（4）自由与合作",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-dalton-5",
+      "knowledgeId": "foreign-reviewed-ch26-dalton",
+      "title": "评价",
+      "text": "道尔顿制在很多国家流行，产生较大影响。",
+      "keywords": [
+        "国家",
+        "流行",
+        "影响"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-0",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "简介",
+      "text": "美国教育家克伯屈被誉为“设计教学法之父”。",
+      "keywords": [
+        "克伯屈",
+        "设计教学法之父"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-1",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "内涵",
+      "text": "有目的的活动是设计教学法的核心，学生自发自动的学习是设计教学法的本质。",
+      "keywords": [
+        "有目的的活动",
+        "自发自动",
+        "核心",
+        "本质"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（1）内涵",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-2",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "生产者设计",
+      "text": "课程设计类型之一是生产者设计。",
+      "keywords": [
+        "生产者设计"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程设计四类型"
+      ],
+      "displayTitle": "生产者设计",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-3",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "消费者设计",
+      "text": "课程设计类型之一是消费者设计。",
+      "keywords": [
+        "消费者设计"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程设计四类型"
+      ],
+      "displayTitle": "消费者设计",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-4",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "问题设计",
+      "text": "课程设计类型之一是问题设计。",
+      "keywords": [
+        "问题设计"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程设计四类型"
+      ],
+      "displayTitle": "问题设计",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-5",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "练习设计",
+      "text": "课程设计类型之一是练习设计。",
+      "keywords": [
+        "练习设计"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（2）课程设计四类型"
+      ],
+      "displayTitle": "练习设计",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-6",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "决定目的",
+      "text": "教学过程第一步：决定目的。",
+      "keywords": [
+        "决定目的"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（3）教学过程四步骤"
+      ],
+      "displayTitle": "决定目的",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-7",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "制订计划",
+      "text": "教学过程第二步：制订计划。",
+      "keywords": [
+        "制订计划"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（3）教学过程四步骤"
+      ],
+      "displayTitle": "制订计划",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-8",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "实施计划",
+      "text": "教学过程第三步：实施计划。",
+      "keywords": [
+        "实施计划"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（3）教学过程四步骤"
+      ],
+      "displayTitle": "实施计划",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-9",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "评判结果",
+      "text": "教学过程第四步：评判结果。",
+      "keywords": [
+        "评判结果"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点",
+        "（3）教学过程四步骤"
+      ],
+      "displayTitle": "评判结果",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-10",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "师生关系",
+      "text": "强调教师的指导和决定作用，但实际上则是以学生为主。",
+      "keywords": [
+        "教师",
+        "指导",
+        "决定",
+        "学生为主"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "2. 特点"
+      ],
+      "displayTitle": "（4）师生关系",
+      "outline": "2. 特点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-11",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "优点",
+      "text": "充分尊重和发挥了儿童的主动性，并广泛传播。",
+      "keywords": [
+        "儿童",
+        "主动性",
+        "传播"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（1）优点",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-project-method-12",
+      "knowledgeId": "foreign-reviewed-ch26-project-method",
+      "title": "缺点",
+      "text": "削弱系统知识，导致教育质量下降。",
+      "keywords": [
+        "系统知识",
+        "教育质量下降"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "3. 评价"
+      ],
+      "displayTitle": "（2）缺点",
+      "outline": "3. 评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-0",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "新教育1",
+      "text": "乡村私立办学，寄宿制，环境优美。",
+      "keywords": [
+        "乡村",
+        "私立",
+        "寄宿制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "新教育运动"
+      ],
+      "displayTitle": "1. 办学形式",
+      "outline": "新教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-1",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "新教育2",
+      "text": "更温和、理性。",
+      "keywords": [
+        "温和",
+        "理性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "新教育运动"
+      ],
+      "displayTitle": "2. 态度",
+      "outline": "新教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-2",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "新教育3",
+      "text": "重视学校管理和自治。",
+      "keywords": [
+        "学校管理",
+        "自治"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "新教育运动"
+      ],
+      "displayTitle": "3. 管理与自治",
+      "outline": "新教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-3",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "新教育4",
+      "text": "一些学校持续时间长。",
+      "keywords": [
+        "学校",
+        "持续时间"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "新教育运动"
+      ],
+      "displayTitle": "4. 持续时间",
+      "outline": "新教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-4",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "新教育5",
+      "text": "理论基础多元化，缺乏统一性。",
+      "keywords": [
+        "理论基础",
+        "多元化",
+        "统一性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "新教育运动"
+      ],
+      "displayTitle": "5. 理论基础",
+      "outline": "新教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-5",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "新教育6",
+      "text": "影响力主要在欧洲。",
+      "keywords": [
+        "欧洲",
+        "影响力"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "新教育运动"
+      ],
+      "displayTitle": "6. 影响范围",
+      "outline": "新教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-6",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "新教育7",
+      "text": "新教育是一种精英教育。",
+      "keywords": [
+        "精英教育"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "新教育运动"
+      ],
+      "displayTitle": "7. 教育性质",
+      "outline": "新教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-7",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "进步教育1",
+      "text": "在城市公立学校中进行。",
+      "keywords": [
+        "城市",
+        "公立学校"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "进步教育运动"
+      ],
+      "displayTitle": "1. 办学形式",
+      "outline": "进步教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-8",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "进步教育2",
+      "text": "更激进、彻底，批判性更强。",
+      "keywords": [
+        "激进",
+        "彻底",
+        "批判性"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "进步教育运动"
+      ],
+      "displayTitle": "2. 态度",
+      "outline": "进步教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-9",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "进步教育3",
+      "text": "更重视儿童的生活经验和做中学，注重教育民主化。",
+      "keywords": [
+        "生活经验",
+        "做中学",
+        "民主化"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "进步教育运动"
+      ],
+      "displayTitle": "3. 生活经验与民主化",
+      "outline": "进步教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-10",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "进步教育4",
+      "text": "20世纪50年代后实验学校都关闭了。",
+      "keywords": [
+        "20世纪50年代",
+        "实验学校"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "进步教育运动"
+      ],
+      "displayTitle": "4. 持续时间",
+      "outline": "进步教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-11",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "进步教育5",
+      "text": "主要以杜威的实用主义教育学为理论基础，强调个性、自由与实践。",
+      "keywords": [
+        "杜威",
+        "实用主义",
+        "个性",
+        "自由",
+        "实践"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "进步教育运动"
+      ],
+      "displayTitle": "5. 理论基础",
+      "outline": "进步教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-12",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "进步教育6",
+      "text": "在美国甚至整个世界都有深远的影响。",
+      "keywords": [
+        "美国",
+        "世界",
+        "深远影响"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "进步教育运动"
+      ],
+      "displayTitle": "6. 影响范围",
+      "outline": "进步教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-differences-13",
+      "knowledgeId": "foreign-reviewed-ch26-movement-differences",
+      "title": "进步教育7",
+      "text": "进步教育是一种大众教育。",
+      "keywords": [
+        "大众教育"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "进步教育运动"
+      ],
+      "displayTitle": "7. 教育性质",
+      "outline": "进步教育运动"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-0",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "经济发达",
+      "text": "欧美经济发达，科技广泛使用，促使整个社会生活发生重大变化。",
+      "keywords": [
+        "欧美经济",
+        "科技",
+        "社会生活"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "时代背景"
+      ],
+      "displayTitle": "1. 经济发达",
+      "outline": "时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-1",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "政治进步",
+      "text": "欧洲新教育运动和美国进步教育运动是社会进步改革的重要组成部分。",
+      "keywords": [
+        "社会进步",
+        "改革"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "时代背景"
+      ],
+      "displayTitle": "2. 政治进步",
+      "outline": "时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-2",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "科学发展",
+      "text": "科技的发展，尤其是实验心理学发展，为教育改革提供科学依据，力图建立“科学的教育学”。",
+      "keywords": [
+        "实验心理学",
+        "科学依据",
+        "科学的教育学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "时代背景"
+      ],
+      "displayTitle": "3. 科学发展",
+      "outline": "时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-3",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "教育批判",
+      "text": "抨击传统教育，关注教育质量；欧美义务教育的普及，开始重视儿童的主体地位。",
+      "keywords": [
+        "传统教育",
+        "教育质量",
+        "义务教育",
+        "主体地位"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "时代背景"
+      ],
+      "displayTitle": "4. 教育批判",
+      "outline": "时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-4",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "卢梭渊源",
+      "text": "卢梭的自然教育思想成为当时教育革新运动的主要思想渊源，社会普遍重视研究儿童的特性。",
+      "keywords": [
+        "卢梭",
+        "自然教育",
+        "儿童特性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "时代背景"
+      ],
+      "displayTitle": "5. 卢梭渊源",
+      "outline": "时代背景"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-5",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "教育研究科学化",
+      "text": "重视儿童研究和教育调查，力图使教育研究科学化；如运用比较和测量等方法，定性研究与定量研究结合，思辨与经验结合。",
+      "keywords": [
+        "儿童研究",
+        "教育调查",
+        "定性",
+        "定量",
+        "思辨",
+        "经验"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "共同观点"
+      ],
+      "displayTitle": "1. 教育研究科学化",
+      "outline": "共同观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-6",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "教育目的学生化",
+      "text": "重视学生在教育过程中的主体地位，重在培养学生的自由精神、观察与合作能力、审美能力和独创精神等。",
+      "keywords": [
+        "主体地位",
+        "自由精神",
+        "合作",
+        "审美",
+        "独创"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "共同观点"
+      ],
+      "displayTitle": "2. 教育目的学生化",
+      "outline": "共同观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-7",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "教学内容经验化",
+      "text": "进步教育重视学生的直接经验，以活动课程为主，要求学生从做中学。",
+      "keywords": [
+        "直接经验",
+        "活动课程",
+        "从做中学"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "共同观点"
+      ],
+      "displayTitle": "3. 教学内容经验化",
+      "outline": "共同观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-8",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "教学方法探究化",
+      "text": "进步教育反对体罚，重视儿童兴趣、需要和生活，在自学中促进其思维能力的发展。",
+      "keywords": [
+        "反对体罚",
+        "兴趣",
+        "需要",
+        "生活",
+        "自学"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "共同观点"
+      ],
+      "displayTitle": "4. 教学方法探究化",
+      "outline": "共同观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-9",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "道德教育民主化",
+      "text": "向儿童灌输民主、合作的观念，培养儿童的责任心和进取心。",
+      "keywords": [
+        "民主",
+        "合作",
+        "责任心",
+        "进取心"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "共同观点"
+      ],
+      "displayTitle": "5. 道德教育民主化",
+      "outline": "共同观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-10",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "改革措施1",
+      "text": "都开办新式学校、采用新式教学法进行教育实验。",
+      "keywords": [
+        "新式学校",
+        "新式教学法",
+        "实验"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "改革措施"
+      ],
+      "displayTitle": "1. 学校与实验",
+      "outline": "改革措施"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-similarities-11",
+      "knowledgeId": "foreign-reviewed-ch26-movement-similarities",
+      "title": "改革措施2",
+      "text": "都通过成立协会、办杂志来宣传。",
+      "keywords": [
+        "协会",
+        "杂志",
+        "宣传"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "改革措施"
+      ],
+      "displayTitle": "2. 协会与杂志",
+      "outline": "改革措施"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-0",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "积极1",
+      "text": "批判传统教育，创办新式学校，革新教学方法。",
+      "keywords": [
+        "传统教育",
+        "新式学校",
+        "教学方法"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "积极影响"
+      ],
+      "displayTitle": "1. 对教育",
+      "outline": "积极影响"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-1",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "积极2",
+      "text": "呼吁解放和尊重儿童，反对禁锢思想，促进儿童天性与自由，重视儿童个性差异。",
+      "keywords": [
+        "解放儿童",
+        "天性",
+        "自由",
+        "个性差异"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "积极影响"
+      ],
+      "displayTitle": "2. 对学生",
+      "outline": "积极影响"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-2",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "积极3",
+      "text": "强调教育与生活实际相联系，体现了直接经验。",
+      "keywords": [
+        "教育",
+        "生活实际",
+        "直接经验"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "积极影响"
+      ],
+      "displayTitle": "3. 对内容",
+      "outline": "积极影响"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-3",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "积极4",
+      "text": "促进教育研究科学化。",
+      "keywords": [
+        "教育研究",
+        "科学化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "积极影响"
+      ],
+      "displayTitle": "4. 对研究",
+      "outline": "积极影响"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-4",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "积极5",
+      "text": "符合儿童身心发展的特点和规律。",
+      "keywords": [
+        "身心发展",
+        "特点",
+        "规律"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "积极影响"
+      ],
+      "displayTitle": "5. 对整体",
+      "outline": "积极影响"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-5",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "局限1",
+      "text": "否定传统教育中合理的制度和方法，导致过犹不及。",
+      "keywords": [
+        "传统教育",
+        "合理制度",
+        "过犹不及"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限性"
+      ],
+      "displayTitle": "1. 对传统教育",
+      "outline": "局限性"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-6",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "局限2",
+      "text": "突出个人主义，过高估计儿童的能力。",
+      "keywords": [
+        "个人主义",
+        "儿童能力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限性"
+      ],
+      "displayTitle": "2. 对学生",
+      "outline": "局限性"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-7",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "局限3",
+      "text": "忽视儿童基本知识的传授，同时忽视教师的作用。",
+      "keywords": [
+        "基本知识",
+        "教师作用"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限性"
+      ],
+      "displayTitle": "3. 对内容",
+      "outline": "局限性"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-8",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "局限4",
+      "text": "儿童研究存在生物化倾向，即很多心理学家以动物为实验对象研究人的教育现象。",
+      "keywords": [
+        "生物化",
+        "动物实验",
+        "教育现象"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限性"
+      ],
+      "displayTitle": "4. 对研究",
+      "outline": "局限性"
+    },
+    {
+      "id": "foreign-reviewed-ch26-movement-impact-9",
+      "knowledgeId": "foreign-reviewed-ch26-movement-impact",
+      "title": "局限5",
+      "text": "导致教育质量下降。",
+      "keywords": [
+        "教育质量下降"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "局限性"
+      ],
+      "displayTitle": "5. 对整体",
+      "outline": "局限性"
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism-0",
+      "knowledgeId": "foreign-reviewed-ch26-reconstructionism",
+      "title": "人物",
+      "text": "布拉梅尔德。",
+      "keywords": [
+        "布拉梅尔德"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism-1",
+      "knowledgeId": "foreign-reviewed-ch26-reconstructionism",
+      "title": "观点1",
+      "text": "改造社会是目标。",
+      "keywords": [
+        "改造社会",
+        "目标"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "改造社会",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism-2",
+      "knowledgeId": "foreign-reviewed-ch26-reconstructionism",
+      "title": "观点2",
+      "text": "强调“社会一致”的精神。",
+      "keywords": [
+        "社会一致"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "社会一致",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism-3",
+      "knowledgeId": "foreign-reviewed-ch26-reconstructionism",
+      "title": "观点3",
+      "text": "以行为科学为依据。",
+      "keywords": [
+        "行为科学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "行为科学",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism-4",
+      "knowledgeId": "foreign-reviewed-ch26-reconstructionism",
+      "title": "观点4",
+      "text": "以社会问题为中心。",
+      "keywords": [
+        "社会问题",
+        "中心"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "社会问题中心",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism-5",
+      "knowledgeId": "foreign-reviewed-ch26-reconstructionism",
+      "title": "观点5",
+      "text": "教育方法要民主。",
+      "keywords": [
+        "教育方法",
+        "民主"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "民主方法",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism-6",
+      "knowledgeId": "foreign-reviewed-ch26-reconstructionism",
+      "title": "优点",
+      "text": "具有折中主义性质。",
+      "keywords": [
+        "折中主义"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-reconstructionism-7",
+      "knowledgeId": "foreign-reviewed-ch26-reconstructionism",
+      "title": "局限",
+      "text": "理论空泛，无可行方案。",
+      "keywords": [
+        "理论空泛",
+        "可行方案"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism-0",
+      "knowledgeId": "foreign-reviewed-ch26-essentialism",
+      "title": "人物",
+      "text": "巴格莱、科南特。",
+      "keywords": [
+        "巴格莱",
+        "科南特"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism-1",
+      "knowledgeId": "foreign-reviewed-ch26-essentialism",
+      "title": "观点1",
+      "text": "以共同要素为核心。",
+      "keywords": [
+        "共同要素",
+        "核心"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "共同要素",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism-2",
+      "knowledgeId": "foreign-reviewed-ch26-essentialism",
+      "title": "观点2",
+      "text": "训练智慧有过程。",
+      "keywords": [
+        "训练智慧"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "智慧训练",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism-3",
+      "knowledgeId": "foreign-reviewed-ch26-essentialism",
+      "title": "观点3",
+      "text": "努力专心搞学习。",
+      "keywords": [
+        "努力",
+        "专心"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "努力专心",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism-4",
+      "knowledgeId": "foreign-reviewed-ch26-essentialism",
+      "title": "观点4",
+      "text": "教师处于核心位置。",
+      "keywords": [
+        "教师",
+        "核心"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "教师核心",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism-5",
+      "knowledgeId": "foreign-reviewed-ch26-essentialism",
+      "title": "观点5",
+      "text": "以逻辑系统编教材。",
+      "keywords": [
+        "逻辑系统",
+        "教材"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "逻辑系统教材",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism-6",
+      "knowledgeId": "foreign-reviewed-ch26-essentialism",
+      "title": "优点",
+      "text": "针对弊病，采纳为教育政策。",
+      "keywords": [
+        "弊病",
+        "教育政策"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-essentialism-7",
+      "knowledgeId": "foreign-reviewed-ch26-essentialism",
+      "title": "局限",
+      "text": "忽视学生，教材脱离实际。",
+      "keywords": [
+        "忽视学生",
+        "脱离实际"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism-0",
+      "knowledgeId": "foreign-reviewed-ch26-perennialism",
+      "title": "人物",
+      "text": "赫钦斯、艾德勒。",
+      "keywords": [
+        "赫钦斯",
+        "艾德勒"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism-1",
+      "knowledgeId": "foreign-reviewed-ch26-perennialism",
+      "title": "观点1",
+      "text": "教育性质永不变。",
+      "keywords": [
+        "教育性质",
+        "不变"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "教育性质",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism-2",
+      "knowledgeId": "foreign-reviewed-ch26-perennialism",
+      "title": "观点2",
+      "text": "永恒理性是目标。",
+      "keywords": [
+        "永恒理性",
+        "目标"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "永恒理性",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism-3",
+      "knowledgeId": "foreign-reviewed-ch26-perennialism",
+      "title": "观点3",
+      "text": "以古典学科为中心。",
+      "keywords": [
+        "古典学科",
+        "中心"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "古典学科中心",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism-4",
+      "knowledgeId": "foreign-reviewed-ch26-perennialism",
+      "title": "观点4",
+      "text": "学习还要教师教。",
+      "keywords": [
+        "学习",
+        "教师"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "教师教学",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism-5",
+      "knowledgeId": "foreign-reviewed-ch26-perennialism",
+      "title": "观点5",
+      "text": "自由教育为全民。",
+      "keywords": [
+        "自由教育",
+        "全民"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "全民自由教育",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism-6",
+      "knowledgeId": "foreign-reviewed-ch26-perennialism",
+      "title": "优点",
+      "text": "批评进步教育。",
+      "keywords": [
+        "进步教育",
+        "批评"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-perennialism-7",
+      "knowledgeId": "foreign-reviewed-ch26-perennialism",
+      "title": "局限",
+      "text": "复古主义色彩。",
+      "keywords": [
+        "复古主义"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-thomism-0",
+      "knowledgeId": "foreign-reviewed-ch26-neo-thomism",
+      "title": "人物",
+      "text": "马利坦。",
+      "keywords": [
+        "马利坦"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-thomism-1",
+      "knowledgeId": "foreign-reviewed-ch26-neo-thomism",
+      "title": "观点1",
+      "text": "宗教是教育基础。",
+      "keywords": [
+        "宗教",
+        "教育基础"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "宗教基础",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-thomism-2",
+      "knowledgeId": "foreign-reviewed-ch26-neo-thomism",
+      "title": "观点2",
+      "text": "培养教徒和公民。",
+      "keywords": [
+        "教徒",
+        "公民"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "培养目标",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-thomism-3",
+      "knowledgeId": "foreign-reviewed-ch26-neo-thomism",
+      "title": "观点3",
+      "text": "宗教精神寓课程。",
+      "keywords": [
+        "宗教精神",
+        "课程"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "宗教课程",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-thomism-4",
+      "knowledgeId": "foreign-reviewed-ch26-neo-thomism",
+      "title": "观点4",
+      "text": "学校管理靠教会。",
+      "keywords": [
+        "学校管理",
+        "教会"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "教会管理",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-thomism-5",
+      "knowledgeId": "foreign-reviewed-ch26-neo-thomism",
+      "title": "优点",
+      "text": "提出宗教教育世俗化、现代化。",
+      "keywords": [
+        "宗教教育",
+        "世俗化",
+        "现代化"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-thomism-6",
+      "knowledgeId": "foreign-reviewed-ch26-neo-thomism",
+      "title": "局限",
+      "text": "一种宗教教育。",
+      "keywords": [
+        "宗教教育"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism-0",
+      "knowledgeId": "foreign-reviewed-ch26-existentialism",
+      "title": "人物",
+      "text": "博尔诺夫、尼勒。",
+      "keywords": [
+        "博尔诺夫",
+        "尼勒"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism-1",
+      "knowledgeId": "foreign-reviewed-ch26-existentialism",
+      "title": "观点1",
+      "text": "学生要自我完成。",
+      "keywords": [
+        "学生",
+        "自我完成"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "自我完成",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism-2",
+      "knowledgeId": "foreign-reviewed-ch26-existentialism",
+      "title": "观点2",
+      "text": "教育要注重品格。",
+      "keywords": [
+        "品格"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "注重品格",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism-3",
+      "knowledgeId": "foreign-reviewed-ch26-existentialism",
+      "title": "观点3",
+      "text": "道德要自由选择。",
+      "keywords": [
+        "道德",
+        "自由选择"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "道德选择",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism-4",
+      "knowledgeId": "foreign-reviewed-ch26-existentialism",
+      "title": "观点4",
+      "text": "方法要个别教育。",
+      "keywords": [
+        "个别教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "个别教育",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism-5",
+      "knowledgeId": "foreign-reviewed-ch26-existentialism",
+      "title": "观点5",
+      "text": "师生要相互信任。",
+      "keywords": [
+        "师生",
+        "相互信任"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "师生信任",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism-6",
+      "knowledgeId": "foreign-reviewed-ch26-existentialism",
+      "title": "优点",
+      "text": "主张教育个性化与积极的师生关系。",
+      "keywords": [
+        "个性化",
+        "师生关系"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-existentialism-7",
+      "knowledgeId": "foreign-reviewed-ch26-existentialism",
+      "title": "局限",
+      "text": "过分强调个人意志和自我选择。",
+      "keywords": [
+        "个人意志",
+        "自我选择"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism-0",
+      "knowledgeId": "foreign-reviewed-ch26-structuralism",
+      "title": "人物",
+      "text": "皮亚杰、布鲁纳。",
+      "keywords": [
+        "皮亚杰",
+        "布鲁纳"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism-1",
+      "knowledgeId": "foreign-reviewed-ch26-structuralism",
+      "title": "观点1",
+      "text": "重视智能发展。",
+      "keywords": [
+        "智能发展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "智能发展",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism-2",
+      "knowledgeId": "foreign-reviewed-ch26-structuralism",
+      "title": "观点2",
+      "text": "教授学科结构。",
+      "keywords": [
+        "学科结构"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "学科结构",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism-3",
+      "knowledgeId": "foreign-reviewed-ch26-structuralism",
+      "title": "观点3",
+      "text": "注重早期学习。",
+      "keywords": [
+        "早期学习"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "早期学习",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism-4",
+      "knowledgeId": "foreign-reviewed-ch26-structuralism",
+      "title": "观点4",
+      "text": "提倡发现学习。",
+      "keywords": [
+        "发现学习"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "发现学习",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism-5",
+      "knowledgeId": "foreign-reviewed-ch26-structuralism",
+      "title": "观点5",
+      "text": "需要教师辅助。",
+      "keywords": [
+        "教师辅助"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "教师辅助",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism-6",
+      "knowledgeId": "foreign-reviewed-ch26-structuralism",
+      "title": "优点",
+      "text": "对西方课程理论影响很大。",
+      "keywords": [
+        "西方",
+        "课程理论"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-structuralism-7",
+      "knowledgeId": "foreign-reviewed-ch26-structuralism",
+      "title": "局限",
+      "text": "过于理论化、抽象化，难度很大。",
+      "keywords": [
+        "理论化",
+        "抽象化",
+        "难度"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-humanism-0",
+      "knowledgeId": "foreign-reviewed-ch26-humanism",
+      "title": "人物",
+      "text": "罗杰斯、马斯洛。",
+      "keywords": [
+        "罗杰斯",
+        "马斯洛"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-humanism-1",
+      "knowledgeId": "foreign-reviewed-ch26-humanism",
+      "title": "观点1",
+      "text": "以自我实现为目标。",
+      "keywords": [
+        "自我实现",
+        "目标"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "自我实现",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-humanism-2",
+      "knowledgeId": "foreign-reviewed-ch26-humanism",
+      "title": "观点2",
+      "text": "以课程人本为理念。",
+      "keywords": [
+        "课程",
+        "人本"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "人本课程",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-humanism-3",
+      "knowledgeId": "foreign-reviewed-ch26-humanism",
+      "title": "观点3",
+      "text": "学校气氛要自由。",
+      "keywords": [
+        "学校气氛",
+        "自由"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "自由气氛",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-humanism-4",
+      "knowledgeId": "foreign-reviewed-ch26-humanism",
+      "title": "优点",
+      "text": "发挥和实现人的各种潜能。",
+      "keywords": [
+        "潜能",
+        "发挥",
+        "实现"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-humanism-5",
+      "knowledgeId": "foreign-reviewed-ch26-humanism",
+      "title": "局限",
+      "text": "忽视社会对个体发展的要求。",
+      "keywords": [
+        "社会",
+        "个体发展"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "局限",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-lifelong-0",
+      "knowledgeId": "foreign-reviewed-ch26-lifelong",
+      "title": "人物",
+      "text": "保罗·朗格朗。",
+      "keywords": [
+        "保罗",
+        "朗格朗"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "人物"
+    },
+    {
+      "id": "foreign-reviewed-ch26-lifelong-1",
+      "knowledgeId": "foreign-reviewed-ch26-lifelong",
+      "title": "观点1",
+      "text": "迎接社会新挑战。",
+      "keywords": [
+        "社会",
+        "新挑战"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "社会挑战",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-lifelong-2",
+      "knowledgeId": "foreign-reviewed-ch26-lifelong",
+      "title": "观点2",
+      "text": "终身教育是一生教育的总和。",
+      "keywords": [
+        "一生教育",
+        "总和"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "一生教育总和",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-lifelong-3",
+      "knowledgeId": "foreign-reviewed-ch26-lifelong",
+      "title": "观点3",
+      "text": "学会学习生活美。",
+      "keywords": [
+        "学会学习",
+        "生活"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "学会学习",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-lifelong-4",
+      "knowledgeId": "foreign-reviewed-ch26-lifelong",
+      "title": "观点4",
+      "text": "内容、方法不固定。",
+      "keywords": [
+        "内容",
+        "方法",
+        "不固定"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "内容与方法",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-lifelong-5",
+      "knowledgeId": "foreign-reviewed-ch26-lifelong",
+      "title": "观点5",
+      "text": "未来战略顶呱呱。",
+      "keywords": [
+        "未来战略"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "口诀、观点"
+      ],
+      "displayTitle": "未来教育战略",
+      "outline": "口诀、观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-lifelong-6",
+      "knowledgeId": "foreign-reviewed-ch26-lifelong",
+      "title": "优点",
+      "text": "教育领域广泛而深刻的革命。",
+      "keywords": [
+        "教育领域",
+        "革命"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "评价"
+      ],
+      "displayTitle": "优点",
+      "outline": "评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-0",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "简介",
+      "text": "新传统教育派教育思潮是20世纪30年代在欧美国家出现的教育思潮，包括要素主义教育、永恒主义教育和新托马斯主义教育。",
+      "keywords": [
+        "20世纪30年代",
+        "欧美",
+        "要素主义",
+        "永恒主义",
+        "新托马斯主义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（一）简介"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-1",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "教育观念",
+      "text": "反对进步教育的“儿童中心主义”。",
+      "keywords": [
+        "进步教育",
+        "儿童中心主义"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "1. 教育观念",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-2",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "课程设置",
+      "text": "主张学校恢复基础课程，重视基础知识和基本技能教学。",
+      "keywords": [
+        "基础课程",
+        "基础知识",
+        "基本技能"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "2. 课程设置",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-3",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "教学过程",
+      "text": "突出智力标准，注重心智训练，严格制定学校的学业成绩标准。",
+      "keywords": [
+        "智力标准",
+        "心智训练",
+        "学业成绩"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "3. 教学过程",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-4",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "师生关系",
+      "text": "主张以教师为中心，突出教师的权威地位与主导作用。",
+      "keywords": [
+        "教师中心",
+        "权威",
+        "主导"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "4. 师生关系",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-5",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "学生管理",
+      "text": "强化教育教学管理，加强学校的纪律性。",
+      "keywords": [
+        "教学管理",
+        "纪律"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）观点"
+      ],
+      "displayTitle": "5. 学生管理",
+      "outline": "（二）观点"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-6",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "教育实践",
+      "text": "针对学校时弊进行改革，提升学校教育质量。",
+      "keywords": [
+        "学校时弊",
+        "教育质量"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 积极方面",
+        "（1）对美国"
+      ],
+      "displayTitle": "①对美国教育实践",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-7",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "教育制度",
+      "text": "为20世纪50年代《国防教育法》、20世纪70年代“返回基础”教育运动提供直接的理论基础。",
+      "keywords": [
+        "国防教育法",
+        "返回基础",
+        "理论基础"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 积极方面",
+        "（1）对美国"
+      ],
+      "displayTitle": "②对美国教育制度",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-8",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "教育思想",
+      "text": "影响美国从实用主义和进步教育的思想中转向传统教育的价值。",
+      "keywords": [
+        "实用主义",
+        "进步教育",
+        "传统教育"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 积极方面",
+        "（1）对美国"
+      ],
+      "displayTitle": "③对美国教育思想",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-9",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "对西方国家教育",
+      "text": "不同程度地影响各国教育回归到学科课程和学术型知识的学习上。",
+      "keywords": [
+        "学科课程",
+        "学术型知识"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "1. 积极方面",
+        "（2）对世界"
+      ],
+      "displayTitle": "④对西方国家教育",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-10",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "要素主义",
+      "text": "是该思潮的核心力量，因忽视学生个性与自由而遭到批判。",
+      "keywords": [
+        "要素主义",
+        "核心力量",
+        "个性",
+        "自由"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "2. 消极方面"
+      ],
+      "displayTitle": "（1）要素主义",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-11",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "永恒主义",
+      "text": "只在高等教育领域有影响，在民间曲高和寡。",
+      "keywords": [
+        "永恒主义",
+        "高等教育",
+        "曲高和寡"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "2. 消极方面"
+      ],
+      "displayTitle": "（2）永恒主义",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-12",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "新托马斯主义",
+      "text": "由于强调宗教的价值而影响范围更小。",
+      "keywords": [
+        "新托马斯主义",
+        "宗教",
+        "影响范围"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价",
+        "2. 消极方面"
+      ],
+      "displayTitle": "（3）新托马斯主义",
+      "outline": "（三）评价"
+    },
+    {
+      "id": "foreign-reviewed-ch26-neo-traditional-13",
+      "knowledgeId": "foreign-reviewed-ch26-neo-traditional",
+      "title": "总结",
+      "text": "原书提出：既吸收进步教育的精华，又重视新传统教育派教育思潮的观点，在我国课程改革中尽可能将二者相结合。",
+      "keywords": [
+        "进步教育",
+        "新传统教育",
+        "课程改革",
+        "结合"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）评价"
+      ],
+      "displayTitle": "3. 总结",
+      "outline": "（三）评价"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "foreign-ch26-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 11,
+    "knowledge": 40,
+    "steps": 273,
+    "referenceOnly": 12
+  }
+}

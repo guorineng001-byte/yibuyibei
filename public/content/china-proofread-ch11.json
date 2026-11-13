@@ -1,0 +1,2127 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch11-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch11-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "第十一章章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 94,
+          "rect": [
+            0.3,
+            0.52,
+            0.62,
+            0.45
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 94468,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-li-dazhao",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（1）李大钊的教育思想",
+      "section": "考点一 · 新民主主义教育的发端 · （一）早期马克思主义者的教育 · 1.教育思想",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.23,
+            0.16,
+            0.69,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95144,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-yun-daiying",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（2）恽代英的教育思想",
+      "section": "考点一 · 新民主主义教育的发端 · （一）早期马克思主义者的教育 · 1.教育思想",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.23,
+            0.36,
+            0.69,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95324,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-early-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "2.教育实践",
+      "section": "考点一 · 新民主主义教育的发端 · （一）早期马克思主义者的教育",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.16,
+            0.48,
+            0.35,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95432,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-workers-peasants",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "1.工农教育",
+      "section": "考点一 · 新民主主义教育的发端 · （二）中国共产党领导下的工农教育、青年教育与干部教育",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.18,
+            0.56,
+            0.74,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95504,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-youth-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "2.青年教育",
+      "section": "考点一 · 新民主主义教育的发端 · （二）中国共产党领导下的工农教育、青年教育与干部教育",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.18,
+            0.64,
+            0.66,
+            0.05
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95576,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-hunan-self-study",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（1）湖南自修大学",
+      "section": "考点一 · 新民主主义教育的发端 · （二）中国共产党领导下的工农教育、青年教育与干部教育 · 3.干部教育",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.32,
+            0.69,
+            0.61,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95621,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-shanghai-university",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（2）上海大学",
+      "section": "考点一 · 新民主主义教育的发端 · （二）中国共产党领导下的工农教育、青年教育与干部教育 · 3.干部教育",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.32,
+            0.8,
+            0.61,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95720,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-peasant-institute",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（3）农民运动讲习所",
+      "section": "考点一 · 新民主主义教育的发端 · （二）中国共产党领导下的工农教育、青年教育与干部教育 · 3.干部教育",
+      "refs": [
+        {
+          "page": 95,
+          "rect": [
+            0.31,
+            0.87,
+            0.62,
+            0.11
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 95783,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（三）国共合作时期的黄埔军校",
+      "section": "考点一 · 新民主主义教育的发端",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.15,
+            0.07,
+            0.78,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 96063,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-soviet-policy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（一）苏区教育方针",
+      "section": "考点二 · 新民主主义教育方针的形成",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.24,
+            0.4,
+            0.66,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 96360,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-wartime-policy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（二）抗战时期的教育方针",
+      "section": "考点二 · 新民主主义教育方针的形成",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.32,
+            0.52,
+            0.6,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 96468,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-cadre-types",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "革命根据地的在职干部教育与干部学校教育",
+      "section": "考点三 · 革命根据地的干部教育",
+      "refs": [
+        {
+          "page": 96,
+          "rect": [
+            0.18,
+            0.72,
+            0.73,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 96648,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（三）“抗大”",
+      "section": "考点三 · 革命根据地的干部教育",
+      "refs": [
+        {
+          "page": 97,
+          "rect": [
+            0.15,
+            0.08,
+            0.77,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 97072,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-mass-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（一）群众教育",
+      "section": "考点四 · 革命根据地的群众教育和普通教育",
+      "refs": [
+        {
+          "page": 97,
+          "rect": [
+            0.17,
+            0.43,
+            0.73,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 97387,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-primary-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "1.根据地的小学教育",
+      "section": "考点四 · 革命根据地的群众教育和普通教育 · （二）普通教育",
+      "refs": [
+        {
+          "page": 97,
+          "rect": [
+            0.31,
+            0.52,
+            0.61,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 97468,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-regular-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "2.解放区中小学教育的正规化",
+      "section": "考点四 · 革命根据地的群众教育和普通教育 · （二）普通教育",
+      "refs": [
+        {
+          "page": 97,
+          "rect": [
+            0.31,
+            0.63,
+            0.61,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 97567,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-higher-education",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "3.解放区高等教育的整顿与建设",
+      "section": "考点四 · 革命根据地的群众教育和普通教育 · （二）普通教育",
+      "refs": [
+        {
+          "page": 97,
+          "rect": [
+            0.31,
+            0.69,
+            0.61,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 97621,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-serve-politics",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（一）坚持教育为政治服务",
+      "section": "考点五 · 革命根据地教育的基本经验",
+      "refs": [
+        {
+          "page": 97,
+          "rect": [
+            0.19,
+            0.82,
+            0.72,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 97738,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-combine-labor",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（二）教育与生产劳动相结合",
+      "section": "考点五 · 革命根据地教育的基本经验",
+      "refs": [
+        {
+          "page": 97,
+          "rect": [
+            0.19,
+            0.91,
+            0.72,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 97819,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "china-reviewed-ch11-rely-on-masses",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-10",
+      "title": "（三）依靠群众办学",
+      "section": "考点五 · 革命根据地教育的基本经验",
+      "refs": [
+        {
+          "page": 98,
+          "rect": [
+            0.17,
+            0.07,
+            0.74,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 98063,
+      "reviewNote": "已逐项对照原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch11-outline-0",
+      "knowledgeId": "china-reviewed-ch11-outline",
+      "title": "新民主主义教育的发端",
+      "text": "早期马克思主义者的教育；中国共产党领导下的工农教育、青年教育与干部教育；国共合作时期的黄埔军校。",
+      "keywords": [
+        "早期马克思主义者",
+        "工农教育",
+        "青年教育",
+        "干部教育",
+        "黄埔军校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-outline-1",
+      "knowledgeId": "china-reviewed-ch11-outline",
+      "title": "新民主主义教育方针的形成",
+      "text": "新民主主义教育方针的形成。",
+      "keywords": [
+        "教育方针"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-outline-2",
+      "knowledgeId": "china-reviewed-ch11-outline",
+      "title": "革命根据地的教育类型",
+      "text": "干部教育、群众教育、普通教育。",
+      "keywords": [
+        "干部教育",
+        "群众教育",
+        "普通教育"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-outline-3",
+      "knowledgeId": "china-reviewed-ch11-outline",
+      "title": "革命根据地教育的基本经验",
+      "text": "革命根据地教育的基本经验。",
+      "keywords": [
+        "基本经验"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-li-dazhao-0",
+      "knowledgeId": "china-reviewed-ch11-li-dazhao",
+      "title": "①a 教育与经济政治",
+      "text": "教育决定于经济基础且受政治制约。",
+      "keywords": [
+        "经济基础",
+        "政治制约"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "① 论教育的本质"
+    },
+    {
+      "id": "china-reviewed-ch11-li-dazhao-1",
+      "knowledgeId": "china-reviewed-ch11-li-dazhao",
+      "title": "①b 教育不能独自改造社会",
+      "text": "仅靠教育本身的努力无法改造中国社会。",
+      "keywords": [
+        "教育本身",
+        "改造社会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "① 论教育的本质"
+    },
+    {
+      "id": "china-reviewed-ch11-li-dazhao-2",
+      "knowledgeId": "china-reviewed-ch11-li-dazhao",
+      "title": "①c 教育与革命并行",
+      "text": "在革命进程中，教育与革命应该双管齐下。",
+      "keywords": [
+        "教育与革命",
+        "双管齐下"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "① 论教育的本质"
+    },
+    {
+      "id": "china-reviewed-ch11-li-dazhao-3",
+      "knowledgeId": "china-reviewed-ch11-li-dazhao",
+      "title": "② 工农大众教育",
+      "text": "指导思想是平民主义，倡导工人教育、农民教育。",
+      "keywords": [
+        "平民主义",
+        "工人教育",
+        "农民教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "② 倡导工农大众的教育"
+    },
+    {
+      "id": "china-reviewed-ch11-li-dazhao-4",
+      "knowledgeId": "china-reviewed-ch11-li-dazhao",
+      "title": "③a 人生观",
+      "text": "青年必须树立正确的人生观。",
+      "keywords": [
+        "正确人生观"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 倡导青年教育"
+    },
+    {
+      "id": "china-reviewed-ch11-li-dazhao-5",
+      "knowledgeId": "china-reviewed-ch11-li-dazhao",
+      "title": "③b 意志",
+      "text": "青年必须磨炼坚强的意志。",
+      "keywords": [
+        "坚强意志"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 倡导青年教育"
+    },
+    {
+      "id": "china-reviewed-ch11-li-dazhao-6",
+      "knowledgeId": "china-reviewed-ch11-li-dazhao",
+      "title": "③c 与工农结合",
+      "text": "青年必须走与工农相结合的道路。",
+      "keywords": [
+        "与工农相结合"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 倡导青年教育"
+    },
+    {
+      "id": "china-reviewed-ch11-yun-daiying-0",
+      "knowledgeId": "china-reviewed-ch11-yun-daiying",
+      "title": "① 教育与社会改造",
+      "text": "先改造好社会，才能发展良好的教育。",
+      "keywords": [
+        "社会改造",
+        "发展教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-yun-daiying-1",
+      "knowledgeId": "china-reviewed-ch11-yun-daiying",
+      "title": "② 儿童教育",
+      "text": "主张儿童公育。",
+      "keywords": [
+        "儿童公育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-yun-daiying-2",
+      "knowledgeId": "china-reviewed-ch11-yun-daiying",
+      "title": "③a 教育目的改革",
+      "text": "中等教育要全面改革；教育目的兼顾升学与就业。",
+      "keywords": [
+        "中等教育",
+        "兼顾升学就业"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 中等教育"
+    },
+    {
+      "id": "china-reviewed-ch11-yun-daiying-3",
+      "knowledgeId": "china-reviewed-ch11-yun-daiying",
+      "title": "③b 课程改革",
+      "text": "强调学以致用。",
+      "keywords": [
+        "课程改革",
+        "学以致用"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 中等教育"
+    },
+    {
+      "id": "china-reviewed-ch11-yun-daiying-4",
+      "knowledgeId": "china-reviewed-ch11-yun-daiying",
+      "title": "③c 教材改革",
+      "text": "强调实际需要与学生心理。",
+      "keywords": [
+        "教材改革",
+        "实际需要",
+        "学生心理"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 中等教育"
+    },
+    {
+      "id": "china-reviewed-ch11-yun-daiying-5",
+      "knowledgeId": "china-reviewed-ch11-yun-daiying",
+      "title": "③d 教学方法改革",
+      "text": "强调自学辅导法。",
+      "keywords": [
+        "教学方法",
+        "自学辅导法"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "③ 中等教育"
+    },
+    {
+      "id": "china-reviewed-ch11-early-practice-0",
+      "knowledgeId": "china-reviewed-ch11-early-practice",
+      "title": "（1）留法勤工俭学运动",
+      "text": "留法勤工俭学运动。",
+      "keywords": [
+        "留法勤工俭学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-early-practice-1",
+      "knowledgeId": "china-reviewed-ch11-early-practice",
+      "title": "（2）长辛店劳动补习学校",
+      "text": "长辛店劳动补习学校。",
+      "keywords": [
+        "长辛店劳动补习学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-workers-peasants-0",
+      "knowledgeId": "china-reviewed-ch11-workers-peasants",
+      "title": "（1）工人教育活动",
+      "text": "开展工人教育活动，如长辛店劳动补习学校。",
+      "keywords": [
+        "工人教育",
+        "长辛店劳动补习学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）工人教育"
+    },
+    {
+      "id": "china-reviewed-ch11-workers-peasants-1",
+      "knowledgeId": "china-reviewed-ch11-workers-peasants",
+      "title": "《工人教育的决议案》",
+      "text": "通过《工人教育的决议案》。",
+      "keywords": [
+        "工人教育的决议案"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（1）工人教育"
+    },
+    {
+      "id": "china-reviewed-ch11-workers-peasants-2",
+      "knowledgeId": "china-reviewed-ch11-workers-peasants",
+      "title": "（2）农民教育活动",
+      "text": "开展农民教育活动，如广东海陆丰农民学校。",
+      "keywords": [
+        "农民教育",
+        "广东海陆丰农民学校"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）农民教育"
+    },
+    {
+      "id": "china-reviewed-ch11-workers-peasants-3",
+      "knowledgeId": "china-reviewed-ch11-workers-peasants",
+      "title": "《农村教育决议案》",
+      "text": "通过《农村教育决议案》。",
+      "keywords": [
+        "农村教育决议案"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "（2）农民教育"
+    },
+    {
+      "id": "china-reviewed-ch11-youth-education-0",
+      "knowledgeId": "china-reviewed-ch11-youth-education",
+      "title": "培育途径",
+      "text": "从社会教育、政治教育、学校教育三个方面培育青年。",
+      "keywords": [
+        "社会教育",
+        "政治教育",
+        "学校教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-hunan-self-study-0",
+      "knowledgeId": "china-reviewed-ch11-hunan-self-study",
+      "title": "① 简介",
+      "text": "毛泽东、何叔衡等人于 1921 年在长沙创办。",
+      "keywords": [
+        "毛泽东",
+        "何叔衡",
+        "1921",
+        "长沙"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-hunan-self-study-1",
+      "knowledgeId": "china-reviewed-ch11-hunan-self-study",
+      "title": "② 办学定位",
+      "text": "是“平民主义的大学”，实现平民读大学的理想，为“改造社会”做准备。",
+      "keywords": [
+        "平民主义的大学",
+        "平民读大学",
+        "改造社会"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "② 特点"
+    },
+    {
+      "id": "china-reviewed-ch11-hunan-self-study-2",
+      "knowledgeId": "china-reviewed-ch11-hunan-self-study",
+      "title": "② 教学与劳动",
+      "text": "自学为主，辅以授课，反对灌注，强调劳动，注重传播马克思主义。",
+      "keywords": [
+        "自学为主",
+        "辅以授课",
+        "反对灌注",
+        "劳动",
+        "马克思主义"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "② 特点"
+    },
+    {
+      "id": "china-reviewed-ch11-shanghai-university-0",
+      "knowledgeId": "china-reviewed-ch11-shanghai-university",
+      "title": "① 简介",
+      "text": "中国共产党于 1922 年在上海创办的高等学校，培养革命人才。",
+      "keywords": [
+        "中国共产党",
+        "1922",
+        "上海",
+        "革命人才"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-shanghai-university-1",
+      "knowledgeId": "china-reviewed-ch11-shanghai-university",
+      "title": "② 特点",
+      "text": "教师授课与学生自学相结合，尤重讨论。",
+      "keywords": [
+        "教师授课",
+        "学生自学",
+        "讨论"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-peasant-institute-0",
+      "knowledgeId": "china-reviewed-ch11-peasant-institute",
+      "title": "① 简介",
+      "text": "国共合作时期培养农民运动干部的学校，也是全国农民运动研究中心。",
+      "keywords": [
+        "国共合作",
+        "农民运动干部",
+        "农民运动研究中心"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-peasant-institute-1",
+      "knowledgeId": "china-reviewed-ch11-peasant-institute",
+      "title": "② 特点",
+      "text": "突出理论与实际相结合，课堂讲授与课外实习、自学与集体讨论、调查研究相结合，并将学员关于农民实际问题的调查结果刊载于《农民问题丛刊》。",
+      "keywords": [
+        "理论联系实际",
+        "课外实习",
+        "集体讨论",
+        "调查研究",
+        "农民问题丛刊"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-0",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "1.简介",
+      "text": "1924 年，第一次国共合作期间，孙中山筹办的“中国国民党陆军军官学校”。",
+      "keywords": [
+        "1924",
+        "第一次国共合作",
+        "孙中山",
+        "中国国民党陆军军官学校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-1",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "2.（1）办学宗旨",
+      "text": "贯彻新三民主义，政治教育首位，政治教育与军事教育并重。",
+      "keywords": [
+        "新三民主义",
+        "政治教育首位",
+        "军事教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-2",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "2.（2）培养目标",
+      "text": "培养军事政治人才。",
+      "keywords": [
+        "军事政治人才"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-3",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "2.（3）教学方式",
+      "text": "课堂教学与现实斗争相结合。",
+      "keywords": [
+        "课堂教学",
+        "现实斗争"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-4",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "2.（4）学校管理",
+      "text": "纪律严明、管理规范、从严治校，实行军法管理。",
+      "keywords": [
+        "纪律严明",
+        "管理规范",
+        "从严治校",
+        "军法管理"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-5",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "3.（1）筹建",
+      "text": "中国共产党多次促成国民党和共产国际的沟通，使黄埔军校顺利筹建。",
+      "keywords": [
+        "中国共产党",
+        "共产国际",
+        "筹建"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.共产党的贡献"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-6",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "3.（2）招生",
+      "text": "中国共产党派代表赴各地秘密招生，选拔进步青年应考。",
+      "keywords": [
+        "秘密招生",
+        "进步青年"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.共产党的贡献"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-7",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "3.（3）政治工作",
+      "text": "中国共产党一手建立起军校的政治工作，周恩来等作出突出贡献。",
+      "keywords": [
+        "政治工作",
+        "周恩来"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.共产党的贡献"
+    },
+    {
+      "id": "china-reviewed-ch11-whampoa-8",
+      "knowledgeId": "china-reviewed-ch11-whampoa",
+      "title": "4.评价",
+      "text": "黄埔军校为我国培养了一批重要的军事将领和政治人才，永远是中国享有盛名的军事院校。",
+      "keywords": [
+        "军事将领",
+        "政治人才",
+        "军事院校"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-soviet-policy-0",
+      "knowledgeId": "china-reviewed-ch11-soviet-policy",
+      "title": "1.共产主义精神",
+      "text": "1934 年毛泽东提出苏维埃文化教育总方针：在于以共产主义的精神来教育广大的劳苦民众。",
+      "keywords": [
+        "1934",
+        "毛泽东",
+        "苏维埃文化教育总方针",
+        "共产主义精神",
+        "劳苦民众"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "四个“在于”"
+    },
+    {
+      "id": "china-reviewed-ch11-soviet-policy-1",
+      "knowledgeId": "china-reviewed-ch11-soviet-policy",
+      "title": "2.服务革命",
+      "text": "在于使文化教育为革命战争与阶级斗争服务。",
+      "keywords": [
+        "革命战争",
+        "阶级斗争"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "四个“在于”"
+    },
+    {
+      "id": "china-reviewed-ch11-soviet-policy-2",
+      "knowledgeId": "china-reviewed-ch11-soviet-policy",
+      "title": "3.联系劳动",
+      "text": "在于使教育与劳动联系起来。",
+      "keywords": [
+        "教育与劳动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "四个“在于”"
+    },
+    {
+      "id": "china-reviewed-ch11-soviet-policy-3",
+      "knowledgeId": "china-reviewed-ch11-soviet-policy",
+      "title": "4.文明幸福",
+      "text": "在于使广大中国民众都成为享受文明幸福的人。",
+      "keywords": [
+        "中国民众",
+        "文明幸福"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "四个“在于”"
+    },
+    {
+      "id": "china-reviewed-ch11-wartime-policy-0",
+      "knowledgeId": "china-reviewed-ch11-wartime-policy",
+      "title": "（1）统一战线",
+      "text": "实行文化教育中的统一战线政策。",
+      "keywords": [
+        "文化教育",
+        "统一战线"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.初期政策"
+    },
+    {
+      "id": "china-reviewed-ch11-wartime-policy-1",
+      "knowledgeId": "china-reviewed-ch11-wartime-policy",
+      "title": "（2）干部教育优先",
+      "text": "实行“干部教育第一，国民教育第二”的政策。",
+      "keywords": [
+        "干部教育第一",
+        "国民教育第二"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.初期政策"
+    },
+    {
+      "id": "china-reviewed-ch11-wartime-policy-2",
+      "knowledgeId": "china-reviewed-ch11-wartime-policy",
+      "title": "（3）教育与生产劳动",
+      "text": "实行“教育与生产劳动相结合”的政策。",
+      "keywords": [
+        "教育与生产劳动相结合"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.初期政策"
+    },
+    {
+      "id": "china-reviewed-ch11-wartime-policy-3",
+      "knowledgeId": "china-reviewed-ch11-wartime-policy",
+      "title": "（4）民办公助",
+      "text": "实行“民办公助”的政策，发动社会和民间的力量办教育，政府指导和帮助民办学校。",
+      "keywords": [
+        "民办公助",
+        "社会民间力量",
+        "政府指导帮助"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.初期政策"
+    },
+    {
+      "id": "china-reviewed-ch11-wartime-policy-4",
+      "knowledgeId": "china-reviewed-ch11-wartime-policy",
+      "title": "2.后期方针",
+      "text": "实行“民族的、科学的、大众的”文化教育方针。",
+      "keywords": [
+        "民族的",
+        "科学的",
+        "大众的"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-cadre-types-0",
+      "knowledgeId": "china-reviewed-ch11-cadre-types",
+      "title": "（一）目的",
+      "text": "在职干部教育的目的是提高在职干部水平或训练某种专业人员。",
+      "keywords": [
+        "在职干部教育",
+        "提高水平",
+        "专业人员"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-cadre-types-1",
+      "knowledgeId": "china-reviewed-ch11-cadre-types",
+      "title": "（一）例子",
+      "text": "毛泽东创办“工农革命军教导队”和“红四军军官教导队”。",
+      "keywords": [
+        "毛泽东",
+        "工农革命军教导队",
+        "红四军军官教导队"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-cadre-types-2",
+      "knowledgeId": "china-reviewed-ch11-cadre-types",
+      "title": "（二）1.高级干部学校",
+      "text": "培养党政高级干部的学校。",
+      "keywords": [
+        "高级干部学校",
+        "党政高级干部"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-cadre-types-3",
+      "knowledgeId": "china-reviewed-ch11-cadre-types",
+      "title": "（二）2.中级干部学校",
+      "text": "培养各部门中级干部的学校。",
+      "keywords": [
+        "中级干部学校",
+        "中级干部"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-0",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "1.简介",
+      "text": "全称是中国人民抗日军事政治大学，是中国共产党创建的一所培养抗日军政干部的学校。",
+      "keywords": [
+        "中国人民抗日军事政治大学",
+        "中国共产党",
+        "抗日军政干部"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-1",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "2.（1）方针",
+      "text": "“坚定不移的政治方向（首位），艰苦奋斗的工作作风，加上机动灵活的战略战术”。",
+      "keywords": [
+        "政治方向首位",
+        "艰苦奋斗",
+        "机动灵活",
+        "战略战术"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-2",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "2.（2）校训",
+      "text": "“团结、紧张、严肃、活泼”。",
+      "keywords": [
+        "团结",
+        "紧张",
+        "严肃",
+        "活泼"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-3",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "2.（3）宗旨",
+      "text": "训练抗日救国军政领导人才。",
+      "keywords": [
+        "抗日救国",
+        "军政领导人才"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-4",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "2.（4）学风",
+      "text": "理论联系实际。",
+      "keywords": [
+        "理论联系实际"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-5",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "2.（5）课程",
+      "text": "设置军事、政治、文化三类课程，坚持“少而精原则”。",
+      "keywords": [
+        "军事政治文化",
+        "少而精原则"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-6",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "2.（6）方法",
+      "text": "采用启发式、研究式、实验式和“活”的考试。",
+      "keywords": [
+        "启发式",
+        "研究式",
+        "实验式",
+        "活的考试"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-7",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "2.（7）思政",
+      "text": "以马克思列宁主义、毛泽东思想为核心内容，包括学习理论、党内文件、组织纪律、群众性的自我教育和向群众学。",
+      "keywords": [
+        "马克思列宁主义",
+        "毛泽东思想",
+        "党内文件",
+        "组织纪律",
+        "自我教育",
+        "向群众学"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特色"
+    },
+    {
+      "id": "china-reviewed-ch11-kangda-8",
+      "knowledgeId": "china-reviewed-ch11-kangda",
+      "title": "3.评价",
+      "text": "培养了大批既有理论知识又有实际工作能力、既能文又能武的抗日军政干部。",
+      "keywords": [
+        "理论知识",
+        "实际工作能力",
+        "能文能武",
+        "抗日军政干部"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-mass-education-0",
+      "knowledgeId": "china-reviewed-ch11-mass-education",
+      "title": "1.形式",
+      "text": "冬学、民校最受欢迎。",
+      "keywords": [
+        "冬学",
+        "民校"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-mass-education-1",
+      "knowledgeId": "china-reviewed-ch11-mass-education",
+      "title": "2.任务",
+      "text": "扫除文盲，提高政治觉悟。",
+      "keywords": [
+        "扫除文盲",
+        "政治觉悟"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-primary-education-0",
+      "knowledgeId": "china-reviewed-ch11-primary-education",
+      "title": "（1）学制建设",
+      "text": "学制为五年，分为初等小学三年、高等小学两年。",
+      "keywords": [
+        "五年",
+        "初小三年",
+        "高小两年"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-primary-education-1",
+      "knowledgeId": "china-reviewed-ch11-primary-education",
+      "title": "（2）办学形式",
+      "text": "实行民办公助。",
+      "keywords": [
+        "民办公助"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-primary-education-2",
+      "knowledgeId": "china-reviewed-ch11-primary-education",
+      "title": "（3）教育内容",
+      "text": "包括基本知识与技能，战时政治、生产劳动、爱国教育和军事训练。",
+      "keywords": [
+        "基本知识技能",
+        "战时政治",
+        "生产劳动",
+        "爱国教育",
+        "军事训练"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-regular-education-0",
+      "knowledgeId": "china-reviewed-ch11-regular-education",
+      "title": "正规化",
+      "text": "从中等教育开始，延伸到小学教育，注意文化科学知识的学习。",
+      "keywords": [
+        "中等教育",
+        "小学教育",
+        "文化科学知识"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-higher-education-0",
+      "knowledgeId": "china-reviewed-ch11-higher-education",
+      "title": "（1）训练班",
+      "text": "办“抗大”式训练班。",
+      "keywords": [
+        "抗大式训练班"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-higher-education-1",
+      "knowledgeId": "china-reviewed-ch11-higher-education",
+      "title": "（2）原有大学正规化",
+      "text": "原有大学正规化，如中国人民大学。",
+      "keywords": [
+        "原有大学正规化",
+        "中国人民大学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-higher-education-2",
+      "knowledgeId": "china-reviewed-ch11-higher-education",
+      "title": "（3）创办新大学",
+      "text": "创办新大学：东北有哈尔滨工业大学、东北大学，山东有山东大学。",
+      "keywords": [
+        "哈尔滨工业大学",
+        "东北大学",
+        "山东大学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-serve-politics-0",
+      "knowledgeId": "china-reviewed-ch11-serve-politics",
+      "title": "1.教育类型",
+      "text": "正确处理特定环境下的轻重缓急。",
+      "keywords": [
+        "教育类型",
+        "轻重缓急"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-serve-politics-1",
+      "knowledgeId": "china-reviewed-ch11-serve-politics",
+      "title": "2.教育内容",
+      "text": "始终服从战争的需要。",
+      "keywords": [
+        "教育内容",
+        "战争需要"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-serve-politics-2",
+      "knowledgeId": "china-reviewed-ch11-serve-politics",
+      "title": "3.教学组织",
+      "text": "充分考虑到战争条件和政治需要。",
+      "keywords": [
+        "教学组织",
+        "战争条件",
+        "政治需要"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-combine-labor-0",
+      "knowledgeId": "china-reviewed-ch11-combine-labor",
+      "title": "1.教育内容",
+      "text": "教育内容要紧密联系生产和生活实际。",
+      "keywords": [
+        "教育内容",
+        "生产生活实际"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-combine-labor-1",
+      "knowledgeId": "china-reviewed-ch11-combine-labor",
+      "title": "2.教学安排",
+      "text": "教学组织和时间安排注意适应生产需要。",
+      "keywords": [
+        "教学组织",
+        "时间安排",
+        "生产需要"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-combine-labor-2",
+      "knowledgeId": "china-reviewed-ch11-combine-labor",
+      "title": "3.生产劳动",
+      "text": "要求学生参加实际的生产劳动。",
+      "keywords": [
+        "学生",
+        "生产劳动"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch11-rely-on-masses-0",
+      "knowledgeId": "china-reviewed-ch11-rely-on-masses",
+      "title": "1.（1）成人教育",
+      "text": "依靠群众力量办成人教育。",
+      "keywords": [
+        "群众力量",
+        "成人教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.表现"
+    },
+    {
+      "id": "china-reviewed-ch11-rely-on-masses-1",
+      "knowledgeId": "china-reviewed-ch11-rely-on-masses",
+      "title": "1.（2）普通小学",
+      "text": "依靠群众力量办普通小学，特别表现为民办公助的形式。",
+      "keywords": [
+        "普通小学",
+        "民办公助"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.表现"
+    },
+    {
+      "id": "china-reviewed-ch11-rely-on-masses-2",
+      "knowledgeId": "china-reviewed-ch11-rely-on-masses",
+      "title": "1.（3）干部教育",
+      "text": "干部教育不脱离群众。",
+      "keywords": [
+        "干部教育",
+        "不脱离群众"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.表现"
+    },
+    {
+      "id": "china-reviewed-ch11-rely-on-masses-3",
+      "knowledgeId": "china-reviewed-ch11-rely-on-masses",
+      "title": "2.（1）满足需要",
+      "text": "满足群众的需要。",
+      "keywords": [
+        "群众需要"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.两条原则"
+    },
+    {
+      "id": "china-reviewed-ch11-rely-on-masses-4",
+      "knowledgeId": "china-reviewed-ch11-rely-on-masses",
+      "title": "2.（2）群众自愿",
+      "text": "出于群众的自愿。",
+      "keywords": [
+        "群众自愿"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.两条原则"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p095-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "新民主主义教育的发端 · 第87页（1）",
+        "section": "",
+        "refs": [
+          {
+            "page": 95,
+            "rect": [
+              0.08547,
+              0.16494,
+              0.81594,
+              0.60544
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 95153,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p095-k01-0-s0",
+          "knowledgeId": "china-p095-k01-0",
+          "title": "李大钊",
+          "text": "①论教育的本质：a.教育决定于经济基础且受政治制约。\nb.仅靠教育本身的努力无法改造中国社会。\nc.在革命进程中，教育与革命应该双管齐下。\n(1）李大钊\n②倡导工农大众的教育：指导思想是平民主义、\n工人教育、农民教育。\n1教育思想",
+          "keywords": [
+            "李大钊",
+            "教育思想"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p095-k01-0-s1",
+          "knowledgeId": "china-p095-k01-0",
+          "title": "早期马克思主义者的教育",
+          "text": "③倡导青年教育：a.必须树立正确的人生观。\nb.必须磨炼坚强的意志。\n早期马克思主义者的教育\nC.必须走与工农相结合的道路。\n①教育与社会改造：先改造好社会，才能发展良好的教育。\n②儿童教育：儿童公育。\n③中等教育：全面改革。a.教育目的改革一兼顾升学与就业。",
+          "keywords": [
+            "早期马克思主义者的教育",
+            "②儿童教育：儿童公育"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p095-k01-0-s2",
+          "knowledgeId": "china-p095-k01-0",
+          "title": "恽代英",
+          "text": "(2)恽代英\nb.课程改革一——强调学以致用。\nc.教材改革一—强调实际需要与学生心理。\nd.教学方法改革一—\n强调自学辅导法。\n2教育实践\n（1）留法勤工俭学运动。\n（2）长辛店劳动补习学校。\n（1）工人教育：开展工人教育活动一如长辛店劳动补习学校。",
+          "keywords": [
+            "恽代英",
+            "教育实践"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p095-k01-0-s3",
+          "knowledgeId": "china-p095-k01-0",
+          "title": "工农教育",
+          "text": "通过《工人教育的决议案》。\n1.工农教育\n（2）农民教育：开展农民教育活动，如广东海陆丰农民学校。\n通过《农村教育决议案》。\n二中国共产党领导下的工农\n教育、青年教育与干部教育\n2.青年教育\n从社会教育、政治教育、学校教育三个方面培育青年。\n(1)湖南自修大学。",
+          "keywords": [
+            "工农教育",
+            "中国共产党领导下的工农",
+            "教育、青年教育与干部教育"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p095-k01-0-s4",
+          "knowledgeId": "china-p095-k01-0",
+          "title": "上海大学",
+          "text": "①简介：毛泽东、何叔衡等人于1921年在长沙创办。\n②特点：“平民主义的大学”，实现平民读大学的理想，为“改造社会”做准\n备。自学为主，辅以授课，反对灌注，强调劳动，注重传播马克思主义。\n(2) 上海大学。",
+          "keywords": [
+            "上海大学"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p095-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "新民主主义教育的发端 · 第87页（2）",
+        "section": "",
+        "refs": [
+          {
+            "page": 95,
+            "rect": [
+              0.18215,
+              0.76197,
+              0.71649,
+              0.147
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 95696,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p095-k01-1-s0",
+          "knowledgeId": "china-p095-k01-1",
+          "title": "干部教育",
+          "text": "①简介：中国共产党于1922年在上海创办的高等学校，培育革命人才。\n②特点：教师授课与学生自学相结合，尤重讨论。\n3.干部教育\n(3）农民运动讲习所。\n①简介：国共合作时期培养农民运动干部的学校，也是全国农民运动研究中心。",
+          "keywords": [
+            "干部教育",
+            "农民运动讲习所"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p095-k01-1-s1",
+          "knowledgeId": "china-p095-k01-1",
+          "title": "原文小步 7",
+          "text": "②特点：突出理论与实际相结合，课堂讲授与课外实习、自学与集体讨论、\n调查研究相结合，并将学员关于农民实际问题的调查结果刊载于《农民问\n题丛刊》。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p096-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "新民主主义教育的发端 · 第88页",
+        "section": "",
+        "refs": [
+          {
+            "page": 96,
+            "rect": [
+              0.10204,
+              0.08281,
+              0.82354,
+              0.22811
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 96079,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p096-k00-0-s0",
+          "knowledgeId": "china-p096-k00-0",
+          "title": "特色",
+          "text": "1.简介：1924年，第一次国共合作期间，孙中山筹办的“中国国民党陆军军官学校”。\n2.特色：\n三国共合作时期的黄埔军校\n（1）办学宗旨：贯彻新三民主义，政治教育首位，政治教育+军事教育。\n（2）培育目标：培养军事政治人才。",
+          "keywords": [
+            "特色",
+            "国共合作时期的黄埔军校"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p096-k00-0-s1",
+          "knowledgeId": "china-p096-k00-0",
+          "title": "共产党的贡献",
+          "text": "（3）教学方式：课堂教学+现实斗争。\n（4）学校管理：纪律严明、管理规范、从严治校\n交——军法管理。\n3. 共产党的贡献：\n（1）筹建：中国共产党多次促成国民党和共产国际的沟通，使黄埔军校顺利筹建。",
+          "keywords": [
+            "共产党的贡献"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p096-k00-0-s2",
+          "knowledgeId": "china-p096-k00-0",
+          "title": "原文小步 3",
+          "text": "（2）招生：中国共产党派代表赴各地秘密招生，选拔进步青年应考。\n（3）政治：中国共产党一手建立起军校的政治工作。周恩来等做出突出贡献。\n4.评价：黄埔军校为我国培养了一批重要的军事将领和政治人才，永远是中国享有盛名的军事院校。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p096-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "新民主主义教育方针的形成 · 第88页",
+        "section": "",
+        "refs": [
+          {
+            "page": 96,
+            "rect": [
+              0.1497,
+              0.38106,
+              0.78141,
+              0.2312
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 96348,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p096-k01-0-s0",
+          "knowledgeId": "china-p096-k01-0",
+          "title": "新民主主义教育方针的形成",
+          "text": "1934 年，毛泽东提出苏维埃文化教育总方针（四个“在于\"）:\n1.在于以共产主义的精神来教育广大的劳苦民众。\n新民主主义教育方针的形成\n（一）苏区\n2.在于使文化教育为革命战争与阶级斗争服务。\n3.在于使教育与劳动联系起来。",
+          "keywords": [
+            "新民主主义教育方针的形成",
+            "苏区"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p096-k01-0-s1",
+          "knowledgeId": "china-p096-k01-0",
+          "title": "初期政策",
+          "text": "4.在于使广大中国民众都成为享受文明幸福的人。\n（1）文化教育中的统一战线政策。\n(2）“干部教育第一，国民教育第二”的政策。\n1.初期政策\n(3）“实行教育与生产劳动相结合”的政策\n（二)\n抗战时期\n（4）“民办公助”的政策。发动社会和民间的力量办教育，",
+          "keywords": [
+            "初期政策",
+            "抗战时期"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p096-k01-0-s2",
+          "knowledgeId": "china-p096-k01-0",
+          "title": "后期方针",
+          "text": "政府指导和帮助民办学校。\n2. 后期方针\n民族的、科学的、大众的”文化教育方针。",
+          "keywords": [
+            "后期方针"
+          ],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p096-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "革命根据地的干部教育 · 第88页",
+        "section": "",
+        "refs": [
+          {
+            "page": 96,
+            "rect": [
+              0.12414,
+              0.71885,
+              0.65917,
+              0.13674
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 96652,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p096-k02-0-s0",
+          "knowledgeId": "china-p096-k02-0",
+          "title": "革命根据地的干部教育",
+          "text": "革命根据地的干部教育\n目的：提高在职干部水平或训练某种专业人员。\n一\n在职干部教育\n1.高级干部学校一—培养党政高级干部的学校。\n（二）干部学校教育\n2.中级干部学校一—培养各部门中级干部的学校。",
+          "keywords": [
+            "革命根据地的干部教育",
+            "在职干部教育",
+            "干部学校教育"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p097-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "革命根据地的干部教育 · 第89页",
+        "section": "",
+        "refs": [
+          {
+            "page": 97,
+            "rect": [
+              0.0819,
+              0.08067,
+              0.82724,
+              0.28584
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 97078,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p097-k00-0-s0",
+          "knowledgeId": "china-p097-k00-0",
+          "title": "特色 ",
+          "text": "1.简介：全称是中国人民抗日军事政治大学，是中国共产党创建的一所培养\n抗日军政干部的学校。\n2. 特色 :\n(1）方针：“坚定不移的政治方向（首位)，艰苦奋斗的工作作风，加上机动灵\n革命根据地的干部教育\n活的战略战术”。\n（2）校训：“团结、紧张、严肃、活泼”。",
+          "keywords": [
+            "特色 ",
+            "革命根据地的干部教育",
+            "活的战略战术”"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p097-k00-0-s1",
+          "knowledgeId": "china-p097-k00-0",
+          "title": "“抗大”",
+          "text": "（3）宗旨：训练抗日救国军政领导人才。\n（三）“抗大”\n（4）学风：理论联系实际。\n★★育\n（5）课程：设置军事、政治、文化三类课程，坚持“少而精原则”。\n（6）方法：启发式、研究式、实验式和“活”的考试。",
+          "keywords": [
+            "“抗大”",
+            "学风：理论联系实际",
+            "★★育"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p097-k00-0-s2",
+          "knowledgeId": "china-p097-k00-0",
+          "title": "原文小步 3",
+          "text": "（7）思政：以马克思列宁主义、毛泽东思想为核心内容（学习理论+党内文件+\n组织纪律+群众性的自我教育+向群众学）。\n3.评价：培养了大批既有理论知识又有实际工作能力、既能文又能武的抗日\n军政干部。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p097-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "革命根据地的群众教育和普通教育 · 第89页",
+        "section": "",
+        "refs": [
+          {
+            "page": 97,
+            "rect": [
+              0.08121,
+              0.43349,
+              0.82241,
+              0.27866
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 97395,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p097-k01-0-s0",
+          "knowledgeId": "china-p097-k01-0",
+          "title": "群众教育",
+          "text": "革命根据地的群众教育和普通教育\n1.形式：冬学、民校最受欢迎。\n群众教育\n2.任务：扫除文盲+提高政治觉悟。\n1.根据地的小学教育。\n（1）学制建设：学制为五年，分为初等小学三年、高等小学两年。\n（2）办学形式：民办公助。",
+          "keywords": [
+            "革命根据地的群众教育和普通教育",
+            "群众教育",
+            "根据地的小学教育"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p097-k01-0-s1",
+          "knowledgeId": "china-p097-k01-0",
+          "title": "普通教育",
+          "text": "（3）教育内容：基本知识与技能，战时政治、生产劳动、爱国教育和军事训练。\n2.解放区中小学教育的正规化。从中等教育开始，延伸到小学教育，注意文\n(二)\n普通教育\n化科学知识的学习。\n3.解放区高等教育的整顿与建设。\n（1）办“抗大”式训练班。",
+          "keywords": [
+            "普通教育"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p097-k01-0-s2",
+          "knowledgeId": "china-p097-k01-0",
+          "title": "原文小步 3",
+          "text": "（2）原有大学正规化。如：中国人民大学。\n(3）\n创办新大学。如：东北一哈尔滨工业大学、东北大学。\n山东—山东大学。",
+          "keywords": [],
+          "order": 2,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p097-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "革命根据地教育的基本经验 · 第89页",
+        "section": "",
+        "refs": [
+          {
+            "page": 97,
+            "rect": [
+              0.15845,
+              0.74272,
+              0.64379,
+              0.18123
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 97673,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p097-k02-0-s0",
+          "knowledgeId": "china-p097-k02-0",
+          "title": "选:论",
+          "text": "选:论\n1.在教育类型上，正确处理特定环境下的轻重缓急。\n一\n坚持教育为政治服务\n2.在教育内容上，始终服从战争的需要。\n3.在教学组织上，充分考虑到战争条件和政治需要。\n1.教育内容要紧密联系生产和生活实际。\n教育与生产劳动相结合",
+          "keywords": [
+            "选:论",
+            "坚持教育为政治服务",
+            "教育与生产劳动相结合"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p097-k02-0-s1",
+          "knowledgeId": "china-p097-k02-0",
+          "title": "原文小步 2",
+          "text": "2.教学组织和时间安排注意适应生产需要。\n3.要求学生参加实际的生产劳动。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p098-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-10",
+        "title": "革命根据地教育的基本经验 · 第90页",
+        "section": "",
+        "refs": [
+          {
+            "page": 98,
+            "rect": [
+              0.09983,
+              0.09297,
+              0.74448,
+              0.16123
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 98089,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p098-k00-0-s0",
+          "knowledgeId": "china-p098-k00-0",
+          "title": "革命根据地教育的基本经验",
+          "text": "革命根据地教育的基本经验\n1.表现：\n（1）依靠群众力量办成人教育。\n（2）依靠群众力量办普通小学，特别表现为民办公助的形式。\n（三）依靠群众办学\n（3）干部教育不脱离群众。\n2.两条原则：\n（1）满足群众的需要。\n（2）出于群众的自愿。",
+          "keywords": [
+            "革命根据地教育的基本经验",
+            "依靠群众办学"
+          ],
+          "order": 0,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 5,
+    "knowledge": 21,
+    "steps": 82,
+    "memorizeSteps": 82,
+    "readOnlySteps": 0,
+    "replacedDrafts": 9
+  }
+}

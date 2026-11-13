@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 1,
+  "id": "foreign-proofread-ch16-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "foreign-reviewed-ch16-outline",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-15",
+      "title": "第四章章节框架",
+      "section": "外教 · 西欧中世纪教育 · 章节框架",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.07,
+            0.4,
+            0.86,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 125360,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch16-christian",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-15",
+      "title": "西欧基督教教育",
+      "section": "第一节 · 西欧基督教教育",
+      "refs": [
+        {
+          "page": 125,
+          "rect": [
+            0.07,
+            0.67,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 125603,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch16-palace",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-15",
+      "title": "（一）宫廷学校",
+      "section": "第二节 · 考点一 封建主与贵族的世俗教育",
+      "refs": [
+        {
+          "page": 126,
+          "rect": [
+            0.07,
+            0.17,
+            0.86,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 126153,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch16-knight",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-15",
+      "title": "（二）骑士教育",
+      "section": "第二节 · 考点一 封建主与贵族的世俗教育",
+      "refs": [
+        {
+          "page": 126,
+          "rect": [
+            0.07,
+            0.29,
+            0.86,
+            0.32
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 126261,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch16-city",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-15",
+      "title": "（一）城市学校",
+      "section": "第二节 · 考点二 新兴市民阶层的世俗教育",
+      "refs": [
+        {
+          "page": 126,
+          "rect": [
+            0.07,
+            0.68,
+            0.86,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 126612,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-origin",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-15",
+      "title": "（二）中世纪大学：简介与产生原因",
+      "section": "第二节 · 考点二 新兴市民阶层的世俗教育",
+      "refs": [
+        {
+          "page": 127,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 127072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-15",
+      "title": "（二）中世纪大学：特点与意义",
+      "section": "第二节 · 考点二 新兴市民阶层的世俗教育",
+      "refs": [
+        {
+          "page": 127,
+          "rect": [
+            0.07,
+            0.28,
+            0.86,
+            0.21
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 127252,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "foreign-reviewed-ch16-outline-0",
+      "knowledgeId": "foreign-reviewed-ch16-outline",
+      "title": "第一节",
+      "text": "西欧基督教教育：教育形式、教育机构、教育目的、教育方法。",
+      "keywords": [
+        "基督教教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-outline-1",
+      "knowledgeId": "foreign-reviewed-ch16-outline",
+      "title": "第二节",
+      "text": "西欧世俗教育：封建主与贵族的宫廷学校、骑士教育；新兴市民阶层的城市学校、中世纪大学。",
+      "keywords": [
+        "宫廷学校",
+        "骑士教育",
+        "城市学校",
+        "中世纪大学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-christian-0",
+      "knowledgeId": "foreign-reviewed-ch16-christian",
+      "title": "1.教育形式",
+      "text": "教会教育。",
+      "keywords": [
+        "教会教育"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-christian-1",
+      "knowledgeId": "foreign-reviewed-ch16-christian",
+      "title": "2.教育机构",
+      "text": "修道院学校（最典型）、主教学校、教区学校（堂区学校）。",
+      "keywords": [
+        "修道院学校",
+        "主教学校",
+        "教区学校"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-christian-2",
+      "knowledgeId": "foreign-reviewed-ch16-christian",
+      "title": "3.教育目的",
+      "text": "培养教徒。",
+      "keywords": [
+        "教徒"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-christian-3",
+      "knowledgeId": "foreign-reviewed-ch16-christian",
+      "title": "4.教育方法",
+      "text": "口授、抄背、个别教学、体罚盛行、灌输。",
+      "keywords": [
+        "口授",
+        "抄背",
+        "个别教学",
+        "体罚",
+        "灌输"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-palace-0",
+      "knowledgeId": "foreign-reviewed-ch16-palace",
+      "title": "1.简介",
+      "text": "设在国王或贵族宫廷中，主要培养王公贵族后代的世俗性教育机构。",
+      "keywords": [
+        "宫廷",
+        "王公贵族",
+        "世俗性"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-palace-1",
+      "knowledgeId": "foreign-reviewed-ch16-palace",
+      "title": "2.特点",
+      "text": "以法兰克宫廷学校为例，由阿尔琴管理，培养官吏，学习“七艺”和宗教知识，采用问答法。",
+      "keywords": [
+        "法兰克",
+        "阿尔琴",
+        "七艺",
+        "问答法"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-palace-2",
+      "knowledgeId": "foreign-reviewed-ch16-palace",
+      "title": "3.评价",
+      "text": "为改变文化落后状况而创办，带有浓厚的宗教色彩。",
+      "keywords": [
+        "文化落后",
+        "宗教色彩"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-knight-0",
+      "knowledgeId": "foreign-reviewed-ch16-knight",
+      "title": "1.简介",
+      "text": "中世纪西欧封建社会特殊的家庭教育形式，与等级鲜明的封建制结构相适应。",
+      "keywords": [
+        "家庭教育",
+        "封建制"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-knight-1",
+      "knowledgeId": "foreign-reviewed-ch16-knight",
+      "title": "2.教育目的",
+      "text": "培养勇猛豪侠、忠君敬主的骑士精神和技能。",
+      "keywords": [
+        "勇猛豪侠",
+        "忠君敬主"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-knight-2",
+      "knowledgeId": "foreign-reviewed-ch16-knight",
+      "title": "（1）家庭教育阶段（0～7岁）",
+      "text": "由母亲进行宗教知识、道德及身体养护的教育。",
+      "keywords": [
+        "0～7岁",
+        "母亲",
+        "宗教道德身体"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.教育阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch16-knight-3",
+      "knowledgeId": "foreign-reviewed-ch16-knight",
+      "title": "（2）礼文教育阶段（7～14岁）",
+      "text": "低一级贵族将儿子送到高一级贵族家庭中充当侍童，学习礼节、行为规范、简单知识技艺并进行军事训练。",
+      "keywords": [
+        "7～14岁",
+        "侍童",
+        "礼节",
+        "军事训练"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.教育阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch16-knight-4",
+      "knowledgeId": "foreign-reviewed-ch16-knight",
+      "title": "（3）侍从教育阶段（14～21岁）",
+      "text": "重点学习“骑士七技”：骑马、游泳、投枪、击剑、打猎、弈棋和吟诗。",
+      "keywords": [
+        "14～21岁",
+        "骑士七技"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.教育阶段"
+    },
+    {
+      "id": "foreign-reviewed-ch16-knight-5",
+      "knowledgeId": "foreign-reviewed-ch16-knight",
+      "title": "（1）优点",
+      "text": "具有慷慨豪侠、勇猛果敢的骑士精神，是当时社会所需要的实际应用人才。",
+      "keywords": [
+        "骑士精神",
+        "实用人才"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch16-knight-6",
+      "knowledgeId": "foreign-reviewed-ch16-knight",
+      "title": "（2）局限",
+      "text": "骑士是封建统治阶级的保卫者，骑士教育不重视文化知识的传授。",
+      "keywords": [
+        "保卫者",
+        "文化知识"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.评价"
+    },
+    {
+      "id": "foreign-reviewed-ch16-city-0",
+      "knowledgeId": "foreign-reviewed-ch16-city",
+      "title": "1.简介",
+      "text": "为适应新兴市民阶层需要而产生，是为新兴市民子弟开办的世俗性初等学校的总称，包括行会学校、商会学校（也称基尔特学校）。",
+      "keywords": [
+        "新兴市民",
+        "世俗性",
+        "初等学校",
+        "行会",
+        "商会"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-city-1",
+      "knowledgeId": "foreign-reviewed-ch16-city",
+      "title": "（1）领导权",
+      "text": "最初由行会和商会开办，后来逐渐由市政当局接管。",
+      "keywords": [
+        "行会商会",
+        "市政当局"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-city-2",
+      "knowledgeId": "foreign-reviewed-ch16-city",
+      "title": "（2）培养目标",
+      "text": "培养从事手工业、商业的职业人才。",
+      "keywords": [
+        "手工业",
+        "商业",
+        "职业人才"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-city-3",
+      "knowledgeId": "foreign-reviewed-ch16-city",
+      "title": "（3）教育内容",
+      "text": "强调世俗知识：读写算，以及与商业、手工业相关的各科知识。",
+      "keywords": [
+        "世俗知识",
+        "读写算"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-city-4",
+      "knowledgeId": "foreign-reviewed-ch16-city",
+      "title": "（4）教育方法",
+      "text": "本民族语教学。",
+      "keywords": [
+        "本民族语"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-city-5",
+      "knowledgeId": "foreign-reviewed-ch16-city",
+      "title": "（5）学校性质",
+      "text": "世俗性与职业性。",
+      "keywords": [
+        "世俗性",
+        "职业性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-city-6",
+      "knowledgeId": "foreign-reviewed-ch16-city",
+      "title": "3.评价",
+      "text": "满足新兴市民阶层的教育需要，促进资本主义生产方式的发展。",
+      "keywords": [
+        "市民需要",
+        "资本主义"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-origin-0",
+      "knowledgeId": "foreign-reviewed-ch16-university-origin",
+      "title": "1.简介",
+      "text": "中世纪大学是自治的教授和学习中心，由有声望的学者及其追随者自行组织，形成类似行会的团体进行教学和知识交易。",
+      "keywords": [
+        "自治",
+        "教授和学习中心",
+        "行会"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-origin-1",
+      "knowledgeId": "foreign-reviewed-ch16-university-origin",
+      "title": "代表大学",
+      "text": "波隆那大学以法律见长，萨莱诺大学以医学见长，巴黎大学以神学为中心；另有牛津大学、剑桥大学等。",
+      "keywords": [
+        "波隆那",
+        "萨莱诺",
+        "巴黎",
+        "牛津",
+        "剑桥"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "1.简介"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-origin-2",
+      "knowledgeId": "foreign-reviewed-ch16-university-origin",
+      "title": "（1）政治经济",
+      "text": "西欧封建制度进入鼎盛时期，王权强固、社会稳定、经济繁荣。",
+      "keywords": [
+        "王权强固",
+        "社会稳定",
+        "经济繁荣"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.原因"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-origin-3",
+      "knowledgeId": "foreign-reviewed-ch16-university-origin",
+      "title": "（2）文化交流",
+      "text": "新兴市民阶层重视世俗文化；十字军东征复兴了古希腊、古罗马的世俗文化。",
+      "keywords": [
+        "市民阶层",
+        "十字军东征",
+        "世俗文化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.原因"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-origin-4",
+      "knowledgeId": "foreign-reviewed-ch16-university-origin",
+      "title": "（3）传统教育",
+      "text": "传统的宫廷学校和骑士教育已不能满足人们追求生产或现实生活的需要。",
+      "keywords": [
+        "宫廷学校",
+        "骑士教育",
+        "现实需要"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "2.原因"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-0",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（1）总体特征",
+      "text": "自治和自由。",
+      "keywords": [
+        "自治",
+        "自由"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-1",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（2）教育目的",
+      "text": "培育职业人才。",
+      "keywords": [
+        "职业人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-2",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（3）教育体制",
+      "text": "南欧为“学生”大学，北欧为“先生”大学。",
+      "keywords": [
+        "南欧学生",
+        "北欧先生"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-3",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（4）课程设置",
+      "text": "文、法、神、医四科。",
+      "keywords": [
+        "文法神医"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-4",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（5）学位制度",
+      "text": "“硕士”和“博士”学位。",
+      "keywords": [
+        "硕士",
+        "博士"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-5",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（6）教学方法",
+      "text": "演讲和辩论。",
+      "keywords": [
+        "演讲",
+        "辩论"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "3.特点"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-6",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（1）权利方面",
+      "text": "自由自治。",
+      "keywords": [
+        "自由自治"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.意义"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-7",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（2）思想方面",
+      "text": "促进教育世俗化。",
+      "keywords": [
+        "世俗化"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.意义"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-8",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（3）制度方面",
+      "text": "现代大学的雏形。",
+      "keywords": [
+        "现代大学",
+        "雏形"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.意义"
+    },
+    {
+      "id": "foreign-reviewed-ch16-university-features-9",
+      "knowledgeId": "foreign-reviewed-ch16-university-features",
+      "title": "（4）局限",
+      "text": "宗教色彩浓厚。",
+      "keywords": [
+        "宗教色彩"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outline": "4.意义"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "stats": {
+    "pages": 3,
+    "knowledge": 7,
+    "steps": 38,
+    "referenceOnly": 0
+  }
+}

@@ -1,0 +1,2443 @@
+{
+  "schemaVersion": 1,
+  "id": "china-proofread-ch3-v1",
+  "bookId": "kaicheng-333-history",
+  "knowledge": [
+    {
+      "id": "china-reviewed-ch3-policy-overview",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "汉代文教政策：从“黄老之学”到“独尊儒术”",
+      "section": "第一节 · 汉代的教育制度与实践 · 文教政策",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.13,
+            0.16,
+            0.76,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34144,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-huanglao",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "汉初“黄老之学”的文教政策",
+      "section": "第一节 · 汉代的教育制度与实践 · 文教政策",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.14,
+            0.19,
+            0.73,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34171,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-policy",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "“独尊儒术”文教政策的内容",
+      "section": "第一节 · 汉代的教育制度与实践 · 文教政策",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.3,
+            0.315,
+            0.57,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34283,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-measures",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "“独尊儒术”的制度化措施",
+      "section": "第一节 · 汉代的教育制度与实践 · 文教政策",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.3,
+            0.45,
+            0.57,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34405,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "“独尊儒术”文教政策的影响",
+      "section": "第一节 · 汉代的教育制度与实践 · 文教政策",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.3,
+            0.535,
+            0.57,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34481,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-school-system",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "汉代学校系统：官学与私学",
+      "section": "第一节 · 汉代的教育制度与实践 · 育士制度",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.13,
+            0.62,
+            0.76,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34558,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-intro",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "西汉中央官学：太学的建立",
+      "section": "第一节 · 汉代的教育制度与实践 · 太学",
+      "refs": [
+        {
+          "page": 34,
+          "rect": [
+            0.18,
+            0.805,
+            0.69,
+            0.09
+          ]
+        },
+        {
+          "page": 35,
+          "rect": [
+            0.13,
+            0.08,
+            0.76,
+            0.09
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 34724,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "汉代太学的主要特点",
+      "section": "第一节 · 汉代的教育制度与实践 · 太学",
+      "refs": [
+        {
+          "page": 35,
+          "rect": [
+            0.13,
+            0.08,
+            0.76,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 35072,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "汉代太学的评价与局限",
+      "section": "第一节 · 汉代的教育制度与实践 · 太学",
+      "refs": [
+        {
+          "page": 35,
+          "rect": [
+            0.13,
+            0.34,
+            0.76,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 35306,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-hongdu",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "东汉中央官学：鸿都门学与宫邸学",
+      "section": "第一节 · 汉代的教育制度与实践 · 官学",
+      "refs": [
+        {
+          "page": 35,
+          "rect": [
+            0.13,
+            0.49,
+            0.76,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 35441,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-local-school",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "两汉地方官学：郡国学",
+      "section": "第一节 · 汉代的教育制度与实践 · 郡国学",
+      "refs": [
+        {
+          "page": 35,
+          "rect": [
+            0.13,
+            0.705,
+            0.76,
+            0.18
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 35634,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-private-school",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "汉代私学：书馆、经馆与次相传授",
+      "section": "第一节 · 汉代的教育制度与实践 · 私学",
+      "refs": [
+        {
+          "page": 36,
+          "rect": [
+            0.12,
+            0.06,
+            0.78,
+            0.39
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 36054,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-streams",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "汉代经学教育：今文经学与古文经学",
+      "section": "第一节 · 汉代的教育制度与实践 · 经学教育",
+      "refs": [
+        {
+          "page": 36,
+          "rect": [
+            0.12,
+            0.58,
+            0.78,
+            0.24
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 36522,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-inheritance",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "经学传授：章句之学、师法与家法",
+      "section": "第一节 · 汉代的教育制度与实践 · 经学教育",
+      "refs": [
+        {
+          "page": 37,
+          "rect": [
+            0.14,
+            0.07,
+            0.73,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 37063,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-meetings",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "经学会议与石经",
+      "section": "第一节 · 汉代的教育制度与实践 · 经学教育",
+      "refs": [
+        {
+          "page": 37,
+          "rect": [
+            0.14,
+            0.27,
+            0.73,
+            0.13
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 37243,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-features",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "汉代经学教育的特点",
+      "section": "第一节 · 汉代的教育制度与实践 · 经学教育",
+      "refs": [
+        {
+          "page": 37,
+          "rect": [
+            0.14,
+            0.4,
+            0.73,
+            0.12
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 37360,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-recommendation",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "察举制度：形成、对象与科目",
+      "section": "第一节 · 汉代的教育制度与实践 · 选士制度",
+      "refs": [
+        {
+          "page": 37,
+          "rect": [
+            0.13,
+            0.56,
+            0.75,
+            0.29
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 37504,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-recommendation-impact",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "察举制度的影响",
+      "section": "第一节 · 汉代的教育制度与实践 · 选士制度",
+      "refs": [
+        {
+          "page": 37,
+          "rect": [
+            0.13,
+            0.855,
+            0.75,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 37769,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "董仲舒的教育实践",
+      "section": "第二节 · 汉代的教育思想 · 董仲舒",
+      "refs": [
+        {
+          "page": 38,
+          "rect": [
+            0.12,
+            0.14,
+            0.77,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 38126,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-nature",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "董仲舒的人性论与教育作用",
+      "section": "第二节 · 汉代的教育思想 · 董仲舒",
+      "refs": [
+        {
+          "page": 38,
+          "rect": [
+            0.16,
+            0.25,
+            0.72,
+            0.27
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 38225,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-moral",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "董仲舒的德育思想",
+      "section": "第二节 · 汉代的教育思想 · 董仲舒",
+      "refs": [
+        {
+          "page": 38,
+          "rect": [
+            0.16,
+            0.56,
+            0.72,
+            0.26
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 38504,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "董仲舒教育思想的评价",
+      "section": "第二节 · 汉代的教育思想 · 董仲舒",
+      "refs": [
+        {
+          "page": 38,
+          "rect": [
+            0.16,
+            0.86,
+            0.72,
+            0.08
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 38774,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-practice",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "王充的教育实践",
+      "section": "第二节 · 汉代的教育思想 · 王充",
+      "refs": [
+        {
+          "page": 39,
+          "rect": [
+            0.14,
+            0.08,
+            0.72,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 39072,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-role",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "王充的人性论与教育作用",
+      "section": "第二节 · 汉代的教育思想 · 王充",
+      "refs": [
+        {
+          "page": 39,
+          "rect": [
+            0.14,
+            0.27,
+            0.72,
+            0.2
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 39243,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-goals",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "王充的培养目标",
+      "section": "第二节 · 汉代的教育思想 · 王充",
+      "refs": [
+        {
+          "page": 39,
+          "rect": [
+            0.14,
+            0.485,
+            0.72,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 39436,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-learning",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "王充论学习",
+      "section": "第二节 · 汉代的教育思想 · 王充",
+      "refs": [
+        {
+          "page": 39,
+          "rect": [
+            0.14,
+            0.7,
+            0.72,
+            0.19
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 39630,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-eval",
+      "bookId": "kaicheng-333-history",
+      "chapterId": "history-chapter-2",
+      "title": "王充教育思想的评价",
+      "section": "第二节 · 汉代的教育思想 · 王充",
+      "refs": [
+        {
+          "page": 39,
+          "rect": [
+            0.14,
+            0.91,
+            0.72,
+            0.055
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 39819,
+      "reviewNote": "已对照扫描原页校对文字、引文与层级；简介、评价和教材绝对化表述默认只需阅读。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "china-reviewed-ch3-policy-overview-0",
+      "knowledgeId": "china-reviewed-ch3-policy-overview",
+      "title": "汉初背景",
+      "text": "鉴于秦朝灭亡的经验，汉初实行“清静无为”的“黄老之学”文教政策。",
+      "keywords": [
+        "秦亡经验",
+        "清静无为",
+        "黄老之学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-policy-overview-1",
+      "knowledgeId": "china-reviewed-ch3-policy-overview",
+      "title": "政策转变",
+      "text": "汉武帝时期确立“独尊儒术”的文教政策，儒学逐步成为国家教育的主体内容。",
+      "keywords": [
+        "汉武帝",
+        "独尊儒术",
+        "儒学教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-huanglao-0",
+      "knowledgeId": "china-reviewed-ch3-huanglao",
+      "title": "主要内容",
+      "text": "重视知识分子的作用；允许开办私学；废除“挟书律”。",
+      "keywords": [
+        "知识分子",
+        "私学",
+        "废挟书律"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-huanglao-1",
+      "knowledgeId": "china-reviewed-ch3-huanglao",
+      "title": "积极影响",
+      "text": "留下百家争鸣的遗风，并为后来儒学独尊奠定基础。",
+      "keywords": [
+        "百家争鸣遗风",
+        "奠定基础"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-policy-0",
+      "knowledgeId": "china-reviewed-ch3-confucian-policy",
+      "title": "总纲领",
+      "text": "“推明孔氏，抑黜百家。”",
+      "keywords": [
+        "推明孔氏",
+        "抑黜百家"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-policy-1",
+      "knowledgeId": "china-reviewed-ch3-confucian-policy",
+      "title": "兴太学以养士",
+      "text": "通过兴办太学培养士人。",
+      "keywords": [
+        "兴太学",
+        "养士"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-policy-2",
+      "knowledgeId": "china-reviewed-ch3-confucian-policy",
+      "title": "重视选举，任贤使能",
+      "text": "“量材而授官，录德而定位”，重视选举人才、任贤使能。",
+      "keywords": [
+        "重视选举",
+        "量材授官",
+        "录德定位"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-measures-0",
+      "knowledgeId": "china-reviewed-ch3-confucian-measures",
+      "title": "设五经博士",
+      "text": "设立五经博士，使儒家经典获得官方传授地位。",
+      "keywords": [
+        "五经博士",
+        "官方传授"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-measures-1",
+      "knowledgeId": "china-reviewed-ch3-confucian-measures",
+      "title": "创办太学",
+      "text": "创办太学，建立中央官学。",
+      "keywords": [
+        "太学",
+        "中央官学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-measures-2",
+      "knowledgeId": "china-reviewed-ch3-confucian-measures",
+      "title": "确立察举制",
+      "text": "确立察举制度，使选士制度化。",
+      "keywords": [
+        "察举制",
+        "选士制度化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-impact-0",
+      "knowledgeId": "china-reviewed-ch3-confucian-impact",
+      "title": "教育地位",
+      "text": "确立教育为治国之本的地位，汉代以后各个朝代重教兴学。",
+      "keywords": [
+        "教育治国之本",
+        "重教兴学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-impact-1",
+      "knowledgeId": "china-reviewed-ch3-confucian-impact",
+      "title": "教育内容",
+      "text": "儒家经学成为教育的主体内容。",
+      "keywords": [
+        "儒家经学",
+        "主体内容"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-confucian-impact-2",
+      "knowledgeId": "china-reviewed-ch3-confucian-impact",
+      "title": "社会风尚",
+      "text": "形成攻读儒经的社会风尚。",
+      "keywords": [
+        "攻读儒经",
+        "社会风尚"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-school-system-0",
+      "knowledgeId": "china-reviewed-ch3-school-system",
+      "title": "官学系统",
+      "text": "中央官学包括太学、鸿都门学和宫邸学；地方官学为郡国学。",
+      "keywords": [
+        "太学",
+        "鸿都门学",
+        "宫邸学",
+        "郡国学"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-school-system-1",
+      "knowledgeId": "china-reviewed-ch3-school-system",
+      "title": "私学系统",
+      "text": "私学主要包括书馆和经馆。",
+      "keywords": [
+        "书馆",
+        "经馆"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-intro-0",
+      "knowledgeId": "china-reviewed-ch3-taixue-intro",
+      "title": "建立",
+      "text": "汉代董仲舒建议设立的中央官学；汉武帝元朔五年为五经博士设弟子，标志太学正式成立，也标志以经学教育为基本内容的中国封建教育制度正式确立。",
+      "keywords": [
+        "董仲舒建议",
+        "元朔五年",
+        "博士弟子",
+        "正式成立"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-intro-1",
+      "knowledgeId": "china-reviewed-ch3-taixue-intro",
+      "title": "师生称谓",
+      "text": "教师为博士：西汉博士首领称仆射，东汉称博士祭酒。学生称博士弟子、诸生、太学生等。",
+      "keywords": [
+        "博士",
+        "仆射",
+        "博士祭酒",
+        "博士弟子"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-features-0",
+      "knowledgeId": "china-reviewed-ch3-taixue-features",
+      "title": "培养目标",
+      "text": "培养“经明行修”的官吏，具备三纲五常的德行。",
+      "keywords": [
+        "经明行修",
+        "官吏",
+        "三纲五常"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-features-1",
+      "knowledgeId": "china-reviewed-ch3-taixue-features",
+      "title": "教学内容",
+      "text": "使用统一教材，学习儒家经典“五经”，不包括《乐》。",
+      "keywords": [
+        "统一教材",
+        "五经",
+        "无乐经"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-features-2",
+      "knowledgeId": "china-reviewed-ch3-taixue-features",
+      "title": "教学形式",
+      "text": "个别或小组教学；“大都授”集体上课；次第相传。",
+      "keywords": [
+        "个别小组",
+        "大都授",
+        "次第相传"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-features-3",
+      "knowledgeId": "china-reviewed-ch3-taixue-features",
+      "title": "考试方式",
+      "text": "设科射策：科指等级，射指用射箭过程比喻答题过程，策指试题。",
+      "keywords": [
+        "科射策",
+        "科等级",
+        "射答题",
+        "策试题"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-eval-0",
+      "knowledgeId": "china-reviewed-ch3-taixue-eval",
+      "title": "历史影响",
+      "text": "原书评价太学为第一所有完备规制的高等学府、巩固封建统治的高等学府，并为反抗黑暗宦官政治的学生运动提供场域。",
+      "keywords": [
+        "完备规制",
+        "巩固统治",
+        "学生运动"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-taixue-eval-1",
+      "knowledgeId": "china-reviewed-ch3-taixue-eval",
+      "title": "局限",
+      "text": "受束缚思想影响，教学中存在排除异己学说、空谈义理的现象。",
+      "keywords": [
+        "束缚思想",
+        "排斥异说",
+        "空谈义理"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-hongdu-0",
+      "knowledgeId": "china-reviewed-ch3-hongdu",
+      "title": "鸿都门学的背景",
+      "text": "汉灵帝在洛阳创办。宦官集团为同太学生支持的官僚集团斗争，借教育培养维护自身的知识分子。",
+      "keywords": [
+        "汉灵帝",
+        "洛阳",
+        "宦官集团"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-hongdu-1",
+      "knowledgeId": "china-reviewed-ch3-hongdu",
+      "title": "内容与学生",
+      "text": "专以尺牍、辞赋、书画为教学和研究内容，与汉灵帝的爱好相投；学生毕业后多封以高官厚禄。",
+      "keywords": [
+        "尺牍辞赋书画",
+        "高官厚禄"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-hongdu-2",
+      "knowledgeId": "china-reviewed-ch3-hongdu",
+      "title": "意义",
+      "text": "打破儒学独尊的教育内容。原书将其评价为世界上最早的文学艺术专门学校。",
+      "keywords": [
+        "打破儒学独尊",
+        "文学艺术专门学校"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-hongdu-3",
+      "knowledgeId": "china-reviewed-ch3-hongdu",
+      "title": "宫邸学",
+      "text": "原书此处从略，仅列为东汉中央官学之一。",
+      "keywords": [
+        "宫邸学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-local-school-0",
+      "knowledgeId": "china-reviewed-ch3-local-school",
+      "title": "兴起",
+      "text": "郡国学校始创于西汉时期的“文翁兴学”。汉景帝时出现“文翁兴学”，汉武帝大力推广郡国学，东汉时盛极一时。",
+      "keywords": [
+        "文翁兴学",
+        "汉景帝",
+        "汉武帝",
+        "东汉"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-local-school-1",
+      "knowledgeId": "china-reviewed-ch3-local-school",
+      "title": "主要目的",
+      "text": "培养本郡属吏并向朝廷推荐优秀学生；举行“乡射”“乡饮酒”，向社会普遍推行道德教化。",
+      "keywords": [
+        "培养属吏",
+        "推荐学生",
+        "乡射乡饮酒",
+        "道德教化"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-local-school-2",
+      "knowledgeId": "china-reviewed-ch3-local-school",
+      "title": "评价",
+      "text": "“文翁兴学”是地方官学的先导；地方官学促进本地教化和经济繁荣。",
+      "keywords": [
+        "地方官学先导",
+        "教化",
+        "经济繁荣"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-private-school-0",
+      "knowledgeId": "china-reviewed-ch3-private-school",
+      "title": "书馆",
+      "text": "又称书舍，是蒙学阶段的主要机构。内容包括识字教育、数学常识和思想道德；常用蒙学教材有《仓颉篇》《凡将篇》《急就篇》，其中史游《急就篇》流传最广。",
+      "keywords": [
+        "书馆书舍",
+        "蒙学",
+        "仓颉篇",
+        "凡将篇",
+        "急就篇"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-private-school-1",
+      "knowledgeId": "china-reviewed-ch3-private-school",
+      "title": "经馆",
+      "text": "又称精舍或精庐，是著名学者聚徒讲学的场所，程度相当于大学，属于高等教育。",
+      "keywords": [
+        "经馆",
+        "精舍精庐",
+        "高等教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-private-school-2",
+      "knowledgeId": "china-reviewed-ch3-private-school",
+      "title": "私学弟子",
+      "text": "“及门弟子”或“授业弟子”直接聆听老师教诲；“著录弟子”慕老师之名、留下名字，由老师承认其弟子身份。",
+      "keywords": [
+        "及门授业",
+        "著录弟子"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-private-school-3",
+      "knowledgeId": "china-reviewed-ch3-private-school",
+      "title": "教育方法与影响",
+      "text": "采用次相传授：老师直接教授从学时间较长的高业弟子，再由高业弟子转授初学者。私学承担绝大部分基础教育任务，教育效果与官学难分上下。",
+      "keywords": [
+        "次相传授",
+        "高业弟子",
+        "基础教育"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-streams-0",
+      "knowledgeId": "china-reviewed-ch3-classics-streams",
+      "title": "经学教育的形成",
+      "text": "经学教育指中国古代以儒家经典为主要内容的教育，始于汉武帝时期，以太学正式设立为标志，历朝历代延续。",
+      "keywords": [
+        "儒家经典",
+        "汉武帝",
+        "太学标志"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-streams-1",
+      "knowledgeId": "china-reviewed-ch3-classics-streams",
+      "title": "今文经学",
+      "text": "汉代初年依据经学大师记忆、背诵，采用当时通行的隶书记录下来的“六经”旧典，以董仲舒等为代表。",
+      "keywords": [
+        "大师记忆",
+        "隶书",
+        "董仲舒"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-streams-2",
+      "knowledgeId": "china-reviewed-ch3-classics-streams",
+      "title": "古文经学",
+      "text": "汉武帝时从地下或孔壁中发掘出来，或经其他途径保存下来的儒经藏本，以王充为代表；东汉后期两派趋向融合，郑玄作出重要贡献。",
+      "keywords": [
+        "孔壁古文",
+        "王充",
+        "融合",
+        "郑玄"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-inheritance-0",
+      "knowledgeId": "china-reviewed-ch3-classics-inheritance",
+      "title": "章句之学",
+      "text": "经师教学所用的讲义。",
+      "keywords": [
+        "经师讲义"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-inheritance-1",
+      "knowledgeId": "china-reviewed-ch3-classics-inheritance",
+      "title": "师法",
+      "text": "博士或著名经学大师的经说。",
+      "keywords": [
+        "博士",
+        "经学大师",
+        "经说"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-inheritance-2",
+      "knowledgeId": "china-reviewed-ch3-classics-inheritance",
+      "title": "家法",
+      "text": "大师弟子对师说有所发展，能够形成一家之言并被学术界和朝廷承认，便形成家法。章句之学、师法、家法加强宗派性和封闭性，阻碍个性与智慧发展。",
+      "keywords": [
+        "弟子发展师说",
+        "一家之言",
+        "朝廷承认",
+        "宗派封闭"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-meetings-0",
+      "knowledgeId": "china-reviewed-ch3-classics-meetings",
+      "title": "经学会议",
+      "text": "两汉皇帝召集著名学者讨论儒学，目的是提供经学研究和教育的规范思想；重要会议有石渠阁会议和白虎观会议。",
+      "keywords": [
+        "皇帝召集",
+        "规范思想",
+        "石渠阁",
+        "白虎观"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-meetings-1",
+      "knowledgeId": "china-reviewed-ch3-classics-meetings",
+      "title": "石经",
+      "text": "立于太学门外，作为规范的经学教科书，目的是统一经学教材，将教育纳入政府所希望的轨道，借经学教育统一思想。",
+      "keywords": [
+        "太学门外",
+        "规范教科书",
+        "统一教材思想"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-features-0",
+      "knowledgeId": "china-reviewed-ch3-classics-features",
+      "title": "派别之争",
+      "text": "经学教育在派别上具有古文经学与今文经学之争的显著特点。",
+      "keywords": [
+        "古今文之争"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-features-1",
+      "knowledgeId": "china-reviewed-ch3-classics-features",
+      "title": "传承方式",
+      "text": "在传承上具有师法、家法及章句之学的重要特点。",
+      "keywords": [
+        "师法家法",
+        "章句之学"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-features-2",
+      "knowledgeId": "china-reviewed-ch3-classics-features",
+      "title": "教育宗旨",
+      "text": "培养儒生，教育宗旨政治化发展。",
+      "keywords": [
+        "培养儒生",
+        "政治化"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-classics-features-3",
+      "knowledgeId": "china-reviewed-ch3-classics-features",
+      "title": "课程教材",
+      "text": "国家课程与教材确立，教学内容书本知识化。",
+      "keywords": [
+        "国家课程教材",
+        "书本知识化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-recommendation-0",
+      "knowledgeId": "china-reviewed-ch3-recommendation",
+      "title": "形成",
+      "text": "察举始于汉代；汉文帝时开始设立，汉武帝时成为比较完备的制度。汉武帝设孝廉一科，标志察举制登上历史舞台。",
+      "keywords": [
+        "汉文帝",
+        "汉武帝",
+        "孝廉科"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-recommendation-1",
+      "knowledgeId": "china-reviewed-ch3-recommendation",
+      "title": "对象",
+      "text": "范围扩大到布衣之士，儒学受优待，开创儒学取士的局面。",
+      "keywords": [
+        "布衣之士",
+        "儒学优待",
+        "儒学取士"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-recommendation-2",
+      "knowledgeId": "china-reviewed-ch3-recommendation",
+      "title": "主要科目",
+      "text": "孝廉：最主要，孝指孝敬父母，廉指清廉勤政；茂材：秀才科，选拔奇才异能之士；贤良方正：选拔直言极谏之士；明经科：选拔通晓儒家经典者；童子科：在童子中选拔博通经典者。",
+      "keywords": [
+        "孝廉",
+        "茂材",
+        "贤良方正",
+        "明经",
+        "童子"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-recommendation-3",
+      "knowledgeId": "china-reviewed-ch3-recommendation",
+      "title": "方式",
+      "text": "察举与考试相结合，并确立察举责任制。",
+      "keywords": [
+        "察举考试结合",
+        "责任制"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-recommendation-impact-0",
+      "knowledgeId": "china-reviewed-ch3-recommendation-impact",
+      "title": "积极影响",
+      "text": "落实“学而优则仕”的思想；形成学习儒学的社会风气；巩固封建官僚政治体制；成为科举制的先导。",
+      "keywords": [
+        "学而优则仕",
+        "儒学风气",
+        "官僚体制",
+        "科举先导"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-recommendation-impact-1",
+      "knowledgeId": "china-reviewed-ch3-recommendation-impact",
+      "title": "消极影响",
+      "text": "权贵干扰取士；沽名钓誉成风；贿赂成风；察举不力。",
+      "keywords": [
+        "权贵干扰",
+        "沽名钓誉",
+        "贿赂",
+        "察举不力"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-practice-0",
+      "knowledgeId": "china-reviewed-ch3-dong-practice",
+      "title": "三大文教政策",
+      "text": "在《对贤良策》中提出罢黜百家、独尊儒术；兴太学以养士；兴察举以选士。",
+      "keywords": [
+        "对贤良策",
+        "罢黜百家",
+        "兴太学",
+        "兴察举"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-nature-0",
+      "knowledgeId": "china-reviewed-ch3-dong-nature",
+      "title": "理论依据",
+      "text": "人性学说是董仲舒论述教育作用的理论依据。人性中有“仁气”和“贪气”，要区分人性与善。",
+      "keywords": [
+        "人性依据",
+        "仁气贪气",
+        "性与善"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-nature-1",
+      "knowledgeId": "china-reviewed-ch3-dong-nature",
+      "title": "圣人之性",
+      "text": "天生至善至纯、具有天赋之性，无须教育也能向善。",
+      "keywords": [
+        "圣人之性",
+        "无须教育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-nature-2",
+      "knowledgeId": "china-reviewed-ch3-dong-nature",
+      "title": "中民之性",
+      "text": "绝大多数普通人所具有，有向善发展的可能性，通过教育才能向善。",
+      "keywords": [
+        "中民之性",
+        "教育向善"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-nature-3",
+      "knowledgeId": "china-reviewed-ch3-dong-nature",
+      "title": "斗筲之性",
+      "text": "恶人之性，没有向善发展的可能性，教化无用，需要刑罚。",
+      "keywords": [
+        "斗筲之性",
+        "教化无用",
+        "刑罚"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-moral-0",
+      "knowledgeId": "china-reviewed-ch3-dong-moral",
+      "title": "地位与内容",
+      "text": "德教是立政之本；以“三纲五常”为核心。三纲为君为臣纲、父为子纲、夫为妻纲；五常为仁、义、礼、智、信，成为封建道德教育的中心内容。",
+      "keywords": [
+        "德教立政",
+        "三纲",
+        "五常"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-moral-1",
+      "knowledgeId": "china-reviewed-ch3-dong-moral",
+      "title": "义利观",
+      "text": "“正其谊（义）不谋其利，明其道不计其功”，确立重义轻利的人生理想。",
+      "keywords": [
+        "重义轻利",
+        "正谊明道"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-moral-2",
+      "knowledgeId": "china-reviewed-ch3-dong-moral",
+      "title": "以仁安人，以义正我",
+      "text": "尊重个体生命价值和权利，体现个人对社会的责任与义务。",
+      "keywords": [
+        "以仁安人",
+        "以义正我"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-moral-3",
+      "knowledgeId": "china-reviewed-ch3-dong-moral",
+      "title": "必仁且智",
+      "text": "突出道德修养中情感与认知的统一。",
+      "keywords": [
+        "仁智",
+        "情感认知统一"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-moral-4",
+      "knowledgeId": "china-reviewed-ch3-dong-moral",
+      "title": "强勉行道",
+      "text": "努力地思考和践行道德修养。",
+      "keywords": [
+        "强勉",
+        "思考践行"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-eval-0",
+      "knowledgeId": "china-reviewed-ch3-dong-eval",
+      "title": "政治作用",
+      "text": "“独尊儒术”有利于巩固封建中央集权统治。",
+      "keywords": [
+        "独尊儒术",
+        "中央集权"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-dong-eval-1",
+      "knowledgeId": "china-reviewed-ch3-dong-eval",
+      "title": "伦理作用",
+      "text": "“三纲五常”有利于建构封建伦理纲常，是实现仁政德治的手段。",
+      "keywords": [
+        "三纲五常",
+        "伦理纲常",
+        "仁政德治"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "read"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-practice-0",
+      "knowledgeId": "china-reviewed-ch3-wang-practice",
+      "title": "批判谶纬神学",
+      "text": "主张天道自然、万物自生，认为万物由“元气”构成、一元，人死神灭；王充是唯物主义思想家和无神论者。",
+      "keywords": [
+        "天道自然",
+        "万物自生",
+        "元气一元",
+        "人死神灭",
+        "唯物无神"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-practice-1",
+      "knowledgeId": "china-reviewed-ch3-wang-practice",
+      "title": "反对经学迷信",
+      "text": "反对信师古，主张“极问”；反对记诵章句，主张“贵通”。",
+      "keywords": [
+        "极问",
+        "贵通",
+        "反师古章句"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-role-0",
+      "knowledgeId": "china-reviewed-ch3-wang-role",
+      "title": "性三品",
+      "text": "中人以上：教育起作用，不教也善；中人：教育起作用，促使向善；中人以下：教育起作用，改恶为善。",
+      "keywords": [
+        "性三品",
+        "中人以上",
+        "中人",
+        "中人以下"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-role-1",
+      "knowledgeId": "china-reviewed-ch3-wang-role",
+      "title": "对个人",
+      "text": "人的善恶关键在于教育，即“在化不在性”。",
+      "keywords": [
+        "在化不在性",
+        "个人作用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-role-2",
+      "knowledgeId": "china-reviewed-ch3-wang-role",
+      "title": "对社会",
+      "text": "教育对社会的作用具有隐效性、间接性。",
+      "keywords": [
+        "隐效性",
+        "间接性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-goals-0",
+      "knowledgeId": "china-reviewed-ch3-wang-goals",
+      "title": "鸿儒",
+      "text": "有创新能力、不可多得的理论学术人才，是杰出的学术人才；原书标注为王充首次提出。",
+      "keywords": [
+        "鸿儒",
+        "创新能力",
+        "学术人才"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-goals-1",
+      "knowledgeId": "china-reviewed-ch3-wang-goals",
+      "title": "文人",
+      "text": "知识渊博、能够融会贯通，是称职的行政人才、杰出的政治人才。",
+      "keywords": [
+        "文人",
+        "融会贯通",
+        "行政政治人才"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-goals-2",
+      "knowledgeId": "china-reviewed-ch3-wang-goals",
+      "title": "通人",
+      "text": "掌握丰富的书本知识，但不能结合实际。",
+      "keywords": [
+        "通人",
+        "书本知识",
+        "不能结合实际"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-goals-3",
+      "knowledgeId": "china-reviewed-ch3-wang-goals",
+      "title": "儒生",
+      "text": "至少精通一种儒家经典，知识面窄，既不博古，也不通今。",
+      "keywords": [
+        "儒生",
+        "一经",
+        "不博古通今"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-goals-4",
+      "knowledgeId": "china-reviewed-ch3-wang-goals",
+      "title": "文吏",
+      "text": "受过识字教育，没有丰富的思想。",
+      "keywords": [
+        "文吏",
+        "识字教育"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-learning-0",
+      "knowledgeId": "china-reviewed-ch3-wang-learning",
+      "title": "学知与闻见",
+      "text": "知识来源于闻见，“人有知学，则有力矣”。",
+      "keywords": [
+        "闻见",
+        "知学有力"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-learning-1",
+      "knowledgeId": "china-reviewed-ch3-wang-learning",
+      "title": "思考与求是",
+      "text": "知识需要理性思考加工，理性认识即“开心意”；辨别真伪要在实践中检验，坚持“效验”“有证”，“事莫明于有效，论莫定于有证”。",
+      "keywords": [
+        "开心意",
+        "实践检验",
+        "效验有证"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-learning-2",
+      "knowledgeId": "china-reviewed-ch3-wang-learning",
+      "title": "问难与距师",
+      "text": "敢于“问难”：经过个人思考提出疑问、否定和批判；敢于“距师”：同教师保持距离，不完全附和，要有自己的思考和见解。",
+      "keywords": [
+        "问难",
+        "距师",
+        "独立思考"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize"
+    },
+    {
+      "id": "china-reviewed-ch3-wang-eval-0",
+      "knowledgeId": "china-reviewed-ch3-wang-eval",
+      "title": "总体评价",
+      "text": "以鲜明的批判精神为特征，具有强烈的学术民主精神；在章句和谶纬神学弥漫社会时，敢于破除传统、批判权威，起到思想解放作用。",
+      "keywords": [
+        "批判精神",
+        "学术民主",
+        "破除传统权威",
+        "思想解放"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "read"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "replaces": [
+    {
+      "knowledge": {
+        "id": "china-p034-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "教育管理：汉代的文教政策 · 第26页",
+        "section": "第一节汉代的教育制度与实践",
+        "refs": [
+          {
+            "page": 34,
+            "rect": [
+              0.10657,
+              0.22009,
+              0.8213,
+              0.31992
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 34203,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p034-k02-0-s0",
+          "knowledgeId": "china-p034-k02-0",
+          "title": "汉初的文",
+          "text": "1.简介：鉴于秦朝灭亡经验，汉初实行“清静无为”的“黄老之学”的文教\n（一）汉初的文\n政策。\n教政策：“黄老之\n2.内容：（1）重视知识分子的作用；（2）允许开办私学；（3）废除“挟书律”。\n学”的文教政策",
+          "keywords": [
+            "汉初的文",
+            "教政策：“黄老之",
+            "学”的文教政策"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p034-k02-0-s1",
+          "knowledgeId": "china-p034-k02-0",
+          "title": "汉代的文教政策",
+          "text": "3.评价：（1）百家争鸣之遗风；（2）为儒学独尊奠定基础。\n汉代的文教政策\n1.简介：汉代儒家学者董仲舒向汉武帝献策，史称“对贤良策”。\n2.内容：（1）“推明孔氏，抑黜百家”→总纲领。\n(2）“兴太学以养士”。",
+          "keywords": [
+            "汉代的文教政策",
+            "“兴太学以养士”"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p034-k02-0-s2",
+          "knowledgeId": "china-p034-k02-0",
+          "title": "“独尊儒术",
+          "text": "（3）“重视选举，任贤使能”。（“量材而授官，录德而定位”）\n“独尊儒术\n3. 措施：(1）专立五经博士。\n文教政策的确立\n(2）创办太学。\n(3）确立察举制(制度化)。\n4.影响：（1）确立了教育为治国之本的地位。汉代之后各个朝代重教兴学。",
+          "keywords": [
+            "“独尊儒术",
+            "文教政策的确立",
+            "创办太学"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p034-k02-0-s3",
+          "knowledgeId": "china-p034-k02-0",
+          "title": "原文小步 4",
+          "text": "(2）儒家经学成为教育的主体内容。\n(3）形成了攻读儒经的社会风尚。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p034-k03-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "育士制度：汉代的学校 · 第26页",
+        "section": "第一节汉代的教育制度与实践",
+        "refs": [
+          {
+            "page": 34,
+            "rect": [
+              0.10726,
+              0.61344,
+              0.8213,
+              0.27441
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 34557,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p034-k03-0-s0",
+          "knowledgeId": "china-p034-k03-0",
+          "title": "中央官学",
+          "text": "太学\n1.中央官学\n鸿都门学和宫邸学\n（一）官学\n2.地方官学\n郡国学\n汉代学校系统\n书馆\n（二）私学\n经馆\n(1）汉代董仲舒建议设立的中央官学。\n（一）西汉建立的\n1. 简介\n（2）诞生标志：为五经博士设弟子标志着太学正式成立，也标志着以\n中央官学：太学",
+          "keywords": [
+            "中央官学",
+            "官学",
+            "地方官学"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p034-k03-0-s1",
+          "knowledgeId": "china-p034-k03-0",
+          "title": "原文小步 2",
+          "text": "经学教育为基本内容的中国封建教育制度正式确立。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p035-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "育士制度：汉代的学校 · 第27页（1）",
+        "section": "第一节汉代的教育制度与实践",
+        "refs": [
+          {
+            "page": 35,
+            "rect": [
+              0.08635,
+              0.08505,
+              0.82799,
+              0.65036
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 35081,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p035-k00-0-s0",
+          "knowledgeId": "china-p035-k00-0",
+          "title": "特点",
+          "text": "（1）教师与学生：太学的教师是博士，西汉博士首领叫仆射，东汉博\n士首领叫博士祭酒。太学的学生是博士弟子、诸生、\n太学生等。\n2.特点\n（2）培养目标：“经明行修”的官吏，具备三纲五常的德行。\n（3）教学内容：统一教材，学习儒家经典“五经”（没有《乐》)。",
+          "keywords": [
+            "特点"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p035-k00-0-s1",
+          "knowledgeId": "china-p035-k00-0",
+          "title": "西汉建立的",
+          "text": "（4）教学形式：①个别或小组教学；②“大都授”集体上课；③次第相传。\n（5）考试方式：设科射策。①科：等级。②射：用射箭过程比喻答题\n（一）西汉建立的\n过程。③策：试题。\n中央官学：太学\n①第一所有完备规制的高等学府。\n②巩固封建统治的高等学府。\n(1) 影响",
+          "keywords": [
+            "西汉建立的",
+            "中央官学：太学",
+            "①第一所有完备规制的高等学府"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p035-k00-0-s2",
+          "knowledgeId": "china-p035-k00-0",
+          "title": "评价",
+          "text": "③掀开学生运动的高等学府。东汉为了反抗黑暗的\n3.评价\n宦官政治发动学生运动。\n(2)局限\n束缚思想。汉代太学在教学中存在排除异己学说、空谈\n义理的现象。\n(1) 简介\n鸿都门学是东汉灵帝在洛阳办的官学，因校址在洛阳\n鸿都门而得名。东汉宦官集团为了与太学生支持的官",
+          "keywords": [
+            "评价",
+            "局限",
+            "简介"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p035-k00-0-s3",
+          "knowledgeId": "china-p035-k00-0",
+          "title": "鸿都门学",
+          "text": "僚集团做斗争，利用教育培养拥护自己的知识分子，\n建立了鸿都门学，可见这所学校的创办是统治阶级内\n1. 鸿都门学\n部各种政治力量的较量在教育上的反映。\n(2) 内容\n学校专以尺牍、辞赋、书画作为教学和研究的内容，\n（二）东汉建立",
+          "keywords": [
+            "鸿都门学",
+            "内容",
+            "东汉建立"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p035-k00-0-s4",
+          "knowledgeId": "china-p035-k00-0",
+          "title": "的中央官学：鸿",
+          "text": "这些与汉灵帝爱好相投，学生毕业后多封以高官厚禄。\n的中央官学：鸿\n①在教育内容上，打破儒学独尊的教育内容。\n都门学和宫邸学\n(3) 意义\n②在教育性质上，是世界上最早的文学艺术专门学校。\n2.宫邸学\n（略）\n1.简介\n郡国学校始创于西汉时期的“文翁兴学”。\n2.内容",
+          "keywords": [
+            "的中央官学：鸿",
+            "都门学和宫邸学",
+            "意义"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p035-k00-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "育士制度：汉代的学校 · 第27页（2）",
+        "section": "第一节汉代的教育制度与实践",
+        "refs": [
+          {
+            "page": 35,
+            "rect": [
+              0.08429,
+              0.70755,
+              0.82112,
+              0.13426
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 35647,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p035-k00-1-s0",
+          "knowledgeId": "china-p035-k00-1",
+          "title": "两汉地方",
+          "text": "汉景帝时期出现“文翁兴学”（文翁选拔青年才俊入京学习，学成返蜀量\n（三）两汉地方\n官学：郡国学\n（1）培育人才。培养本郡属吏，同时向朝廷推荐优秀学生。\n3.目的\n（2）道德教化。举办“乡射”“乡饮酒”，向社会普遍推行道德教化。\n4.评价",
+          "keywords": [
+            "两汉地方",
+            "官学：郡国学",
+            "目的"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p035-k00-1-s1",
+          "knowledgeId": "china-p035-k00-1",
+          "title": "原文小步 7",
+          "text": "“文翁兴学”是地方官学的先导，地方官学促进了本地的教化和经济的繁荣。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p036-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "育士制度：汉代的学校 · 第28页",
+        "section": "第一节汉代的教育制度与实践",
+        "refs": [
+          {
+            "page": 36,
+            "rect": [
+              0.10901,
+              0.08249,
+              0.81632,
+              0.55778
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 36079,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p036-k00-0-s0",
+          "knowledgeId": "china-p036-k00-0",
+          "title": "书馆",
+          "text": "书馆又称书舍，是蒙学阶段的主要机构。\n识字教育+数学常识+思想道德；常用蒙学教材有《仓\n(1)书馆\n颉篇》《凡将篇》《急就篇》，其中史游的《急就篇》是流\n1.私学种类\n传最广的识字教材。\n(2) 经馆\n也叫精舍或精庐，是著名学者聚徒讲学的场所，程度相当",
+          "keywords": [
+            "书馆",
+            "私学种类",
+            "经馆"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p036-k00-0-s1",
+          "knowledgeId": "china-p036-k00-0",
+          "title": "私学",
+          "text": "于太学，属于高等教育。\n1)\n）“及门弟子”或“授业弟子”。私学大师的高足，直接聆听老师的教诲。\n（四）私学\n2. 私学弟子\n(2)\n“著录弟子”。慕老师之名而来，留下名字，老师承认他为弟子，以后\n便可在需要的时候来请教。\n3. 教育方法",
+          "keywords": [
+            "私学",
+            "私学弟子",
+            "教育方法"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p036-k00-0-s2",
+          "knowledgeId": "china-p036-k00-0",
+          "title": "影响",
+          "text": "次相传授。老师只对从学时间较长的高业弟子进行直接传授，再由高业弟子\n转相传授于初学弟子。\n4. 影响\n承担了绝大部分基础教育的任务，对社会所产生的教育效果与官学相比也难分上下。\n急就篇\n玉凌附制本\n西周已有《史篇》，其内\n秦朝李斯所作《仓颉篇》。",
+          "keywords": [
+            "影响"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p036-k00-0-s3",
+          "knowledgeId": "china-p036-k00-0",
+          "title": "原文小步 4",
+          "text": "西汉史游所作《急就篇》保存最完整，流传\n容已经失传。\n至今。另有西汉司马相如所作《凡将篇》。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p036-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "育士制度：经学教育的特点 · 第28页",
+        "section": "第一节汉代的教育制度与实践",
+        "refs": [
+          {
+            "page": 36,
+            "rect": [
+              0.10146,
+              0.70653,
+              0.82318,
+              0.18387
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 36641,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p036-k01-0-s0",
+          "knowledgeId": "china-p036-k01-0",
+          "title": "简介",
+          "text": "(一) 简介\n经学教育指中国古代以儒家经典为主要内容的教育。始于汉武帝时期，以太学正式设\n立为标志，历朝历代延续。\n经学教育\n（1）今文经学。汉代初年凭借经学大师的\n记忆、背诵，采用当时流行的隶书记录下\n二表现\n东汉后期，两派最终\n1. 两大学术",
+          "keywords": [
+            "简介",
+            "经学教育",
+            "表现"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p036-k01-0-s1",
+          "knowledgeId": "china-p036-k01-0",
+          "title": "原文小步 2",
+          "text": "来的“六经”旧典，以董仲舒等为代表人物。\n走向融合，经学大师\n流派\n（2）古文经学。汉武帝时从地下或孔壁中\n郑玄做出了重要贡献。\n挖掘出来或通过其他途径保存下来的儒经\n藏本，以王充为代表人物。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p037-k00-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "育士制度：经学教育的特点 · 第29页",
+        "section": "第一节汉代的教育制度与实践",
+        "refs": [
+          {
+            "page": 37,
+            "rect": [
+              0.08798,
+              0.08045,
+              0.82335,
+              0.42223
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 37077,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p037-k00-0-s0",
+          "knowledgeId": "china-p037-k00-0",
+          "title": "章句之学与",
+          "text": "（1）章句。经师教学所用的讲义。\n评价：阻碍学术交流，\n2. 章句之学与\n（2）师法。博士或著名经学大师的经说。\n加强宗派性和封闭性，\n（3）家法。如果大师的弟子对师说有所\n师法、家法\n崇拜权威，阻碍个性\n发展，能够形成一家之言，被学术界和\n表现\n和智慧的发展。",
+          "keywords": [
+            "章句之学与",
+            "师法、家法"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p037-k00-0-s1",
+          "knowledgeId": "china-p037-k00-0",
+          "title": "经学会议",
+          "text": "朝廷承认，便形成家法。\n（1）经学会议。两汉皇帝召集一些著名学者对儒学进行讨论，这一活\n3. 经学会议\n动被称为经学会议。其目的是提供经学研究和教育的规范思想。最重\n经学教育\n要的是石渠阁会议和白虎观会议。\n与石经",
+          "keywords": [
+            "经学会议",
+            "经学教育",
+            "与石经"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p037-k00-0-s2",
+          "knowledgeId": "china-p037-k00-0",
+          "title": "特点",
+          "text": "（2）石经。立于太学门外，作为规范的经学教科书，目的是统一经学\n教材，将教育纳入政府所希望的轨道，借经学教育统一思想。\n1.汉代经学教育在派别上具有古文经学与今文经学之争的显著特点。\n2.在传承上具有师法与家法及章句之学的重要特点。\n（三)特点",
+          "keywords": [
+            "特点"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p037-k00-0-s3",
+          "knowledgeId": "china-p037-k00-0",
+          "title": "凯程助记",
+          "text": "3.培养儒生教育宗旨的形成，教育宗旨的政治化发展。\n4.国家课程与教材的确立，教学内容的书本知识化。\n凯程助记\n章句\n师法\n家法\n经学会议\n石经\n相当于教学讲义→著名学者的经说→被学术界和朝廷→讨论儒学的会议→规范的经学教科书\n认可的一家之言",
+          "keywords": [
+            "凯程助记"
+          ],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p037-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "选士制度：察举制度 · 第29页",
+        "section": "第一节汉代的教育制度与实践",
+        "refs": [
+          {
+            "page": 37,
+            "rect": [
+              0.08247,
+              0.55103,
+              0.82336,
+              0.35472
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 37501,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p037-k01-0-s0",
+          "knowledgeId": "china-p037-k01-0",
+          "title": "简介",
+          "text": "（一）简介\n始于汉代的一种选官制度。汉文帝时期开始设立，汉武帝时期，察举制成为一种比较完\n备的制度。\n1. 标志\n汉武帝设孝廉一科标志着察举制登上历史舞台。\n2. 对象\n范围扩大到布衣之士；儒学受优待，开创儒学取士的局面。",
+          "keywords": [
+            "简介",
+            "标志",
+            "对象"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p037-k01-0-s1",
+          "knowledgeId": "china-p037-k01-0",
+          "title": "内容",
+          "text": "（1）孝廉。最主要的科目，“孝”指孝敬父母；“廉”指清廉勤政。\n（二)内容\n（2）茂材。秀才科，选拔奇才异能之士。\n察举制度\n3. 科目\n（3）贤良方正。选拔直言极谏之士。\n(4)\n明经科。选拔通晓儒家经典之士。\n(5)\n）童子科。在童子中选拔博通经典者。\n(1）",
+          "keywords": [
+            "内容",
+            "察举制度",
+            "科目"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p037-k01-0-s2",
+          "knowledgeId": "china-p037-k01-0",
+          "title": "方式",
+          "text": "察举和考试相结合的体制。\n4.方式\n(2）确立察举责任制。\n1.落实“学而优则仕”的思想。2.形成学习儒学的社会风气。\n（三）积极影响\n3.巩固封建官僚政治体制。4.成为科举制的先导。\n1.权贵干扰取士。2.沽名钓誉成风。\n（四）消极影响",
+          "keywords": [
+            "方式",
+            "积极影响",
+            "消极影响"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p037-k01-0-s3",
+          "knowledgeId": "china-p037-k01-0",
+          "title": "原文小步 4",
+          "text": "3.贿赂成风。4.察举不力。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p038-k02-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "董仲舒的教育实践与教育思想 · 第30页",
+        "section": "第二节汉代的教育思想",
+        "refs": [
+          {
+            "page": 38,
+            "rect": [
+              0.1045,
+              0.17814,
+              0.8213,
+              0.61405
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 38165,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p038-k02-0-s0",
+          "knowledgeId": "china-p038-k02-0",
+          "title": "教育实践",
+          "text": "教育实践\n《对贤良策》与三大文教政策：罢百家，独尊儒术；兴太\n学以养士；兴察举以选士。\n1. 简介\n人性学说是董仲舒论述教育作用的理论\n依据。\n代表著作为《春秋繁\n（二）人性论与\n露》和《汉书·董仲\n（1）人性中有“仁气”和“贪气”。\n舒传》之《对贤良策》。\n教育作用",
+          "keywords": [
+            "教育实践",
+            "简介",
+            "依据"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p038-k02-0-s1",
+          "knowledgeId": "china-p038-k02-0",
+          "title": "区分人性与善",
+          "text": "(2）区分人性与善。\n（3）“性三品”说与教育作用。\n①圣人之性，是天生的至善至纯，具有天赋之性。\n2. 内容\n→无须教育也能向善\n②中民之性，是绝大多数普通人拥有的，有向善发展的可能性。\n→通过教育才能向善。\n董仲舒\n③斗之性，是恶人之性，没有向善发展的可能性。",
+          "keywords": [
+            "区分人性与善",
+            "“性三品”说与教育作用",
+            "内容"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p038-k02-0-s2",
+          "knowledgeId": "china-p038-k02-0",
+          "title": "→教化无用，需要刑罚",
+          "text": "→教化无用，需要刑罚。\n1.德育作用/地位\n德教是立政之本。\n以“三纲五常”为核心。\n成为两千年来\n2. 德育内容\n(1）\n三纲：君为臣纲，父为子纲，夫为妻纲。\n封建道德教育\n(三) 论道\n（2）五常：仁、义、礼、智、信。\n的中心内容。\n德教育",
+          "keywords": [
+            "→教化无用，需要刑罚",
+            "德育作用/地位",
+            "德教是立政之本"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p038-k02-0-s3",
+          "knowledgeId": "china-p038-k02-0",
+          "title": "德育原则",
+          "text": "(1）确立重义轻利的人生理想。“正其谊（义）不谋其利，明\n其道不计其功。”\n（2）“以仁安人，以义正我”。尊重个体生命价值和权利，体现\n3. 德育原则\n个人对社会的责任与义务。\n与方法\n（3）“必仁且智”。突出强调了道德修养中情感与认知的统一。",
+          "keywords": [
+            "德育原则",
+            "与方法"
+          ],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p038-k02-0-s4",
+          "knowledgeId": "china-p038-k02-0",
+          "title": "评价",
+          "text": "（4）“强勉行道”。努力地思考和践行道德修养。\n1.董仲舒的“独尊儒术”思想有利于巩固封建中央集权统治。\n(四）评价\n2.董仲舒的“三纲五常”思想有利于建构封建伦理纲常，是实现仁政德治的手段。",
+          "keywords": [
+            "评价"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p039-k01-0",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "王充的教育思想 · 第31页（1）",
+        "section": "第二节汉代的教育思想",
+        "refs": [
+          {
+            "page": 39,
+            "rect": [
+              0.07489,
+              0.12832,
+              0.83231,
+              0.53141
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 39120,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p039-k01-0-s0",
+          "knowledgeId": "china-p039-k01-0",
+          "title": "批判纬",
+          "text": "1. 批判纬\n(1)\n天道自然：不具备意志。\n（2）万物自生、万物（万物由“元气”构成）一元。\n王充是唯物\n一教育实践\n神学\n（3）人死神灭。\n主义思想家\n2.反对经学教育\n和无神论者。\n（1）“极问”。反对信师师古，主张“极问”。\n迷信化、烦琐化",
+          "keywords": [
+            "批判纬",
+            "教育实践",
+            "反对经学教育"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p039-k01-0-s1",
+          "knowledgeId": "china-p039-k01-0",
+          "title": "人性论：性三品",
+          "text": "（2）“贵通”。反对记诵章句，主张“贵通”。\n易祥\n（1）中人以上→教育起作用，不教也善。\n1. 人性论：性三品\n（2）中人→教育起作用，促使向善。\n二教育的作用\n（3）中人以下→教育起作用，改恶为善。\n（1）对个人：人的善恶关键在于教育，也就是\n2. 教育的作用",
+          "keywords": [
+            "人性论：性三品",
+            "教育的作用",
+            "教育的作用"
+          ],
+          "order": 1,
+          "version": 1
+        },
+        {
+          "id": "china-p039-k01-0-s2",
+          "knowledgeId": "china-p039-k01-0",
+          "title": "培养目标",
+          "text": "王充所言的“在化不在性”。\n(2）对社会：隐效性、间接性。\n代表著作为《论衡》。\n1.鸿儒。有创新能力的不可多得的理论学术人才。\n杰出的学术人才（首次提出）\n三培养目标\n2.文人。知识渊博，能够融会贯通，是称职的行政人才。\n王充\n主要培养\n杰出的政治人才\n鸿儒、文人。",
+          "keywords": [
+            "培养目标"
+          ],
+          "order": 2,
+          "version": 1
+        },
+        {
+          "id": "china-p039-k01-0-s3",
+          "knowledgeId": "china-p039-k01-0",
+          "title": "原文小步 4",
+          "text": "3.通人。掌握了丰富的书本知识，但不能结合实际。\n4.儒生。至少精通一种儒家经典，知识面窄，既不博古，也不通今。\n5.文吏。受过识字教育，没有丰富的思想。\n1.学知与闻见。知识来源于闻见。如“人有知学，则有力矣”。",
+          "keywords": [],
+          "order": 3,
+          "version": 1
+        },
+        {
+          "id": "china-p039-k01-0-s4",
+          "knowledgeId": "china-p039-k01-0",
+          "title": "论学习",
+          "text": "2.思考与求是。知识还需理性思考的加工，将人的理性认识解释为“开心意”。分辨知识\n四论学习\n真伪的有效办法是在实践中检验，坚持“效验”“有证”的原则。如“事\n莫明于有效，论莫定于有证”。",
+          "keywords": [
+            "论学习"
+          ],
+          "order": 4,
+          "version": 1
+        }
+      ]
+    },
+    {
+      "knowledge": {
+        "id": "china-p039-k01-1",
+        "bookId": "kaicheng-333-history",
+        "chapterId": "history-chapter-2",
+        "title": "王充的教育思想 · 第31页（2）",
+        "section": "第二节汉代的教育思想",
+        "refs": [
+          {
+            "page": 39,
+            "rect": [
+              0.13687,
+              0.64415,
+              0.75105,
+              0.14377
+            ]
+          }
+        ],
+        "confirmed": false,
+        "selected": false,
+        "order": 39590,
+        "reviewNote": "本地识别稿，尚未逐字校对；请核对专名、括号层级和文字顺序。"
+      },
+      "steps": [
+        {
+          "id": "china-p039-k01-1-s0",
+          "knowledgeId": "china-p039-k01-1",
+          "title": "评价",
+          "text": "3.问难与距师。要敢于“问难”，即其提问者经过个人思考敢于提出疑问、敢于否定、敢\n于批判。要敢于“距师”，即与教师保持距离，不能完全附和教师，要有\n自己的思考和见解。\n（五）评价\n王充的教育思想以鲜明的批判精神为特征，具有强烈的学术民主精神。在章句和纬",
+          "keywords": [
+            "评价"
+          ],
+          "order": 0,
+          "version": 1
+        },
+        {
+          "id": "china-p039-k01-1-s1",
+          "knowledgeId": "china-p039-k01-1",
+          "title": "原文小步 7",
+          "text": "神学弥漫整个社会的时候，他敢于破除传统，批判权威，起到了思想解放的作用。",
+          "keywords": [],
+          "order": 1,
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "pages": 6,
+    "knowledge": 27,
+    "steps": 78,
+    "readOnlySteps": 23,
+    "replacedDrafts": 11
+  }
+}

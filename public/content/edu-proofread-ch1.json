@@ -1,0 +1,4610 @@
+{
+  "schemaVersion": 1,
+  "id": "edu-proofread-ch1-v1",
+  "bookId": "kaicheng-333-edu",
+  "knowledge": [
+    {
+      "id": "edu-reviewed-ch1-outline",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "心理发展与教育：章节框架",
+      "section": "章节框架",
+      "refs": [
+        {
+          "page": 7,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.425
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 7117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-development",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "（一）心理发展的内涵",
+      "section": "第一节 · 心理发展的一般规律与教育",
+      "refs": [
+        {
+          "page": 7,
+          "rect": [
+            0.07,
+            0.645,
+            0.86,
+            0.047
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 7580,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "1. 认知发展的一般规律与教育",
+      "section": "第一节 · 心理发展的一般规律与教育 · （二）分类",
+      "refs": [
+        {
+          "page": 7,
+          "rect": [
+            0.07,
+            0.695,
+            0.86,
+            0.22
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 7625,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "2. 人格发展的一般规律与教育",
+      "section": "第一节 · 心理发展的一般规律与教育 · （二）分类",
+      "refs": [
+        {
+          "page": 8,
+          "rect": [
+            0.07,
+            0.075,
+            0.86,
+            0.23
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 8067,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-self",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "3. 自我发展的规律与教育",
+      "section": "第一节 · 心理发展的一般规律与教育 · （二）分类",
+      "refs": [
+        {
+          "page": 8,
+          "rect": [
+            0.07,
+            0.31,
+            0.86,
+            0.565
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 8279,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-development-education",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "（三）心理发展与教育的关系（必要补充点）",
+      "section": "第一节 · 心理发展的一般规律与教育",
+      "refs": [
+        {
+          "page": 8,
+          "rect": [
+            0.07,
+            0.877,
+            0.86,
+            0.04
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 8789,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "皮亚杰的认知发展阶段理论",
+      "section": "第二节 · 认知发展理论与教育 · 考点一",
+      "refs": [
+        {
+          "page": 9,
+          "rect": [
+            0.07,
+            0.125,
+            0.86,
+            0.69
+          ]
+        },
+        {
+          "page": 10,
+          "rect": [
+            0.07,
+            0.065,
+            0.86,
+            0.5
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 9112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-mnemonic",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "皮亚杰阶段助记与守恒实验原图",
+      "section": "第二节 · 认知发展理论与教育 · 考点一 · 凯程助记、凯程深化",
+      "refs": [
+        {
+          "page": 10,
+          "rect": [
+            0.07,
+            0.585,
+            0.86,
+            0.38
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 10526,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "维果茨基的文化—历史理论",
+      "section": "第二节 · 认知发展理论与教育 · 考点二",
+      "refs": [
+        {
+          "page": 11,
+          "rect": [
+            0.07,
+            0.09,
+            0.86,
+            0.805
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 11081,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-zpd-diagram",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "最近发展区示意图",
+      "section": "第二节 · 认知发展理论与教育 · 考点二 · （三）最近发展区",
+      "refs": [
+        {
+          "page": 11,
+          "rect": [
+            0.53,
+            0.46,
+            0.35,
+            0.175
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 11414,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "艾里克森的心理社会发展理论",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点一",
+      "refs": [
+        {
+          "page": 12,
+          "rect": [
+            0.07,
+            0.16,
+            0.86,
+            0.56
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 12144,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "艾里克森八阶段对照表原图",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点一 · （二）八阶段",
+      "refs": [
+        {
+          "page": 12,
+          "rect": [
+            0.31,
+            0.25,
+            0.64,
+            0.31
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 12225,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-marcia-reference",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "马西亚的自我同一性状态及关系图",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点一 · 凯程深化",
+      "refs": [
+        {
+          "page": 12,
+          "rect": [
+            0.07,
+            0.74,
+            0.86,
+            0.16
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 12666,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "科尔伯格的道德发展阶段理论",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点二",
+      "refs": [
+        {
+          "page": 13,
+          "rect": [
+            0.07,
+            0.125,
+            0.86,
+            0.62
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 13112,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "三水平六阶段对照表原图",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点二 · （二）三水平六阶段",
+      "refs": [
+        {
+          "page": 13,
+          "rect": [
+            0.07,
+            0.235,
+            0.86,
+            0.275
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 13211,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-question",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "科尔伯格道德发展：原书真题练习",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点二 · 知识速练",
+      "refs": [
+        {
+          "page": 13,
+          "rect": [
+            0.07,
+            0.77,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 13693,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-just-community-reference",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "公正团体法深化说明",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点二 · 凯程深化",
+      "refs": [
+        {
+          "page": 14,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.14
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 14072,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-heinz-reference",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "海因兹偷药：六阶段赞成与反对案例表",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点二 · 经典案例",
+      "refs": [
+        {
+          "page": 14,
+          "rect": [
+            0.07,
+            0.23,
+            0.86,
+            0.355
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 14207,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-diagram",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "布朗芬布伦纳生态系统理论图",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点三",
+      "refs": [
+        {
+          "page": 14,
+          "rect": [
+            0.07,
+            0.63,
+            0.86,
+            0.285
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 14567,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "布朗芬布伦纳的生态系统理论",
+      "section": "第三节 · 社会化与人格发展理论与教育 · 考点三",
+      "refs": [
+        {
+          "page": 15,
+          "rect": [
+            0.07,
+            0.08,
+            0.86,
+            0.36
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 15072,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-intelligence-differences",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "智力差异与教育",
+      "section": "第四节 · 心理发展的差异与教育 · 考点一",
+      "refs": [
+        {
+          "page": 15,
+          "rect": [
+            0.07,
+            0.56,
+            0.86,
+            0.17
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 15504,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "认知方式差异与教育：表现及教学策略",
+      "section": "第四节 · 心理发展的差异与教育 · 考点二（必要补充点）",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.07,
+            0.11,
+            0.86,
+            0.145
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16099,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "知觉方式的差异：场独立型与场依存型",
+      "section": "第四节 · 心理发展的差异与教育 · 考点二 · 认知方式对照表",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.07,
+            0.305,
+            0.86,
+            0.275
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16274,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-processing-style",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "记忆方式的差异：深层加工与表层加工",
+      "section": "第四节 · 心理发展的差异与教育 · 考点二 · 认知方式对照表",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.07,
+            0.58,
+            0.86,
+            0.105
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16522,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-thinking-style",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "思维方式的差异：整体性策略与系列性策略",
+      "section": "第四节 · 心理发展的差异与教育 · 考点二 · 认知方式对照表",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.07,
+            0.685,
+            0.86,
+            0.1
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16616,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "认知反应方式的差异：反思型与冲动型",
+      "section": "第四节 · 心理发展的差异与教育 · 考点二 · 认知方式对照表",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.07,
+            0.785,
+            0.86,
+            0.15
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 16706,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "四类认知方式差异对照表原图",
+      "section": "第四节 · 心理发展的差异与教育 · 考点二",
+      "refs": [
+        {
+          "page": 16,
+          "rect": [
+            0.07,
+            0.27,
+            0.86,
+            0.64
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 16243,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "人格差异与教育",
+      "section": "第四节 · 心理发展的差异与教育 · 考点三",
+      "refs": [
+        {
+          "page": 17,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.355
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 17117,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-table",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "性格、气质与教育方式对照表原图",
+      "section": "第四节 · 心理发展的差异与教育 · 考点三",
+      "refs": [
+        {
+          "page": 17,
+          "rect": [
+            0.07,
+            0.13,
+            0.86,
+            0.355
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": false,
+      "order": 17117,
+      "reviewNote": "原书图表保留整体行列关系，供对照复核，不加入背诵队列。",
+      "referenceOnly": true
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences",
+      "bookId": "kaicheng-333-edu",
+      "chapterId": "edu-chapter-0",
+      "title": "性别差异与教育",
+      "section": "第四节 · 心理发展的差异与教育 · 考点四",
+      "refs": [
+        {
+          "page": 17,
+          "rect": [
+            0.07,
+            0.525,
+            0.86,
+            0.34
+          ]
+        }
+      ],
+      "confirmed": true,
+      "selected": true,
+      "order": 17472,
+      "reviewNote": "已逐项对照扫描原书标题、编号、分支关系、专名和正文；学习方式由你自行决定。"
+    }
+  ],
+  "steps": [
+    {
+      "id": "edu-reviewed-ch1-development-0",
+      "knowledgeId": "edu-reviewed-ch1-development",
+      "title": "广义",
+      "text": "人类个体自出生到死亡的整个一生的心理变化。",
+      "keywords": [
+        "出生",
+        "死亡",
+        "一生"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 广义"
+    },
+    {
+      "id": "edu-reviewed-ch1-development-1",
+      "knowledgeId": "edu-reviewed-ch1-development",
+      "title": "狭义",
+      "text": "人类个体从出生到心理成熟阶段的变化。",
+      "keywords": [
+        "出生",
+        "心理成熟"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 狭义"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-0",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "定义",
+      "text": "认知是个体获得知识、运用知识的心理活动；认知过程就是信息加工的过程；认知发展是个体在心理上表征世界、思考世界的方式的发展。",
+      "keywords": [
+        "获得知识",
+        "运用知识",
+        "信息加工",
+        "表征世界"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）定义"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-1",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "顺序与定向",
+      "text": "顺序性和定向性。",
+      "keywords": [
+        "顺序性",
+        "定向性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "①顺序性和定向性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-2",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "阶段与连续",
+      "text": "阶段性和连续性。",
+      "keywords": [
+        "阶段性",
+        "连续性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "②阶段性和连续性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-3",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "共同与差异",
+      "text": "共同性和差异性。",
+      "keywords": [
+        "共同性",
+        "差异性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "③共同性和差异性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-4",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "互补与关联",
+      "text": "互补性和关联性。",
+      "keywords": [
+        "互补性",
+        "关联性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "④互补性和关联性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-5",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "不平衡与关键期",
+      "text": "不平衡性和关键期。",
+      "keywords": [
+        "不平衡性",
+        "关键期"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "⑤不平衡性和关键期",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-6",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "社会性",
+      "text": "社会性。",
+      "keywords": [
+        "社会性"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "⑥社会性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-7",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "皮亚杰",
+      "text": "皮亚杰的认知发展阶段理论。",
+      "keywords": [
+        "皮亚杰",
+        "认知发展阶段"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）理论"
+      ],
+      "displayTitle": "①皮亚杰",
+      "outline": "（3）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-8",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "维果茨基",
+      "text": "维果茨基的文化—历史理论。",
+      "keywords": [
+        "维果茨基",
+        "文化历史"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）理论"
+      ],
+      "displayTitle": "②维果茨基",
+      "outline": "（3）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-9",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "遵循规律",
+      "text": "教育工作者必须按照认知发展规律进行教育。",
+      "keywords": [
+        "认知发展规律",
+        "按照规律"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）认知发展与教育的关系"
+      ],
+      "displayTitle": "①遵循认知发展规律",
+      "outline": "（4）认知发展与教育的关系"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognition-rules-10",
+      "knowledgeId": "edu-reviewed-ch1-cognition-rules",
+      "title": "主导性",
+      "text": "教育能促进人的认知发展：主导性。",
+      "keywords": [
+        "促进认知发展",
+        "主导性"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）认知发展与教育的关系"
+      ],
+      "displayTitle": "②促进认知发展",
+      "outline": "（4）认知发展与教育的关系"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-0",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "定义",
+      "text": "人格是人所具有的与他人相区别的独特而稳定的思维方式和行为风格，如思想、情感、动机、价值观等。",
+      "keywords": [
+        "独特",
+        "稳定",
+        "思维方式",
+        "行为风格"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）定义"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-1",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "顺序与定向",
+      "text": "顺序性和定向性。",
+      "keywords": [
+        "顺序性",
+        "定向性"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "①顺序性和定向性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-2",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "阶段与连续",
+      "text": "阶段性和连续性。",
+      "keywords": [
+        "阶段性",
+        "连续性"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "②阶段性和连续性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-3",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "共同与差异",
+      "text": "共同性和差异性。",
+      "keywords": [
+        "共同性",
+        "差异性"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "③共同性和差异性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-4",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "统合与关联",
+      "text": "统合性和关联性。",
+      "keywords": [
+        "统合性",
+        "关联性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "④统合性和关联性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-5",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "不平衡与关键期",
+      "text": "不平衡性和关键期。",
+      "keywords": [
+        "不平衡性",
+        "关键期"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "⑤不平衡性和关键期",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-6",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "社会性",
+      "text": "社会性。",
+      "keywords": [
+        "社会性"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "⑥社会性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-7",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "稳定与可变",
+      "text": "稳定性和可变性。",
+      "keywords": [
+        "稳定性",
+        "可变性"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）规律"
+      ],
+      "displayTitle": "⑦稳定性和可变性",
+      "outline": "（2）规律"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-8",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "艾里克森",
+      "text": "艾里克森的心理社会发展理论。",
+      "keywords": [
+        "艾里克森",
+        "心理社会发展"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）理论"
+      ],
+      "displayTitle": "①艾里克森",
+      "outline": "（3）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-9",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "科尔伯格",
+      "text": "科尔伯格的道德发展阶段理论。",
+      "keywords": [
+        "科尔伯格",
+        "道德发展阶段"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）理论"
+      ],
+      "displayTitle": "②科尔伯格",
+      "outline": "（3）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-10",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "布朗芬布伦纳",
+      "text": "布朗芬布伦纳的生态系统理论。",
+      "keywords": [
+        "布朗芬布伦纳",
+        "生态系统"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）理论"
+      ],
+      "displayTitle": "③布朗芬布伦纳",
+      "outline": "（3）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-11",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "遵循规律",
+      "text": "教育工作者必须按照人格发展规律进行教育。",
+      "keywords": [
+        "人格发展规律",
+        "按照规律"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）人格发展与教育的关系"
+      ],
+      "displayTitle": "①遵循人格发展规律",
+      "outline": "（4）人格发展与教育的关系"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-rules-12",
+      "knowledgeId": "edu-reviewed-ch1-personality-rules",
+      "title": "促进发展",
+      "text": "教育能促进人的人格发展。",
+      "keywords": [
+        "教育",
+        "促进人格发展"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）人格发展与教育的关系"
+      ],
+      "displayTitle": "②促进人格发展",
+      "outline": "（4）人格发展与教育的关系"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-0",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "定义",
+      "text": "自我发展是精神分析理论关于自我形成的见解。",
+      "keywords": [
+        "精神分析",
+        "自我形成"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "（1）定义"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-1",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "理论",
+      "text": "弗洛伊德的自我发展理论。",
+      "keywords": [
+        "弗洛伊德",
+        "自我发展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）理论"
+      ],
+      "displayTitle": "理论名称",
+      "outline": "（2）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-2",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "本我",
+      "text": "人的动物性、本能、基本欲望。例：婴儿饿了会啼哭。",
+      "keywords": [
+        "动物性",
+        "本能",
+        "基本欲望"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）理论",
+        "内容"
+      ],
+      "displayTitle": "本我",
+      "outline": "（2）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-3",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "自我",
+      "text": "个体与环境中的人、物交互，形成的压抑本我的部分。例：因为不想受惩罚而写作业。",
+      "keywords": [
+        "环境交互",
+        "压抑本我"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）理论",
+        "内容"
+      ],
+      "displayTitle": "自我",
+      "outline": "（2）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-4",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "超我",
+      "text": "从儿童早期体验到的奖励中不断内化而形成的自我控制。例：因为没有帮助别人而内疚。",
+      "keywords": [
+        "早期奖励",
+        "内化",
+        "自我控制"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）理论",
+        "内容"
+      ],
+      "displayTitle": "超我",
+      "outline": "（2）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-5",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "相互抗衡",
+      "text": "自我的力量需要足够强大，找到一条同时满足本我和超我需求的途径。",
+      "keywords": [
+        "自我力量",
+        "本我",
+        "超我"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）理论",
+        "三者关系"
+      ],
+      "displayTitle": "相互抗衡",
+      "outline": "（2）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-6",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "密切联系",
+      "text": "三者密切配合，认识自我并寻找平衡的自我。",
+      "keywords": [
+        "密切配合",
+        "平衡自我"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（2）理论",
+        "三者关系"
+      ],
+      "displayTitle": "密切联系",
+      "outline": "（2）理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-7",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "自我概念",
+      "text": "个体对自己多方面的印象和认识；它存在个体差异，是多维的、有层次的。",
+      "keywords": [
+        "印象",
+        "认识",
+        "多维",
+        "层次"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）构成"
+      ],
+      "displayTitle": "①自我概念",
+      "outline": "（3）构成"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-8",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "自我体验",
+      "text": "自我体验包含自尊。自尊指个体在社会比较过程中所获得的有关自我价值的积极的评价与体验。",
+      "keywords": [
+        "自尊",
+        "社会比较",
+        "自我价值"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）构成"
+      ],
+      "displayTitle": "②自我体验（含自尊）",
+      "outline": "（3）构成"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-9",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "自我控制",
+      "text": "自我控制。",
+      "keywords": [
+        "自我控制"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）构成"
+      ],
+      "displayTitle": "③自我控制",
+      "outline": "（3）构成"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-10",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "概念与自尊",
+      "text": "自我概念是对自己整体的认识，而自尊侧重于对自己价值的认识；自尊会受到自我概念的影响。",
+      "keywords": [
+        "整体认识",
+        "价值认识",
+        "影响"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（3）构成"
+      ],
+      "displayTitle": "自我概念和自尊的关系",
+      "outline": "（3）构成"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-11",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "开设活动",
+      "text": "认识自己性格的独一无二。",
+      "keywords": [
+        "开设活动",
+        "独一无二"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育启示"
+      ],
+      "displayTitle": "①开设活动",
+      "outline": "（4）教育启示"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-12",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "增加体验",
+      "text": "体验自我，发挥主观能动性。",
+      "keywords": [
+        "增加体验",
+        "主观能动性"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育启示"
+      ],
+      "displayTitle": "②增加体验",
+      "outline": "（4）教育启示"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-13",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "小组合作",
+      "text": "学生畅谈经验。",
+      "keywords": [
+        "小组合作",
+        "畅谈经验"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育启示"
+      ],
+      "displayTitle": "③小组合作",
+      "outline": "（4）教育启示"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-14",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "个别教育",
+      "text": "多鼓励，因材施教。",
+      "keywords": [
+        "个别教育",
+        "多鼓励",
+        "因材施教"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育启示"
+      ],
+      "displayTitle": "④个别教育",
+      "outline": "（4）教育启示"
+    },
+    {
+      "id": "edu-reviewed-ch1-self-15",
+      "knowledgeId": "edu-reviewed-ch1-self",
+      "title": "民主氛围",
+      "text": "积极开放的环境和教学方式。",
+      "keywords": [
+        "民主氛围",
+        "积极开放"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（4）教育启示"
+      ],
+      "displayTitle": "⑤民主氛围",
+      "outline": "（4）教育启示"
+    },
+    {
+      "id": "edu-reviewed-ch1-development-education-0",
+      "knowledgeId": "edu-reviewed-ch1-development-education",
+      "title": "背景和前提",
+      "text": "心理发展是有效教育的背景和前提。",
+      "keywords": [
+        "心理发展",
+        "背景",
+        "前提"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "1. 心理发展是背景和前提"
+    },
+    {
+      "id": "edu-reviewed-ch1-development-education-1",
+      "knowledgeId": "edu-reviewed-ch1-development-education",
+      "title": "有效教育",
+      "text": "有效的教育能促进个体心理的发展。",
+      "keywords": [
+        "有效教育",
+        "促进心理发展"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "2. 教育促进心理发展"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-0",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "图式",
+      "text": "有组织的、可重复的行为或思维模式，不断变化。例：人们对“狗”形成的各种各样的认识。",
+      "keywords": [
+        "组织",
+        "重复",
+        "行为或思维模式"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）认知发展的实质"
+      ],
+      "displayTitle": "1. 图式",
+      "outline": "（一）认知发展的实质"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-1",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "同化",
+      "text": "个体利用已有图式把新的刺激纳入已有知识结构中的过程，属于量变。例：学生知道水果的概念，初次吃芒果，就知道芒果应该归入水果。",
+      "keywords": [
+        "已有图式",
+        "纳入",
+        "量变"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）认知发展的实质"
+      ],
+      "displayTitle": "2. 同化",
+      "outline": "（一）认知发展的实质"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-2",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "顺应",
+      "text": "个体改变已有图式或形成新图式来适应新刺激的过程，属于质变。例：看到白萝卜后，经他人提醒，知道它不属于水果而属于蔬菜，进而形成“蔬菜”的新图式。",
+      "keywords": [
+        "改变图式",
+        "新图式",
+        "质变"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）认知发展的实质"
+      ],
+      "displayTitle": "3. 顺应",
+      "outline": "（一）认知发展的实质"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-3",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "平衡",
+      "text": "同化与顺应之间的“均衡”，即自我调节。",
+      "keywords": [
+        "同化",
+        "顺应",
+        "均衡",
+        "自我调节"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）认知发展的实质"
+      ],
+      "displayTitle": "4. 平衡",
+      "outline": "（一）认知发展的实质"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-4",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "发展观",
+      "text": "个体在先天遗传图式的基础上不断地与环境进行同化、顺应，而达到平衡。",
+      "keywords": [
+        "遗传图式",
+        "环境",
+        "同化顺应",
+        "平衡"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）认知发展的实质"
+      ],
+      "displayTitle": "发展观",
+      "outline": "（一）认知发展的实质"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-5",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "感知运动探索",
+      "text": "主要用口与手探索外部世界。",
+      "keywords": [
+        "口",
+        "手",
+        "探索外部世界"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "1. 感知运动阶段（0～2岁）"
+      ],
+      "displayTitle": "（1）探索外部世界",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-6",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "客体永久性",
+      "text": "客体永久性。例：小象不在孩子眼前，孩子也知道它存在。",
+      "keywords": [
+        "客体永久性",
+        "仍然存在"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "1. 感知运动阶段（0～2岁）"
+      ],
+      "displayTitle": "（2）客体永久性",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-7",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "具体形象性",
+      "text": "儿童需要看图识字，脱离了具体形象的图片，识字就变得很困难。",
+      "keywords": [
+        "具体形象",
+        "看图识字"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "2. 前运算阶段（2～7岁）",
+        "（1）与思维相关"
+      ],
+      "displayTitle": "①具体形象性",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-8",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "刻板不可逆",
+      "text": "思维的刻板性和不可逆性。例：豆豆是妈妈的儿子，问妈妈的儿子是谁，豆豆说不知道。",
+      "keywords": [
+        "刻板性",
+        "不可逆性"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "2. 前运算阶段（2～7岁）",
+        "（1）与思维相关"
+      ],
+      "displayTitle": "②思维的刻板性和不可逆性",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-9",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "没有守恒性",
+      "text": "同一杯水倒入不同样式的容器后，儿童无法理解不同容器的水一样多。",
+      "keywords": [
+        "不同容器",
+        "水量",
+        "没有守恒性"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "2. 前运算阶段（2～7岁）",
+        "（1）与思维相关"
+      ],
+      "displayTitle": "③没有守恒性",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-10",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "语言和概念",
+      "text": "语言和概念获得发展。",
+      "keywords": [
+        "语言",
+        "概念",
+        "发展"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "2. 前运算阶段（2～7岁）",
+        "（2）与语言相关"
+      ],
+      "displayTitle": "④语言和概念获得发展",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-11",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "集体独白",
+      "text": "幼儿园里，孩子们都在说话，但每个人说的内容都不同，相互无交流。",
+      "keywords": [
+        "集体独白",
+        "无交流"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "2. 前运算阶段（2～7岁）",
+        "（2）与语言相关"
+      ],
+      "displayTitle": "⑤集体独白",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-12",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "泛灵论",
+      "text": "孩子认为，草、花、月亮都有生命。",
+      "keywords": [
+        "泛灵论",
+        "万物有生命"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "2. 前运算阶段（2～7岁）",
+        "（3）与情感相关"
+      ],
+      "displayTitle": "⑥泛灵论",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-13",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "自我中心主义",
+      "text": "孩子认为，我的玩具就是我的，不可以给别人玩。",
+      "keywords": [
+        "自我中心主义"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "2. 前运算阶段（2～7岁）",
+        "（3）与情感相关"
+      ],
+      "displayTitle": "⑦自我中心主义",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-14",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "同一性",
+      "text": "同一个事物，总量没增没减，还和原来一样。",
+      "keywords": [
+        "守恒性",
+        "同一性",
+        "总量不变"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "3. 具体运算阶段（7～11岁）",
+        "（1）守恒性"
+      ],
+      "displayTitle": "①同一性",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-15",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "可逆性",
+      "text": "儿童能理解2+5=7，也能理解7-2=5。",
+      "keywords": [
+        "守恒性",
+        "可逆性"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "3. 具体运算阶段（7～11岁）",
+        "（1）守恒性"
+      ],
+      "displayTitle": "②可逆性",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-16",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "补偿性",
+      "text": "一个事物在一个方面增加，但在另一方面发生了等量的减少，因此总量不变。",
+      "keywords": [
+        "守恒性",
+        "补偿性",
+        "等量减少"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "3. 具体运算阶段（7～11岁）",
+        "（1）守恒性"
+      ],
+      "displayTitle": "③补偿性",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-17",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "去自我中心",
+      "text": "我可以允许别人和我的想法不一样，要尊重别人。",
+      "keywords": [
+        "去自我中心",
+        "尊重别人"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "3. 具体运算阶段（7～11岁）"
+      ],
+      "displayTitle": "（2）去自我中心化",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-18",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "逻辑群集",
+      "text": "逻辑思维和群集运算。例：儿童能把事物分类和排序，并进行加减运算。",
+      "keywords": [
+        "逻辑思维",
+        "群集运算",
+        "分类排序"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "3. 具体运算阶段（7～11岁）"
+      ],
+      "displayTitle": "（3）逻辑思维和群集运算",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-19",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "抽象思维",
+      "text": "抽象思维得到发展，思维能以命题形式进行，思维发展接近成人水平。例：艾玛的头发比苏珊淡一些，艾玛的头发比丽莎黑一些，谁的头发最黑？答：苏珊。",
+      "keywords": [
+        "抽象思维",
+        "命题",
+        "成人水平"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "4. 形式运算阶段（11岁至成年）"
+      ],
+      "displayTitle": "（1）抽象思维发展",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-20",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "青春期自我中心",
+      "text": "青春期自我中心。例：妈，你别管我，我烦你，我的事我自己做主。",
+      "keywords": [
+        "青春期",
+        "自我中心"
+      ],
+      "order": 20,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）认知发展阶段理论",
+        "4. 形式运算阶段（11岁至成年）"
+      ],
+      "displayTitle": "（2）青春期自我中心",
+      "outline": "（二）认知发展阶段理论"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-21",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "成熟",
+      "text": "成熟。",
+      "keywords": [
+        "成熟"
+      ],
+      "order": 21,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）影响心理发展的因素"
+      ],
+      "displayTitle": "成熟",
+      "outline": "（三）影响心理发展的因素"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-22",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "对物经验",
+      "text": "对物：练习与习得经验。",
+      "keywords": [
+        "对物",
+        "练习",
+        "习得经验"
+      ],
+      "order": 22,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）影响心理发展的因素"
+      ],
+      "displayTitle": "对物：练习与习得经验",
+      "outline": "（三）影响心理发展的因素"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-23",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "对人经验",
+      "text": "对人：社会经验。",
+      "keywords": [
+        "对人",
+        "社会经验"
+      ],
+      "order": 23,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）影响心理发展的因素"
+      ],
+      "displayTitle": "对人：社会经验",
+      "outline": "（三）影响心理发展的因素"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-24",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "平衡化",
+      "text": "平衡化。",
+      "keywords": [
+        "平衡化"
+      ],
+      "order": 24,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）影响心理发展的因素"
+      ],
+      "displayTitle": "平衡化",
+      "outline": "（三）影响心理发展的因素"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-25",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "主动建构",
+      "text": "教育要促进儿童积极主动地建构图式，建构积极主动的学习环境。",
+      "keywords": [
+        "积极主动",
+        "建构图式",
+        "学习环境"
+      ],
+      "order": 25,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教育应用"
+      ],
+      "displayTitle": "1. 积极主动地建构图式",
+      "outline": "（四）教育应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-26",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "发展阶段",
+      "text": "教育应当适合儿童当前的发展阶段；教学情境既能引起学生的认知不平衡，又不过分超越学生已有认知水平。",
+      "keywords": [
+        "适合发展阶段",
+        "认知不平衡",
+        "不过分超越"
+      ],
+      "order": 26,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教育应用"
+      ],
+      "displayTitle": "2. 适合当前发展阶段",
+      "outline": "（四）教育应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-piaget-27",
+      "knowledgeId": "edu-reviewed-ch1-piaget",
+      "title": "个体差异",
+      "text": "儿童在认知发展过程中存在个体差异，因而应因材施教。",
+      "keywords": [
+        "个体差异",
+        "因材施教"
+      ],
+      "order": 27,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教育应用"
+      ],
+      "displayTitle": "3. 因材施教",
+      "outline": "（四）教育应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-0",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "活动论",
+      "text": "个体的心理发展起源于个体所参与的社会文化活动。",
+      "keywords": [
+        "社会文化活动",
+        "心理发展"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）主要观点"
+      ],
+      "displayTitle": "1. 活动论",
+      "outline": "（一）主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-1",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "物质工具",
+      "text": "人的心理活动与劳动活动都是以工具为中介的。物质生产工具，如弓箭、印刷机等。",
+      "keywords": [
+        "工具中介",
+        "物质生产工具"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）主要观点",
+        "2. 符号中介论"
+      ],
+      "displayTitle": "（1）物质生产工具",
+      "outline": "（一）主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-2",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "精神工具",
+      "text": "精神生产工具包括语言和符号系统，是人类特有的高级心理机能。例：语言文字、元素周期表等。",
+      "keywords": [
+        "语言",
+        "符号系统",
+        "高级心理机能"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）主要观点",
+        "2. 符号中介论"
+      ],
+      "displayTitle": "（2）精神生产工具",
+      "outline": "（一）主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-3",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "内化含义",
+      "text": "个体将外部实践活动转化为内部心理活动的过程。",
+      "keywords": [
+        "外部实践",
+        "内部心理",
+        "转化"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）主要观点",
+        "3. 内化论"
+      ],
+      "displayTitle": "（1）含义",
+      "outline": "（一）主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-4",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "内化关键",
+      "text": "自我中心言语。",
+      "keywords": [
+        "自我中心言语"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）主要观点",
+        "3. 内化论"
+      ],
+      "displayTitle": "（2）关键",
+      "outline": "（一）主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-5",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "内化实现",
+      "text": "教育必须重视内化，如教学、日常生活、游戏、劳动等。例：折纸飞机后，心里可以预演整个折飞机的过程。",
+      "keywords": [
+        "重视内化",
+        "教学生活游戏劳动"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）主要观点",
+        "3. 内化论"
+      ],
+      "displayTitle": "（3）实现",
+      "outline": "（一）主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-6",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "综合含义",
+      "text": "知识的内化是个体通过活动与充满文化性和历史性的社会环境互动的结果。",
+      "keywords": [
+        "活动",
+        "文化历史",
+        "社会环境互动"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）主要观点"
+      ],
+      "displayTitle": "三论综合含义",
+      "outline": "（一）主要观点"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-7",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "低级机能",
+      "text": "低级心理机能是动物进化结果，如自然记忆、无意注意。",
+      "keywords": [
+        "动物进化",
+        "自然记忆",
+        "无意注意"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）心理发展观",
+        "1. 两种心理机能"
+      ],
+      "displayTitle": "（1）低级心理机能",
+      "outline": "（二）心理发展观"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-8",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "高级机能",
+      "text": "高级心理机能是历史发展结果，以符号系统为中介，区别于动物，如逻辑记忆、有意注意。",
+      "keywords": [
+        "历史发展",
+        "符号中介",
+        "逻辑记忆",
+        "有意注意"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）心理发展观",
+        "1. 两种心理机能"
+      ],
+      "displayTitle": "（2）高级心理机能",
+      "outline": "（二）心理发展观"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-9",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "发展实质",
+      "text": "个体的心理自出生至成年，在环境和教育的影响下，在低级心理机能的基础上，逐渐向高级心理机能转化的过程。",
+      "keywords": [
+        "环境教育",
+        "低级到高级",
+        "转化"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）心理发展观"
+      ],
+      "displayTitle": "2. 心理发展的实质",
+      "outline": "（二）心理发展观"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-10",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "最近发展区",
+      "text": "最近发展区是实际的发展水平和潜在的发展水平之间的差距。教学落在最近发展区内，才能促进学生的发展。例：已学10以内加法，学习20以内加法在最近发展区内，而学习乘法超越了最近发展区。",
+      "keywords": [
+        "实际水平",
+        "潜在水平",
+        "差距"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）最近发展区"
+      ],
+      "displayTitle": "1. 含义",
+      "outline": "（三）最近发展区"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-11",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "现有水平",
+      "text": "教学应考虑儿童现有的发展水平。",
+      "keywords": [
+        "现有发展水平"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）最近发展区",
+        "2. 教学与发展的关系"
+      ],
+      "displayTitle": "（1）考虑现有水平",
+      "outline": "（三）最近发展区"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-12",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "发展前面",
+      "text": "教学应当走在学生现有发展水平的前面。",
+      "keywords": [
+        "教学",
+        "现有水平前面"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）最近发展区",
+        "2. 教学与发展的关系"
+      ],
+      "displayTitle": "（2）走在发展前面",
+      "outline": "（三）最近发展区"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-13",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "最佳期限",
+      "text": "学习存在最佳期限。",
+      "keywords": [
+        "学习",
+        "最佳期限"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）最近发展区",
+        "2. 教学与发展的关系"
+      ],
+      "displayTitle": "（3）学习存在最佳期限",
+      "outline": "（三）最近发展区"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-14",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "创造发展区",
+      "text": "教学创造学生的最近发展区。",
+      "keywords": [
+        "教学",
+        "创造",
+        "最近发展区"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）最近发展区",
+        "2. 教学与发展的关系"
+      ],
+      "displayTitle": "（4）创造最近发展区",
+      "outline": "（三）最近发展区"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-15",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "支架式教学",
+      "text": "教学者提供有挑战性的、处于学生最近发展区内的任务和支架，随着儿童认知发展的变化进行调整。例：利用平行四边形面积公式的知识作为支架，帮助推导三角形面积公式。",
+      "keywords": [
+        "挑战性",
+        "最近发展区",
+        "任务支架"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学应用"
+      ],
+      "displayTitle": "1. 支架式教学",
+      "outline": "（四）教学应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-16",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "交互式教学",
+      "text": "师生在相互作用的情境下学习，教师示范，教师和学生轮流充当教师角色演练策略。例：教师先讲例题，随后给出同类型题，让学生讲、教师点评。",
+      "keywords": [
+        "相互作用",
+        "教师示范",
+        "轮流角色"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学应用"
+      ],
+      "displayTitle": "2. 交互式教学",
+      "outline": "（四）教学应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-17",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "合作学习",
+      "text": "教师尽量组织安排能力水平不同的学生进行合作学习。例：各组调查公共场所的秩序和规则，学生之间讨论、互助、共同进步。",
+      "keywords": [
+        "不同能力",
+        "合作学习",
+        "互助"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学应用"
+      ],
+      "displayTitle": "3. 合作学习",
+      "outline": "（四）教学应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-vygotsky-18",
+      "knowledgeId": "edu-reviewed-ch1-vygotsky",
+      "title": "情境式教学",
+      "text": "让学习者在一定情境的活动中完成学习。例：由学生前一天捡树叶、课堂上展示树叶，引出“叶脉有什么作用”的问题并探究。",
+      "keywords": [
+        "情境",
+        "活动",
+        "完成学习"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）教学应用"
+      ],
+      "displayTitle": "4. 情境式教学",
+      "outline": "（四）教学应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-0",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "社会文化",
+      "text": "人格发展受社会文化背景的影响和制约。",
+      "keywords": [
+        "人格发展",
+        "社会文化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）发展观"
+      ],
+      "displayTitle": "1. 社会文化背景",
+      "outline": "（一）发展观"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-1",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段化",
+      "text": "人格发展可以阶段化。每个阶段都有其特殊的目标、任务和冲突；冲突得到良好解决形成人格，冲突未得到解决则形成消极人格。",
+      "keywords": [
+        "阶段化",
+        "目标任务冲突",
+        "积极消极"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）发展观"
+      ],
+      "displayTitle": "2. 人格发展可以阶段化",
+      "outline": "（一）发展观"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-2",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "相互依存",
+      "text": "人格发展各阶段相互依存。后一阶段发展任务的完成依赖于早期冲突的解决。",
+      "keywords": [
+        "相互依存",
+        "早期冲突"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）发展观"
+      ],
+      "displayTitle": "3. 各阶段相互依存",
+      "outline": "（一）发展观"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-3",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段一",
+      "text": "0～1.5岁，婴儿期。发展任务：信任感对怀疑感；重要事件：喂食、安抚；实现目标：希望。教师与家长指导：提供食物和爱抚，让婴儿感受信任与安全。",
+      "keywords": [
+        "信任怀疑",
+        "喂食安抚",
+        "希望"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）八阶段"
+      ],
+      "displayTitle": "0～1.5岁：信任感对怀疑感",
+      "outline": "（二）八阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-4",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段二",
+      "text": "1.5～3岁，婴儿期。发展任务：自主感对羞怯感；重要事件：自主吃饭、穿衣；实现目标：意志。指导：允许婴儿学会独立，自己的事自己做。",
+      "keywords": [
+        "自主羞怯",
+        "自主吃饭穿衣",
+        "意志"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）八阶段"
+      ],
+      "displayTitle": "1.5～3岁：自主感对羞怯感",
+      "outline": "（二）八阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-5",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段三",
+      "text": "3～6岁，幼儿期。发展任务：主动感对内疚感；重要事件：探索活动；实现目标：目的。指导：不要干涉幼儿的探索活动。",
+      "keywords": [
+        "主动内疚",
+        "探索活动",
+        "目的"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）八阶段"
+      ],
+      "displayTitle": "3～6岁：主动感对内疚感",
+      "outline": "（二）八阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-6",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段四",
+      "text": "6～12岁，儿童期。发展任务：勤奋感对自卑感；重要事件：入学；实现目标：能力。指导：鼓励儿童勤奋的行为，给儿童胜任感。",
+      "keywords": [
+        "勤奋自卑",
+        "入学",
+        "能力"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）八阶段"
+      ],
+      "displayTitle": "6～12岁：勤奋感对自卑感",
+      "outline": "（二）八阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-7",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段五",
+      "text": "12～18岁，少年期和青春期。发展任务：角色同一性对角色混乱；重要事件：同伴交往；实现目标：忠诚。指导：鼓励学生自我认同，树立榜样。",
+      "keywords": [
+        "角色同一性",
+        "角色混乱",
+        "同伴交往",
+        "忠诚"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）八阶段"
+      ],
+      "displayTitle": "12～18岁：角色同一性对角色混乱",
+      "outline": "（二）八阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-8",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段六",
+      "text": "18～30岁，青年晚期。发展任务：亲密感对孤独感；重要事件：爱情、婚姻；实现目标：爱情。指导：帮助青年获得友情和爱情。",
+      "keywords": [
+        "亲密孤独",
+        "爱情婚姻"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）八阶段"
+      ],
+      "displayTitle": "18～30岁：亲密感对孤独感",
+      "outline": "（二）八阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-9",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段七",
+      "text": "30～60岁，中年期和壮年期。发展任务：繁殖感对停滞感；重要事件：养育子女；实现目标：关怀。指导：学习家庭教育、加强育儿水平、加强职业发展。",
+      "keywords": [
+        "繁殖停滞",
+        "养育子女",
+        "关怀"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）八阶段"
+      ],
+      "displayTitle": "30～60岁：繁殖感对停滞感",
+      "outline": "（二）八阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-10",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "阶段八",
+      "text": "60岁后，老年期。发展任务：完美感对绝望感；重要事件：反省、接纳生活；实现目标：智慧。指导：鼓励反思，接纳生活。",
+      "keywords": [
+        "完美绝望",
+        "反省接纳",
+        "智慧"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）八阶段"
+      ],
+      "displayTitle": "60岁后：完美感对绝望感",
+      "outline": "（二）八阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-11",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "总体理论",
+      "text": "理论上，揭示了人格发展的连续性、阶段性。",
+      "keywords": [
+        "连续性",
+        "阶段性"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用",
+        "1. 总体"
+      ],
+      "displayTitle": "（1）理论上",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-12",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "总体实践",
+      "text": "实践中，恰当教育，解决危机，积极人格。",
+      "keywords": [
+        "恰当教育",
+        "解决危机",
+        "积极人格"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用",
+        "1. 总体"
+      ],
+      "displayTitle": "（2）实践中",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-13",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "小学生成功",
+      "text": "帮助小学生适应勤奋对自卑危机：体验成功感。",
+      "keywords": [
+        "小学生",
+        "勤奋自卑",
+        "成功感"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用",
+        "2. 对于小学生：帮助适应勤奋对自卑危机"
+      ],
+      "displayTitle": "（1）体验成功感",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-14",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "小学生勤奋",
+      "text": "表扬学生的勤奋。",
+      "keywords": [
+        "表扬",
+        "勤奋"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用",
+        "2. 对于小学生：帮助适应勤奋对自卑危机"
+      ],
+      "displayTitle": "（2）表扬勤奋",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-15",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "小学生概念",
+      "text": "帮助学生形成积极的自我概念。",
+      "keywords": [
+        "积极",
+        "自我概念"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用",
+        "2. 对于小学生：帮助适应勤奋对自卑危机"
+      ],
+      "displayTitle": "（3）积极的自我概念",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-16",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "中学生评价",
+      "text": "帮助中学生适应角色同一性和角色混乱危机：教师对学生的积极评价与反馈。",
+      "keywords": [
+        "中学生",
+        "角色同一性",
+        "积极评价反馈"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用",
+        "3. 对于中学生：帮助适应角色同一性和角色混乱危机"
+      ],
+      "displayTitle": "（1）积极评价与反馈",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-17",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "同伴关系",
+      "text": "同伴关系的影响。",
+      "keywords": [
+        "同伴关系",
+        "影响"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用",
+        "3. 对于中学生：帮助适应角色同一性和角色混乱危机"
+      ],
+      "displayTitle": "（2）同伴关系",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-erikson-18",
+      "knowledgeId": "edu-reviewed-ch1-erikson",
+      "title": "拒绝权威",
+      "text": "拒绝权威，寻找自我。",
+      "keywords": [
+        "拒绝权威",
+        "寻找自我"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）应用",
+        "3. 对于中学生：帮助适应角色同一性和角色混乱危机"
+      ],
+      "displayTitle": "（3）拒绝权威，寻找自我",
+      "outline": "（三）应用"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-0",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "两难故事",
+      "text": "“道德两难故事法”：海因兹偷药。",
+      "keywords": [
+        "道德两难故事法",
+        "海因兹"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）前提"
+      ],
+      "displayTitle": "1. 道德两难故事法",
+      "outline": "（一）前提"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-1",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "道德思维",
+      "text": "培育学生的道德思维。",
+      "keywords": [
+        "道德思维",
+        "培育"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）前提"
+      ],
+      "displayTitle": "2. 培育道德思维",
+      "outline": "（一）前提"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-2",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "前习俗特征",
+      "text": "幼儿园及小学低中年级。关心自身的利害，为了免受惩罚或获得奖励。",
+      "keywords": [
+        "自身利害",
+        "避免惩罚",
+        "获得奖励"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "1. 前习俗水平"
+      ],
+      "displayTitle": "共同特征",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-3",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "惩罚服从",
+      "text": "避免惩罚。",
+      "keywords": [
+        "惩罚",
+        "服从",
+        "避免惩罚"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "1. 前习俗水平"
+      ],
+      "displayTitle": "（1）惩罚和服从的定向阶段",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-4",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "工具相对",
+      "text": "人际关系对等，如“你对我好，我也就对你好”；为了获得奖励，满足个人需求。",
+      "keywords": [
+        "对等",
+        "奖励",
+        "个人需求"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "1. 前习俗水平"
+      ],
+      "displayTitle": "（2）工具性的相对主义定向阶段",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-5",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "习俗特征",
+      "text": "小学中年级出现，一直到青年、成年期。服从团体行为规范，由外到内、由他到自。",
+      "keywords": [
+        "团体规范",
+        "外到内",
+        "他到自"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "2. 习俗水平"
+      ],
+      "displayTitle": "共同特征",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-6",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "好孩子",
+      "text": "尊重大多数人的意见，避免非议，重视顺从和做好孩子。",
+      "keywords": [
+        "人际协调",
+        "多数意见",
+        "好孩子"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "2. 习俗水平"
+      ],
+      "displayTitle": "（3）人际协调的定向阶段（“好孩子”定向阶段）",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-7",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "法律秩序",
+      "text": "服从团体规范，尊重法律权威。",
+      "keywords": [
+        "团体规范",
+        "法律权威"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "2. 习俗水平"
+      ],
+      "displayTitle": "（4）维护权威或秩序的定向阶段",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-8",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "后习俗特征",
+      "text": "至少是青年期人格成熟的人。完全自律，超越现实道德规范的约束，内化自我价值，形成内部道德命令。",
+      "keywords": [
+        "完全自律",
+        "超越规范",
+        "内化价值"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "3. 后习俗水平"
+      ],
+      "displayTitle": "共同特征",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-9",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "社会契约",
+      "text": "相信法律是人制定的，不适用社会时理应修正。",
+      "keywords": [
+        "社会契约",
+        "法律",
+        "人制定",
+        "修正"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "3. 后习俗水平"
+      ],
+      "displayTitle": "（5）社会契约定向阶段",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-10",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "普遍原则",
+      "text": "超越某些规章制度，更多考虑道德的本质，而非具体的原则。",
+      "keywords": [
+        "超越制度",
+        "道德本质"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）三水平六阶段",
+        "3. 后习俗水平"
+      ],
+      "displayTitle": "（6）普遍道德原则的定向阶段",
+      "outline": "（二）三水平六阶段"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-11",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "理论价值",
+      "text": "揭示儿童道德发展规律，加强德育的实效性。",
+      "keywords": [
+        "道德发展规律",
+        "德育实效性"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）优点",
+        "1. 理论上"
+      ],
+      "displayTitle": "总体价值",
+      "outline": "（三）优点"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-12",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "主体性因素",
+      "text": "充分重视儿童道德发展的主体性因素。",
+      "keywords": [
+        "主体性因素"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）优点",
+        "1. 理论上"
+      ],
+      "displayTitle": "（1）主体性因素",
+      "outline": "（三）优点"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-13",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "顺序不变",
+      "text": "道德发展的顺序是不变的。布拉特效应：儿童不理解高于他们所处两个以上阶段的道德推理，只能理解高于一个阶段的推理。尽管如此，在六个阶段中，并非每个人都能达到道德发展的最高阶段。",
+      "keywords": [
+        "顺序不变",
+        "布拉特效应",
+        "一个阶段",
+        "非人人最高"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）优点",
+        "1. 理论上"
+      ],
+      "displayTitle": "（2）道德发展顺序不变",
+      "outline": "（三）优点"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-14",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "逻辑思维",
+      "text": "道德发展与逻辑思维发展有关。",
+      "keywords": [
+        "道德发展",
+        "逻辑思维"
+      ],
+      "order": 14,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）优点",
+        "1. 理论上"
+      ],
+      "displayTitle": "（3）与逻辑思维发展有关",
+      "outline": "（三）优点"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-15",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "社会环境",
+      "text": "道德发展与不同社会环境的刺激及儿童与社会环境的交往有关。",
+      "keywords": [
+        "社会环境刺激",
+        "交往"
+      ],
+      "order": 15,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）优点",
+        "1. 理论上"
+      ],
+      "displayTitle": "（4）与社会环境有关",
+      "outline": "（三）优点"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-16",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "新的方式",
+      "text": "实践上，创造了新的德育方式：道德两难故事法、公正团体法。",
+      "keywords": [
+        "道德两难故事法",
+        "公正团体法"
+      ],
+      "order": 16,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）优点"
+      ],
+      "displayTitle": "2. 实践上",
+      "outline": "（三）优点"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-17",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "样本局限",
+      "text": "研究样本的普遍性不足，样本选择时以男性为主。",
+      "keywords": [
+        "样本",
+        "普遍性不足",
+        "男性"
+      ],
+      "order": 17,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）局限性"
+      ],
+      "displayTitle": "1. 样本普遍性不足",
+      "outline": "（四）局限性"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-18",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "阶段质疑",
+      "text": "对研究阶段有质疑。随着生活条件的提高，年幼儿童的道德发展水平普遍前移。",
+      "keywords": [
+        "阶段质疑",
+        "水平前移"
+      ],
+      "order": 18,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）局限性"
+      ],
+      "displayTitle": "2. 研究阶段质疑",
+      "outline": "（四）局限性"
+    },
+    {
+      "id": "edu-reviewed-ch1-kohlberg-19",
+      "knowledgeId": "edu-reviewed-ch1-kohlberg",
+      "title": "过度认知",
+      "text": "过度强调道德认知推理，忽视道德发展的其他特性。",
+      "keywords": [
+        "过度强调",
+        "认知推理",
+        "其他特性"
+      ],
+      "order": 19,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（四）局限性"
+      ],
+      "displayTitle": "3. 过度强调认知推理",
+      "outline": "（四）局限性"
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-0",
+      "knowledgeId": "edu-reviewed-ch1-bronfenbrenner",
+      "title": "环境系统",
+      "text": "个体发展嵌套于相互影响的一系列环境系统之中。",
+      "keywords": [
+        "嵌套",
+        "相互影响",
+        "环境系统"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论假设"
+      ],
+      "displayTitle": "1. 嵌套于环境系统",
+      "outline": "（一）理论假设"
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-1",
+      "knowledgeId": "edu-reviewed-ch1-bronfenbrenner",
+      "title": "相互作用",
+      "text": "系统与个体相互作用影响个体发展。",
+      "keywords": [
+        "系统",
+        "个体",
+        "相互作用"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）理论假设"
+      ],
+      "displayTitle": "2. 系统与个体相互作用",
+      "outline": "（一）理论假设"
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-2",
+      "knowledgeId": "edu-reviewed-ch1-bronfenbrenner",
+      "title": "层次依据",
+      "text": "环境对个体发展影响的直接程度。",
+      "keywords": [
+        "环境",
+        "直接程度"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）系统层次"
+      ],
+      "displayTitle": "1. 依据",
+      "outline": "（二）系统层次"
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-3",
+      "knowledgeId": "edu-reviewed-ch1-bronfenbrenner",
+      "title": "微观系统",
+      "text": "个体活动和交往的直接环境。例：家庭、学校、邻里、同伴。",
+      "keywords": [
+        "直接环境",
+        "家庭学校",
+        "邻里同伴"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）系统层次",
+        "2. 层次"
+      ],
+      "displayTitle": "（1）微观系统",
+      "outline": "（二）系统层次"
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-4",
+      "knowledgeId": "edu-reviewed-ch1-bronfenbrenner",
+      "title": "中间系统",
+      "text": "各微观系统之间的相互关系。积极联系产生最优化，反之产生消极后果。例：家庭、学校和同伴群体的相互影响。",
+      "keywords": [
+        "微观系统关系",
+        "积极联系",
+        "消极后果"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）系统层次",
+        "2. 层次"
+      ],
+      "displayTitle": "（2）中间系统",
+      "outline": "（二）系统层次"
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-5",
+      "knowledgeId": "edu-reviewed-ch1-bronfenbrenner",
+      "title": "外层系统",
+      "text": "儿童并未直接参与，但对他们的发展产生影响的系统。例：父母工作、大众传媒、学校体系。",
+      "keywords": [
+        "未直接参与",
+        "产生影响"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）系统层次",
+        "2. 层次"
+      ],
+      "displayTitle": "（3）外层系统",
+      "outline": "（二）系统层次"
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-6",
+      "knowledgeId": "edu-reviewed-ch1-bronfenbrenner",
+      "title": "宏观系统",
+      "text": "存在于微观、中间、外层系统中的文化、亚文化和社会阶层背景。例：阶层背景、应试教育、儒家文化的影响。",
+      "keywords": [
+        "文化",
+        "亚文化",
+        "社会阶层"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）系统层次",
+        "2. 层次"
+      ],
+      "displayTitle": "（4）宏观系统",
+      "outline": "（二）系统层次"
+    },
+    {
+      "id": "edu-reviewed-ch1-bronfenbrenner-7",
+      "knowledgeId": "edu-reviewed-ch1-bronfenbrenner",
+      "title": "时间系统",
+      "text": "环境及时间相互影响，不断变化。例：长期受到应试教育带来的教育内卷的影响，以及结婚带来的影响。",
+      "keywords": [
+        "环境时间",
+        "相互影响",
+        "不断变化"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）系统层次",
+        "2. 层次"
+      ],
+      "displayTitle": "（5）时间系统",
+      "outline": "（二）系统层次"
+    },
+    {
+      "id": "edu-reviewed-ch1-intelligence-differences-0",
+      "knowledgeId": "edu-reviewed-ch1-intelligence-differences",
+      "title": "类型差异",
+      "text": "智力发展有类型差异，如加德纳的多元智力理论。",
+      "keywords": [
+        "类型差异",
+        "加德纳",
+        "多元智力"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）表现"
+      ],
+      "displayTitle": "1. 类型差异",
+      "outline": "（一）表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-intelligence-differences-1",
+      "knowledgeId": "edu-reviewed-ch1-intelligence-differences",
+      "title": "水平差异",
+      "text": "智力发展有水平差异，如智商。",
+      "keywords": [
+        "水平差异",
+        "智商"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）表现"
+      ],
+      "displayTitle": "2. 水平差异",
+      "outline": "（一）表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-intelligence-differences-2",
+      "knowledgeId": "edu-reviewed-ch1-intelligence-differences",
+      "title": "速度差异",
+      "text": "智力发展有速度差异，有些人早熟，有些人晚熟。",
+      "keywords": [
+        "速度差异",
+        "早熟",
+        "晚熟"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）表现"
+      ],
+      "displayTitle": "3. 速度差异",
+      "outline": "（一）表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-intelligence-differences-3",
+      "knowledgeId": "edu-reviewed-ch1-intelligence-differences",
+      "title": "性别差异",
+      "text": "智力因性别差异而有所不同，但无高低之分。",
+      "keywords": [
+        "性别差异",
+        "无高低之分"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）表现"
+      ],
+      "displayTitle": "4. 性别差异",
+      "outline": "（一）表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-intelligence-differences-4",
+      "knowledgeId": "edu-reviewed-ch1-intelligence-differences",
+      "title": "分组教学",
+      "text": "按能力分组，因材施教。",
+      "keywords": [
+        "能力分组",
+        "因材施教"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）智力差异的教育"
+      ],
+      "displayTitle": "1. 按能力分组",
+      "outline": "（二）智力差异的教育"
+    },
+    {
+      "id": "edu-reviewed-ch1-intelligence-differences-5",
+      "knowledgeId": "edu-reviewed-ch1-intelligence-differences",
+      "title": "教育目标",
+      "text": "设置不同的教育目标。",
+      "keywords": [
+        "不同教育目标"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）智力差异的教育"
+      ],
+      "displayTitle": "2. 设置不同目标",
+      "outline": "（二）智力差异的教育"
+    },
+    {
+      "id": "edu-reviewed-ch1-intelligence-differences-6",
+      "knowledgeId": "edu-reviewed-ch1-intelligence-differences",
+      "title": "教育方式",
+      "text": "选择不同的教育方式。",
+      "keywords": [
+        "不同教育方式"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）智力差异的教育"
+      ],
+      "displayTitle": "3. 选择不同方式",
+      "outline": "（二）智力差异的教育"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-0",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "认知方式定义",
+      "text": "认知方式或风格，是学生在加工信息时所习惯采用的典型方式。",
+      "keywords": [
+        "加工信息",
+        "习惯",
+        "典型方式"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "认知方式／风格"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-1",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "知觉差异",
+      "text": "知觉方式的差异。",
+      "keywords": [
+        "知觉方式"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "差异的表现"
+      ],
+      "displayTitle": "1. 知觉方式的差异",
+      "outline": "差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-2",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "记忆差异",
+      "text": "记忆方式的差异。",
+      "keywords": [
+        "记忆方式"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "差异的表现"
+      ],
+      "displayTitle": "2. 记忆方式的差异",
+      "outline": "差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-3",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "思维差异",
+      "text": "思维方式的差异。",
+      "keywords": [
+        "思维方式"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "差异的表现"
+      ],
+      "displayTitle": "3. 思维方式的差异",
+      "outline": "差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-4",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "认知反应差异",
+      "text": "认知反应方式的差异。",
+      "keywords": [
+        "认知反应方式"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "差异的表现"
+      ],
+      "displayTitle": "4. 认知反应方式的差异",
+      "outline": "差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-5",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "识别风格",
+      "text": "教师应该帮助学生识别自己的认知方式。",
+      "keywords": [
+        "识别",
+        "认知方式"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "认知方式差异的教育"
+      ],
+      "displayTitle": "（1）帮助识别",
+      "outline": "认知方式差异的教育"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-6",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "匹配策略",
+      "text": "教师要明确适应认知方式的两类教学策略之一：匹配策略。",
+      "keywords": [
+        "适应认知方式",
+        "匹配策略"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "认知方式差异的教育",
+        "（2）两类教学策略"
+      ],
+      "displayTitle": "①匹配策略",
+      "outline": "认知方式差异的教育"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-7",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "失配策略",
+      "text": "教师要明确适应认知方式的两类教学策略之一：失配策略。",
+      "keywords": [
+        "适应认知方式",
+        "失配策略"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "认知方式差异的教育",
+        "（2）两类教学策略"
+      ],
+      "displayTitle": "②失配策略",
+      "outline": "认知方式差异的教育"
+    },
+    {
+      "id": "edu-reviewed-ch1-cognitive-style-education-8",
+      "knowledgeId": "edu-reviewed-ch1-cognitive-style-education",
+      "title": "多模式教学",
+      "text": "教师要调整自己的教学风格，提供多模式教学。",
+      "keywords": [
+        "调整教学风格",
+        "多模式教学"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "认知方式差异的教育"
+      ],
+      "displayTitle": "（3）多模式教学",
+      "outline": "认知方式差异的教育"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-0",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "场独立含义",
+      "text": "对客观事物做判断时，常常利用自己内部作为参照，不易受外来因素影响。",
+      "keywords": [
+        "内部参照",
+        "不易受外来影响"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "1. 场独立型",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-1",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "场依存含义",
+      "text": "倾向于以外部环境信息为依据，难以摆脱环境影响。",
+      "keywords": [
+        "外部环境",
+        "难摆脱影响"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "2. 场依存型",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-2",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "学科独立",
+      "text": "场独立：自然科学。",
+      "keywords": [
+        "场独立",
+        "自然科学"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "1. 学科"
+      ],
+      "displayTitle": "场独立",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-3",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "学科依存",
+      "text": "场依存：人文科学。",
+      "keywords": [
+        "场依存",
+        "人文科学"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "1. 学科"
+      ],
+      "displayTitle": "场依存",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-4",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "动机独立",
+      "text": "场独立：内部动机。",
+      "keywords": [
+        "场独立",
+        "内部动机"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "2. 动机"
+      ],
+      "displayTitle": "场独立",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-5",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "动机依存",
+      "text": "场依存：外部动机，特别需要反馈。",
+      "keywords": [
+        "场依存",
+        "外部动机",
+        "反馈"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "2. 动机"
+      ],
+      "displayTitle": "场依存",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-6",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "记忆独立",
+      "text": "场独立：善于记忆无组织的材料。",
+      "keywords": [
+        "场独立",
+        "无组织材料"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "3. 记忆"
+      ],
+      "displayTitle": "场独立",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-7",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "记忆依存",
+      "text": "场依存：善于记忆有组织的材料，尤其是人文社科的材料。",
+      "keywords": [
+        "场依存",
+        "有组织",
+        "人文社科"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "3. 记忆"
+      ],
+      "displayTitle": "场依存",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-8",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "解决独立",
+      "text": "场独立：更能打破思维定势的限制。",
+      "keywords": [
+        "场独立",
+        "打破思维定势"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "4. 解决"
+      ],
+      "displayTitle": "场独立",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-9",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "解决依存",
+      "text": "场依存：容易依赖思维定势。",
+      "keywords": [
+        "场依存",
+        "依赖思维定势"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "4. 解决"
+      ],
+      "displayTitle": "场依存",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-10",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "教学独立",
+      "text": "场独立：讲究知识结构，特别强调逻辑，重视教师的指导。",
+      "keywords": [
+        "场独立",
+        "知识结构",
+        "逻辑",
+        "教师指导"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "5. 教学"
+      ],
+      "displayTitle": "场独立",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-field-style-11",
+      "knowledgeId": "edu-reviewed-ch1-field-style",
+      "title": "教学依存",
+      "text": "场依存：不讲究知识结构，喜欢和学生互动探讨。",
+      "keywords": [
+        "场依存",
+        "互动探讨"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "5. 教学"
+      ],
+      "displayTitle": "场依存",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-processing-style-0",
+      "knowledgeId": "edu-reviewed-ch1-processing-style",
+      "title": "深层含义",
+      "text": "深刻理解，将所学内容与更大的框架联结起来。",
+      "keywords": [
+        "深刻理解",
+        "更大框架",
+        "联结"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "1. 深层加工",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch1-processing-style-1",
+      "knowledgeId": "edu-reviewed-ch1-processing-style",
+      "title": "表层含义",
+      "text": "记忆表面信息，不能将它们与更大框架联结起来。",
+      "keywords": [
+        "表面信息",
+        "不能联结"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "2. 表层加工",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch1-processing-style-2",
+      "knowledgeId": "edu-reviewed-ch1-processing-style",
+      "title": "深层考试",
+      "text": "有利于侧重理解的考试。",
+      "keywords": [
+        "深层加工",
+        "理解考试"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点"
+      ],
+      "displayTitle": "1. 深层加工",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-processing-style-3",
+      "knowledgeId": "edu-reviewed-ch1-processing-style",
+      "title": "表层考试",
+      "text": "有利于侧重事实学习和记忆的考试。",
+      "keywords": [
+        "表层加工",
+        "事实",
+        "记忆"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点"
+      ],
+      "displayTitle": "2. 表层加工",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-thinking-style-0",
+      "knowledgeId": "edu-reviewed-ch1-thinking-style",
+      "title": "整体策略",
+      "text": "先预测整个问题所涉及的子问题的层次结构。",
+      "keywords": [
+        "整体性策略",
+        "子问题",
+        "层次结构"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "1. 整体性策略",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch1-thinking-style-1",
+      "knowledgeId": "edu-reviewed-ch1-thinking-style",
+      "title": "系列策略",
+      "text": "按逻辑顺序一步一步地解决问题。",
+      "keywords": [
+        "系列性策略",
+        "逻辑顺序",
+        "逐步解决"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "2. 系列性策略",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch1-thinking-style-2",
+      "knowledgeId": "edu-reviewed-ch1-thinking-style",
+      "title": "同一水平",
+      "text": "最终可以达到同一理解水平。",
+      "keywords": [
+        "同一理解水平"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点"
+      ],
+      "displayTitle": "共同点",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-thinking-style-3",
+      "knowledgeId": "edu-reviewed-ch1-thinking-style",
+      "title": "整体局限",
+      "text": "可能会遗漏自认为不重要的部分。",
+      "keywords": [
+        "整体性",
+        "遗漏"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "局限"
+      ],
+      "displayTitle": "1. 整体性",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-thinking-style-4",
+      "knowledgeId": "edu-reviewed-ch1-thinking-style",
+      "title": "系列局限",
+      "text": "可能未了解各要素之间的关联。",
+      "keywords": [
+        "系列性",
+        "要素关联"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "局限"
+      ],
+      "displayTitle": "2. 系列性",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-0",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "反思含义",
+      "text": "深思熟虑，用充足时间考虑，追求最佳，错误较少。",
+      "keywords": [
+        "深思熟虑",
+        "充足时间",
+        "错误少"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "1. 反思型",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-1",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "冲动含义",
+      "text": "很快给出答案，仓促，反应速度快，但易错。",
+      "keywords": [
+        "仓促",
+        "速度快",
+        "易错"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "含义"
+      ],
+      "displayTitle": "2. 冲动型",
+      "outline": "含义"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-2",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "反思问题",
+      "text": "成熟策略，不同假设。",
+      "keywords": [
+        "反思",
+        "成熟策略",
+        "不同假设"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "1. 解决问题"
+      ],
+      "displayTitle": "反思",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-3",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "冲动问题",
+      "text": "不成熟策略，一个假设。",
+      "keywords": [
+        "冲动",
+        "不成熟",
+        "一个假设"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "1. 解决问题"
+      ],
+      "displayTitle": "冲动",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-4",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "反思解释",
+      "text": "能在要求下，自发做出解释。",
+      "keywords": [
+        "反思",
+        "自发解释"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "2. 解释"
+      ],
+      "displayTitle": "反思",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-5",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "冲动解释",
+      "text": "无法或不周全。",
+      "keywords": [
+        "冲动",
+        "无法",
+        "不周全"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "2. 解释"
+      ],
+      "displayTitle": "冲动",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-6",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "反思学习",
+      "text": "适合对细节进行分析的学习任务。",
+      "keywords": [
+        "反思",
+        "细节分析"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "3. 学习"
+      ],
+      "displayTitle": "反思",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-7",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "冲动学习",
+      "text": "适合需要做整体解释的学习任务。",
+      "keywords": [
+        "冲动",
+        "整体解释"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "其他特点",
+        "3. 学习"
+      ],
+      "displayTitle": "冲动",
+      "outline": "其他特点"
+    },
+    {
+      "id": "edu-reviewed-ch1-reflection-style-8",
+      "knowledgeId": "edu-reviewed-ch1-reflection-style",
+      "title": "脚注",
+      "text": "冲动型学生在解决问题的能力方面不一定比反思型学生差。冲动型学生学业成绩差，主要是因为学校里的测验往往注重对细节的分析。",
+      "keywords": [
+        "不一定能力差",
+        "测验",
+        "细节分析"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [],
+      "displayTitle": "脚注补充"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-0",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "内向动机",
+      "text": "内向型偏爱内在动机。",
+      "keywords": [
+        "内向型",
+        "内在动机"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）性格差异",
+        "学习动机"
+      ],
+      "displayTitle": "内向型",
+      "outline": "（一）性格差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-1",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "外向动机",
+      "text": "外向型偏爱外在动机。",
+      "keywords": [
+        "外向型",
+        "外在动机"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）性格差异",
+        "学习动机"
+      ],
+      "displayTitle": "外向型",
+      "outline": "（一）性格差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-2",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "内向习惯",
+      "text": "能严格要求自己，学习认真，持之以恒，其意志力和坚韧性较强。",
+      "keywords": [
+        "内向型",
+        "认真",
+        "持之以恒"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）性格差异",
+        "学习习惯"
+      ],
+      "displayTitle": "内向型",
+      "outline": "（一）性格差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-3",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "外向习惯",
+      "text": "头脑比较灵活，但比较浮躁，不扎实。",
+      "keywords": [
+        "外向型",
+        "灵活",
+        "浮躁"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）性格差异",
+        "学习习惯"
+      ],
+      "displayTitle": "外向型",
+      "outline": "（一）性格差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-4",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "内向方式",
+      "text": "偏好支持性、演绎性、小步骤的知识讲授方式。",
+      "keywords": [
+        "内向型",
+        "支持性",
+        "演绎性",
+        "小步骤"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）性格差异",
+        "学习方式"
+      ],
+      "displayTitle": "内向型",
+      "outline": "（一）性格差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-5",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "外向方式",
+      "text": "偏好探索性、归纳性、大步骤的知识讲授方式。",
+      "keywords": [
+        "外向型",
+        "探索性",
+        "归纳性",
+        "大步骤"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）性格差异",
+        "学习方式"
+      ],
+      "displayTitle": "外向型",
+      "outline": "（一）性格差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-6",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "胆汁质",
+      "text": "高级神经活动类型：兴奋型。特点：直率热情，冲动易怒。教育方式：鼓励进取，培养耐心。",
+      "keywords": [
+        "胆汁质",
+        "兴奋型",
+        "培养耐心"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）气质差异"
+      ],
+      "displayTitle": "胆汁质",
+      "outline": "（二）气质差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-7",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "多血质",
+      "text": "高级神经活动类型：活泼型。特点：机智过人、能说会道，粗枝大叶。教育方式：鼓励积极参与活动，培养踏实。",
+      "keywords": [
+        "多血质",
+        "活泼型",
+        "培养踏实"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）气质差异"
+      ],
+      "displayTitle": "多血质",
+      "outline": "（二）气质差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-8",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "黏液质",
+      "text": "高级神经活动类型：安静型。特点：安静稳重、交际适度，有些死板。教育方式：鼓励参与班级管理，培养思维的灵活性。",
+      "keywords": [
+        "黏液质",
+        "安静型",
+        "思维灵活性"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）气质差异"
+      ],
+      "displayTitle": "黏液质",
+      "outline": "（二）气质差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-personality-differences-9",
+      "knowledgeId": "edu-reviewed-ch1-personality-differences",
+      "title": "抑郁质",
+      "text": "高级神经活动类型：抑郁型。特点：聪慧细腻，多愁善感。教育方式：鼓励参与班级活动，激发学习动机。",
+      "keywords": [
+        "抑郁质",
+        "抑郁型",
+        "激发学习动机"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）气质差异"
+      ],
+      "displayTitle": "抑郁质",
+      "outline": "（二）气质差异"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-0",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "社会化形成",
+      "text": "并非与生俱来，在个体社会化过程中形成了性别图式，如成人对不同类型行为的强化。",
+      "keywords": [
+        "社会化",
+        "性别图式",
+        "行为强化"
+      ],
+      "order": 0,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）性别差异的原因"
+      ],
+      "displayTitle": "1. 社会化形成",
+      "outline": "（一）性别差异的原因"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-1",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "性别偏见",
+      "text": "学校教学中普遍存在性别偏见，也叫性别刻板印象。",
+      "keywords": [
+        "学校教学",
+        "性别偏见",
+        "刻板印象"
+      ],
+      "order": 1,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（一）性别差异的原因"
+      ],
+      "displayTitle": "2. 性别偏见",
+      "outline": "（一）性别差异的原因"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-2",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "男智力",
+      "text": "原书此项列举：空间、理解记忆、抽象思维。",
+      "keywords": [
+        "空间",
+        "理解记忆",
+        "抽象思维"
+      ],
+      "order": 2,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "1. 智力"
+      ],
+      "displayTitle": "男",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-3",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "女智力",
+      "text": "原书此项列举：声音、色彩、机械记忆、形象思维。",
+      "keywords": [
+        "声音色彩",
+        "机械记忆",
+        "形象思维"
+      ],
+      "order": 3,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "1. 智力"
+      ],
+      "displayTitle": "女",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-4",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "男言语",
+      "text": "原书此项列举：逻辑性、哲理性。",
+      "keywords": [
+        "逻辑性",
+        "哲理性"
+      ],
+      "order": 4,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "2. 言语"
+      ],
+      "displayTitle": "男",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-5",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "女言语",
+      "text": "原书此项列举：优于男孩，流畅性、情感性。",
+      "keywords": [
+        "流畅性",
+        "情感性"
+      ],
+      "order": 5,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "2. 言语"
+      ],
+      "displayTitle": "女",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-6",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "男行为",
+      "text": "原书此项列举：社会性游戏，侵略性。",
+      "keywords": [
+        "社会性游戏",
+        "侵略性"
+      ],
+      "order": 6,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "3. 行为"
+      ],
+      "displayTitle": "男",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-7",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "女行为",
+      "text": "原书此项记为“无”。",
+      "keywords": [
+        "无"
+      ],
+      "order": 7,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "3. 行为"
+      ],
+      "displayTitle": "女",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-8",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "男兴趣",
+      "text": "原书此项记为“事”。",
+      "keywords": [
+        "事"
+      ],
+      "order": 8,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "4. 兴趣"
+      ],
+      "displayTitle": "男",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-9",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "女兴趣",
+      "text": "原书此项记为“人”。",
+      "keywords": [
+        "人"
+      ],
+      "order": 9,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "4. 兴趣"
+      ],
+      "displayTitle": "女",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-10",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "男归因",
+      "text": "原书此项列举：成功归因为能力，失败归因为任务难。",
+      "keywords": [
+        "成功能力",
+        "失败任务难"
+      ],
+      "order": 10,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "5. 自信心"
+      ],
+      "displayTitle": "男",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-11",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "女归因",
+      "text": "原书此项列举：成功归因为运气，失败归因为能力。",
+      "keywords": [
+        "成功运气",
+        "失败能力"
+      ],
+      "order": 11,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（二）性别差异的表现",
+        "5. 自信心"
+      ],
+      "displayTitle": "女",
+      "outline": "（二）性别差异的表现"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-12",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "一视同仁",
+      "text": "教师要转变社会观念，对男女学生一视同仁。",
+      "keywords": [
+        "转变观念",
+        "一视同仁"
+      ],
+      "order": 12,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）性别差异的教育"
+      ],
+      "displayTitle": "1. 一视同仁",
+      "outline": "（三）性别差异的教育"
+    },
+    {
+      "id": "edu-reviewed-ch1-gender-differences-13",
+      "knowledgeId": "edu-reviewed-ch1-gender-differences",
+      "title": "避免偏见",
+      "text": "学校要避免性别偏见，如在教学材料的选择和呈现、课堂管理、课堂活动设计、师生互动方式等方面避免性别偏见。",
+      "keywords": [
+        "教学材料",
+        "课堂管理",
+        "活动设计",
+        "师生互动"
+      ],
+      "order": 13,
+      "version": 1,
+      "studyMode": "memorize",
+      "outlinePath": [
+        "（三）性别差异的教育"
+      ],
+      "displayTitle": "2. 避免性别偏见",
+      "outline": "（三）性别差异的教育"
+    }
+  ],
+  "ocr": {},
+  "pageRotations": {},
+  "outlineRevision": "edu-ch1-source-tree-v1",
+  "outlineBaseline": [],
+  "stats": {
+    "pages": 11,
+    "knowledge": 30,
+    "steps": 208,
+    "referenceOnly": 12
+  }
+}
