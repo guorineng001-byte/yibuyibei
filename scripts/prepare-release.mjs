@@ -4,7 +4,7 @@ import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 
 const root=path.resolve(fileURLToPath(new URL('..',import.meta.url))),release=path.join(root,'release'),source=path.join(release,'source');
-const entries=['src','public','scripts','docs','.github','.openai','.gitignore','package.json','pnpm-lock.yaml','pnpm-workspace.yaml','tsconfig.json','vite.config.ts','index.html','LICENSE',...(await readdir(root)).filter(file=>file.endsWith('.md'))];
+const entries=['src','public','scripts','docs','.github','.gitignore','package.json','pnpm-lock.yaml','pnpm-workspace.yaml','tsconfig.json','vite.config.ts','index.html','LICENSE',...(await readdir(root)).filter(file=>file.endsWith('.md'))];
 await readFile(path.join(root,'dist/index.html'));
 const sw=await readFile(path.join(root,'dist/sw.js'),'utf8');
 const core=JSON.parse(sw.match(/^const CORE=(.+);$/m)?.[1]??'null');

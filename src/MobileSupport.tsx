@@ -12,7 +12,7 @@ export function MobileSupport(){
   const ready=()=>{clearTimeout(timeout);show('离线背诵已就绪');};
   const changed=()=>{if(navigator.serviceWorker.controller)ready();};
   navigator.serviceWorker.addEventListener('controllerchange',changed);
-  navigator.serviceWorker.register('/sw.js',{updateViaCache:'none'}).then(reg=>{
+  navigator.serviceWorker.register(import.meta.env.BASE_URL+'sw.js',{updateViaCache:'none'}).then(reg=>{
    if(disposed)return;
    if(reg.active)ready();
    const watch=()=>{

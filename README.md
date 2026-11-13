@@ -2,7 +2,7 @@
 
 面向全国统考 333 教育综合与 311 教育学专业基础考生的本地学习工具。把教材拆成小要点，按“阅读、提示回忆、独立回忆、对照自评”学习，再按间隔复习。支持分层目录、知识检索、原页框选对照、题目输出、备份和 PWA 离线使用。
 
-[在线使用](https://yibuyibei-study.guorineng001.chatgpt.site) · [源码仓库](https://github.com/guorineng001-byte/yibuyibei) · [发行与托管](DEPLOYMENT.md)
+[在线使用](https://guorineng001-byte.github.io/yibuyibei/) · [源码仓库](https://github.com/guorineng001-byte/yibuyibei) · [反馈问题](https://github.com/guorineng001-byte/yibuyibei/issues) · [发行与托管](DEPLOYMENT.md)
 
 ## 启动
 
@@ -77,4 +77,4 @@ pnpm start
 - 本地原书需要用户自行连接；完整 PDF 只作为本地交付文件，不随静态站点构建打包。
 - 首次使用文字识别需要联网下载 Tesseract 资源；已接入的文字卡片学习无需 OCR。部分网络环境可能无法取得这些资源。
 - 同页数的其他排版仍可能导致原页定位错误，连接前须确认是同一册、同页序的版本。
-- 当前生成网址在部分直连网络返回 403，访问情况见开发交接；大陆网络适配仍待完成。
+- 不同地区与运营商的访问速度可能不同，大陆网络实测情况见开发交接。

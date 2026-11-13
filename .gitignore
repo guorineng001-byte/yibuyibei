@@ -1,5 +1,6 @@
 node_modules/
 dist/
+dist-pages/
 *.tsbuildinfo
 .env.local
 backups/
@@ -8,3 +9,4 @@ backups/
 release/
 .sites-checkout/
 .sites-runtime/
+.openai/

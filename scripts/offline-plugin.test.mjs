@@ -11,7 +11,7 @@ describe('静态托管与离线资源',()=>{
   try{
    await mkdir(path.join(root,'dist/content'),{recursive:true});await mkdir(path.join(root,'dist/.openai'),{recursive:true});
    for(const [file,text] of Object.entries({'index.html':'<div id="root"></div>','content/example.json':'{}','_headers':'/sw.js\n Cache-Control: no-cache','_redirects':'','sw.js':'previous worker','.nojekyll':'','.openai/hosting.json':'{}'}))await writeFile(path.join(root,'dist',file),text);
-   const plugin=offlinePlugin();plugin.configResolved({root,build:{outDir:'dist'}});await plugin.closeBundle();
+   const plugin=offlinePlugin();plugin.configResolved({root,base:'/',build:{outDir:'dist'}});await plugin.closeBundle();
    const worker=await readFile(path.join(root,'dist/sw.js'),'utf8'),core=JSON.parse(worker.match(/^const CORE=(.+);$/m)[1]);
    expect(core).toEqual(['/content/example.json','/index.html']);
    async function install(finalUrl,redirected,route){
@@ -24,6 +24,21 @@ describe('静态托管与离线资源',()=>{
    expect(await install('https://study.example/',true,'/index.html')).toEqual(['/index.html']);
    await expect(install('https://login.example/',true,'/index.html')).rejects.toThrow('Offline resource unavailable');
    await expect(install('https://study.example/',true,'/content/example.json')).rejects.toThrow('Offline resource unavailable');
+  }finally{await rm(root,{recursive:true,force:true});}
+ });
+
+ it('项目子路径下缓存全部资源，并用同一首页键恢复离线导航',async()=>{
+  const root=await mkdtemp(path.join(os.tmpdir(),'yibuyibei-pages-'));
+  try{
+   await mkdir(path.join(root,'dist/content'),{recursive:true});
+   await writeFile(path.join(root,'dist/index.html'),'<div id="root"></div>');await writeFile(path.join(root,'dist/content/example.json'),'{}');
+   const plugin=offlinePlugin();plugin.configResolved({root,base:'/yibuyibei/',build:{outDir:'dist'}});await plugin.closeBundle();
+   const worker=await readFile(path.join(root,'dist/sw.js'),'utf8'),core=JSON.parse(worker.match(/^const CORE=(.+);$/m)[1]);
+   expect(core).toEqual(['/yibuyibei/content/example.json','/yibuyibei/index.html']);
+   const handlers={};let matched;
+   vm.runInNewContext(worker,{URL,self:{location:{origin:'https://study.example'},addEventListener:(name,handler)=>{handlers[name]=handler;}},caches:{open:async()=>({match:async url=>{matched=url;return 'cached home';}})}});
+   let response;handlers.fetch({request:{method:'GET',url:'https://study.example/yibuyibei/',mode:'navigate'},respondWith:promise=>{response=promise;}});
+   expect(await response).toBe('cached home');expect(matched).toBe('/yibuyibei/index.html');
   }finally{await rm(root,{recursive:true,force:true});}
  });
 });
