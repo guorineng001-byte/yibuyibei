@@ -15,6 +15,35 @@
 
 [反馈问题](https://github.com/guorineng001-byte/yibuyibei/issues) · [开发者本机运行](DEVELOPMENT.md) · [发行与托管](DEPLOYMENT.md)
 
+## 功能一览
+
+首页选章即可开始，既可以逐点背诵，也可以把整章、整节设为只阅读。自己的教材可由 Agent 整理成学习包，核对后导入。
+
+| 首页与入门指引 | 章节选择与批量阅读 |
+| --- | --- |
+| [![首页：入门指引、选章入口和离线状态](docs/feature-home.jpg)](docs/feature-home.jpg) | [![章节选择：按层级勾选范围，批量设为只阅读](docs/feature-picker.jpg)](docs/feature-picker.jpg) |
+| 了解选章、阅读与背诵、暂停续学的基本操作。 | 按书目、章、节选择范围，切换阅读与背诵。 |
+
+**按原书层级逐点学习**：左侧保留当前知识点框架，右侧展开要点正文，可暂停、跳转和继续。
+
+[![逐点阅读：原书层级、要点正文和继续操作](docs/feature-reading.jpg)](docs/feature-reading.jpg)
+
+**用自己的 Agent 整理教材**：程序内提供导入、导出、原创示例和新手教程。
+
+[![Agent 学习包：导入、导出与国内 AI 新手教程](docs/feature-agent-guide.jpg)](docs/feature-agent-guide.jpg)
+
+**手机上随时开始**：底部文字导航、顶部学习设置、本机保存状态与离线提示。
+
+<a href="docs/feature-mobile.jpg"><img src="docs/feature-mobile.jpg" alt="手机首页：入门指引、学习设置与底部文字导航" width="320"></a>
+
+## 分享与访问
+
+当前使用 GitHub Pages 提供的 `github.io` 默认网址，可作为持续分享入口，无需购买或续费独立域名。保持仓库和 Pages 发布正常，并保持账户名、仓库名不变，就可以沿用当前链接。独立域名是可选项。[GitHub Pages 说明](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
+
+使用者无需 GitHub 账号，每个人的教材导入和学习进度保存在自己的浏览器中，不会因别人使用而覆盖。分享网址即可开始；换设备时通过完整学习备份转移进度。
+
+GitHub Pages 未公布固定访客人数或同时在线人数上限，主要约束为每月 100 GB 的软流量额度、已发布站点不超过 1 GB，以及可能触发的请求限流。额度针对站点总体使用，不是每个使用者各有一份。独立域名不会增加托管额度。[GitHub Pages 使用限制](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)
+
 ## 开始学习
 
 1. 首页选择学习内容，依次展开书目、分篇、章节和知识点。
@@ -82,3 +111,4 @@
 - 首次使用文字识别需要联网下载 Tesseract 资源；已接入的文字卡片学习无需 OCR。部分网络环境可能无法取得这些资源。
 - 同页数的其他排版仍可能导致原页定位错误，连接前须确认是同一册、同页序的版本。
 - 跨地区、跨运营商的长期访问稳定性尚未验证。
+- 当前链接没有临时预览倒计时；能否持续访问仍取决于 GitHub Pages 服务、仓库发布状态和访问者网络。
