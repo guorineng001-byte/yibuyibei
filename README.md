@@ -36,13 +36,7 @@
 
 <a href="docs/feature-mobile.jpg"><img src="docs/feature-mobile.jpg" alt="手机首页：入门指引、学习设置与底部文字导航" width="320"></a>
 
-## 分享与访问
 
-当前使用 GitHub Pages 提供的 `github.io` 默认网址，可作为持续分享入口，无需购买或续费独立域名。保持仓库和 Pages 发布正常，并保持账户名、仓库名不变，就可以沿用当前链接。独立域名是可选项。[GitHub Pages 说明](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
-
-使用者无需 GitHub 账号，每个人的教材导入和学习进度保存在自己的浏览器中，不会因别人使用而覆盖。分享网址即可开始；换设备时通过完整学习备份转移进度。
-
-GitHub Pages 未公布固定访客人数或同时在线人数上限，主要约束为每月 100 GB 的软流量额度、已发布站点不超过 1 GB，以及可能触发的请求限流。额度针对站点总体使用，不是每个使用者各有一份。独立域名不会增加托管额度。[GitHub Pages 使用限制](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)
 
 ## 开始学习
 
