@@ -38,9 +38,9 @@ TypeScript、根路径生产构建和 Pages `/yibuyibei/` 构建通过，两份�
 
 Edge InPrivate 使用 4318 的独立验收数据完成：指引收起后刷新保持、重新展开并选章、26 个要点设为只阅读并推进至第二点、导出时间显示及重新载入保持。375×812 和 360×667 下导航、设置、提醒与阅读操作可用；从长页面切换检索回到页首。Pages 子路径模拟离线后刷新，显示“当前离线 · 离线背诵已就绪”，继续至“基本含义”，保留已处理 1/26。验收使用浏览器网络模拟，未替代手机真机联网验证；正式版 4317 存档未参与。
 
-提交 `20cf9d221a471c993e130a1d5875f911faad849b` 的 GitHub Actions [发布验证](https://github.com/guorineng001-byte/yibuyibei/actions/runs/43535642977)中，`verify` 与 `pages` 作业均成功：测试、类型检查、根路径构建、发行打包、Pages 子路径构建及部署通过。发行快照保留 61 项离线核心资源。
+已发布应用提交 `5069b5493ef72375bd4afff737b194a427260a43`，GitHub Actions [发布验证](https://github.com/guorineng001-byte/yibuyibei/actions/runs/43540127144)通过：41 个测试文件、338 项测试，TypeScript、根路径构建、发行打包、Pages 子路径构建及部署均通过。
 
-既有应用基线 [线上发布验证](https://github.com/guorineng001-byte/yibuyibei/actions/runs/43407334968)通过：40 个测试文件、333 项测试，TypeScript 检查、根路径生产构建、发行打包、Pages 子路径构建和部署均通过。
+2026-11-14 发布后本机直连检查线上 Service Worker 及 61 项核心资源，共 62 项全部通过，耗时 4.21 秒。当前线上脚本、教材、教程、Manifest 和离线资源可取得。本机根路径生产预览已恢复至 4318。
 
 离线发布测试覆盖托管配置排除、同站点首页规范跳转、项目子路径资源前缀和离线首页恢复。线上探测读取真实 Service Worker 资源表：Service Worker 及 61 项核心资源均返回有效内容。本机直连结果只代表当前网络当时可达。
 
