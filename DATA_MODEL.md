@@ -66,6 +66,8 @@ type LearningPackage = {
 
 `storage.ts` 将状态存入 IndexedDB `yibuyibei-public` 的 `state/main`，文件按书目 ID 存入 `files`。状态写入串行完成，界面显示保存结果。原书连接后清除该书的 PDF 解析缓存，再更新连接状态；原书文件不随 JSON 备份导出。
 
+当前浏览器的入门指引偏好 `gettingStartedDismissed` 和上次发起备份导出的时间 `lastBackupExportAt` 独立存入同一数据库的 `state/device-preferences`，不进入 `AppState` 或完整学习备份。提醒按本地日期计算，从导出后的第七天开始提示；没有学习记录、个人题目或主观题草稿时不显示首页备份提醒。导出时间不表示下载文件已保存。
+
 学习备份包含完整的教材实体、设置、`progress`、`events`、`assemblies`、个人题目、`essayPractice` 及当前 `session`。恢复先通过 `validateBackup` 检查实体、会话位置和要点关联，装载已登记内容，再显示确认窗口。恢复后从首页继续当前会话；没有会话的既有备份仍可恢复。已有备份中的私人 `/library/` 路径在准备状态时移除，本地文件需重新连接。
 
 ## 学习范围、方式与会话

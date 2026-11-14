@@ -1,0 +1,14 @@
+.daily-support:empty{display:none}.daily-support{margin-bottom:20px}.getting-started{background:#fff;border:1px solid #dce5d5;border-radius:13px;padding:22px 25px;margin-bottom:16px}.getting-started-heading{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}.getting-started-heading h2{font-size:19px;margin-top:6px}.getting-started-heading .icon-btn{flex-shrink:0}.getting-started ol{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;list-style:none;padding:0;margin:22px 0}.getting-started li{display:flex;align-items:flex-start;gap:10px}.getting-started li>span{display:flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:#edf3e9;color:#42694c;flex-shrink:0;font-size:12px}.getting-started strong{font-size:13px}.getting-started li p{font-size:12px;color:#697d67;margin-top:5px}.getting-started-actions{display:flex;gap:20px;flex-wrap:wrap;align-items:center}.backup-reminder{display:flex;gap:20px;align-items:center;justify-content:space-between;border:1px solid #dce5d5;border-radius:11px;background:#f2f6ed;padding:16px 20px}.backup-reminder.backup-due{background:#fbf6e9;border-color:#e9dfc5}.backup-reminder h2{font-size:14px}.backup-reminder p{font-size:12px;color:#65765f;margin-top:5px}.backup-reminder>.secondary{flex-shrink:0}.reopen-guide{margin-top:9px;font-size:11px}.backup-export-time{font-size:12px;color:#536b58;margin:10px 0}.backup-export-note{font-size:11px;color:#697d67;margin-top:7px}
+@media(max-width:720px){
+ .app-main{padding-bottom:calc(78px + env(safe-area-inset-bottom))}
+ .sidebar{justify-content:space-between;gap:8px;padding:calc(6px + env(safe-area-inset-top)) 14px 6px}
+ .sidebar .brand>div{display:block}.sidebar .brand{font-size:16px;gap:8px}.sidebar .brand>span{width:31px;height:34px}
+ .sidebar nav{position:fixed;inset:auto 0 0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:2px;padding:6px 6px calc(6px + env(safe-area-inset-bottom));background:#f8faf5;border-top:1px solid #dce5d5;z-index:30}
+ .sidebar nav button{position:relative;width:auto;height:54px;padding:6px 2px;flex-direction:column;justify-content:center;gap:3px;font-size:10px;border-radius:8px}
+ .sidebar nav button span{display:block}.sidebar nav button b{position:absolute;top:0;right:5px;margin:0;font-size:9px;padding:1px 4px;max-width:40px;overflow:hidden}
+ .sidebar-bottom>button{width:auto;height:44px;padding:8px 10px;gap:6px;font-size:12px}
+ .topbar .offline-tag{display:flex;font-size:10px;gap:4px}.topbar>div{gap:7px}
+ .getting-started{padding:17px 16px}.getting-started-heading h2{font-size:17px;line-height:1.6}.getting-started ol{grid-template-columns:1fr;gap:14px;margin:18px 0}.getting-started li p{font-size:12px}.getting-started-actions{gap:16px}
+ .backup-reminder{padding:15px 16px;gap:12px;flex-wrap:wrap}.backup-reminder>.secondary{width:100%}
+ .toast{bottom:calc(82px + env(safe-area-inset-bottom))}
+}

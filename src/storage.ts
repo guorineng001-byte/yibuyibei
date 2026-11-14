@@ -1,8 +1,11 @@
 import type {AppState} from './types';
+import type {DevicePreferences} from './dailyUse';
 const dbPromise=new Promise<IDBDatabase>((resolve,reject)=>{const r=indexedDB.open('yibuyibei-public',1);r.onupgradeneeded=()=>{r.result.createObjectStore('state');r.result.createObjectStore('files');};r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error);});
 async function get<T>(store:string,key:string):Promise<T|undefined>{const db=await dbPromise;return new Promise((res,rej)=>{const tx=db.transaction(store,'readonly'),r=tx.objectStore(store).get(key);r.onsuccess=()=>res(r.result);r.onerror=()=>rej(r.error);});}
 async function put(store:string,key:string,value:unknown){const db=await dbPromise;return new Promise<void>((res,rej)=>{const tx=db.transaction(store,'readwrite');tx.objectStore(store).put(value,key);tx.oncomplete=()=>res();tx.onerror=()=>rej(tx.error);tx.onabort=()=>rej(tx.error??new Error('保存未完成'));});}
 export const loadState=()=>get<AppState>('state','main');
+export const loadDevicePreferences=()=>get<DevicePreferences>('state','device-preferences');
+export const saveDevicePreferences=(preferences:DevicePreferences)=>put('state','device-preferences',preferences);
 let chain=Promise.resolve();
 export function saveState(s:AppState){chain=chain.catch(()=>{}).then(()=>put('state','main',s));return chain;}
 export const getFile=(id:string)=>get<Blob>('files',id);
