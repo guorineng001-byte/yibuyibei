@@ -12,7 +12,7 @@ pnpm run build
 pnpm start
 ```
 
-浏览器打开 <http://127.0.0.1:4318/>。开发模式使用 `pnpm dev`，同样监听 4318；生产构建输出到 `dist/`。`pnpm test` 运行内容、学习流程及公开版状态测试。
+在运行程序的这台电脑上打开 <http://127.0.0.1:4318/>。这个地址指向访问设备自己，不能发给手机或朋友使用；分享请用 [线上入口](https://guorineng001-byte.github.io/yibuyibei/)。开发模式使用 `pnpm dev`，同样监听 4318；生产构建输出到 `dist/`。`pnpm test` 运行内容、学习流程及公开版状态测试。
 
 本机主线位于 `outputs/yibuyibei-public`。正式版 4317、个人手机站点、学习存档和原书独立管理，浏览器验收使用隔离数据。
 
