@@ -4,7 +4,7 @@
 
 一步一背使用独立静态站点托管，线上入口为 <https://guorineng001-byte.github.io/yibuyibei/>，源码位于 <https://github.com/guorineng001-byte/yibuyibei>。学习记录和本地原书保存在访问者自己的浏览器中，预置教材文字包与程序一起发布。用户可用自己的 Agent 整理其他教材，经原书核对后导入。代码与教材的来源及许可分别见 [LICENSE](LICENSE) 和 [CONTENT_SOURCES.md](CONTENT_SOURCES.md)。
 
-完整 PDF 由使用者在本地连接，站点提供文字学习、来源页定位与学习包交换。发行源码和静态包不包含原书、个人学习备份、浏览器存档或本机登录凭据。
+站点提供两册共 372 页扫描图、文字学习、来源页定位与学习包交换。扫描图随源码和静态包发布，按页加载，不加入首次离线安装；已打开页面单独缓存，应用更新保留这些页面。完整 PDF 可由使用者在本地连接，发行包不包含完整 PDF、个人学习备份、浏览器存档或本机登录凭据。
 
 ## 手机分享入口
 
@@ -27,7 +27,7 @@ pnpm run release
 | --- | --- |
 | `dist/` | 部署在独立域名根目录的静态站点 |
 | `release/yibuyibei-site.tar.gz` | 根路径静态站点包，解压后部署 |
-| `release/yibuyibei-source.tar.gz` | 源码包，含预置文字、测试、说明和交接 |
+| `release/yibuyibei-source.tar.gz` | 源码包，含预置文字、扫描页、测试、说明和交接 |
 | `release/source/` | 独立发行源码目录及其 Git 仓库 |
 
 发行目录由明确的源码文件和目录组成。项目根目录、其他版本、原书、个人存档、依赖安装目录和本机环境文件保持独立。重新生成时更新发行源码及构建输出，保留其中的 Git 历史。
@@ -45,6 +45,18 @@ pnpm exec vite build --base=/yibuyibei/ --outDir dist-pages
 ```
 
 应用从 Vite 的 `BASE_URL` 读取教材、题库、教程与 Service Worker 路径；图标和 Manifest 相对部署路径解析。根路径构建与项目路径构建使用同一套代码和进度模型。Manifest 的启动路径及 Service Worker 的离线首页键跟随部署路径。
+
+## 扫描页资源
+
+`public/scans/history/001.webp` 至 `215.webp` 对应中外教育史原书，`public/scans/edu/001.webp` 至 `157.webp` 对应教心、教原同页清理副本。页面宽 2200 像素，保留完整页面、页序与出版信息。`src/scans.ts` 将预置书目和 PDF 页码映射到当前部署路径下的扫描图；用户本地连接的 PDF 优先使用。
+
+需要从原 PDF 重新导出时，安装 PyMuPDF 与 Pillow，运行：
+
+```powershell
+python scripts/render-scans.py --history "中外教育史原书.pdf" --edu "教心教原同页清理副本.pdf"
+```
+
+扫描页缓存名在 `scripts/offline-plugin.mjs` 中独立维护。替换已发布页图时更新该缓存版本，以便下次应用更新重新取得页面。
 
 ## 其他静态平台与域名
 

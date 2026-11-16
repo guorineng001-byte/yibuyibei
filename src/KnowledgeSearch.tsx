@@ -3,7 +3,6 @@ import {BookOpen, Search, X} from 'lucide-react';
 import type {AppState, Book} from './types';
 import {Empty, Modal, PdfPage} from './components';
 import {printedPage} from './source';
-import {getFile} from './storage';
 import {buildSearchIndex, normalizeSearchText, searchExcerpt, searchKnowledge, type HighlightRange, type SearchFilters, type SearchResult} from './search';
 import './search.css';
 
@@ -29,21 +28,9 @@ function SourcePages({book, pages}: {book?: Book; pages: number[]}) {
 function SourcePreview({book, page, rect, onLibrary}: {
   book?: Book; page: number; rect?: [number, number, number, number]; onLibrary: () => void;
 }) {
-  const [availability, setAvailability] = useState<'loading' | 'ready' | 'missing'>('loading');
-  useEffect(() => {
-    let alive = true;
-    setAvailability('loading');
-    if (!book || book.missing) setAvailability('missing');
-    else if (book.sourceUrl || book.kind === 'docx') setAvailability('ready');
-    else void getFile(book.id).then(file => {if (alive) setAvailability(file ? 'ready' : 'missing');})
-      .catch(() => {if (alive) setAvailability('missing');});
-    return () => {alive = false;};
-  }, [book?.id, book?.sourceUrl, book?.missing, book?.kind]);
   return <>
-    {availability === 'loading' ? <p role="status">正在检查原书…</p> : availability === 'missing' ?
-      <p className="notice">未找到可用的原书文件。卡片文字仍可阅读，请到书库重新连接原文件。</p> :
-      book && <PdfPage key={`${book.id}:${page}`} book={book} page={page} rect={rect}/>}
-    <div className="search-source-help"><p>原书若无法打开，可到书库重新连接原文件。</p><button className="secondary" onClick={onLibrary}>去我的书库</button></div>
+    {book ? <PdfPage key={`${book.id}:${page}`} book={book} page={page} rect={rect} onReconnect={onLibrary}/> : <p className="notice">未找到对应书目，请到书库查看。</p>}
+    <div className="search-source-help"><p>预置两册可直接查看扫描页；完整阅读或连接本地 PDF，请前往书库。</p><button className="secondary" onClick={onLibrary}>去我的书库</button></div>
   </>;
 }
 

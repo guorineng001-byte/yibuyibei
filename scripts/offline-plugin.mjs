@@ -10,13 +10,17 @@ export function offlinePlugin(){
   const stat=await lstat(ocr).catch(()=>null);
   if(stat){if(stat.isSymbolicLink()||!stat.isDirectory()||!(await realpath(ocr)).startsWith((await realpath(output))+path.sep))throw Error('Invalid generated OCR directory');await rm(ocr,{recursive:true});}
   async function files(dir){const entries=await readdir(path.join(output,dir),{withFileTypes:true});return (await Promise.all(entries.map(e=>e.isDirectory()?files(path.posix.join(dir,e.name)):[path.posix.join(dir,e.name)]))).flat();}
-  const core=(await files('')).filter(f=>!f.startsWith('ocr/')&&!f.startsWith('.openai/')&&!['sw.js','_headers','_redirects','.nojekyll'].includes(f)).sort();
+  const all=await files('');
+  const scans=all.filter(f=>f.startsWith('scans/')&&f.endsWith('.webp')).sort();
+  const core=all.filter(f=>!f.startsWith('scans/')&&!f.startsWith('ocr/')&&!f.startsWith('.openai/')&&!['sw.js','_headers','_redirects','.nojekyll'].includes(f)).sort();
   const hash=createHash('sha256');hash.update(base);for(const file of core){hash.update(file);hash.update(await readFile(path.join(output,file)));}
   const cacheName='yibuyibei-public-offline-'+hash.digest('hex').slice(0,16);
   const source=`const CACHE=${JSON.stringify(cacheName)};
 const ROOT=${JSON.stringify(base)};
 const INDEX=ROOT+'index.html';
 const CORE=${JSON.stringify(core.map(f=>base+f))};
+const SCANS=new Set(${JSON.stringify(scans.map(f=>base+f))});
+const SCAN_CACHE='yibuyibei-public-scans-v1';
 const ALLOWED=new Set(CORE);
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  const cache=await caches.open(CACHE);
@@ -35,6 +39,16 @@ self.addEventListener('activate',event=>event.waitUntil((async()=>{
 self.addEventListener('fetch',event=>{
  const request=event.request,url=new URL(request.url);
  if(request.method!=='GET'||url.origin!==self.location.origin)return;
+ if(SCANS.has(url.pathname)){
+  const response=(async()=>{
+   const cache=await caches.open(SCAN_CACHE),cached=await cache.match(url.pathname);
+   if(cached)return cached;
+   const result=await fetch(request);
+   if(result.ok&&(result.headers.get('content-type')||'').startsWith('image/'))await cache.put(url.pathname,result.clone()).catch(()=>{});
+   return result;
+  })();
+  event.respondWith(response);event.waitUntil(response.then(()=>{},()=>{}));return;
+ }
  const isHome=request.mode==='navigate'&&(url.pathname===ROOT||url.pathname===INDEX);
  if(!isHome&&!ALLOWED.has(url.pathname))return;
  event.respondWith((async()=>{

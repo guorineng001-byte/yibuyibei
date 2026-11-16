@@ -41,4 +41,23 @@ describe('静态托管与离线资源',()=>{
    expect(await response).toBe('cached home');expect(matched).toBe('/yibuyibei/index.html');
   }finally{await rm(root,{recursive:true,force:true});}
  });
+
+ it('扫描页不预下载，首次查看时缓存，离线重看并保留到下次应用更新',async()=>{
+  const root=await mkdtemp(path.join(os.tmpdir(),'yibuyibei-scans-'));
+  try{
+   await mkdir(path.join(root,'dist/scans/edu'),{recursive:true});
+   await writeFile(path.join(root,'dist/index.html'),'home');await writeFile(path.join(root,'dist/scans/edu/041.webp'),'image');
+   const plugin=offlinePlugin();plugin.configResolved({root,base:'/yibuyibei/',build:{outDir:'dist'}});await plugin.closeBundle();
+   const worker=await readFile(path.join(root,'dist/sw.js'),'utf8'),core=JSON.parse(worker.match(/^const CORE=(.+);$/m)[1]);
+   expect(core).toEqual(['/yibuyibei/index.html']);
+   const handlers={},saved=new Map(),deleted=[];let online=true,requests=0;
+   const cache={match:async url=>saved.get(url),put:async(url,result)=>{saved.set(url,result);}};
+   vm.runInNewContext(worker,{URL,Set,self:{location:{origin:'https://study.example'},clients:{claim:async()=>{}},addEventListener:(name,handler)=>{handlers[name]=handler;}},caches:{open:async()=>cache,keys:async()=>['yibuyibei-public-scans-v1','yibuyibei-public-offline-old'],delete:async key=>{deleted.push(key);}},fetch:async()=>{requests++;if(!online)throw Error('offline');return new Response('page',{headers:{'content-type':'image/webp'}});}});
+   async function read(){let response,done;handlers.fetch({request:{method:'GET',url:'https://study.example/yibuyibei/scans/edu/041.webp'},respondWith:promise=>{response=promise;},waitUntil:promise=>{done=promise;}});const result=await response;await done;return result.text();}
+   expect(await read()).toBe('page');expect(requests).toBe(1);
+   online=false;expect(await read()).toBe('page');expect(requests).toBe(1);
+   let activated;handlers.activate({waitUntil:promise=>{activated=promise;}});await activated;
+   expect(deleted).toEqual(['yibuyibei-public-offline-old']);
+  }finally{await rm(root,{recursive:true,force:true});}
+ });
 });
