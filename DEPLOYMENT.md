@@ -48,15 +48,15 @@ pnpm exec vite build --base=/yibuyibei/ --outDir dist-pages
 
 ## 扫描页资源
 
-`public/scans/history/001.webp` 至 `215.webp` 对应中外教育史原书，`public/scans/edu/001.webp` 至 `157.webp` 对应教心、教原同页清理副本。页面宽 2200 像素，保留完整页面、页序与出版信息。`src/scans.ts` 将预置书目和 PDF 页码映射到当前部署路径下的扫描图；用户本地连接的 PDF 优先使用。
+`public/scans/history-clean/001.webp` 至 `215.webp` 对应中外教育史同页清理副本，`public/scans/edu/001.webp` 至 `157.webp` 对应教心、教原同页清理副本。两册均已去除左下角二维码、课程公众号和联系方式。页面宽 2200 像素，保留完整页面、页序与出版信息。`src/scans.ts` 将预置书目和 PDF 页码映射到当前部署路径下的扫描图；用户本地连接的 PDF 优先使用。
 
 需要从原 PDF 重新导出时，安装 PyMuPDF 与 Pillow，运行：
 
 ```powershell
-python scripts/render-scans.py --history "中外教育史原书.pdf" --edu "教心教原同页清理副本.pdf"
+python scripts/render-scans.py --history "kaicheng-history-clean.pdf" --edu "kaicheng-edu-clean.pdf"
 ```
 
-扫描页缓存名在 `scripts/offline-plugin.mjs` 中独立维护。替换已发布页图时更新该缓存版本，以便下次应用更新重新取得页面。
+可只指定一册进行导出。扫描页缓存名在 `scripts/offline-plugin.mjs` 中独立维护，当前为 `yibuyibei-public-scans-v2`。替换已发布页图时更新该缓存版本；应用激活时移除旧版扫描缓存。中外教育史的清理版使用 `history-clean/` 新路径，避免复用此前的图片地址和浏览器 HTTP 缓存。
 
 ## 其他静态平台与域名
 

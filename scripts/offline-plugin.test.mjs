@@ -52,12 +52,12 @@ describe('静态托管与离线资源',()=>{
    expect(core).toEqual(['/yibuyibei/index.html']);
    const handlers={},saved=new Map(),deleted=[];let online=true,requests=0;
    const cache={match:async url=>saved.get(url),put:async(url,result)=>{saved.set(url,result);}};
-   vm.runInNewContext(worker,{URL,Set,self:{location:{origin:'https://study.example'},clients:{claim:async()=>{}},addEventListener:(name,handler)=>{handlers[name]=handler;}},caches:{open:async()=>cache,keys:async()=>['yibuyibei-public-scans-v1','yibuyibei-public-offline-old'],delete:async key=>{deleted.push(key);}},fetch:async()=>{requests++;if(!online)throw Error('offline');return new Response('page',{headers:{'content-type':'image/webp'}});}});
+   vm.runInNewContext(worker,{URL,Set,self:{location:{origin:'https://study.example'},clients:{claim:async()=>{}},addEventListener:(name,handler)=>{handlers[name]=handler;}},caches:{open:async()=>cache,keys:async()=>['yibuyibei-public-scans-v2','yibuyibei-public-scans-v1','yibuyibei-public-offline-old'],delete:async key=>{deleted.push(key);}},fetch:async()=>{requests++;if(!online)throw Error('offline');return new Response('page',{headers:{'content-type':'image/webp'}});}});
    async function read(){let response,done;handlers.fetch({request:{method:'GET',url:'https://study.example/yibuyibei/scans/edu/041.webp'},respondWith:promise=>{response=promise;},waitUntil:promise=>{done=promise;}});const result=await response;await done;return result.text();}
    expect(await read()).toBe('page');expect(requests).toBe(1);
    online=false;expect(await read()).toBe('page');expect(requests).toBe(1);
    let activated;handlers.activate({waitUntil:promise=>{activated=promise;}});await activated;
-   expect(deleted).toEqual(['yibuyibei-public-offline-old']);
+   expect(deleted).toEqual(['yibuyibei-public-scans-v1','yibuyibei-public-offline-old']);
   }finally{await rm(root,{recursive:true,force:true});}
  });
 });

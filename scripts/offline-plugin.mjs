@@ -20,7 +20,7 @@ const ROOT=${JSON.stringify(base)};
 const INDEX=ROOT+'index.html';
 const CORE=${JSON.stringify(core.map(f=>base+f))};
 const SCANS=new Set(${JSON.stringify(scans.map(f=>base+f))});
-const SCAN_CACHE='yibuyibei-public-scans-v1';
+const SCAN_CACHE='yibuyibei-public-scans-v2';
 const ALLOWED=new Set(CORE);
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  const cache=await caches.open(CACHE);
@@ -33,7 +33,7 @@ self.addEventListener('install',event=>event.waitUntil((async()=>{
  }}catch(error){await caches.delete(CACHE);throw error;}
 })()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{
- for(const key of await caches.keys())if(key.startsWith('yibuyibei-public-offline-')&&key!==CACHE)await caches.delete(key);
+ for(const key of await caches.keys())if((key.startsWith('yibuyibei-public-offline-')&&key!==CACHE)||(key.startsWith('yibuyibei-public-scans-')&&key!==SCAN_CACHE))await caches.delete(key);
  await self.clients.claim();
 })()));
 self.addEventListener('fetch',event=>{

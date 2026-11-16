@@ -1,4 +1,4 @@
-"""将同分页原书渲染为网站按需加载的扫描页。需要 PyMuPDF 与 Pillow。"""
+"""将同分页清理副本渲染为网站按需加载的扫描页。需要 PyMuPDF 与 Pillow。"""
 
 import argparse
 from pathlib import Path
@@ -22,12 +22,16 @@ def render(source: Path, output: Path, expected_pages: int):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--history", type=Path, required=True, help="215 页中外教育史原书 PDF")
-    parser.add_argument("--edu", type=Path, required=True, help="157 页教心、教原同页清理副本 PDF")
+    parser.add_argument("--history", type=Path, help="215 页中外教育史同页清理副本 PDF")
+    parser.add_argument("--edu", type=Path, help="157 页教心、教原同页清理副本 PDF")
     args = parser.parse_args()
     output = Path(__file__).resolve().parents[1] / "public" / "scans"
-    render(args.history, output / "history", 215)
-    render(args.edu, output / "edu", 157)
+    if not args.history and not args.edu:
+        parser.error("请提供至少一册清理副本 PDF")
+    if args.history:
+        render(args.history, output / "history-clean", 215)
+    if args.edu:
+        render(args.edu, output / "edu", 157)
 
 
 if __name__ == "__main__":

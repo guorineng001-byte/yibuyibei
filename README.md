@@ -36,7 +36,7 @@
 
 <a href="docs/feature-mobile.jpg"><img src="docs/feature-mobile.jpg" alt="手机首页：入门指引、学习设置与底部文字导航" width="320"></a>
 
-**检索后直接对照扫描原书**：两册共 372 页，保留原页码与知识点框选；书库支持整册翻页阅读。
+**检索后直接对照扫描原书**：两册共 372 页，使用已去除左下角广告水印的同页清理版，保留原页码与知识点框选；书库支持整册翻页阅读。
 
 [![知识检索中的扫描原书对照](docs/scan-search-desktop.jpg)](docs/scan-search-desktop.jpg)
 

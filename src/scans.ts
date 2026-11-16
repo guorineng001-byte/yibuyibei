@@ -1,7 +1,7 @@
 import type {Book} from './types';
 import {bundledBooks,EDU_BOOK_ID,HISTORY_BOOK_ID} from './books';
 
-const folders:Record<string,string>={[HISTORY_BOOK_ID]:'history',[EDU_BOOK_ID]:'edu'};
+const folders:Record<string,string>={[HISTORY_BOOK_ID]:'history-clean',[EDU_BOOK_ID]:'edu'};
 
 export function hasBundledScan(book:Book){
  return !!folders[book.id]&&book.kind==='pdf'&&book.pages===bundledBooks[book.id].pages;
