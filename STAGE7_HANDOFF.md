@@ -32,6 +32,8 @@
 
 TypeScript、根路径生产构建和 `/yibuyibei/` Pages 构建通过，两种构建均为 61 项离线核心资源。372 张 WebP 均可完整解码；抽看两册正文、分支图和密集表格，文字及完整页面可读。
 
+应用提交 `5f09e31d73192a63ab8bbd2eceb160eda310af26` 已发布，[GitHub Actions](https://github.com/guorineng001-byte/yibuyibei/actions/runs/43859401530)全量测试、生产构建、发行打包和 Pages 发布通过。2026-11-16 本机直连检查线上全部 372 张扫描图，均返回有效 WebP 响应头；Service Worker 与 61 项核心资源共 62 项内容检查全部通过，耗时 4.70 秒。该结果表示本机当前网络下资源可达。
+
 隔离浏览器使用 `scans-20261116.localhost:4318`，完成：检索“自由学习十种应用”打开教心教原 PDF 41 页并显示原范围框；检索“治国之本”打开中外教育史 PDF 24 页；放大与旋转；书库翻页和末页边界。375×812 手机尺寸下原书弹窗与操作可用。停止 4318 服务后刷新首页、重新检索、再次打开已缓存的 41 页成功。正式版 4317 存档未参与。
 
 截图：[桌面原书对照](docs/scan-search-desktop.jpg)、[手机原书对照](docs/scan-search-mobile.jpg)。
